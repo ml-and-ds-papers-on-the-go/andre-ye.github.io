@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
 title: Andre Ye
-name: "Test"
+name: Andre's Notes
 author: Andre Ye
+baseurl: "/"
+description: Document my learning notes.
+profile_url: "http://andre-ye.github.io"
