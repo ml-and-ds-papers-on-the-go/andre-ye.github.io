@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 
 title: Andre Ye
 name: Andre's Notes
