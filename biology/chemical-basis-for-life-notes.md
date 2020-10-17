@@ -78,9 +78,7 @@ Andre Ye, 10/17/2020
     - E.g. chlorine atoms (Cl) tend to gain an electron, filling their outermost shell. The resulting ion has a net charge of -1, because it has one more electron than proton.
     - E.g. sodium cations and chloride anions form sodium chloride (NaCL, table salt); held together by strong opposite charges in their ions.
 - Covalent bonds share electrons to make both more stable. Ionic bonds are between atoms that have full charges (-1 or +1) and attract strongly.
-
-
-- The electron-sharing continuum. _Equal sharing of electrons to complete transfer of electrons._
+- **The electron-sharing continuum.** _Equal sharing of electrons to complete transfer of electrons._
     - Nonpolar covalent bonds. _Atoms have no charge, atoms are shared equally._
     - Polar covalent bonds _Atoms have a partial charge because of electronegativity; electrons spend more time around certain atoms in the bond._
     - Ionic bonds. _Atoms have full charges that are directly opposite each other to form strong bonds._
