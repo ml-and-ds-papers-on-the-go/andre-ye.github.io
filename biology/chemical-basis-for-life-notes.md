@@ -77,7 +77,7 @@ Andre Ye, 10/17/2020
     - E.g. sodium atom (Na) has three electron shells with one lone electron in its valence shell. They can lose that electron to leave them with a second full shell, which is more energetically stable. Because it has one more proton than it has electrons, the atom has a net electric charge of +1.
     - E.g. chlorine atoms (Cl) tend to gain an electron, filling their outermost shell. The resulting ion has a net charge of -1, because it has one more electron than proton.
     - E.g. sodium cations and chloride anions form sodium chloride (NaCL, table salt); held together by strong opposite charges in their ions.
-- ==Covalent bonds share electrons to make both more stable. Ionic bonds are between atoms that have full charges (-1 or +1) and attract strongly.==
+- Covalent bonds share electrons to make both more stable. Ionic bonds are between atoms that have full charges (-1 or +1) and attract strongly.
 
 
 - The electron-sharing continuum. _Equal sharing of electrons to complete transfer of electrons._
@@ -135,5 +135,3 @@ Andre Ye, 10/17/2020
 - When hydrophobic molecules are close to each other, they are further stabilized by weak electrical attractions, known as `van der Waals interactions`.
 - Example: octane (C8H18), a component of gasoline, is a nonpolar molecule; when put in water it is forced to interact with itself, because water is more stable when it interacts with itself rather than with nonpolar molecules.
     - Analogy: Unstable conditions are -1 and 1, stable condition is 0. Combining an unstable -1 with a stable 0 yields -1, still an unstable condition; combining an unstable -1 with an unstable +1 yields a stable 0.
-
----
