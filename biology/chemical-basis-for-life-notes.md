@@ -5,13 +5,13 @@ Andre Ye, 10/17/2020
 
 ---
 
-### Textbook Notes - Chapter 2.1 to 2.2
+## Textbook Notes - Chapter 2.1 to 2.2
  *Directions: study chapter 2.1 and 2.2 (up to page 66; stop before the section "Cohesion, Adhesion, and Surface Tension").*
  
  
-##### 2.1: Atoms, Ions, and Molecules: The Building Blocks of Chemical Evolution
+### 2.1: Atoms, Ions, and Molecules: The Building Blocks of Chemical Evolution
 
-###### Introduction
+#### Introduction
 - Four types of atoms - hydrogen, carbon, nitrogen, and oxygen (H, C, N, O) make up about 96% of all matter.
 - Fundamental questions to understanding how simple substances evolved into complex molecules found in living cells:
     1. What is the physical structure of H, C, N, O atoms?
@@ -19,7 +19,7 @@ Andre Ye, 10/17/2020
 - Key theme in biology: ==**structure affects function**==.
 
 
-###### Atoms, Protons, and Neutrons
+#### Atoms, Protons, and Neutrons
 - An `atom` is the smallest identifiable unit of matter.
     - Contains a characteristic number of protons, called its `atomic number`. This is written at bottom left of the symbol.
     - Sum of protons and neutrons in atom is called `mass number` and is written at top left of symbol.
@@ -28,19 +28,19 @@ Andre Ye, 10/17/2020
     - `Protons` have a positive electric charge (-1), `neutrons` are electricaly neutral, and `electrons` have a negative electric charge (-1).
     - Number of protons and electrons in an atom are the same: _atom is electrically neutral_.
 
-###### Elements and Daltons
+#### Elements and Daltons
 - `Element` - a substance that consists entirely of a single type of atom.
 - `Dalton (Da)` is used to measure the masses of electrons, etc. Masses of protons and neutrons are about 1 Da. An electron's mass is so small it is *usually ignored*.
 - The number of protons in an element does not change; if the atomic number in an atom changes, it is no longer the same element.
  
-###### Isotopes
+#### Isotopes
 - The number of neutrons *can vary*. ==Forms of an element with different numbers of neutrons are `isotopes`==. 
     - Isotopes of the same element can have different masses because they have different numbers of neutrons. 
     - `Atomic weight` of an element is the average of all masses of naturally occuring isotopes in nature. This is why atomic weight can be slightly different from mass number.
     - Some isotopes are not stable; these are `radioactive isotopes`. The nucleus will decay and release energy in the form of radiation.
 
 
-###### Structure of Atoms
+#### Structure of Atoms
 - The arrangement of electrons around the nucleus helps us understand how different elements behave.
 - Electrons move around the atomic nucleus in regions called `orbitals`. An orbital can hold up to two electrons (a pair).
 - Orbitals are grouped into levels called `electron shells`. These are numbered 1, 2, 3, ... to indicate how close to how far the levels are from the nucleus.
@@ -48,7 +48,7 @@ Andre Ye, 10/17/2020
 - The outermost shell of the element is called the `valence shell`. Electrons in this shell are `valence electrons`. 
     - The number of unpaired electrons in the atom's valence shell is its `valence`.
 
-###### Bonds
+#### Bonds
 - A `covalent bond` is when two atoms share electrons, and the connected atoms form a `molecule`.
     - Covalent bonds can make atoms more stable (e.g. when the valence shell is not filled with only one electron, but together the valence shell is filled). ==Shared electrons 'glue' atoms together into molecules==.
     - The two bonded atoms are written as H-H or H2.
@@ -88,7 +88,7 @@ Andre Ye, 10/17/2020
 - Note - most compounds present in living organisms are formed with either nonpolar or polar covalent bonds.
 
 
-###### Simple Molecules formed with C, H, N, O
+#### Simple Molecules formed with C, H, N, O
 - `CH4 (Methane)` is formed when four hydrogen atoms are convalently bonded with each of the four unpaired electrons of a carbon atom.
 - `NH3 (Ammonia)` is formed when three hydrogen atoms are covalently bonded with three unpaired electrons in nitrogen.
 - `H2O (Water)` is formed when two hydrogen atoms bond with two unpaired electrons in oxygen.
@@ -105,20 +105,20 @@ Andre Ye, 10/17/2020
     - Water's bond geometry is bent rather than linear. Has four orbitals in valence shell that repel each other, but two orbitals are filled with unshared electron pairs, which pushes the O-H bonds closer together.
 
 
-###### Representing Molecules
+#### Representing Molecules
 - Molecular formulas are compact, but don't have much information. Just indicate numbers and types of atoms in molecules. _e.g. CO2, H2O, etc._
 - Structural formulas indicate which atoms are bonded together. Single, double, and triple bonds are represented by single, double, and triple dashes. _e.g. O=C=O._
 - Ball-and-stick models take up more space than structural formulas both provide information on three-dimensional shapes and indicate sizes of atoms.
 - Space-filling models are difficult to read but accurately depict the relative sizes of atoms and their spatial relationships.
 
-##### 2.2: Properties of Water and the Early Oceans
+### 2.2: Properties of Water and the Early Oceans
 - Life is based on water; it arose in an aqueous environment.
     - 75 percent of volume in a typical cell is water.
 - Water is an excellent `solvent` - an agent for dissolving, or getting substances into `solution`.
     - e.g. dumping sugar into coffee; the sugar dissappears as the sugar molecules disperse in the aqueous solution. Sugar molecules are separated and interact with water's partial charges.
 - Substances are likely to come into contact with one another when they are `solutes` (dissolved into a solvent like water).
 
-###### Properties Correlated with Water's Structure
+#### Properties Correlated with Water's Structure
 - Water has small size, highly polar covalent bonds, and a bent shape resulting in unique polarity among molecules.
 - ==Water is an efficient solvent.==
 - Recall that...
