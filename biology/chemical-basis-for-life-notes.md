@@ -8,7 +8,6 @@ Andre Ye, 10/17/2020
 ## Textbook Notes - Chapter 2.1 to 2.2
  *Directions: study chapter 2.1 and 2.2 (up to page 66; stop before the section "Cohesion, Adhesion, and Surface Tension").*
  
- 
 ### 2.1: Atoms, Ions, and Molecules: The Building Blocks of Chemical Evolution
 
 #### Introduction
