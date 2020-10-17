@@ -68,7 +68,7 @@ Andre Ye, 10/17/2020
 - Because electrons are shared unequally in each O-H bond, they spend more time near the oxygen atom, giving it a partial negative charge (recall electrons have a negative charge); they spend less time near the hydrogen atoms, giving them a partial positive charge.
 - Lowercase delta is used for this. O has δ- and H has δ+
 
-###### Ionic Bonding & Ions
+#### Ionic Bonding & Ions
 - `Ionic bonds` are similar to covalent bonds, but electrons in ionic bonds are completely transferred from one atom to another.
     - This electron transfer gives each of the two resulting atoms a full valence shell.
 - Atoms or molecules that carry full charges instead of partial charges that come from polar covalent bonds are called `ions`. The sodium ion is written as Na⁺.
