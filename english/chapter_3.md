@@ -57,8 +57,9 @@ There are four important aspcts of writing good summaries:
 3. Communicate the essence of the author's argument given this information.
 4. Put the summary in proper context to elevate it beyond a shortened paraphrase.
 
+**This is a work in progress.**
 
-
+---
 [^1]: *Gunn’s essay appears in Mapping the World of Harry Potter: An Unauthorized Exploration of the Bestselling Fantasy Series of All Time, edited by Mercedes Lackey (Dallas: BenBella, 2006).
 
 
