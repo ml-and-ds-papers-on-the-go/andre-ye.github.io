@@ -25,7 +25,7 @@ Andre Ye, 10/17/2020
     - Sum of protons and neutrons in atom is called `mass number` and is written at top left of symbol.
 - Simple way of depicting an atom: _extremely small particles called electrons orbit an `atomic nucleus` made up of larger particles called protons and neutrons_.
     - Every element except hydrogen has one or more neutrons in its nucleus.
-    - `Protons` have a positive electric charge (-1), `neutrons` are electricaly neutral, and `electrons` have a negative electric charge (-1).
+    - `Protons` have a positive electric charge (-1), `neutrons` are electrically neutral, and `electrons` have a negative electric charge (-1).
     - Number of protons and electrons in an atom are the same: _atom is electrically neutral_.
 
 #### Elements and Daltons
