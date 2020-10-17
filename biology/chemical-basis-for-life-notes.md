@@ -1,4 +1,4 @@
-[Back](https://andre-ye.github.io/biology/biology_navigation.md.html)
+[Back](https://andre-ye.github.io/biology/biology_navigation)
 
 # Textbook Notes - The Chemical Basis for Life
 Andre Ye, 10/17/2020
