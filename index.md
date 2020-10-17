@@ -3,8 +3,8 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 
 ## UW Transition School Notes
 - [Biology](https://andre-ye.github.io/biology/biology_navigation.md.html) w/ Dr. Valensisi
-- [History](https://andre-ye.github.io) w/ Dr. Reagan
-- [English](https://andre-ye.github.io) w/ Dr. Zink
+- [History](https://andre-ye.github.io/history/history_navigation.md.html) w/ Dr. Reagan
+- [English](https://andre-ye.github.io/english/english_navigation.md.html) w/ Dr. Zink
 
 ## Check out my stuff
 - [Medium Blog](https://medium.com/@andre_ye). I write about machine learning, programming, and math. 3.6k followers and counting!
