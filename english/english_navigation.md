@@ -2,4 +2,4 @@
 [Back](https://andre-ye.github.io)
 
 Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
-- No notes yet, but they're coming soon.
+- [Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"](https://andre-ye.github.io/english/chapter_3), 10/17/20.
