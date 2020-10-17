@@ -16,14 +16,14 @@ Andre Ye, 10/17/2020
 - Fundamental questions to understanding how simple substances evolved into complex molecules found in living cells:
     1. What is the physical structure of H, C, N, O atoms?
     2. What are the structures of simple molecules (water, CO2, etc.) that serve as building blocks of chemical evolution?
-- Key theme in biology: ==**structure affects function**==.
+- Key theme in biology: **structure affects function**.
 
 
 #### Atoms, Protons, and Neutrons
 - An `atom` is the smallest identifiable unit of matter.
     - Contains a characteristic number of protons, called its `atomic number`. This is written at bottom left of the symbol.
     - Sum of protons and neutrons in atom is called `mass number` and is written at top left of symbol.
-- Simple way of depicting an atom: ==_extremely small particles called electrons orbit an `atomic nucleus` made up of larger particles called protons and neutrons_==.
+- Simple way of depicting an atom: _extremely small particles called electrons orbit an `atomic nucleus` made up of larger particles called protons and neutrons_.
     - Every element except hydrogen has one or more neutrons in its nucleus.
     - `Protons` have a positive electric charge (-1), `neutrons` are electricaly neutral, and `electrons` have a negative electric charge (-1).
     - Number of protons and electrons in an atom are the same: _atom is electrically neutral_.
@@ -34,7 +34,7 @@ Andre Ye, 10/17/2020
 - The number of protons in an element does not change; if the atomic number in an atom changes, it is no longer the same element.
  
 #### Isotopes
-- The number of neutrons *can vary*. ==Forms of an element with different numbers of neutrons are `isotopes`==. 
+- The number of neutrons *can vary*. **Forms of an element with different numbers of neutrons are `isotopes`**. 
     - Isotopes of the same element can have different masses because they have different numbers of neutrons. 
     - `Atomic weight` of an element is the average of all masses of naturally occuring isotopes in nature. This is why atomic weight can be slightly different from mass number.
     - Some isotopes are not stable; these are `radioactive isotopes`. The nucleus will decay and release energy in the form of radiation.
@@ -50,14 +50,14 @@ Andre Ye, 10/17/2020
 
 #### Bonds
 - A `covalent bond` is when two atoms share electrons, and the connected atoms form a `molecule`.
-    - Covalent bonds can make atoms more stable (e.g. when the valence shell is not filled with only one electron, but together the valence shell is filled). ==Shared electrons 'glue' atoms together into molecules==.
+    - Covalent bonds can make atoms more stable (e.g. when the valence shell is not filled with only one electron, but together the valence shell is filled). **Shared electrons 'glue' atoms together into molecules**.
     - The two bonded atoms are written as H-H or H2.
 
 
 - Electrons participating in a covalent bond are not always shared equally in the atoms involved. This can heppn in `compounds`, where atoms of different elements are bonded together.
 - When atoms of different elements bond, they may pull electrons towards their nuclei with different strengths; this is called `electronegativity`.
     - Electronegativity is caused by the number of protons in the nucleus and the distance between the nucleus and the valence shell.
-    - E.g. like a magnet; ==electronegativity is caused by the strength of the 'magnet' *and* how far away the object is from it.==
+    - E.g. like a magnet; **electronegativity is caused by the strength of the 'magnet' *and* how far away the object is from it.**
     - Electronegativities of six most abundant elements in organisms: O > N > S = C = H = P (= being approximate).
 - A bond that involves equally shared electrons is a `nonpolar covalent bond`.
 - A bond that involves assymetrically shared electrons is a `polar covalent bond`. In a polar covalent bond, electrons spend most of their time closer to the nucleus of the most electronegative atom.
