@@ -11,7 +11,7 @@ Weekly Reading #4.
 - Published by the University of North Carolina Press on Sep. 1st, 1999.
 
 ## Navigate
-- [Notes on Section 1: Introduction](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-1-introductions-1)
+- [Notes on Section 1: Introduction](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-1-introduction)
   - [Main Ideas](https://andre-ye.github.io/history/rr4/forced-founders-notes#main-ideas)
   - [Opening Ideas](https://andre-ye.github.io/history/rr4/forced-founders-notes#opening-ideas)
   - [Example: Jacob Hite](https://andre-ye.github.io/history/rr4/forced-founders-notes#example-jacob-hite)
@@ -34,7 +34,7 @@ Weekly Reading #4.
 
 ---
 
-## Notes on Section 1: Introduction [^1]
+## Notes on Section 1: Introduction
 
 ### Main Ideas
 - Nonelites powerfully influenced Revolutionary politics.
@@ -94,11 +94,12 @@ What defines the 'gentry'?
 
 *merchant*
 : mercantile firms and transatlantic slave traders in Glasgow, London, and other British ports.
+
 *storekeepers* or *factors*
 : employees of merchants located in the Chesapeake.
+
 *traders*
 : independent Virginia entrepreneurs.
-<
 
 ### Ways gentry-group interactions shapes independence
 - British-gentry-slave relationships
