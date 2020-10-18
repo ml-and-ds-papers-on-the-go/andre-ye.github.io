@@ -28,8 +28,7 @@ Weekly Reading #4.
 | Republic "Popular" | In the many (the majority) | In the many (the majority) | Not much purpose; the majority can infringe upon rights of the minority without political or physical repercussions. |
   
 
-- Proposal in adding a Bill of Rights.
-  - They are controversial.
+- Controversial proposal in adding a Bill of Rights.
   - Opinion groups:
     - Some want for *further guards of public liberty and individual rights*.
     - Some believe such an addition was not necessary (i.e. it already existed).
@@ -38,7 +37,7 @@ Weekly Reading #4.
 
 - **James Madison's Opinion** on the Bill of Rights
   > My [*James Madison*] own opinion has been in favor of a bill of rights; provided it be so framed as not to imply powers not meant to be included in the enumeration. At the same time I have never thought the ommission a material defect, nor been anxious to supply it even by subsequent amendment, for any other reason than that it is anxiously desired by others.[^1]
-  - Paraphrase: James Madison is in favor of a bill of rights given that it does not list too many individual powers; he is also fine with its exclusion (not a 'material defect'). He supports it largely because others are so 'anxious' to include it, although it wavers.
+  - Paraphrase: James Madison is in favor of a bill of rights given that it does not list too many individual powers; he is also fine with its exclusion (not a 'material defect'). Largely neutral in opinion, although later he will provides reasoning against inclusion of a bill of rights.
   - *Believed the Bill of Rights could be of use and "of no disservice" if executed properly*.
 
 
