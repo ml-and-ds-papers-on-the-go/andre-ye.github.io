@@ -28,8 +28,13 @@ Weekly Reading #4.
 
 | Government | Political Power | Physical Power | Purpose of Bill of Rights |
 | :---: | :-----: | :-----: | :----- |
-| Monarchy | In the few (monarch) | In the many (the people) | To unite the people, who have the physical power, to rebel against infringements on rights of the people by the few. |
-| Republic "Popular" | In the many (the majority) | In the many (the majority) | Not much purpose; the majority can infringe upon rights of the minority without political or physical repercussions. |
+| Monarchy | In the few[^10] | In the many[^11] | To unite the people, who have the physical power, to rebel against infringements on rights of the people by the few. |
+| Republic "Popular" | In the many [^12] | In the many[^12] | Not much purpose; the majority can infringe upon rights of the minority without political or physical repercussions. |
+
+
+[^10]: (in the monarch.)
+[^11]: (in the people.)
+[^12]: (in the majority.)
 
 <br>
 
