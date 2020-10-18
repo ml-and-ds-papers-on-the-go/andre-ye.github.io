@@ -18,7 +18,19 @@ Weekly Reading #4.
   - [Hite's story as proof against a faulty historical record](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#hites-story-as-proof-against-a-faulty-historical-record)
   - [Definitions](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#definitions)
   - [Ways gentry-group interactions shapes independence](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#ways-gentry-group-interactions-shapes-independence)
-
+- [Notes on Section 2: Tobacco Growers Versus Merchants and Parliament](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#notes-on-section-2-tobacco-growers-versus-merchants-and-parliament-pg-7)
+  - [Main Ideas](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#main-ideas-1)
+  - [Opening Ideas](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#opening-ideas-1)
+  - [On Debt](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#on-debt)
+  - [Explanations of Debt](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#explanations-of-debt)
+  - [Mercantilism as Slavery](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#mercantilism-as-slavery-pg-11)
+  - [The Argument Against Taxation](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-argument-against-taxation-pg-11)
+- [The Navigation Act & Limitations on Trade](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-navigation-act--limitations-on-trade-pg-12)
+- [Soft Virginian Rhetoric Towards Mercantilism](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#soft-virginian-rhetoric-towards-mercantilism-pg-15)
+- [The Attack on Manufacturing](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-attack-on-manufacturing-pg-16)
+- [Increasing Virginian Anti Navigation Acts Rhetoric](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#increasing-virginian-anti-navigation-acts-rhetoric-pg-17)
+- [Creditor-Debtor Conflicts](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#creditor-debtor-conflicts-pg-18)
+- [Forced Immigration of Africans and West Indians into Virginia](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#forced-immigration-of-africans-and-west-indians-into-virginia-pg-21)
 ---
 
 ## Notes on Section 1: Introduction [^1]
@@ -101,6 +113,11 @@ What defines the 'gentry'?
 ## Notes on Section 2: Tobacco Growers Versus Merchants and Parliament (pg. 7)
 
 ### Main Ideas
+- Many conflicts between tobacco growers and merchants & Parliament spurred the want for independence.
+- The Navigation Acts and limitations on trade drastically cut tobacco grower's profits; the price of tobacco fell at least 75%.
+- Tobacco Growers and other poorer Virginians increasingly had conflicts with British creditors who came to collect debt, often by taking a large portion of the debtor's property.
+- By forcing the Atlantic Slave Trade, Britain economically hurt and destabilized Virginia.
+- Taxation without representation was characterized as slavery. Britain has already monopolized Virginia's trade, so they had no right to tax them as well. Even slaves (actual slaves) had the right to own their own money during Sundays and evenings.
 
 ### Opening Ideas
 - Robert Routledge, Tuesday, June 3rd, 1766.
@@ -257,7 +274,7 @@ What defines the 'gentry'?
 - Conflict between Virginia's gentry class and Britain's mercantile class.
 
 
-
+---
 
 **To be continued**.
   
