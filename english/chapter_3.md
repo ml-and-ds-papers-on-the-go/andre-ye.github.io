@@ -30,9 +30,7 @@ The situation and portrayal of Harry as an ordinary child with an extraordinary 
 ```
 
 A possible paraphrase (written by me):
-```
-Gunn observes that audiences have embraced the character of a normal but prodigous child, mistreated by guardians who fails to recognize his talent, played by Harry Potter. This figure, Gunn points out, is very similar to the one in Cinderella. This embodiment has made millions of young Harry Potter readers adamant in their potential for success, despite perhaps unimportant parents.
-```
+> Gunn observes that audiences have embraced the character of a normal but prodigous child, mistreated by guardians who fails to recognize his talent, played by Harry Potter. This figure, Gunn points out, is very similar to the one in Cinderella. This embodiment has made millions of young Harry Potter readers adamant in their potential for success, despite perhaps unimportant parents.
 
 Why paraphrase at all?
 - Academics that write for their peers use technical jargon; paraphrasing can act as a translator.
@@ -57,10 +55,20 @@ There are four important aspcts of writing good summaries:
 3. Communicate the essence of the author's argument given this information.
 4. Put the summary in proper context to elevate it beyond a shortened paraphrase.
 
-**This is a work in progress.**
+### Example: The Process of Writing a Summary
+A (personally written) process of constructing a summary of Clive Thompson's *On the New Literacy*. [^2]
+| Task | Content |
+| :-------: | :---------------- |
+| Understand the writer's main ideas. | - Many complain about how in the technological era, kids do not know how to write; language has been dehydrated and abused through the narcism of social media and the obscene compression of language in texting. <br/> - This is unwarranted. We are actually *in the midst of a literacy revolution.* <br/> - Young people write far more than any generation before, because technology gives them more places to express themselves through language. <br/> - Writing is not 'good' or 'bad'; today's young people know *who* they are writing for, which is the most important.|
+| Identify supporting evidence. | - Andrea Lunsford of Stanford University performed research and comes to these conclusions. <br/> - Lunsford found that technology gave students many more chances to write <br/> - Lunsford found that assessing what was necessary to appeal towards a particular audience needed to be convinced came naturally to students.|
+| Communicate the essence of the author's argument. | > Technology is not an inhibitor of literacy and language but instead a catalyst; today's young people are given more oppurtunities to express themselves and have developed a skill of great writing - assessing the audience - that goes beyond what we may consider to be, at a surface level, 'literacy'.
+| Put in context. | See footnote [^2] for information on the author and which fields & journals he writes in. |
+
+**Work in progress.**
 
 ---
 [^1]: *Gunn’s essay appears in Mapping the World of Harry Potter: An Unauthorized Exploration of the Bestselling Fantasy Series of All Time, edited by Mercedes Lackey (Dallas: BenBella, 2006).
 
+[^2]: Clive Thompson is a contributing writer for the *New York Times Magazine* and a regular columnist for *Wired* and *Smithsonian*. The piece on literacy appeared in *Wired* magazine in 2009.
 
 
