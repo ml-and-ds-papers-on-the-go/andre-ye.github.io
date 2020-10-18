@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
 
 ## Hey!
 I'm Andre. Currently, I'm a student at the University of Washington Transition School.
