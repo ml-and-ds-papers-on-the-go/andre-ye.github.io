@@ -84,7 +84,7 @@ Weekly Reading #4.
 
 <br><br>
 
-- **Liberty is a circlular, not linear, in danger.**
+- **Liberty is a circular, not linear, in danger.**
   - Too much and too little of it is dangerous.
   > "It is a melancholy reflection that liberty should be equally exposed to danger whether the Government have too much or too little power".[^8]
   - The line that divides too much and too litle power is "inaccurately defined by experience."
