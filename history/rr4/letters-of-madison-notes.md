@@ -10,6 +10,7 @@ Weekly Reading #4.
 - Written by James Madison, addressed to Thomas Jefferson
 - Addressed as "Dear Sir New York Ocr. 17. 1788", Written from New York City.
 - Comparison of the function performed by a bill of rights in republican and monarchical systems of government and if it is necessary.
+- At this time, the States are adopting the new Constitution and are putting it into action "next March".
 - The text contains certain encrypted words that have been decrypted; these were written in a numerical code Madison and Jefferson used for confidentiality.
 - Excerpt begins at "*The states which have adopted...*" and ends at "*...will be unnecessarily sacrificed to the many*".
 - See footnote [^1] for citations of the excerpt used in class.
@@ -18,14 +19,22 @@ Weekly Reading #4.
 
 - Key Points
   - Important question: _what purpose can a bill of rights serve in a republic ("popular government")_?
+  - James Madison is largely conflicted in the debate between whether to include a bill of rights or not. He does not see clear indications for its inclusion or exclusion, although he leans towards its exclusion.
+  - Main themes: the danger of democracies & mob rule, the circularity in danger of liberty, comparisons between power dynamics of monarchies and republics.
+| Government | Political Power | Physical Power | Purpose of Bill of Rights |
+| :---: | :---: | :---: | :--- |
+| Monarchy | In the few (monarch) | In the many (the people) | To unite the people, who have the physical power, to rebel against infringements on rights of the people by the few. |
+| Republic "Popular" | In the many (the majority) | In the many (the majority) | Not much purpose; the majority can infringe upon rights of the minority without political or physical repercussions. |
+  
 
-- At this time, the States are adopting the new Constitution and are putting it into action "next March".
-- Alterations have been proposed for the new Constitution.
+- Proposal in adding a Bill of Rights.
   - They are controversial.
   - Opinion groups:
     - Some want for *further guards of public liberty and individual rights*.
     - Some believe such an addition was not necessary (i.e. it already existed).
     - Some believe such articles were not to be in the Constitution at all.
+
+
 - **James Madison's Opinion** on the Bill of Rights
   > My [*James Madison*] own opinion has been in favor of a bill of rights; provided it be so framed as not to imply powers not meant to be included in the enumeration. At the same time I have never thought the ommission a material defect, nor been anxious to supply it even by subsequent amendment, for any other reason than that it is anxiously desired by others.[^1]
   - Paraphrase: James Madison is in favor of a bill of rights given that it does not list too many individual powers; he is also fine with its exclusion (not a 'material defect'). He supports it largely because others are so 'anxious' to include it, although it wavers.
@@ -47,6 +56,7 @@ Weekly Reading #4.
   - *Often, majorities in the community infringe upon the private rights of the minorities, only because in these cases the government is simply a tool of the majority.*
     - Madison writes that this truth has not been "sufficiently attended to."
 
+
 - **Comparisons in Power Dynamics of Monarchies and Republics**
   - Republics are superior to monarchies because there is a lesser probability or impact of abuses of power.
     - In Monarchies, power can be exerted from one person to the majority.
@@ -62,10 +72,12 @@ Weekly Reading #4.
     - When these political truths (i.e. declarations of individual rights) are formally declared and become embedded in national sentiment, they "counteract the impulses of interest and passion."[^6]
     - Sometimes, infringements of power may also come from unpopular and unjust rulers; a bill of rights will be valuable just as it would be in uniting community in a monarchy.[^7]
 
-- **Liberty is a circlular, not linear, in danger.**\
+
+- **Liberty is a circlular, not linear, in danger.**
   - Too much and too little of it is dangerous.
   > "It is a melancholy reflection that liberty should be equally exposed to danger whether the Government have too much or too little power".[^8]
   - The line that divides too much and too litle power is "inaccurately defined by experience."
+
 
 - **Madison's Concluding Statements**
   - *Absolute declarations of rights should be avoided*, in doubtful or emergency cases.
