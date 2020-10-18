@@ -28,6 +28,7 @@ Weekly Reading #4.
 | Republic "Popular" | In the many (the majority) | In the many (the majority) | Not much purpose; the majority can infringe upon rights of the minority without political or physical repercussions. |
   
 
+
 - Controversial proposal in adding a Bill of Rights.
   - Opinion groups:
     - Some want for *further guards of public liberty and individual rights*.
