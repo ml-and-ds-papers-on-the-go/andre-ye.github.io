@@ -1,4 +1,4 @@
-[Back](https://andre-ye.github.io/history/history_navigation) Test.
+[Back](https://andre-ye.github.io/history/history_navigation)
 
 # Notes on *James Madison Letter to Thomas Jefferson: October 17, 1788*
 Andre Ye, 10/17/2020
@@ -20,17 +20,18 @@ Weekly Reading #4.
 
 
 - Key Points
-  - Important question: _what purpose can a bill of rights serve in a republic ("popular government")_?
+  - Important question: _what purpose can a bill of rights serve in a republic ("popular government")?_
   - James Madison is largely conflicted in the debate between whether to include a bill of rights or not. He does not see clear indications for its inclusion or exclusion, although he leans towards its exclusion.
   - Main themes: the danger of democracies & mob rule, the circularity in danger of liberty, comparisons between power dynamics of monarchies and republics.
 
+<br>
 
 | Government | Political Power | Physical Power | Purpose of Bill of Rights |
 | :---: | :---: | :---: | :--- |
 | Monarchy | In the few (monarch) | In the many (the people) | To unite the people, who have the physical power, to rebel against infringements on rights of the people by the few. |
 | Republic "Popular" | In the many (the majority) | In the many (the majority) | Not much purpose; the majority can infringe upon rights of the minority without political or physical repercussions. |
 
-
+<br>
 
 - Controversial proposal in adding a Bill of Rights.
   - Opinion groups:
