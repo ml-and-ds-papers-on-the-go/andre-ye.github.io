@@ -21,6 +21,7 @@ Weekly Reading #4.
   - Important question: _what purpose can a bill of rights serve in a republic ("popular government")_?
   - James Madison is largely conflicted in the debate between whether to include a bill of rights or not. He does not see clear indications for its inclusion or exclusion, although he leans towards its exclusion.
   - Main themes: the danger of democracies & mob rule, the circularity in danger of liberty, comparisons between power dynamics of monarchies and republics.
+  
 | Government | Political Power | Physical Power | Purpose of Bill of Rights |
 | :---: | :---: | :---: | :--- |
 | Monarchy | In the few (monarch) | In the many (the people) | To unite the people, who have the physical power, to rebel against infringements on rights of the people by the few. |
