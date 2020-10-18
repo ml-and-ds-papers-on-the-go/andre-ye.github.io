@@ -1,6 +1,6 @@
 [Back](https://andre-ye.github.io/history/history_navigation)
 
-# Notes on Sections 1, 2, and 3 of *Forced Founders* by Woody Holton 
+# Notes on Sections 1, 2, and 6 of *Forced Founders* by Woody Holton 
 Andre Ye, 10/18/2020
 
 Page numbers referenced are for the PDF given in class.
