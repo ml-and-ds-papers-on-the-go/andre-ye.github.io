@@ -11,8 +11,15 @@ Weekly Reading #4.
 - Published by the University of North Carolina Press on Sep. 1st, 1999.
 
 ## Navigate
-- [Notes on Section 1: Introductions](https://github.com/andre-ye/andre-ye.github.io/new/master/history/rr4#notes-on-section-1-introductions-1)
+- [Notes on Section 1: Introduction](https://github.com/andre-ye/andre-ye.github.io/new/master/history/rr4#notes-on-section-1-introductions-1)
+  - [Main Ideas](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#main-ideas)
+  - [Opening Ideas](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#opening-ideas)
+  - [Example: Jacob Hite](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#example-jacob-hite)
+  - [Hite's story as proof against a faulty historical record](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#hites-story-as-proof-against-a-faulty-historical-record)
+  - [Definitions](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#definitions)
+  - [Ways gentry-group interactions shapes independence](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#ways-gentry-group-interactions-shapes-independence)
 
+---
 
 ## Notes on Section 1: Introduction [^1]
 
@@ -27,9 +34,7 @@ Weekly Reading #4.
 - Consider **Jacob Hite**, who in April 1774 took desperate measures like: (p2)
   - Crashing down the gates of prisons
   - Placing weapons in the hands of slaves
-  - Was one of the wealthiest men in Berkely County, Virginia.
-  
-<br>
+  - Was one of the wealthiest men in Berkely County, Virginia
 
 ### Example: Jacob Hite
 
@@ -98,7 +103,12 @@ What defines the 'gentry'?
 - Nonexportation provisions of Continental association deprived smallholders of their export income.
   - Contributed to gentry's decision to make formal declaration of independence.
 
-  
+---
+
+## Notes on Section 2: Tobacco Growers Versus Merchants and Parliament (pg. 7)
+
+
+---
 
 [^1]: Begins at page 2, ends at page [X]
 [^2]: Their families would be permanently divided - they had an interest in helping Hite.
