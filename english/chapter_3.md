@@ -57,6 +57,7 @@ There are four important aspcts of writing good summaries:
 
 ### Example: The Process of Writing a Summary
 A (personally written) process of constructing a summary of Clive Thompson's *On the New Literacy*. [^2]
+
  Task | Content 
  --- | ---
 Understand the writer's main ideas. | - Many complain about how in the technological era, kids do not know how to write; language has been dehydrated and abused through the narcism of social media and the obscene compression of language in texting. <br/> - This is unwarranted. We are actually *in the midst of a literacy revolution.* <br/> - Young people write far more than any generation before, because technology gives them more places to express themselves through language. <br/> - Writing is not 'good' or 'bad'; today's young people know *who* they are writing for, which is the most important.
