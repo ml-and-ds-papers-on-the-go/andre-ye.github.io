@@ -30,9 +30,9 @@ The situation and portrayal of Harry as an ordinary child with an extraordinary 
 ```
 
 A possible paraphrase (written by me):
-> Gunn observes that audiences have embraced the character of a normal but prodigous child, mistreated by guardians who fails to recognize his talent, played by Harry Potter. This figure, Gunn points out, is very similar to the one in Cinderella. This embodiment has made millions of young Harry Potter readers adamant in their potential for success, despite perhaps unimportant parents.
+> Gunn observes that audiences have embraced the character of a normal but prodigous child, mistreated by guardians who fail to recognize his talent, played by Harry Potter. This figure, Gunn points out, is very Cinderella-esque. This embodiment has made millions of young Harry Potter readers adamant in their potential for success, despite perhaps unimportant parents.
 
-Why paraphrase at all?
+*Why paraphrase at all?*
 - Academics that write for their peers use technical jargon; paraphrasing can act as a translator.
 - Paraphrasing helps you understand the text better; **it cuts to the ideas and not just the language**.
 
