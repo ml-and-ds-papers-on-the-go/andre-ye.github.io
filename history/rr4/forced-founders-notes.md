@@ -25,12 +25,12 @@ Weekly Reading #4.
   - [Explanations of Debt](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#explanations-of-debt)
   - [Mercantilism as Slavery](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#mercantilism-as-slavery-pg-11)
   - [The Argument Against Taxation](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-argument-against-taxation-pg-11)
-- [The Navigation Act & Limitations on Trade](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-navigation-act--limitations-on-trade-pg-12)
-- [Soft Virginian Rhetoric Towards Mercantilism](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#soft-virginian-rhetoric-towards-mercantilism-pg-15)
-- [The Attack on Manufacturing](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-attack-on-manufacturing-pg-16)
-- [Increasing Virginian Anti Navigation Acts Rhetoric](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#increasing-virginian-anti-navigation-acts-rhetoric-pg-17)
-- [Creditor-Debtor Conflicts](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#creditor-debtor-conflicts-pg-18)
-- [Forced Immigration of Africans and West Indians into Virginia](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#forced-immigration-of-africans-and-west-indians-into-virginia-pg-21)
+  - [The Navigation Act & Limitations on Trade](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-navigation-act--limitations-on-trade-pg-12)
+  - [Soft Virginian Rhetoric Towards Mercantilism](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#soft-virginian-rhetoric-towards-mercantilism-pg-15)
+  - [The Attack on Manufacturing](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#the-attack-on-manufacturing-pg-16)
+  - [Increasing Virginian Anti Navigation Acts Rhetoric](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#increasing-virginian-anti-navigation-acts-rhetoric-pg-17)
+  - [Creditor-Debtor Conflicts](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#creditor-debtor-conflicts-pg-18)
+  - [Forced Immigration of Africans and West Indians into Virginia](https://github.com/andre-ye/andre-ye.github.io/blob/master/history/rr4/forced-founders-notes.md#forced-immigration-of-africans-and-west-indians-into-virginia-pg-21)
 ---
 
 ## Notes on Section 1: Introduction [^1]
