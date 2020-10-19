@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation > Video Notes - The Chemical Basis for Life
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > Video Notes - The Chemical Basis for Life
 
 # Video Notes - The Chemical Basis for Life
 Andre Ye, 10/17/2020
