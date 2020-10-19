@@ -1,4 +1,4 @@
-[Back](https://andre-ye.github.io/history/history_navigation)
+[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > Reading Response 4 > Notes on *James Madison Letter to Thomas Jefferson*
 
 # Notes on *James Madison Letter to Thomas Jefferson: October 17, 1788*
 Andre Ye, 10/17/2020
