@@ -1,4 +1,4 @@
-[Back](https://andre-ye.github.io/english/english_navigation)
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation > Chapter 3 Notes
 
 # Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"
 Andre Ye, 10/17/2020
