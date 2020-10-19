@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > Essay Notes > *History Retweets Itself*
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Technology > *History Retweets Itself*
 
 # Essay Notes on "*History Retweets Itself*" by Tom Standage[^1]
 Andre Ye, 10/19/2020
