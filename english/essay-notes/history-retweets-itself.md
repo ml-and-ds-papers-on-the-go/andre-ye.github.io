@@ -74,6 +74,6 @@ Tom Standage
 
 ---
 [^1]: Standage, Tom. *Writing on the Wall: Social Media - the First 2,000 Years*. Bloomsbury, 2013. 
-[^2] Standage, Tom. *Writing on the Wall: Social Media - the First 2,000 Years*. Bloomsbury, 2013. Paragraph 5.
-[^3] Specifically, Standage cites a 2011 study by the University of Pennsylvania and a 2009 study by the University of Toronto.
-[^4] like Facebook and Twitter
+[^2]: Standage, Tom. *Writing on the Wall: Social Media - the First 2,000 Years*. Bloomsbury, 2013. Paragraph 5.
+[^3]: Specifically, Standage cites a 2011 study by the University of Pennsylvania and a 2009 study by the University of Toronto.
+[^4]: like Facebook and Twitter
