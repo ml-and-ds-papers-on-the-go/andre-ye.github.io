@@ -1,6 +1,6 @@
+[Home](https://andre-ye.github.io) > History Navigation
 
 # TS History: American History to 1877
-[Home](https://andre-ye.github.io) > History Navigation
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
 ## Class Notes
