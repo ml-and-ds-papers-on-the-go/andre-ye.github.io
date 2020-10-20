@@ -9,6 +9,7 @@ Weekly Reading #4.
 ## Context/Background
 - Full Title: *Forced Founders: Indians, Debtors, Slaves, and the Revolution in Virginia*. 
 - Published by the University of North Carolina Press on Sep. 1st, 1999.
+- Access online version [here](https://www.jstor.org/stable/10.5149/9780807899861_holton).
 
 ## Navigate
 - [Notes on Section 1: Introduction](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-1-introduction)
@@ -31,6 +32,8 @@ Weekly Reading #4.
   - [Increasing Virginian Anti Navigation Acts Rhetoric](https://andre-ye.github.io/history/rr4/forced-founders-notes#increasing-virginian-anti-navigation-acts-rhetoric-pg-17)
   - [Creditor-Debtor Conflicts](https://andre-ye.github.io/history/rr4/forced-founders-notes#creditor-debtor-conflicts-pg-18)
   - [Forced Immigration of Africans and West Indians into Virginia](https://andre-ye.github.io/history/rr4/forced-founders-notes#forced-immigration-of-africans-and-west-indians-into-virginia-pg-21)
+- [Notes on Section 6: Gentlemen Versus Farmers](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-6-gentlemen-vs-farmers-pg-25)
+  - [Main Ideas](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-6-gentlemen-vs-farmers-pg-25)
 
 ---
 
@@ -109,6 +112,8 @@ What defines the 'gentry'?
 - Late 1774, enslaved Virginians, who hoped to become free, furthered patriotic centiment and aided white Virginians.
 - Nonexportation provisions of Continental association deprived smallholders of their export income.
   - Contributed to gentry's decision to make formal declaration of independence.
+
+[Back to top](https://andre-ye.github.io/history/rr4/forced-founders-notes)
 
 ---
 
@@ -275,6 +280,7 @@ What defines the 'gentry'?
 - Only through independence, could Virginia ignore slave merchants and stop the Atlantic African slave trade.
 - Conflict between Virginia's gentry class and Britain's mercantile class.
 
+[Back to top](https://andre-ye.github.io/history/rr4/forced-founders-notes)
 
 ---
 
@@ -299,7 +305,9 @@ What defines the 'gentry'?
   - The fear of disorder was a powerful tool for Independence.
 
 *Note: Apoligies for the briefness of this section's notes. I had written them entirely out, but somewhere in the version pathways the commit got mixed and all the section's progress was lost. Regardless, the main ideas are presented.*
-  
+
+
+[Back to top](https://andre-ye.github.io/history/rr4/forced-founders-notes)
 ---
 
 [^1]: Begins at page 2.
