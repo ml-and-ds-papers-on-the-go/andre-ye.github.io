@@ -35,10 +35,13 @@ Andre Ye, 10/19/2020
   - Athletic divisions are **acting more like independent franchises than university departments.**
   - Between 1986 and 2010, salaries have risen disproportionately.
 
+
 | Group | Salary Rise in Percentage |
 | Full Professors | 32% |
 | Presidents | 90% |
 | Football Coaches | 650% |
+
+
 - Net-wise, these are profit-making machines.
   - However, many need to draw from fees and general funds to cover expenses.
   - The biggest cost: academics.
