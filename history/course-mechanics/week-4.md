@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [History]
+[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Course Mechanics](https://andre-ye.github.io/history/history_navigation#course-mechanics) > Course Mechanics Week 4
 
 # Course Mechanics Week 4
 - Mistakes in essays all are tied back to the active reading process.
