@@ -37,6 +37,7 @@ Andre Ye, 10/19/2020
 
 
 | Group | Salary Rise in Percentage |
+| :---: | :---: |
 | Full Professors | 32% |
 | Presidents | 90% |
 | Football Coaches | 650% |
