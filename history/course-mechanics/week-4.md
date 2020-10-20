@@ -4,7 +4,7 @@
 - Mistakes in essays all are tied back to the active reading process.
 - Essay, reading response, analysis feedback
 
-# Essay Grading
+## Essay Grading
   - **A**: nuanced or sophisticated claim.
     - Passed argument threshold.
     - Has something that shows creative or unique thinking; reflects complexity.
@@ -18,7 +18,7 @@
   - **F**: does not meet requirements of assignment.
     - Plagiarised, other mistakes.
 
-# Common Struggles Across Essays
+## Common Struggles Across Essays
 - Summary of other texts in main argument or in subclaims without explanation.
   - Don't summarize Diamond as the main argument; it's not your argument, it's Diamond's argument.
   - Don't just summarize for a subclaim; explain and connect it to your claim.
@@ -31,7 +31,7 @@
     - Which ideology? How?
   - Tell us the mechanics.
 
-# Reading Responses and Active Reading
+## Reading Responses and Active Reading
 - The better you get with reading responses, the better you will be able to make claims for essays.
 - Active Reading Practice: *Asking questions of the text*.
   - What is their question?
