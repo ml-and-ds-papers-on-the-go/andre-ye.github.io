@@ -4,7 +4,7 @@
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
 ## Lecture Notes
-- None yet.
+- ["Slavery: Race and Unfree Labor"](https://andre-ye.github.io/history/lecture-notes/slavery-race-and-unfree-labor), 10/15/20.
 
 ## Weekly Reading Responses
 - Weekly Reading Response 4 (Due 10/22)
