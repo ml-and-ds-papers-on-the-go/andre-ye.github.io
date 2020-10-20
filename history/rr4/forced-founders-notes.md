@@ -297,6 +297,8 @@ What defines the 'gentry'?
   - One could only do so with Independence.
 - A formal government could better deal with uprising and civilian/military disorder.
   - The fear of disorder was a powerful tool for Independence.
+
+*Note: Apoligies for the briefness of this section's notes. I had written them entirely out, but somewhere in the version pathways the commit got mixed and all the section's progress was lost. Regardless, the main ideas are presented.*
   
 ---
 
