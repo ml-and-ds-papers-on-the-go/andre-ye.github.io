@@ -64,6 +64,7 @@ Andre Ye, 10/15/2020
   - Indentured servants started to live as they became more accustomed to the harsh North American conditions. 
 
 Immigration statistics: Colonial Immigration from 1607 to 1776
+
 | Group | Subset | Count |
 | :---: | :---: | :---: |
 | British | Total Arriving | 472,000 |
