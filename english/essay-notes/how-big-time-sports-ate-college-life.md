@@ -6,7 +6,7 @@ Andre Ye, 10/19/2020
 - Example: Josh Samuels reflects on "the chill he felt when the band took the field during a football game against Illinois." [^1]
 - Ohio State university has a distinguished academic faculty, but sports rule.
   - It's known for sports and not for its academics (e.g. physics department).
-- Ohio state spends extravangtly on sports and not academics.
+- Ohio state spends extravagantly on sports and not academics.
   - Hired Urban Meyer to coach football for $4 million a year plus bonuses.
   - On the other hand, Dr. Aubrecht[^2] doesn't have enough money to cover attendance at conferences.
   - The "tail is wagging the dog".[^3]
