@@ -34,6 +34,7 @@ Andre Ye, 10/19/2020
 - Commercial divisions in academia
   - Athletic divisions are **acting more like independent franchises than university departments.**
   - Between 1986 and 2010, salaries have risen disproportionately.
+
 | Group | Salary Rise in Percentage |
 | Full Professors | 32% |
 | Presidents | 90% |
