@@ -38,7 +38,7 @@
   - Evidence or claim?
   - Where am I? The structure of the essay - is this the introduction, an evidence section, ...?
 - **From big to close reading**
-  1. After reading for argument, do a 'close reading'.
+  1. After a big reading for argument, do a 'close reading'.
   2. Find a specific passage, phrase, or word that elicits a "WTF Moment".
     - e.g. "state of nature", "the commons", "use", "my property" in John Locke
   3. Start to ask "why questions".
