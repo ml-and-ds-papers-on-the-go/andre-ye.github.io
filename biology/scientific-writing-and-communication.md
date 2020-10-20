@@ -86,13 +86,13 @@
 - State conclusions.
 - Be prepared to answer questions.
 
-**Suggestions for delivering effective presentations - **
+**Suggestions for delivering effective presentations**
 - Slides should have a small number of bullets (<= 6).
 - Use a simple and consistent template or theme.
 - Do not simply read the slides; describe the points.
 - The objective is to **clearly communicate your ideas**.
 
-**Suggestions for presenting a poster - **
+**Suggestions for presenting a poster**
 - Use minimal text and maximal visual impact.
 - Include sections of a scientific paper.
 - Use large font for headings and content in abbreviated format.
