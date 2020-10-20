@@ -278,7 +278,25 @@ What defines the 'gentry'?
 
 ---
 
-**To be continued**.
+## Notes on Section 6: Gentlemen vs. Farmers (pg. 25)
+
+### Main Ideas
+- The American Revolution is remembered as a confident step - it was actually an act of desperation.
+- Independent companies [^15] were favored by the poor farmers for their democratic structure; efforts at militia reform and the creation of a minuteman battalion failed and were met with opposition.
+  - The reformation, intended to provide structure to militias and quell unrest, provoked more of it.
+- Salt riots formed when the New England Restraining Act took effect as a result of lack of resources; open trade and independence was the prescribed solution.
+- Conflicts between renters and tenants broke out, especially in Loudoun.
+  - Tenants, suffering under closed export markets, could not pay rent.
+  - Paper money was depreciating in value, yet employers paid tenants in paper money.
+  - Renters, who were aware of depreciating paper money, demanded other more constant forms of payment.
+  - Tenants formed rent strikes and refused to pay. They were often evicted and had their property siezed.
+- Military policies were controversial.
+  - The discrepancy between officers' and common soldiers' wages were high.
+  - The war continued on for too long.
+- Virginia and other rebel provinces needed to contact a commercial alliance [^16] to solve these problems.
+  - One could only do so with Independence.
+- A formal government could better deal with uprising and civilian/military disorder.
+  - The fear of disorder was a powerful tool for Independence.
   
 ---
 
@@ -296,3 +314,9 @@ What defines the 'gentry'?
 [^12]: Who, it should be noted, was a pioneer in the plantation textile production.
 [^13]: House of Burgesses.
 [^14]: These were vetoed.
+[^15]: Small, independent militias formed to retaliate against British threats.
+[^16]: Presumably with France or another European nation.
+
+
+
+
