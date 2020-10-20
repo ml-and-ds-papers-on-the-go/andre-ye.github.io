@@ -65,7 +65,8 @@ Identify supporting evidence. | - Andrea Lunsford of Stanford University perform
 Communicate the essence of the author's argument. | Technology is not an inhibitor of literacy and language but instead a catalyst; today's young people are given more oppurtunities to express themselves and have developed a skill of great writing - assessing the audience - that goes beyond what we may consider to be, at a surface level, 'literacy'.
 Put in context. | See footnote [^2] for information on the author and which fields & journals he writes in. 
 
-**Work in progress.**
+### Example on "*History Retweets Itself*" by Tom Standage
+View an example worththrough of the essay "*History Retweets Itself*" by Tom Standage [here](https://andre-ye.github.io/english/essay-notes/history-retweets-itself).
 
 ---
 [^1]: *Gunn’s essay appears in Mapping the World of Harry Potter: An Unauthorized Exploration of the Bestselling Fantasy Series of All Time, edited by Mercedes Lackey (Dallas: BenBella, 2006).
