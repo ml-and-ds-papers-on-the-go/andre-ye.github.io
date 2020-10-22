@@ -6,6 +6,37 @@ Andre Ye, 10/20/20 & 10/22/20
 ## The Bottom Line
 The American Revolution was political and complicated. It was not a neat story about liberty triumphing tyranny. Various interests that were in conflict and eventually got worked out in ways that were not so clean.
 
+## Navigate
+- [Central Questions](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#central-questions)
+- Decolonization
+  - [Chain of De-Colonization and Destabilization](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#chain-of-de-colonization-and-destabilization)
+  - [French and Indian War / Seven Years War - 1754-1763](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#french-and-indian-war--seven-years-war---1754-1763)
+  - [Proclamation line of 1763](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#proclamation-line-of-1763)
+- Unrest, riots, and revolt
+  - [Political Outlook on Independence](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#political-outlook-on-independence)
+  - [Colonial Possibilities - Land and Labor](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#colonial-possibilities---land-and-labor)
+  - [Colonial Mercantilism](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#colonial-mercantilism)
+  - [Slavery and the Colonial Elite](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#slavery-and-the-colonial-elite)
+  - [Slave Population & the Stono River Rebellion](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#slave-population--the-stono-river-rebellion)
+  - [Indigenious Peoples, Middle Ground, & Pontiac's Rebellion](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#indigenious-peoples-middle-ground--pontiacs-rebellion)
+  - [Rural Revolt](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#rural-revolt)
+  - [Urban Poverty in the Colonies](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#urban-poverty-in-the-colonies)
+- Revolution
+  - [Enlightenment Conceptions of Liberty](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#enlightenment-conceptions-of-liberty)
+  - [Social Tensions in the Colonies](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#social-tensions-in-the-colonies)
+  - [Crisis of Authority](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#crisis-of-authority)
+  - [Boston Tea Party, Lexington & Concord](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#boston-tea-party-lexington--concord)
+  - [Colonial Rebels & Lord Dunmore's Proclamation](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#colonial-rebels--lord-dunmores-proclamation)
+  - [Women in the American Revolution](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#women-in-the-american-revolution)
+  - [Continental Strategy in the Revolution](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#continental-strategy-in-the-revolution)
+  - [Treaty of Paris 1783: Britain's Gift of Territory](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#treaty-of-paris-1783-britains-gift-of-territory)
+- Implications & Aftermath
+  - [New Crisis for Indigenious People](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#new-crisis-for-indigenious-people)
+  - [New Crisis for Slaves](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#new-crisis-for-slaves)
+  - [Articles of Confederation](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#articles-of-confederation)
+  - [Shay's Rebellion 1786](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#shays-rebellion-1786)
+  - [Framing the Constitution](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#framing-the-constitution)
+
 ## Introduction
 - 1783: *The Death of Major Peirson* by John Singleton Copley.
 - Battle of Jersey on the island of Jersey on the channel between England and France.
@@ -67,6 +98,7 @@ The American Revolution was political and complicated. It was not a neat story a
 - The English are in debt and cannot make the colonies pay for them. Limit costs by restricting settlement.
 
 ## Political Outlook on Independence
+
 | Date | Colonial Population |
 | --- | --- |
 | 1700 | 250,000 |
