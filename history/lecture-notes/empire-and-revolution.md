@@ -3,6 +3,9 @@
 # Empire & Revolution: Society and Politics in Colonial America
 Andre Ye, 10/20/20 & 10/22/20
 
+## The Bottom Line
+The American Revolution was political and complicated. It was not a neat story about liberty triumphing tyranny. Various interests that were in conflict and eventually got worked out in ways that were not so clean.
+
 ## Introduction
 - 1783: *The Death of Major Peirson* by John Singleton Copley.
 - Battle of Jersey on the island of Jersey on the channel between England and France.
@@ -176,37 +179,138 @@ Andre Ye, 10/20/20 & 10/22/20
   - A sales tax on things everyone needs - tea, paper, etc.
   - Fairly onerous; urban poor people needed to pay significantly higher for those items.
 
+## Enlightenment Conceptions of Liberty
+> The freedom then of man, and liberty of acting according to his own will, is grounded on his having reason, which is able to instruct him in that law he is to govern himself by... -John Locke
+- "Our cause is for liberty, and we are righteous and just."
+- Enlightenment thinking.
+  - Natural rights, the beginning of human rights
+  - Gaining wide credence in all segments of societies.
+- Governance; if you have reason then you have liberty and the right to governance.
+- Cannot argue against the religious argument for monarchy (appointed by God); Locke suggests a different model for governance.
+- Women excluded from the capability to reason.
+- Demonstration of reason is in acts.
+  - Self-mastery is not demonstrated by the poor.
+  - If they had reason, they could reason themselves out of poverty.
+- Locke introduces the standard in a restrictive sense, but it's infectious. Slaves revolt under Lockean lines.
+  - Embracing while challenging Lockean liberalism.
 
+## Social Tensions in the Colonies
+> We have been told that our struggle has loosened the bonds of government everywhere; that children and apprentices were disobedient; that schools and colleges were grown turbulent; that Indians slighted their guardians, and negroes grew insolent to the masters. -*John Adams to Abigail Adams, 1776.*
+- How will we put the pieces back together?
 
+## Crisis of Authority
+- There is a crisis of authority in the late colonial period. 1760s and 1770s.
+- People are in revolt.
+- Symbols of revolt are being challenged and graffitied and pushed back on.
+- Opened armed revolt in NH and elsewhere.
+- Attacking tax collectors violently (physical assault)
+  - Tarring and feathering - painful, not just humilitating
+- Raiding homes of colonial governors, judges, legislators, and elites
 
+## Boston Tea Party, Lexington & Concord
+- Make a series of missteps, trying to make the colonies pay for themselves.
+- Cost to protect colonies was more than they were generating.
+- Sales taxes that were taxing the poorest populations to further inflame the poorer.
+- Tried to tax rich merchants, but people revolted and cost tens of thousands of pounds of damage and property.
+  - Boston Harbor - threw all the tea into the harbor.
+- Poor rural farmers begin to arm themselves and collecting caches of ammunition.
+  - British who hear about it try to prevent them from getting weapons and sieze caches.
+  - Are shot at as they march into the countryside.
+  - British shoot back and begin killing rural farmers.
+  - Political crisis hasa developed into a shooting war.
 
+## Colonial Rebels & Lord Dunmore's Proclamation
+- No longer a question of "what can we do to change this", outright military conflict.
+- Lexington & Concord - a significant amount of time before the Declaration of Independence is signed & distributed.
+  - Colonial governor of Virginia, Lord Dunmore, instantly declares this as a slaveholders' revolt with interests against the British
+  - Guarantees emancipation for any slave that allied with the British.
+- Many slaves joined the British.
+- George Washingon doubled this proclamation.
+- Enslaved and free black people remained loyal to the British.
 
+## Women in the American Revolution
+- Women played an important role in the American Revolution
+- Different political alliances, but participated to the extent that they could.
+- A few documented historical instances of women passing as men in order to enlist in armies to fight for one side or the other.
+- Ann Bailey, able to pass as a man and saw combat before she was discovered.
+- Putting on a pretense and imprisoned for it.
+- Mythic stories of women fighting in battle; Molly Pitcher, which probably different happen
+  - Story: so loyal to her husband that she followed him into combat; when he is killed, she leaps into action and takes his place, continues fighting.
+- More common: **women would act as spies**.
+  - Rebel army / British army would take over a farmhouse to do battle plans and would do it right in front of wives and daughters.
+  - If women were loyal to the other side, could distribute information to whoever they wanted.
+- Pushed the boundaries of women's social participation.
+  - Men went to go fight, women needed to maintain the household.
+  - Maintain the farm, produce, and markets.
+- **Mary Wollstonecraft**
+  - Articulating and producing scholarship and theory about the political participation.
+  - Writing about the French Revolution and is English, English conservatives are criticizing the French Revolution by saying the Revolutionists are talking about 'rights' (unfamiliar concept). Woolstonecraft critiques the English conservatives and publishes rights.
+  - Rebuts herself and changed the title from *Rights of Men* to *A Vindication of the Rights of Woman*.
 
+## Continental Strategy in the Revolution
+ - Various interests; the elite and the smallholders aligned in their interests against British colonialism.
+- *Who would win the fight*?
+- Strategy: survive and wait for the French.
+  - Colonists had almost no chance.
+  - No serious funding, access the weapons, etc.
+- Serious work was being done by American diplomats in France
+  - Thomas Jefferson, Ben Franklin
+  - Negotiating weapons, alliances.
+- French fleet defeats the English fleet in the Battle of Virginia Capes 1781
+  - French aid and support helped Washington's army be victorious in Yorktown.
 
+## Treaty of Paris 1783: Britain's Gift of Territory
+- Treaty of Paris, British are thoroughly defeated.
+- Several decades of war; struggling to maintain costs.
+- Wave their hands to the North American colonies.
+- All lands to the West; the British could have held onto the interior but for some reason granted the colonists the entirety of the interior.
+- Result: **major defeat for indigenious peoples**.
 
+## New Crisis for Indigenious People
+- Main empires protecting their land had become wiped out.
+- New onslaught for peoples in the interior
+  - Ohio River Valley and further in the interior.
+- 'Indian country' drastically receding from 1763 to 1810.
 
+## New Crisis for Slaves
+- Another crisis for those that allied with the British; need to flee, go to other English colonies (e.g. Bahamas, Jamaica, Nova Scotia).
+- Many attempt to go back to Africa to establish new independent territories, some go to England.
+- Some African Americans fought in the Continental Army.
 
+## Articles of Confederation
+- New political constitution for the United States emerges in the Articles of Confederation.
+- Based on a combination of Greek Democratic practice and Haudenosaunee notions of Confederacy.
+- Each state developed their own constitutions.
+  - e.g. greatly indebted to France.
+  - smallholders had just been at war for several years, had not been able to produce and had nothing to sell, also indebted.
 
+## Shay's Rebellion 1786
+- Major moment in post-revolutionary period.
+- Daniel Shay (veteran of the Continental Army) returns to his New England farms to find that the debts are worse, the courts pursue indebtness even further than they did before, and farmers are again being thrown in jail and having their land siezed.
+- Daniel Shay, along with 4000 other rural farmers in New England, revolt; continue the revolutionary struggle afterwards.
+  - Just fought a revolution around this issue, yet it still persists.
+- Rebellion brings George Washington out of retirement and comes to put down the rebellion.
+- Leads to another political crisis for colonial elites.
+- Scrapping the calls of Articles of Confederation.
+  - Seek to address shortfalls of the Articles of Confederation.
+- Not only emphasizing libertarian but rationale notions.
+- John Randolph:
+  > When I mention the Public, I mean to include the rational part of it. The ignorant vulgar are unfit... to manage the reins of government.
+  - Using evidence of Shay's rebellion as a point-in-case of this.
+  - If they were 'rational', they would know they needed to pay their debts.
 
+## Framing the Constitution
+- Political traditions emerging around the framing of the Constitution
+- Spring of 1786, began in secret and framed as a way to address the failings of the Articles of Confederation
+- Produced an entirely new political document.
+- Conservative elements in this debate won out in the framing of the Constitution. A radical experiment in democracy.
+- Conservative notions of democracy.
+  - Institutionalizing the practice of slavery in the three-fifths clause.
+  - The electoral college
+  - The senate (not determined by demographic representation)
+    - Implications in the Civil War
+  - The federal court system (unelected, permanent judges that rule on the Constitutionality of legislation).
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to Top](https://andre-ye.github.io/history/history_navigation/lecture-notes/empire-and-revolution)
