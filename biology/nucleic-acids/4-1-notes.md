@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > 4.1: What is a Nucleic Acid?
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Nucleic Acids > 4.1: What is a Nucleic Acid?
 
 # Textbook Notes - Nucleic Acids and an RNA World - 4.1: What is a Nucleic Acid?
 Andre Ye, 10/22/2020
@@ -63,5 +63,5 @@ covalent bond
 
 
 
-[^1] like ribose
-[^2] a sugar in RNA
+[^1]: like ribose
+[^2]: a sugar in RNA
