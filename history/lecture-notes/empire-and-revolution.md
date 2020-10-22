@@ -345,4 +345,4 @@ The American Revolution was political and complicated. It was not a neat story a
 
 ---
 
-[Back to Top](https://andre-ye.github.io/history/history_navigation/lecture-notes/empire-and-revolution)
+[Back to Top](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution)
