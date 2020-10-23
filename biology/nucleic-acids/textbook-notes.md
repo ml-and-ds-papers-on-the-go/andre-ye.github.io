@@ -155,7 +155,26 @@ The double helix is shaped and stabilized by hydrogen bonding between complement
 - Structure of DNA is simple and nonreactive; never ben observed to cataylze any reaction in any organism.
 - No support for the idea that life began with DNA alone; instead, life began with RNA.
 
-**Will continue to be updated.**
+---
+
+# 4.3 RNA Structure and Function
+## Structural Differences Between RNA & DNA
+- Primary structure
+  - RNA has a primary structure of four types of nitrogenous bases from a sugar-phosphate backbone.
+  - Two differences:
+    1. Sugar in sugar-phosphate backbone is ribose, not deoxyribose.
+    2. Pyrimidine base thymine does not exist in RNA; uses a related base, uracil.
+  - Hydroxyl (OH) group in 2' carbon of ribose is much more reactive than hydrogen atom on 2' carbon of deoxyribose.
+  - Hydroxyl group can attack phosphate linkage between nucleotides when RNA molecules fold in different ways.
+    - Generates a break in the sugar-phosphate backbone.
+  - The extra hydroxyl group makes RNA less stable than DNA.
+- Secondary structure
+  - RNA molecules have secondary structure that results from complementary base pairing between purine and pyrimidine bases.
+  - purine and pyrmidine bases in RNA usually hydrogen bond *with complementary bases in the same strand*, rather than in a different strand.
+  
+**To be updated.**
+
+---
 
 [^1]: like ribose
 [^2]: a sugar in RNA
