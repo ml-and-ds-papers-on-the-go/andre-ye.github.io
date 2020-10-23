@@ -5,6 +5,31 @@ Andre Ye, 10/22/2020
 
 ---
 
+# Navigation
+- [4.1: What is a Nucleic Acid?](#41--what-is-a-nucleic-acid-)
+  * [Introduction](#introduction)
+  * [Nucleic Acids](#nucleic-acids)
+  * [Nitrogenous Bases](#nitrogenous-bases)
+  * [Drawing Nucleotides](#drawing-nucleotides)
+  * [Chemical Evolution in the Production of Nucleotides](#chemical-evolution-in-the-production-of-nucleotides)
+  * [How do Nucleotides Polymerize to Form Nucleic Acids?](#how-do-nucleotides-polymerize-to-form-nucleic-acids-)
+  * [DNA and RNA Strands Are Directional](#dna-and-rna-strands-are-directional)
+  * [Polymerization Requires an Energy Source](#polymerization-requires-an-energy-source)
+- [4.2: DNA Structure and Function](#42--dna-structure-and-function)
+  * [The Nature of DNA's Secondary Structure](#the-nature-of-dna-s-secondary-structure)
+  * [Antiparallel Double Helix](#antiparallel-double-helix)
+  * [Summary of Antiparallel Double Helix](#summary-of-antiparallel-double-helix)
+  * [Tertiary Structure of DNA](#tertiary-structure-of-dna)
+  * [DNA as an Information-Encoding Molecule](#dna-as-an-information-encoding-molecule)
+  * [The DNA Double Helix is a Stable Structure](#the-dna-double-helix-is-a-stable-structure)
+- [4.3 RNA Structure and Function](#43-rna-structure-and-function)
+  * [Structural Differences Between RNA & DNA](#structural-differences-between-rna---dna)
+  * [Tabular Version - DNA vs RNA Structure](#tabular-version---dna-vs-rna-structure)
+  * [RNA's Versatility](#rna-s-versatility)
+  * [RNA Can Function as a Catalytic Molecule](#rna-can-function-as-a-catalytic-molecule)
+
+---
+
 # 4.1: What is a Nucleic Acid?
 
 ## Introduction
@@ -171,10 +196,46 @@ The double helix is shaped and stabilized by hydrogen bonding between complement
 - Secondary structure
   - RNA molecules have secondary structure that results from complementary base pairing between purine and pyrimidine bases.
   - purine and pyrmidine bases in RNA usually hydrogen bond *with complementary bases in the same strand*, rather than in a different strand.
-  
-**To be updated.**
+  - Within-strand base pairing: one part of the RNA strand folds over and aligns with bases on another part of the same strand.
+    - Hydrogen bonding with complimentary bases results in a helical structure like the double helix of DNA.
+    - Stem-and-loop configuration.
+- Tertiary structure
+  - RNA molecules have tertiary structure that arises when secondary structures fold into more complex shapes.
+  - _Pseudoknot structure_ is an example of 3-d shapes formed by base pairing in distant regions of folded RNA molecules.
+  - RNA molecules with different base sequences can have different shapes and chemical properties.
+    - More diverse in size, shape, and reactivity than DNA molecules.
+
+## Tabular Version - DNA vs RNA Structure
+
+| Level of Structure | DNA | RNA |
+| --- | --- | --- |
+| Primary | Sequence of deoxyribonucleotides: bases are A, T, G, C | Sequence of ribonucleotides: bases are A, U, G, C |
+| Secondary | Two antiparallel strands twist into a double helix, stabilized by hydrogen bonding, hydrophobic bonding, hydrophobic interactions, and van der Waals interactions | Single strand folds back on itself to form a double-helical 'stem' and an unpaired 'loop'. |
+| Tertiary | Double helical DNA forms compact structures by wrapping around histone proteins or twisting into supercoils. | Secondary structures fold to form a wide variety of distinctive three-dimensional shape. |
+
+## RNA's Versatility
+- RNA molecules are highly versatile.
+  - A nucleic acid like DNA, but RNA folds into complex three-dimensional shapes like proteins.
+- Structural flexibility of RNA molecules lets them perform many tasks.
+  - Central dogma introduced RNA as an intermediate between DNA and protein.
+  - Messenger RNA transmits information needed to synthesize polypeptides.
+  - RNA molecules help regulate the production of messenger RNA from DNA, process and edit information stored in messages, and catalyze synthesis of proteins.
+
+## RNA Can Function as a Catalytic Molecule
+- Four types of nucleotides in RNA molecules are no match for 20 amino acid residues in proteins.
+- RNA has a degree of structural and chemical complexity.
+- Capable of forming structures that catalyze a number of chemical reactions.
+- RNAs are called ribozymes (RNA enzymes), catalyze reactions similar to protein enzymes.
+  - Ribozyme catalyzes hydrolysis and condensation of phosphodiester linkages in RNA.
+  - Ribozymes catalyze important reactions in cells.
+  - For example, responsible for catalytic activity of ribosomes that polymerize amino acids to form polypeptides.
+- 3-dimensional nature of ribozymes are vital to catalytic activity.
+- Ribozymes were a watershed event in origin-of-life research.
+- The fact that ribozymes could catalyze formations of phosphodiester bonds raised the possibility that RNA could polymerize a copy of itself; such a molecule would be the first living identity.
 
 ---
+
+[Back to top](https://andre-ye.github.io/biology/nucleic-acids/textbook-notes)
 
 [^1]: like ribose
 [^2]: a sugar in RNA
