@@ -69,10 +69,13 @@ Andre Ye, 10/22/2020
 ## Drawing Nucleotides
 phosphate
 : usually represented as a circle.
+
 sugar
 : usually represented as a pentagon with an upright tail.
+
 nitrogenous base
 : usually represented as a hexagon.
+
 covalent bond
 : usually represented with a line.
   
