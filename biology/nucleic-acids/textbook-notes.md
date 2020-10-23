@@ -115,6 +115,7 @@ covalent bond
   - Energy is released when phosphates form new, more stable bonds with *other atoms.*
 
 [Back to top](https://andre-ye.github.io/biology/nucleic-acids/textbook-notes)
+
 ---
 
 # 4.2: DNA Structure and Function
@@ -184,6 +185,7 @@ The double helix is shaped and stabilized by hydrogen bonding between complement
 - No support for the idea that life began with DNA alone; instead, life began with RNA.
 
 [Back to top](https://andre-ye.github.io/biology/nucleic-acids/textbook-notes)
+
 ---
 
 # 4.3 RNA Structure and Function
