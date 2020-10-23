@@ -51,14 +51,11 @@ Andre Ye, 10/22/2020
   - A nitrogenous (contains nitrogen) base.
 - Phosphate group bonds to a sugar molecule, which bonds to the base.
 
-ribonucleotides
-: monomers of RNA (ribonucleic acid). sugar is ribose.
-
-deoxyribonucleotides
-: monomers of DNA (deoxyribonucleic acid). sugar is deoxyribus.
-
-deoxy-
-: prefix for 'lacking oxygen'.
+| Term | Definition |
+| --- | --- |
+| ribonucleotides | monomers of RNA (ribonucleic acid). sugar is ribose. |
+| deoxyribonucleotide | monomers of DNA (deoxyribonucleic acid). sugar is deoxyribus. |
+| deoxy- | prefix for 'lacking oxygen'. |
 
 ## Nitrogenous Bases
 - `purines` - consist of double rings formed from nine atoms.
