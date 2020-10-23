@@ -53,9 +53,11 @@ Andre Ye, 10/22/2020
 
 ribonucleotides
 : monomers of RNA (ribonucleic acid). sugar is ribose.
+
 deoxyribonucleotides
 : monomers of DNA (deoxyribonucleic acid). sugar is deoxyribus.
-*deoxy*-
+
+deoxy-
 : prefix for 'lacking oxygen'.
 
 ## Nitrogenous Bases
