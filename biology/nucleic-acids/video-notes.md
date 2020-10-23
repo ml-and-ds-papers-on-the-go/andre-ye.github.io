@@ -5,6 +5,18 @@ Andre Ye, 10/22/2020
 
 ---
 
+## Navigation
+* [Nucleic Acid Structure](#nucleic-acid-structure)
+* [Tips on Drawing DNA Sequences](#tips-on-drawing-dna-sequences)
+* [Tips on Drawing Nucleotides](#tips-on-drawing-nucleotides)
+* [Tips on Drawing Nucleic Acids](#tips-on-drawing-nucleic-acids)
+* [ATP Hydrolysis](#atp-hydrolysis)
+* [The Double Helix](#the-double-helix)
+* [RNA Folding](#rna-folding)
+
+---
+
+
 ## Nucleic Acid Structure
 - **DNA polymer** - one of two twisted stands that make up a DNA molecule.
 - Cells make nucleic acid polymers by linking together **four types of monomers, called nucleotides**.
