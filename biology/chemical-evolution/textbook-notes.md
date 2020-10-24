@@ -106,8 +106,45 @@ Andre Ye, 10/22/2020
   - Lightning & radiation from the Sun.
 - Energy was stored in the chemical bonds of molecules.
 
+### What Makes a Chemical Reaction Spontaneous?
+- **Chemical reactions are spontaneous if they can happen on their own.**
+  - Do not need any additional influence, like added energy.
   
+- Two factors determining if a reaction is spontaneous.
+  - *Products have lower potential energy than reactants.*
+    - Shared electrons in products are more tightly held than those in reactants.
+    - `2H2(g) + O2(g) → 2H2O(g)`
+      - Electrons in O-H bonds of water are held more tightly than in H-H and O=O bonds.
+      - Products have lower potential energy than reactants.
+      
+  - *Product molecules are less ordered than reactant molecules.
+    - Glucose is a single, highly ordered molecule.
+    - When glucose burns in air, breaks into gaseous CO2 and H2O(g).
+      - Are less ordered than reactant glucose molecules.
   
+#### Entropy
+- Entropy is the amount of disorder in a system or surrounding environment.
+  - Entropy increases when the products of a chemical reaction are less ordered than reactant molecules.
+- Spotaneous reactions can occur without *appearing* to increase the entropy.
+  - `2H2(g) + O2(g) → 2H2O(g)`
+    - Potential energy drops.
+    - Difference in potential energy released as **heat and light**.
+      - Vaporizes the water produced.
+- Potential energy & entropy can be used to determine if a reaction is spontaneous or not.
+  
+#### Second Law of Thermodynamics
+- In all spontaneous reactions, entropy *always* increases.
+  - Must consider both the system *and* the environment.
+- Consider *The Hindenburg*.
+  - `2H2(g) + O2(g) → 2H2O(g)`.
+    - Molecular hydrogen and diatomic oxygen.
+    - Combine to release lots of energy.
+      
+---
+
+## 2.4: Investigating Chemical Evolution
+- Chemical evolution proposed by Alexander I. Oparin in 1924.
+  - Today, considered a formal scientific theory.
   
   
  
