@@ -43,3 +43,6 @@
 ---
 
 [Back to top](https://andre-ye.github.io/english/cheat_sheet)
+
+Textbook Citation:
+GREENE, STUART, and APRIL LIDINSKY. FROM INQUIRY TO ACADEMIC WRITING: a Text and Reader. BEDFORD BKS ST MARTIN'S, 2020. 
