@@ -5,6 +5,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
 
 ## Textbook Chapter Notes
 - [Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"](https://andre-ye.github.io/english/textbook-notes/chapter_3), 10/17/20.
+- [Chapter 4 Notes: "From Identifying Claims to Analyzing Arguments"](https://andre-ye.github.io/english/textbook-notes/chapter_4), 10/23/20.
 
 ## Notes on Essays
 - Technology
