@@ -6,13 +6,13 @@ Andre Ye, 10/22/2020
 ---
 
 ## Navigation
-- [2.3: Chemical Reactions, Energy, and Chemical Evolution](#23-chemical-reactions--energy--and-chemical-evolution)
+- [2.3: Chemical Reactions, Energy, and Chemical Evolution](#23-chemical-reactions-energy-and-chemical-evolution)
   * [How do Chemical Reactions Happen?](#how-do-chemical-reactions-happen-)
-    + [Systems & Surroundings, Law of Conservation of Mass](#systems---surroundings--law-of-conservation-of-mass)
+    + [Systems & Surroundings, Law of Conservation of Mass](#systems-surroundings-law-of-conservation-of-mass)
     + [Chemical Equilibrium](#chemical-equilibrium)
     + [Endothermic and Exothermic Changes](#endothermic-and-exothermic-changes)
   * [What is Energy?](#what-is-energy-)
-    + [Potential Energy & Chemical Energy](#potential-energy---chemical-energy)
+    + [Potential Energy & Chemical Energy](#potential-energy-chemical-energy)
     + [Bond Strength](#bond-strength)
     + [Kinetic Energy and Thermal Energy](#kinetic-energy-and-thermal-energy)
     + [First Law of Thermodynamics](#first-law-of-thermodynamics)
@@ -20,7 +20,7 @@ Andre Ye, 10/22/2020
   * [What Makes a Chemical Reaction Spontaneous?](#what-makes-a-chemical-reaction-spontaneous-)
     + [Entropy](#entropy)
     + [Second Law of Thermodynamics](#second-law-of-thermodynamics)
-- [2.4: Investigating Chemical Evolution](#24--investigating-chemical-evolution)
+- [2.4: Investigating Chemical Evolution](#24-investigating-chemical-evolution)
   * [Miller's Experiment](#miller-s-experiment)
     + [Formal Description of Miller's Experiment](#formal-description-of-miller-s-experiment)
 
