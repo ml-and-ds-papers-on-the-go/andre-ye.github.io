@@ -6,17 +6,14 @@ Andre Ye, 10/24/2020
 ---
 
 ## Navigation
-* [Nucleic Acid Structure](#nucleic-acid-structure)
-* [Tips on Drawing DNA Sequences](#tips-on-drawing-dna-sequences)
-* [Tips on Drawing Nucleotides](#tips-on-drawing-nucleotides)
-* [Tips on Drawing Nucleic Acids](#tips-on-drawing-nucleic-acids)
-* [ATP Hydrolysis](#atp-hydrolysis)
-* [The Double Helix](#the-double-helix)
-* [RNA Folding](#rna-folding)
+- [Figure Walthrough: Potential Energy Change During Chemical Reactions](#figure-walkthrough-potential-energy-change-during-chemical-reactions)
+- [What Was the Miller-Urey Experiment?](#what-was-the-miller-urey-experiment)
+- [Steven Hawking Asks What Are the Building Blocks of Life and How Did They Come to Be](#steven-hawking-asks-what-are-the-building-blocks-of-life-and-how-did-they-come-to-be)
+- [What is Chemical Evolution?](#what-is-chemical-evolution)
 
 ---
 
-## Figure Walthrough: Potential Energy Change During Chemical Reactions
+## Figure Walkthrough: Potential Energy Change During Chemical Reactions
 - What makes a chemical reaction spontaneous?
   - Large drop in potential energy as reactants converted to products.
 - What causes the change in energy?
@@ -90,5 +87,41 @@ Andre Ye, 10/24/2020
 - Proteins from amino acids.
   - Miller produced 5 amino acids.
 
+## What is Chemical Evolution?
+- The first living cells came about through *chemical evolution*.
+- *Evolution*: Change over time.
+- *Biological evolution*: Changes in things that are able to reproduce.
+  - Not random change - adaptive change. Better able to survive in their environments.
+  - Requires:
+    - Reproduction
+    - Variation
+    - Selection
+- *Chemical evolution*: How do things become reproducible?
+  - Chemical system: groups of molecules that interact with each other.
+  - Often evolve towards simplicity.
+    - Iron corrodes to rust.
+    - Proteins break down when exposed to heat.
+  - Simple chemistry arises into something complex.
 
-** To be continued. **  
+<br>
+
+- Chemical evolution needs:
+  - Repetitive production
+    - Does not depend on reproduction. In fact, answers 'reproduction' component in biological evolution.
+  - Variation
+  - Selection
+- Powerful natural events take place naturally.
+  - Heating, cooling (day night)
+  - Eruptions of volcanic geysers
+  - Rise and fall of oceans
+  - Repetitively produce new molecules and systems.
+- 'Living' components automatically form.
+  - Fatty Acid concentrations that are high enough bunch into a ball.
+  - Fatty Acids form skins; edges can fuse together.
+  - 'Hollow container' similar to skin of a living cell.
+  - Can trap other molecules inside and act as an entirely new environment.
+  - Fatty acid membrane.
+    - Cannot live by themselves, but the development of these and other components demonstrate important principles of chemical energy.
+- Chemistry can give rise to life.
+
+[Back to top.](#)
