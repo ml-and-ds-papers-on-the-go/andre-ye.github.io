@@ -21,7 +21,7 @@
 2. **Identify the writer's purpose.** What does the writer aim to make readers do or think about?
 3. **Identify the writer's claims.** What are their main and supporting claims?
 4. **Identify appeals to ethos, pathos, and logos.** Which methods does the author use to convince the reader?
-5. **Identify thr writer's audience.** Who is the writer aiming to convince? What is their target audience?
+5. **Identify the writer's audience.** Who is the writer aiming to convince? What is their target audience?
 
 ## Steps to Writing a Paraphrase
 1. **Decide whether to paraphrase.** Do you need to summarize or quote?
