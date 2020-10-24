@@ -6,7 +6,7 @@ Andre Ye, 10/24/2020
 ---
 
 ## Navigation
-- [Figure Walthrough: Potential Energy Change During Chemical Reactions](#figure-walkthrough-potential-energy-change-during-chemical-reactions)
+- [Figure Walkthrough: Potential Energy Change During Chemical Reactions](#figure-walkthrough-potential-energy-change-during-chemical-reactions)
 - [What Was the Miller-Urey Experiment?](#what-was-the-miller-urey-experiment)
 - [Steven Hawking Asks What Are the Building Blocks of Life and How Did They Come to Be](#steven-hawking-asks-what-are-the-building-blocks-of-life-and-how-did-they-come-to-be)
 - [What is Chemical Evolution?](#what-is-chemical-evolution)
