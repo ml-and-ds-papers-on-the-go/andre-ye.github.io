@@ -194,11 +194,42 @@ Weekly Reading #5.
   - Advocating for change would place you on the blacklist.
 
 ## Industrial Women
+### Visible Resistance
+- 1830s and 1840s - women's labor protests engaged in explicitly public action.
+- 1840s - working women of Lowell organized Female Labor Reform Association.
+  - Edited newspaper.
+  - Organized petition drives.
+  - Spread organization to other textile factory towns.
+- Protest in response to control and pay cutbacks.
+  - Counter company propaganda.
+
+- Tired of working as much as 14 hours a day in unhealthy conditions.
+- Women's resistance began with private, individual actions. (page 16)
+
+- Discharges show individual acts of challenging corporate authority.
+  - Mutiny.
+  - Disobedience.
+  - Captiousness.
+
+### Diminishing Corporate Returns
+- Corporations saw enormous profits in first decade, but over several decades saw diminishing returns. (page 17)
+- In order to continually maximize profit, increased exploitation of workers.
+  - Made them more productive.
+  - Cut their wages.
+- 1830's women began to organize against these conditions.
+
+### Strike Attempts
+- Women used limited organization to the best of their ability.
+- Strike:
+  - First day of strike: tried to rouse many working women in Lowell.
+  - Second day of strike: petition circled that declared "union is power", signed by 1,200 workers who pledged not to go back until wages were restored.
+- Unsuccessful strike. 1/6 of laborers in Lowell turned out, and effect on production was minimal.
+- Strikers relied on moral persuasiveness and symbolic weight of absence.
 
 
+**Continue soon. (Stopped at page 18). **
 
-
-
+---
 
 
 [^1]: the policy or practice on the part of people in positions of authority of restricting the freedom and responsibilities of those subordinate to them in the subordinates' supposed best interest.
