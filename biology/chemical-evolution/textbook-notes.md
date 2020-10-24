@@ -6,6 +6,23 @@ Andre Ye, 10/22/2020
 ---
 
 ## Navigation
+- [2.3: Chemical Reactions, Energy, and Chemical Evolution](#23--chemical-reactions--energy--and-chemical-evolution)
+  * [How do Chemical Reactions Happen?](#how-do-chemical-reactions-happen-)
+    + [Systems & Surroundings, Law of Conservation of Mass](#systems---surroundings--law-of-conservation-of-mass)
+    + [Chemical Equilibrium](#chemical-equilibrium)
+    + [Endothermic and Exothermic Changes](#endothermic-and-exothermic-changes)
+  * [What is Energy?](#what-is-energy-)
+    + [Potential Energy & Chemical Energy](#potential-energy---chemical-energy)
+    + [Bond Strength](#bond-strength)
+    + [Kinetic Energy and Thermal Energy](#kinetic-energy-and-thermal-energy)
+    + [First Law of Thermodynamics](#first-law-of-thermodynamics)
+    + [Heat's Role in Earth's Beginnings](#heat-s-role-in-earth-s-beginnings)
+  * [What Makes a Chemical Reaction Spontaneous?](#what-makes-a-chemical-reaction-spontaneous-)
+    + [Entropy](#entropy)
+    + [Second Law of Thermodynamics](#second-law-of-thermodynamics)
+- [2.4: Investigating Chemical Evolution](#24--investigating-chemical-evolution)
+  * [Miller's Experiment](#miller-s-experiment)
+    + [Formal Description of Miller's Experiment](#formal-description-of-miller-s-experiment)
 
 ---
 
@@ -139,20 +156,60 @@ Andre Ye, 10/22/2020
   - `2H2(g) + O2(g) → 2H2O(g)`.
     - Molecular hydrogen and diatomic oxygen.
     - Combine to release lots of energy.
-      
+  
+[Back to Top](#)
+
 ---
 
 ## 2.4: Investigating Chemical Evolution
 - Chemical evolution proposed by Alexander I. Oparin in 1924.
   - Today, considered a formal scientific theory.
+
+- Answe tehq eustion:
+  - Can complex organic[^1] compounds be synthesized from simple molecules in Earth's early sphere?
+    - Recreate stpes of chemical evolution in laboratory?
   
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
+### Miller's Experiment
+- Experimental setup designed to produce a microcosm of early Earth.
+- Large glass flask: represents the atmosphere.
+  - Contained gases CH4, NH3, H2 (high potential energy).
+- Connected to a smaller flask by glass tubing.
+  - Tiny ocean (200mL of `H2O(l)`).
+- Miller constantly boiled the water.
+  - This added `H2O(g)` to the large-flask gases.
+  - Vapor cooled and condensed; flowed back into smaller flask (boiled again)
+    - Water vapor circulated continuously throughout the system.
+    - 'Rain' may carry atmosphere interactions into the 'ocean'.
+- Cannot just boil molecules.
+  - Even at boiling point, starting molecules are stable.
+  - Do not undergo spontaneous chemical reactions.
+    - Different form of energy needed for substances to react.
+- Miller sent electrial discharges to electrodes in the atmosphere.
+  - 'Lightning bolts' added pulses of intense electrical energy.
+
+- **Results.**
+  - Days of continuous boiling and sparking, solution was pink.
+  - After a week, was deep red and cloudy.
+  - Mini-ocean had lots of hydrogen cyanide and formaldehyde.
+    - Chemicals are poisonous, but highly reactive.
+      - Can promote synthesis of larger and more complex compounds.
+    - Samples contained **amino acids**.
+      - Building blocks of proteins.
+
+#### Formal Description of Miller's Experiment
+
+| Aspect | Content |
+| --- | -------------------- |
+| Question | Can simple molecules and kinetic energy lead to chemical evolution? |
+| Hypothesis | Chemical evolution of organic molecules will occur in environments simulating early Earth conditions. |
+| Null Hypothesis | Chemical evolution will not occur in early Earth simulations. |
+| Prediction of Hypothesis | If kinetic energy is added to a mix of simple molecules, complex organic compounds will be produced. |
+| Prediction of Null Hypothesis | No complex organic compounds will be produced. |
+| Results | Samples from solution contained formaldehyde, hydrogen cyanide, and several complex compounds with C=C bonds, like amino acids (e.g. glycine). |
+| Conclusion | Chemical evolution occurs readily if simple moelcules with high free energy are exposed to a source of kinetic energy.
+
+[Back to Top](#)
+
+---
+
+[^1]: carbon-containing
