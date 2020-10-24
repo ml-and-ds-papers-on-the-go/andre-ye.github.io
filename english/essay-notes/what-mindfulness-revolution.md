@@ -8,9 +8,9 @@ Andre Ye, 10/23/2020
 Ronald E. Purser
 : Ronald E. Purser is a professor of management who teaches at the College of Business and the College of Education at San Francisco State University. He routinely writes for *Huffington Post*, *Salon*, and *Alternet*. The following essay is an excerpt from his book, *McMindfulness: How Mindfulness Became the New Capitalist Spirituality* (2019).
 
-<br>
+[Skip down to analysis.](#analysis)
 
----
+<br>
 
 ## Essay Notes[^a]
 ### Navigation
