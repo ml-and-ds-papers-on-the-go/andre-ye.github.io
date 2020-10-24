@@ -5,7 +5,7 @@ Andre Ye, 10/22/2020
 
 ---
 
-# Navigation
+## Navigation
 
 ---
 
@@ -19,3 +19,103 @@ Andre Ye, 10/22/2020
   - How did these molecules evolve to produce large and complex substances in living cells?
   
 ### How do Chemical Reactions Happen?
+- Take, for example, gases that come out of volcanoes to produce carbonic acid:
+  - `CO2(*g*) + H2O(*g*) ⇌ CH2O3(*aq*)`
+  - The expression is balanced.
+    - 1 carbon atom
+    - 3 oxygen atoms
+    - 2 hydrogen atoms
+  
+  - `chemical (*state*)` indicates the state of the chemical.
+    - `l` for liquid.
+    - `g` for gas.
+    - `aq` for aqueous.
+  
+#### Systems & Surroundings, Law of Conservation of Mass 
+ - Interacting molecules are *systems*, and everything else is the *surroundings*.
+  - Ignore surroundings and focus on the system.
+  - `System` as being closed relative to its surroundings.
+  - *Mass of reactants always equal to mass of products.*
+
+- `Law of Conservation of Mass`
+  - Mass cannot be created or destroyed.
+  - It must be rearranged through chemical reactions.
+
+#### Chemical Equilibrium
+- Chemical equilibrium (indicated by ⇌).
+  - Driving reactions
+    - `CO2(*g*) + H2O(*g*) ⇌ CH2O3(*aq*)`
+    - Adding more CO2 will drive the reaction to the right, creating more CH2O3.
+    - Removing CO2 or adding more CH2O3 will drive the reaction to the left.
+  - Temperature
+    - `H2O(l) ⇌ H2O(g)` (liquid water and water vapor).
+    - Equilibrium cna be altered by changes in temperature.
+    - System absorbs thermal energy from surrounding environment; liquid water molecules change from liquid to gas.
+
+#### Endothermic and Exothermic Changes
+- When thermal energy is *absorbed* by the system, it is *endothermic* ('within heating').
+  - `H2O(l) → H2O(g)` is endothermic. Energy is absorbed to vaporize liquid water.
+  
+- When thermal energy is *released* to the surroundings, it is *exothermic* ('outside heating').
+  - `H2O(g) → H2O(l)` is exothermic. Energy is released when the environment is cooled and vaporized water turns into liquid water
+
+### What is Energy?
+- `Energy` - the capacity to do work or supply heat.
+  - Capacity: stored potential or active motion.
+  
+#### Potential Energy & Chemical Energy
+- Stored energy is `potential energy`.
+- An object gains or loses its ability to store energy b/c of its position.
+- Potential energy is related to sharing electrons in covalent bonds.
+  - Electrons far from atomic nuclei, bond is long and weak.
+    - Greater capacity to be broken apart into new, stronger bonds during reaction.
+  - Electrons closer to one or both atoms, bond becomes short and strong.
+    - Lesser capacity to be broken apart into new, stronger bonds during reaction.
+- Molecule's `chemical energy` is its ability to form stronger bonds is a type of potential energy.
+
+#### Bond Strength
+- Electronegativities of atoms affect positionof shared electrons.
+- Example:
+  - Unequal sharing (polar), low potential energy, short & strong bonds.
+    - `O-H`. (All electrons are with O, which has much higher electronegativity).
+  - Mostly equal sharing, increasing potential energy, medium-length & power bonds.
+    - `N-H`. (Electrons are relatively in the middle, but nitrogen has a slightly larger electronegativity than hydrogen.)
+  - Equal electron sharing, high potential energy, long & weak bonds.
+    - `C-H`. (Electrons are equally shared b/c both have same weak electronegativities.)
+
+#### Kinetic Energy and Thermal Energy
+- Energy of motion is `kinetic energy`.
+  - All molecules have at least a little kinetic energy because they are always moving.
+  - Kinetic energy in molecular motion is `thermal energy`.
+- Thermal energy.
+  - `Temperature` of an object measures how much thermal neergy a molecule possesses.
+    - Cold object has low temperature. Molecules are moving slower.
+    - Hot object has high temperature. Molecules are moving faster.
+  - Two objects with diffferent temperatures that come into contact undergo heat transfer.
+
+#### First Law of Thermodynamics
+- Energy is conserved.
+  - It cannot be created or destroyed, only transferred.
+- Energy can only change from one form to another.
+
+#### Heat's Role in Earth's Beginnings
+- Energy transformation is at the ❤️️ of chemical evolution.
+  - Molecules in early Earth were exposed to lots of energy.
+- Kinetic energy (in the form of heat) was present in cooling molten mass that formed the planet.
+- Atmosphere and surface of Earth heavily exposed to electricity.
+  - Lightning & radiation from the Sun.
+- Energy was stored in the chemical bonds of molecules.
+
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
