@@ -11,6 +11,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Video Notes - Nucleic Acids](https://andre-ye.github.io/biology/nucleic-acids/video-notes), 10/22/20
 - Chemical Evolution. *Chemical reactions, chemical equilibrium, energy, entropy, Miller's experiment.*
   - [Textbook Notes (sections 2.3, 2.4) - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/textbook-notes), 10/24/20
+  - [Video Notes - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/video-notes), 10/24/20
 
 ## The Scientific Process and Scientific Writing
 - [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
