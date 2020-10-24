@@ -14,3 +14,5 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
   - [*"Why Aren't Social Media Delivering Democracy?"* by Dana Radcliffe](https://andre-ye.github.io/english/essay-notes/why-arents-social-media-delivering-democracy), 10/23/20.
 - Education
   - [*"How Big-Time Sports Ate College Life"* by Laura Pappano](https://andre-ye.github.io/english/essay-notes/how-big-time-sports-ate-college-life), 10/20/20.
+- Culture & Politics
+  - [*"What Mindfulness Revolution?*" by Ronald E. Purser](https://andre-ye.github.io/english/essay-notes/what-mindfulness-revolution), 10/23/20.
