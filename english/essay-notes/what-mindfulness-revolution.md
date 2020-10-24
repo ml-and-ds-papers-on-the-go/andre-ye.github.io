@@ -147,6 +147,8 @@ Ronald E. Purser
 - Reducing suffering is a noble aim and should be encouraged.
 - Don't rob mindfulness of its revolutional potential.
 
+[Go back to the top](#)
+
 ---
 
 ## Analysis
@@ -162,6 +164,8 @@ Ronald E. Purser
 - Mindfulness movement says that the cause of dissatisfaction and distress is all in our heads.
 - Wanting to better yourself through mindfulness, which advocates for focus on the individual and not society, is selfish.
 - Apoliticism means it is devoid of the wider picture and the social good.
+
+[Go back to the top](#)
 
 ---
 
