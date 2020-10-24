@@ -64,8 +64,137 @@ Weekly Reading #5.
     - Men labored on staples of family income (crops),women managed and supplied the household.
   - Women's work was vital to the survival of the home.
 
-- Gender division required mutual dependency.
+- Gender division required mutual dependency. (page 5)
   - Trust: *kept women in respectable positions.*
+- Respectability did not change second-class citizenship.
+  - Independence was restrained under aspects of society.
+  - Women could not:
+    - Make contracts
+    - Sue in cort
+    - Own property
+    - Make a will
+    - Serve on juries
+    - Vote or run for office
+- Legal restrictions *have economic implications.* (page 6)
+  - Married woman's wages, income, and estate are property of her husband.
+
+### The Evolution of the Role of Women into the Public Sphere
+- Women's evolution into the public sphere: industrial capitalism. (page 6)
+- Commercial market expansion & proto-industrial production changed men's and women's relationships with home and work.
+- More economical to purchase mass-produced cloth than to make it at home.
+- **Freed up women's labor.** (page 7)
+
+"putting out system"
+: local merchant-artisans organized distribution of unfinished goods to be worked on at homes and returned to markets for sales.
+
+- "Putting out systems" were at low piece-rate wages but gave women income to contribute.
+  - A common practice. (page 7)
+- Weaving raw materials: straw for hats, yarn for textiles, leather for shoes.
+
+### Women's Role in Textile Production
+- 1813: Francis Cabot Lowell began textile production in Waltham, Massachusetts.
+- Employed a female workforce.
+  - Used b/c of their historical role as textile laborers.
+  - Cheap and exploitable supply of labo.
+- Placed women's work in a modern industrial production and wage-labor relations. (page 8)
+
+- An extremely successful operation.
+  - Independent producers to wage laborers: ushered in industrial capitalism.
+  - Created the 'permanent factory population'.
+
+- Women were attracted to factory work by:
+  - Relatively high wages.
+  - A degree of social independence.
+  - Promised protection of corporate paternalism.
+
+### Opposition to Women in the Industrialized Workforce and the Invention of the Cult of Domesticity
+- Concern raised over abused English working-class.
+  - Lived in miserable conditions and minimal wages.
+- Danger posed to the "women's character".
+- Lamented changes of coming industrialism.
+  - Household labor enshrined as a natural role for women.
+  > "Women were the fairer, moral sex whose natural role was the soothe and comfort man." (page 8)
+- Vision of a soothing, 'uncorrupted' woman conflicted with women entering labor relations.
+  - Amplified class divisions.
+
+- *Cult of domesticity crafted as the antithesis of a working-class creation in America.*
+  - Image of 'the lady' emerged.
+  - Lower-class women were ignored in the formation of values.
+
+### Feminism and Activism
+- Working women felt that they needed to defend their femininity to counteract their exclusion from domesticity.
+- Female factory workers were the most radical:
+  - Called for equal rights for women's participation in society and employment.
+  - Recognized class-based gender oppression.
+- Became organizers around labor and women's rights issues. (page 9)
+
+- Some groups were hostile to women's radical claims of equality.
+  - Workingmen framed support or opposition in patriarchal attitudes.
+
+### The Fundamental Industrialist Goal
+- How to use women's low-cost labor whilst not violating social norms about women's proper spaces? (page 10)
+  - Created public spaces for women to work in, but limited civic participation.
+  - Emphasized employer oversight and control.
+
+## The Waltham System
+- Women's social transformation was dependent on the transformation of labor.
+- Disurptions laid the foundation for emergence of Lowell and industrial revolution.
+  - 1807 Embargo Act
+  - 1812 war with Great Britain
+- Merchant capitalists looking to spend their money elsewhere with profitable returns.
+
+### Setbacks and Design
+- Worked with partners and investors in Boston to organize a factory system.
+  - Each facet of production isolated, but integrated.
+- First trial in Waltham, Massachusetts.
+- Initial setbacks (page 10):
+  - Financing and organizing such a large project.
+    - Solved by the 'corporation' legal entity creation.
+    - Lowell raised capital and established a hierarchy of authority.
+  - Scarcity of labor and stigma of factory work.
+    - Derived from the English working-class.
+    - Turned to women's labor
+- Problem: control.
+  - Addressed problems of the 'putting out system'.
+  - Concentration of production in one site established control.
+
+### The Need for Female Labor
+- Relied on tradition of women's textile work and low cost.
+- Used not only to establish social acceptance of women in the workforce, but to establish **control**.
+- Factory work had a reputation of being for those with the lowest intelligence and morals.
+  - Males were generally repulsed by factory work; viewed as a loss of independence.
+- Industrialists looked at marginalized labor sources to fulfill industrial demand.
+- **Solution: high wages and moral regulation.**
+- High wages:
+  - A mill hand could earn in 1836 from 50 to 75 cents per day.
+  - After a week, women could take as much as two dollars.
+    - Well over other female professions but below that of average male mechanics.
+  - High wages and payment in cash were a sharp turn from the putting out system.
+    - Waltham system: utilizing patriarchal traditions of subordinating female labor to a male head.
+    
+- Corporate paternalism & moral regulations:
+  - Attempted to make women's industrial work socially acceptable. (page 13)
+  - Boardinghouse system pooled labor of women from isolated rural farms located all over New England.
+  - Reassured New England communities that women's moral virtue would be safeguarded.
+- Boarding house: protected women's morality by:
+  - Locking doors at 10 PM
+  - Forbidding unapproved visitors
+  - Enforcing church attendance
+  - Banning 'improper conduct'
+
+### Benefits of the Boardinghouse System
+- Boardinghouse system solved the two problems: scarcity and widespread public conern about the protection of moral character. (page 13)
+- Also benefited employers. (page 14)
+  - When one factory girl led her room into the street in a 1836 strike, the matron was fired for not controlling her.
+    - Was a check on improper behavior.
+  - Exercised complete control over the girls.
+
+- Any worker who ended work had to recieve an honorable discharge to work again in the industry.
+  - Company agents shared blacklist.
+  - Advocating for change would place you on the blacklist.
+
+## Industrial Women
+
 
 
 
