@@ -6,7 +6,7 @@ Andre Ye, 10/22/2020
 ---
 
 ## Navigation
-- [2.3: Chemical Reactions, Energy, and Chemical Evolution](#23--chemical-reactions--energy--and-chemical-evolution)
+- [2.3: Chemical Reactions, Energy, and Chemical Evolution](#23-chemical-reactions--energy--and-chemical-evolution)
   * [How do Chemical Reactions Happen?](#how-do-chemical-reactions-happen-)
     + [Systems & Surroundings, Law of Conservation of Mass](#systems---surroundings--law-of-conservation-of-mass)
     + [Chemical Equilibrium](#chemical-equilibrium)
