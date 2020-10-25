@@ -12,7 +12,8 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Notes on October 17, 1788 Letter from Madison to Jefferson](https://andre-ye.github.io/history/rr4/letters-of-madison-notes), 10/18/20.
   - [Notes on Sections 1, 2, and 6 of *Forced Founders* by Woody Holton](https://andre-ye.github.io/history/rr4/forced-founders-notes), 10/19/20
 - Weekly Reading Response 5 (Due 10/29)
-  - [Notes on *Band of Sisters: Class and Gender in Industrial Lowell, 1820-1850* by Michael Reagan](https://andre-ye.github.io/history/rr5/band-of-sisters), 10/25/20.
+  - [Notes on "Band of Sisters: Class and Gender in Industrial Lowell, 1820-1850" by Michael Reagan](https://andre-ye.github.io/history/rr5/band-of-sisters), 10/25/20.
+  - [Notes on "Early Factory Labor in New England" by Harriet H. Robinson (1883)](https://andre-ye.github.io/history/rr5/early-factory-labor), 10/25/20.
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
