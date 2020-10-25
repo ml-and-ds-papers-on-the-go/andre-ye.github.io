@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 5 > Notes on *Band of Sisters: Class and Gender in Industrial Lowell, 1820-1850*
 
-# Notes on "*Early Factory Labor in New England*" by Harriet H. Robinson
+# Notes on "*Early Factory Labor in New England*" by Harriet H. Robinson (1883)
 Andre Ye, 10/25/2020
 
 ## Introduction
