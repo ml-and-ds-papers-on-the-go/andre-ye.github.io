@@ -1,12 +1,47 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 5 > Notes on *Band of Sisters: Class and Gender in Industrial Lowell, 1820-1850*
 
 # Notes on *Band of Sisters: Class and Gender in Industrial Lowell, 1820-1850* by Michael Reagan
-Andre Ye, 10/24/2020
+Andre Ye, 10/25/2020
 
 Page numbers referenced are for the PDF given in class.
 Weekly Reading #5.
 
 ## Navigate
+- [Introduction](#introduction)
+  * [Broader Themes Across New England's Social Fabric](#broader-themes-across-new-englands-social-fabric)
+  * [The Fight for Independence and Social Respect](#the-fight-for-independence-and-social-respect)
+  * [The Historical Contradiction](#the-historical-contradiction)
+- [Labor and the Cult of Domesticity](#labor-and-the-cult-of-domesticity)
+  * [The Evolution of the Role of Women into the Public Sphere](#the-evolution-of-the-role-of-women-into-the-public-sphere)
+  * [Women's Role in Textile Production](#womens-role-in-textile-production)
+  * [Opposition to Women in the Industrialized Workforce and the Invention of the Cult of Domesticity](#opposition-to-women-in-the-industrialized-workforce-and-the-invention-of-the-cult-of-domesticity)
+  * [Feminism and Activism](#feminism-and-activism)
+  * [The Fundamental Industrialist Goal](#the-fundamental-industrialist-goal)
+- [The Waltham System](#the-waltham-system)
+  * [Setbacks and Design](#setbacks-and-design)
+  * [The Need for Female Labor](#the-need-for-female-labor)
+  * [Benefits of the Boardinghouse System](#benefits-of-the-boardinghouse-system)
+- [Industrial Women](#industrial-women)
+  * [Visible Resistance](#visible-resistance)
+  * [Diminishing Corporate Returns](#diminishing-corporate-returns)
+  * [Strike Attempts](#strike-attempts)
+  * [Political Organizations](#political-organizations)
+  * [Successes of the LFLRA](#successes-of-the-lflra)
+  * [Themes of Revolution Across Strikes](#themes-of-revolution-across-strikes)
+  * [Wage Slavery](#wage-slavery)
+- [Workingwomen and Workingmen](#workingwomen-and-workingmen)
+  * [Criticism of the Corruption of Virtuous and Moral Character](#criticism-of-the-corruption-of-virtuous-and-moral-character)
+  * [A Common Interest Hindered by Gender Prejudice](#a-common-interest-hindered-by-gender-prejudice)
+  * [Appealing to Patriarchal Attitudes](#appealing-to-patriarchal-attitudes)
+- [Corporate Feminity](#corporate-feminity)
+  * [Living a Contradiction](#living-a-contradiction)
+  * [Corporate Redefinition of Womanhood and Feminine Morality](#corporate-redefinition-of-womanhood-and-feminine-morality)
+  * [Employer Control to Resolve Contradiction](#employer-control-to-resolve-contradiction)
+  * [The Alignment of Social Good and Corporate Interests](#the-alignment-of-social-good-and-corporate-interests)
+- [The Factory Girl](#the-factory-girl)
+  * [Increasing Independence](#increasing-independence)
+  * [An Intellectual Environment](#an-intellectual-environment)
+- [Conclusion: Working-Class Feminism](#conclusion-working-class-feminism)
 
 ## Introduction
 - November afternoon in 1821: land that was going to become Lowell, Massachusetts.
@@ -219,6 +254,8 @@ Weekly Reading #5.
 - 1830's women began to organize against these conditions.
 
 ### Strike Attempts
+- 1834, faced a wage cut of 19%.
+- Corporations preemptively fired one of the leaders.
 - Women used limited organization to the best of their ability.
 - Strike:
   - First day of strike: tried to rouse many working women in Lowell.
@@ -226,8 +263,181 @@ Weekly Reading #5.
 - Unsuccessful strike. 1/6 of laborers in Lowell turned out, and effect on production was minimal.
 - Strikers relied on moral persuasiveness and symbolic weight of absence.
 
+<br>
 
-**Continue soon. (Stopped at page 18). **
+- Agitation: corporations raised the cut of the boardinghouses (12.5% wage cut).
+- 1836 strike; between 1/4 and 1/3 (1.5k to 2.5k) workers left.
+- Women formed a temporary union.
+- Successful strike; corporations rescinded fee increase.
+
+### Political Organizations
+- 1830s strikes became political organizations in 1840s.
+- Lowell: the creation of the Female Labor Reform Association.
+  - Directed petition drives to get state legislature to shorten work day to 10 hours.
+  - Spread organization to other parts of New England.
+  - Joined with New England Workingmen's Association.
+- LFLRA  under **Sarah G. Bagley** became one of the most successful nad radical workers' organization in New England.
+- Membership into the hundreds within first few years.
+  - Strength despite employer threats.
+
+### Successes of the LFLRA
+- 1845 - led a statewide campaign to petition Massachusetts legislature to limit working day to 10 hours. (page 19)
+- Asked state charters of incorporation for textile manufactures to give workers basic protections.
+- Petition drive 1: 1,151 signatures in Lowell & 2,139 names in state.
+- Legislature responded by forming a committee to investigate working conditions.
+  - Head: William Schouler, Lowell representative.
+  - Deemed regulation problematic and unnecessary.
+  - Misrepresented testimony.
+  - Bagley attacked Schouler, calling him a corporation machine or tool.
+- Schouler was voted out of office.
+  - An incredible accomplishment considering women were not allowed to vote.
+
+### Themes of Revolution Across Strikes
+- Issue behind strikes and political actions not the issue of a wage reduction, but status and control.
+- Lowell women & labor movement in general **relied on tradition of independence and revolt** dating back to the Revolution.
+  - Locke, Wollstonecraft, Jefferson influenced thinking and behavior.
+- Women defended positions as 'daughters of freemen'.
+  - Directly referencing revolutionary heritage.
+> As our fathers resisted unto blood the lordly avarice of the British ministry, so we, their daughters, never will wear the yoke which has been prepared for us . . . [or] yield to the wicked oppressions attempted to be imposed upon us. (page 20)
+- Attempted to maintain dignity & independence of labor against corporate encroachment.
+
+### Wage Slavery
+- Working class Lowell women compared situation to slavery.
+  - Loss of control of their labor.
+  - Superficial resemblances.
+- Long black wagons sent by corporations looked like interstate slave traders.
+- Corporate hierarchy, condemned for tyranny and contradiction of libertarian and democratic principles.
+- **Corporations changed the relationship of the individual to labor,** extracting control.
+
+## Workingwomen and Workingmen
+- Establishment of low wage alternative to mechanics threatened workingmen's livelihoods. (page 22)
+  - Framed attacks not on corporations but on working women.
+
+### Criticism of the Corruption of Virtuous and Moral Character
+- Argued that public labor eroded women's moral and virtuous character.
+- Press criticized women's work and ridiculed women's public actions.
+> "The ambition of woman should be to beautify and adorn the domestic circle . . . yet how often do we see them declining to labor in a family, and preferring the quasi-slavery of a cotton factory, the last place in the world, a fashionable female academy excepted, to fit a woman for domestic society and usefulness." (page 22)
+- Emphasized need to be 'protected'.
+  - Condemned factory system and argued for worker control of production.
+- Assumption: women's public industrial work was by nature unvirtuous. (page 22)
+  - Factory work a stepping stone to prostitution.
+- Illustrates patriarchal attitudes and depth of the "cult of domesticity".
+
+### A Common Interest Hindered by Gender Prejudice
+- Huldah J. Stone. (page 23)
+  - Secretary of LFLRA, responsible for selling subscriptions to *Voice of Industry.
+- Workingman - sympathetic to objectives of *Voice* but would not take a subscription.
+- Stone generally received well in factory towns.
+- Workingwomen eventually did win the support of workingmen, but came with condescending and paternalistic attidues.
+  - Relationship between LFLRA and NEWA.
+  - Spread quickly to Manchester FLRA and Nashua FLRA,among others.
+- Leadership in LFLRA even had leadership in NEWA.
+  - Bagley as vice president (not president; workingmen's organization needed a male head).
+- LFLRA was admitted into NEWA as an auxiliary.
+  - Lowell women were careful about presentation.
+
+### Appealing to Patriarchal Attitudes
+- Bagley: asked how girls could help workingmen in arduous battles.
+  > We do not expect to enter the field as soldiers in this great warfare: but we would, like the heroines of the Revolution, be permitted to furnish the soldiers with a blanket ormreplenish their knapsacks from our pantries. We claim no exalted place in yourmdeliberations, nor do we expect to be instrumental of any great revolutions, yet we would not sit idly down and fold our hands and refuse to do the little that we may and ought to. We expect to see the revolution commenced, recorded among the revolutions of the past.
+- Bagley politely downplayed women's involvement in labor.
+  - NEWA struggled to gain traction b/c of debate between mechanics and 'utopian socialists'.
+- **Needs of labor support superceded radical feminist ideas.**
+  - Choose between class solidarity and allegiance to 'womanhood'.
+  
+## Corporate Feminity
+- Workingmen's groups were hostile to women's full participation, but corporations were completely opposed.
+- Corporations: limit women's public participation to work and not politics.
+  - Created a **socially accepted place by guaranteeing to exert control.**
+  - Set up a highly publicized structure of moral police.
+
+### Living a Contradiction
+- Corporations gave women a relatively high wage and provided a place to be free of immediate family obligations.
+- Meanwhile, controlled their labor. (page 23)
+- Contradiction:
+  - Took independence from public work.
+  - Pushed for further gains in social equality and political participation.
+- Specifics of feminine morality and women's role in society not important to corporations.
+  - As long as women remained a controllable *workforce*, all was fine.
+
+### Corporate Redefinition of Womanhood and Feminine Morality
+- Fit working women into emerging middle-class cult of *true* womanhood. (page 25)
+- Emphasized women's **moral and virtuous character.**
+- Sought to remove stigma attached to "factory girl".
+  - Assured investors that Lowell female workers would not be corrupted and debased.
+- Found a place for women outside of the domestic sphere.
+
+### Employer Control to Resolve Contradiction
+- A woman could work in public industrial labor and not violate restrictions of the domstic sphere. (page 26)
+  - Contradiction solved by employer control.
+- Women maintained virtuous character only through corporate invasion of privacy and rigid control.
+  - Boardinghouse system and company firing practices as 2 examples of corporate control.
+  - 'Moral Police' of corporations.
+- When employees turned to strikes, protests, and petitions, corporations attacked them.
+  - Grounds that they were *violating social role as women.*
+  - **Redefined public conception of womanhood to align with corporation interests.**
+- Corporations directly attacked the feminine identity.
+  - Female laborers should attain the corporate definition of a feminine identity.
+
+### The Alignment of Social Good and Corporate Interests
+- Belief that idle young women were prone to depravity.
+  - Corporations argued employment was a contribution to public morality.
+    - It was *moral* to employ women for 12-14 hour days.
+- Controlling the 'social identity and morality' of women also meant quelling strikes.
+- Hence, women attacked the capitalistic structure, which promoted sexism to become profitable.
+
+## The Factory Girl
+- Recognition that gender and class oppression reinforced one another contributed to chosen identity: **factory girl**.
+  - A single, cohesive, rebellious identity.
+- Boardinghouses fostered close identification.
+  - Close personal and working relationship led to affinity and collective action.
+- Networks of sisterhood.
+  - Extended kina nd social relations.
+- "Factory girl" identity as a synthesis of sympathies of shared sisterhood.
+  - Synthesis of "woman" and "worker".
+  - Identity of solidarity and support.
+
+### Increasing Independence
+- "Factory girls" gained a level of independence unknown before.
+- Mills used mostly young unmarried women.
+  - Established them away from families.
+  - Paid them comparatively well.
+- Women independent of corporations because they were not solely reliant on them for survival. (page 30)
+  - Women returned to family homesteads after a term of work.
+    - Relied on family & social networks to support independence from corporations.
+  
+### An Intellectual Environment
+- Women sneaking single pages of books into mills. (page 30)
+  - Reading and committing to memory.
+  - Circumventing ban of books in the factory.
+- Lending libraries sprung up in mills.
+- Women questioned their role in supporting slavery, religious and moral concerns, slave-like working conditions.
+- Women transcended restrictions in the domestic sphere.
+  - However, voices filtered through reports of men.
+- *Lowell Offering* - independent. Written and edited by former factory women.
+  - Heavy funding from agent limited function.
+  - A step in the right direction.
+  
+- Mid-1840s: *Voice of Industry*.
+  - Critiques against working situations in mills, social oppression.
+  - Attacking separate-sphere ideologies.
+    - Ideology used to limit women's social action and public participation.
+  - Wage discrepancy as evidence of gender and labor oppression.
+
+## Conclusion: Working-Class Feminism
+- Sarah Bagley: war with oppression in every form. (page 32)
+  - Through writings, actions, and creation of identity, women fought back. 
+  - Challenged corporate control and women's exclusion from political activity.
+  - Working women that controlled the *Voice* could put forward fully articulated working class feminism.
+
+- Transformation of women's labor and socal status in early 19th century linked to rise of industrial capitalism. (page 33)
+  - Corporations brought women's work into the public sphere.
+  - To create a socially acceptable public work role, utilized traditions of patriarchal control.
+- Corporate attempts to include women in the cult of domesticity contradicted corporate femininity ideology.
+  - Working women saw and exploited this contradiction.
+  - Factory women created working-class feminism.
+    - Synthesized opposition to gender oppression and labor exploitation.
+
+[Back to top.](#)
 
 ---
 
