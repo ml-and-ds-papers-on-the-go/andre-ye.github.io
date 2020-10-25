@@ -3,6 +3,16 @@
 # Notes on "*Early Factory Labor in New England*" by Harriet H. Robinson (1883)
 Andre Ye, 10/25/2020
 
+## Navigate
+- [Introduction](#introduction)
+- [Beginnings](#beginnings)
+- [The Characterization of Women](#the-characterization-of-women)
+- [Descriptions of Factory Girls](#descriptions-of-factory-girls)
+- [A Pleasant Factory Life](#a-pleasant-factory-life)
+- [Incentive to Labor - Male Education](#incentive-to-labor-male-education)
+- [The Influence of Money on the Woman's Identity](#the-influence-of-money-on-the-womans-identity)
+- [Lowell 1836 Strike](#lowell-1836-strike)
+
 ## Introduction
 - Description of factory life in Lowell, Massachusetts, from 1832 to 1848.
 
