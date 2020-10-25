@@ -68,6 +68,7 @@ Ronald E. Purser
 | Could adapt Buddhist teachings and practices to help hospital patients deal with stress, anxiety, and pain. | Could grow out his chain into a global empire. |
 | Gave stressed Americans 8-week mindfulness courses with certification. | Recruited franchising owners and sent them a training course at 'Hamburger University'. |
 | Expanded mindfulness in new markets like schools, government, military, corporations. | Expanded across states and countries into different markets, whilst keeping the key product - burgers & fries - with little variation. |
+
 (Para 21)
 
 - Top-level corporate executives who take mindfulness:
