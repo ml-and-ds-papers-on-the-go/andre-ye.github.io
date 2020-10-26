@@ -12,6 +12,7 @@
   * [Identifying Types of Claims](#identifying-types-of-claims)
   * [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
   * [Rogerian Approach to Argument](#rogerian-approach-to-argument)
+  * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -41,6 +42,10 @@
 3. **Present the gist of the author's argument.** What is the intersection of their ideas and purpose?
 4. **Contextualize what you summarize.** Where was the piece written? What is the conversation the writing is entering?
 
+[Back to top.](#)
+
+---
+
 ## Arguments and Claims
 
 ### Identifying Types of Claims
@@ -59,6 +64,25 @@
 2. Acknowledge conditions under which that view is valid.
 3. Assist the reader in finding common ground.
 4. Create mutually acceptable solutions on clearly defined problems.
+
+### 15 Types of Logical Fallacies
+1. **Erroneous Appeal to Authority.** Author claims to be an authority but is not.
+2. **Ad Hominem.** Focusing on the person making the claim, not the claim itself.
+3. **Shifting the Issue.** Author draws attention away from the issue instead of offering evidence.
+4. **Either/Or Fallacy.** Author will take two extreme positions and force the reader to make a choice.
+5. **Sweeping Generalizations.** Author attempts to draw a conclusion without providing sufficient evidence.
+6. **Bandwagon.** Author uses support of others to justify your support.
+7. **Begging the Question.** Asks readers to accept a premise that is also the conclusion.
+8. **False Analogy.** Persuading that something is true by using a comparison that is not reasonable.
+9. **Technical Jargon.** Boosting up the author's credibility artificially by using esoteric words.
+10. **Confusing Cause and Effect.** Difficult to establish one factor influenced another.
+11. **Appeal to Fear.** Appealing to irrational fears and prejudices.
+12. **Fallacy of Division.** Assumes wwhat is true of a whole must always be true of its parts.
+13. **Hasty Generalization.** Draws a conclusion about a group with a sample size too small.
+14. **Straw Man Argument.** Makes a generalization about a group without actually citing a specific writer or work.
+15. **Fallacy of the Middle Ground.** Assumes that the middle position beteen extreme positions must be correct.
+
+[Back to top.](#)
 
 ---
 
