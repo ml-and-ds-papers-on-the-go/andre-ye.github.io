@@ -16,5 +16,6 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
   - [*"How Big-Time Sports Ate College Life"* by Laura Pappano](https://andre-ye.github.io/english/essay-notes/how-big-time-sports-ate-college-life), 10/20/20.
   - [*"The United States of (Non)Reading: The End of Civilization or a New Era?"* by Susan D. Blum](https://andre-ye.github.io/english/essay-notes/united-states-of-non-reading), 10/26/20.
   - [*"Grade Inflation Gone Wild"* by Stuart Rojstaczer](https://andre-ye.github.io/english/essay-notes/grade-inflation-gone-wild), 10/26/20.
+  - [*"Doesn't Anybody Get a C Anymore?"* by Phil Primack](https://andre-ye.github.io/english/essay-notes/doesnt-anybody-get-a-c-anymore), 10/26/20.
 - Culture & Politics
   - [*"What Mindfulness Revolution?*" by Ronald E. Purser](https://andre-ye.github.io/english/essay-notes/what-mindfulness-revolution), 10/23/20.
