@@ -35,6 +35,75 @@ Andre Ye, 10/23/2020
 - Examples
   - "Taxing the use of fossil fuels will end the energy crisis." Is a policy prescription to solve a problem.
   - "We should reform the welfare system to ensure that people who receive support from the government also work."
+
+## Analyzing Arguments
+- Analyzing an argument involves identifying the writer's main and minor claims by examining:
+  1. the reasons and evidence to support each claim
+  2. concessions
+  3. attempts to handle counterarguments
+  4. presence of logical fallacies
+
+### Analyzing Reasons Used to Support a Claim
+- Stating a claim vs. supporting a claim: different.
+  - Has the writer proposed *good reasons* for their position?
+
+#### Is the source recent?
+- Readers will expect you to cite recent evidence
+  - Published within 5 years of when you are writing.
+- Old research can also be valuable.
+
+#### Is the source relevant?
+- Anecdotal evidence may alert to a possible topic and help connect with readers. - Need to prove the **relevance** of that experience.
+  - Is it pertinent?
+  - Is it typical of a large situation or condition?
+- If you're not comparing things in depth, your **argument will be flawed*.
+
+#### Is the source reliable?
+- Need to evaluate whether data you use is reliable.
+  - Some researchers present findings based on a small sample of people.
+- Look for **authoritative sources** and **expert testimony**.
+
+#### Is the source accurate?
+- Do a little digging and find who else has made a similar claim.
+- Accuracy of statistics can be difficult to verify.
+  - Make sure stats sources are authoritative and reliable.
+    - Government and major research universities are usually safe.
+  - Make sure whoever is interpreting statistical info is not distorting it.
   
+## Identifying Concessions
+- A **concession** is an acknowledgement that readers may not agree with every point the writer makes.
+- Example concession signalling:
+  - "It is true that..."
+  - "*X* and *Y* are true, but *Z* must be considered."
+  - "Some studies have convincingly shown that..."
+- Writers will usually go on to address the concession.
+
+## Identifying Counterarguments
+- A counterargument is an argument in response to an argument.
+- Anticipate reader's objections.
+- An argument should be more **conversational than confrontational.**
+  - Establish common ground.
+  - Seek to understand opposing views.
+  - Make concessions and respond to counterarguments.
+
+### Rogerian Approach to Argument
+1. Convey to readers that their different views are understood.
+2. Acknowledge conditions under which that view is valid.
+3. Assist the reader in finding common ground.
+4. Create mutually acceptable solutions on clearly defined problems.
+
+## A Model for Analyzing Arguments
+- **Analyzing a claim of fact.** How does the author define terms and assert claims of fact they intend to make the reader accept?
+- **Using evidence to support a claim.** How does the author use authority to strengthen evidence?
+- **Making a concession.** How does the author anticipate opposing views, acknowledge them, and find common ground?
+- **Providing counterarguments.** How does the author make rebuttal counterarguments against opposing arguments?
+
+
+
+
+
+
+
+
   
 **Will be continually updated.**  
