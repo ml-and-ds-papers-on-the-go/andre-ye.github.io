@@ -9,7 +9,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 - Nucleic Acids. *Nucleotides, DNA, RNA.*
   - [Textbook Notes (sections 4.1, 4.2, 4.3) - Nucleic Acids](https://andre-ye.github.io/biology/nucleic-acids/textbook-notes), 10/22/20
   - [Video Notes - Nucleic Acids](https://andre-ye.github.io/biology/nucleic-acids/video-notes), 10/22/20
-- Chemical Evolution. *Chemical reactions, Miller's experiment.*
+- Chemical Evolution. *Chemical reactions, Miller's experiment, origin of life hypotheses.*
   - [Textbook Notes (sections 2.3, 2.4) - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/textbook-notes), 10/24/20
   - [Video Notes - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/video-notes), 10/24/20
   - [Textbook Notes (section 4.4) - In Search of the First Life-Form](https://andre-ye.github.io/biology/chemical-evolution/in-search-of-the-first-life-form), 10/27/20
