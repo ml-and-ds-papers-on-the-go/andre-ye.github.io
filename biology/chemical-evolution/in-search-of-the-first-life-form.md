@@ -58,6 +58,16 @@ Andre Ye, 10/27/2020
   - Molecular assemblages of nucleic acids & proteins constantly fed thermal & chemical energy.
   - Enzymes moust have evolved to store energy in something more portable.
 
+## Recent Origin-of-Life Experiments
+\*Comes from 2.4 of Edition 6 of textbook.
+- Production of complex molecules from simple molecules supports claim that the formation of a 'prebiotic soup' was possible.
+- Researchers pointed out that early atmosphere had `CO`, `CO2`, and `H2`, not `CH4` and `NH3` (used in Miller's experiment).
+- Follow-up experiments occuring under more realistic conditions.
+
+### Synthesis of Precursors Using Light Energy
+- Synthesis of formaldehyde from carbon dioxide & hydrogen.
+  - `CO2(g) + 2 H2(g) → CH2O(g) + H2O(g)`
+
 [Back to top](#)
 
 
