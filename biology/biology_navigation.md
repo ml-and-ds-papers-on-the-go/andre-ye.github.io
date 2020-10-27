@@ -12,7 +12,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 - Chemical Evolution. *Chemical reactions, Miller's experiment, origin of life hypotheses.*
   - [Textbook Notes (sections 2.3, 2.4) - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/textbook-notes), 10/24/20
   - [Textbook Notes (section 4.4) - In Search of the First Life-Form](https://andre-ye.github.io/biology/chemical-evolution/in-search-of-the-first-life-form), 10/27/20
-  - [Textbook Notes (Section 2.4 Extended 6th Ed.) - Origin-of-Life Experiments and the Two Models](https://andre-ye.github.io/biology/chemical-evolution/two-models-of-chemical-evolution), 10/27/20
+  - [Textbook Notes (section 2.4 Extended 6th Ed.) - Origin-of-Life Experiments and the Two Models](https://andre-ye.github.io/biology/chemical-evolution/two-models-of-chemical-evolution), 10/27/20
   - [Video Notes - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/video-notes), 10/24/20
 
 ## The Scientific Process and Scientific Writing
