@@ -1,6 +1,7 @@
 [Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > English Cheat Sheet
 
 # English Cheat-Sheet
+*\*Not actually for cheating. A handy reference for discussions, reading, and writing.*
 
 ## Navigation
 - [Habits of Mind of Academic Writers](#habits-of-mind-of-academic-writers)
