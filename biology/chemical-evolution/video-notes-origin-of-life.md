@@ -7,7 +7,7 @@ Andre Ye, 10/27/20
 
 ## Navigation
 - [The Mysterious Origins of Life on Earth](#the-mysterious-origins-of-life-on-earth)
-- [Life's Rocky Start | Deep Sea Vents](#life-s-rocky-start---deep-sea-vents)
+- [Life's Rocky Start - Deep Sea Vents](#lifes-rocky-start-deep-sea-vents)
 - [What is the Metabolism-First Hypothesis for the Origiin of Life?](#what-is-the-metabolism-first-hypothesis-for-the-origiin-of-life-)
 - [What is the RNA World Hypothesis?](#what-is-the-rna-world-hypothesis-)
 - [The RNA Origin of Life](#the-rna-origin-of-life)
