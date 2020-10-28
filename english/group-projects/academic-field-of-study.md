@@ -29,7 +29,7 @@
 - Appeal - pathos and logos.
 - Audience - those who want to be antiracist or are neutral on the issue of racism.
 
-### C.J. Pascoe: "Dude You're a F*g": Adolescent Masculinity and the F*g Discourse
+### C.J. Pascoe: "Dude You're a F\*g": Adolescent Masculinity and the F\*g Discourse
 - Situation - researching masculinity to explain behavior and advance feminism.
 - Purpose - to understand masculinity to explain how to improve as a feminist and why men act in certain ways, to advance feminism, and to explain behaviors of bullying.
 - Claim - high school boys use 'f*g' not only to imply homophobia, but to mock others' maasculinity and to display their own.
