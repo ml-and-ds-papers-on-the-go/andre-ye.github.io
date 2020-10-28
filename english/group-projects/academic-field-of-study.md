@@ -5,7 +5,7 @@
 - [Sociology Group Notes](#sociology-group-notes)
   * [Bell Hooks: Seeing and Making Culture: Representing the Poor"](#bell-hooks-seeing-and-making-culture-representing-the-poor)
   * [Ibram X. Kendi: "Definitions" from How to Be an Antiracist](#ibram-x-kendi-definitions-from-how-to-be-an-antiracist)
-  * [C.J. Pascoe: "Dude You're a F*g": Adolescent Masculinity and the F*g Discourse](#cj-pascoe-dude-youre-a-fg-adolescent-masculinity-and-the-fg-discourse)
+  * [C.J. Pascoe: "Dude You're a F\*g": Adolescent Masculinity and the F\*g Discourse](#cj-pascoe-dude-youre-a-fg-adolescent-masculinity-and-the-fg-discourse)
   * [Robert Reich: "The Rise of the Working Poor"](#robert-reich-the-rise-of-the-working-poor)
   
 ## Sociology Group Notes
