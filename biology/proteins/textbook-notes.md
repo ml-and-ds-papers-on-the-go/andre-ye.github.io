@@ -5,7 +5,35 @@ Andre Ye, 10/29/2020
 
 ---
 
-## 3.1 Amino Acids and Their Polymerization
+## Navigate
+- [Amino Acids and Their Polymerization](#amino-acids-and-their-polymerization)
+  * [The Structure of Amino Acids](#the-structure-of-amino-acids)
+  * [The Nature of Side Chains](#the-nature-of-side-chains)
+    + [Functional Groups Affect Reactivity](#functional-groups-affect-reactivity)
+    + [Polarity and Charge of R-Groups Affect Solubility](#polarity-and-charge-of-r-groups-affect-solubility)
+    + [Categorizing Amino Acid R-Groups](#categorizing-amino-acid-r-groups)
+  * [How Amino Acids Link to Form Proteins](#how-amino-acids-link-to-form-proteins)
+    + [The Peptide Bond](#the-peptide-bond)
+    + [Polymerization of Proteins in Early Earth](#polymerization-of-proteins-in-early-earth)
+- [What Do Proteins Look Like?](#what-do-proteins-look-like-)
+  * [Primary Structure](#primary-structure)
+  * [Secondary Structure](#secondary-structure)
+  * [Tertiary Structure](#tertiary-structure)
+    + [Five Important R-Group Interactions](#five-important-r-group-interactions)
+  * [Quaternary Structure](#quaternary-structure)
+  * [Important Messages About Structures](#important-messages-about-structures)
+  * [Summary of Levels of Structures in Tabular Form](#summary-of-levels-of-structures-in-tabular-form)
+- [Folding and Function](#folding-and-function)
+  * [Normal Folding is Crucial to Function](#normal-folding-is-crucial-to-function)
+  * [Protein Shape is Flexible](#protein-shape-is-flexible)
+    + [Protein Folding is Often Regulated](#protein-folding-is-often-regulated)
+    + [Folding Can Be Infectious](#folding-can-be-infectious)
+- [Protein Functions Are as Diverse as Protein Structures](#protein-functions-are-as-diverse-as-protein-structures)
+  * [Why Are Enzymes Good Catalysts?](#why-are-enzymes-good-catalysts)
+    + [Lock and Key Model](#lock-and-key-model)
+  * [Did Life Arise from a Self-Replicating Enzyme?](#did-life-arise-from-a-self-replicating-enzym-)
+
+## Amino Acids and Their Polymerization
 - Modern cells produce tens of thousands of distinct proteins.
 - Most molecules are composed of **just 20 different building bocks**: amino acids.
   - Share a common structure.
@@ -145,15 +173,68 @@ Andre Ye, 10/29/2020
 
 **Key idea: levels of structure are __hierarchical.__**
 
+## Folding and Function
+- Folding is spontaneous in many cases because chemical bonds and interactions that occur release enough energy to overcome a decrease in entropy.
+  - Folded molecule has less potential energy and is more stable than the unfolded molecule.
 
+### Normal Folding is Crucial to Function
+- Ribonuclease can be unfolded or **denatured** by treating it with compounds that break hydrogen and disulfied bonds.
+  - Denatured ribonuclease unable to function normally.
+  - Could no longer degrade nucleic acids.
+- When chemical denaturing agents removed, nuclease folded spontaneously and functioned normally.
+  - Primary sequence contained all information necessary for folding, and that it was essential for function.
+- Cells contain proteins called **molecular chaperones.**
+  - These facilitate protein folding.
+  - Molecular chaperones belong to a family of molecules called heat-shock proteins.
+    - Produced in large quantities after cells experience denaturing effects of high tempratures.
+- Nonpolar side chains of unfolded polypeptides can clmp together and disrumpt normal folding process.
+  - Molecular chaperones attach to hydrophobic patches before aggregates can form.
 
+### Protein Shape is Flexible
+- Although each protein has a characteristic folded shape necessary for function, **must proteins are flexible and dynamic** when they are not actively performing that function.
+- Over half of proteins have disordered regions lacking apparent structure.
+  - Each protein will exist in several shapes until they need to adopt a single folded and functional form.
 
+#### Protein Folding is Often Regulated
+- Function of a protein is dependent on its shape.
+- Controlling when or where it is folded regulates its activity.
+- Interactions induce proteins to fold into an ordered, active conformation.
+- Regulated folding plays a major role in controlling and coordinating cellular activities.
 
+#### Folding Can Be Infectious
+- Certain normal proteins can be induced to fold into infectious, disease-causing agents.
+- Proteins: **prions**, or prteinaceous infectious particles.
+- Infectious prions: alternately folded forms of normal proteins present in healthy individuals.
+  - Versions of a protein have the same primary structure but have different shapes.
 
+## Protein Functions Are as Diverse as Protein Structures
+- Proteins perform more types of cell functions than *any other molecule.*
+- Proteins are crucial to most tasks for cells and organisms:
+  - **Catalysis.** Many proteins are specialized to catalyze, or speed up, chemical reactions. A protein that functions as a catalyst is an *enzyme.*
+  - **Structure.** Structural proteins make up body components.
+  - **Movement.** Motor proteins and contractile proteins are responsible for moving the cell itself.
+  - **Signaling.** Proteins involved in carrying and recieving signals from cell to cell inside the body.
+  - **Transport.** Proteins allow particular molecules to enter and exit cells or carry them throughout the body.
+  - **Defense.** Proteins called antibodies attack and destroy viruses and bacteria.
+- **Catalysis may be the most important function.** Speed. Life consists of chemical reactions.
+  - Doesn't occur fast enough unless a catalyst is present.
 
+### Why Are Enzymes Good Catalysts?
+- Catalyzed reactions involve one or more reactants: **substrates.**
+- Enzymes are effective catalysts because they hold substrates in a precise orientation to react.
 
+#### Lock and Key Model
+- Hypothesis by Emil Fischer in 1894.
+- Enzymes are analogous to the lock; keys are substrates that fit into the lock and react.
+- Location where substrates bind and react is the enzyme's **active site.**
+- No other class of macromolecules can match proteins for catalytic potential. 
 
+### Did Life Arise from a Self-Replicating Enzyme?
+- Could be argued that a protein catalyst was the first molecule capable of replication.
+- Amino acids were likely abundant during chemical evolution.
+  - Could have polymerized to form small proteins.
+- **Most researchers are skeptical that life could have begun with a protein.**
+  - Proteins would need to possess information, replicate, and evolve to achieve attributes of life.
+  - Information carried in proteins is necessary for function but cannot be used as a template or mold for replication.
 
-
-
-
+[Back to top](#)
