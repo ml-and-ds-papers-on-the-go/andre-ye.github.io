@@ -63,6 +63,53 @@ Andre Ye, 10/29/2020
 ### How Amino Acids Link to Form Proteins
 - Amino acids polymerize when a bond forms between **carboxyl group** of one amino acid and **amino group** of another.
 - `C-N` covalent bond that results from condensation reaction is **peptide bond**.
+  - Water molecule is removed from condensation reaction, *carboxyl group converted to **carbonyl** functional group (`C=O`) and amino group becomes `N-H`*.
+
+#### The Peptide Bond
+- Peptide bonds are very stable.
+- Nitrogen can intermitantly donate its pair of unshared valence electrons to carbon in `C-N`, forming `C=N`.
+  - Pair of electrons pushed from the carbonyl `(C=0)` to the oyxgen atom, forming a single bond with oxygen anion.
+- **Amino acids linked by peptide bonds in a chain are referred to as residues.**
+  - Distinguishes from *free amino acid monomers.*
+- **Three points to note about the peptide-bonded backbone:**
+  - *Regroup orientation.* Side chains of each residue extend from the backbone. Makes it easier to interact with each other and water.
+  - *Directionality.* An amino group on one end (`N-terminus`) and a carboxyl group on the other (`C-terminus`).
+  - *Flexibility.* Single bonds on either side of the peptide bond can rotate. Structure as a whole is flexible.
+
+| Term | Definition |
+| --- | --- |
+| oligopeptide/peptide | Means 'few-peptides'. Name for polymers with 50 or less amino acids. |
+| polypeptide | Means 'many-peptides'. Name for polymers with 50 or more amino acids. |
+| protein | Any chain of amino acid residues. Formal use: 'protein' as the complete functional form of a molecule. |
+
+#### Polymerization of Proteins in Early Earth
+- Process of linking together amino acids required other cellular factors.
+- If rpoteins were responsible for start of life in chemical evolution, must have occurred **without cellular factors**.
+- **Can amino acids spontaneously assemble into proteins?**
+- Several mechanisms could have led to self-polymerization:
+  - Researchers have been *able to generate stable polymers* by mixing free amino acids with a source of chemical energy & mineral particles. Growing macromolecules are protected from hydrolysis if they cling to a mineral surface.
+  - Conditions that simulate hot, metal-rich environments of undersea volcanoes, researchers observe amino acids formed and polymerized.
+  - Amino acids joined into polymers in cooler water if energy rich carbon and sulfar-containing gas is present.
+
+## What Do Proteins Look Like?
+- Structure gives rise to function.
+  - Protein size and shape variability means there is a wide diversity in function.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
