@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Proteins > Video Notes
 
-# Video Notes on Proteins
+# 4 Structures & 9 Types of Proteins Cheat Sheet (Video Notes)
 Andre Ye, 10/29/2020
 
 ---
