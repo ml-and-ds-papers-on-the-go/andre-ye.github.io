@@ -15,7 +15,8 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Textbook Notes (section 2.4 Extended 6th Ed.) - Origin-of-Life Experiments and the Two Models](https://andre-ye.github.io/biology/chemical-evolution/two-models-of-chemical-evolution), 10/27/20
   - [Video Notes - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/video-notes), 10/24/20
   - [Video Notes - Origin of Life Hypotheses](https://andre-ye.github.io/biology/chemical-evolution/video-notes-origin-of-life), 10/27/20
-- Proteins. *Types of proteins, functions, amino acids.*
+- Proteins. *Types of proteins, folding, functions, amino acids.*
+  - [Textbook Notes - Protein Structure and Function](https://andre-ye.github.io/biology/proteins/textbook-notes), 10/29/20
   - [4 Structures & 9 Types of Proteins Cheat Sheet (Video Notes)](https://andre-ye.github.io/biology/proteins/video_notes), 10/29/20
 
 ## The Scientific Process and Scientific Writing
