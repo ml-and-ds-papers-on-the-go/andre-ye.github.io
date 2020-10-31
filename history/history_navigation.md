@@ -15,6 +15,8 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 - Weekly Reading Response 5 (Due 10/29)
   - [Notes on "Band of Sisters: Class and Gender in Industrial Lowell" by Michael Reagan](https://andre-ye.github.io/history/rr5/band-of-sisters), 10/25/20.
   - [Notes on "Early Factory Labor in New England" by Harriet H. Robinson (1883)](https://andre-ye.github.io/history/rr5/early-factory-labor), 10/25/20.
+- Weekly Reading Response 6 (Due 11/5)
+  - [Notes on Anti-Catholic Petition, 1837](https://andre-ye.github.io/history/rr6/anti-catholic-petition)
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
