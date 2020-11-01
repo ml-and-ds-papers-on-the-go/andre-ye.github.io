@@ -18,6 +18,7 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 - Weekly Reading Response 6 (Due 11/5)
   - [Notes on Anti-Catholic Petition, 1837](https://andre-ye.github.io/history/rr6/anti-catholic-petition)
   - [Notes on *"Asian American Dreams: The Emergence of an American People"* by Helen Zia](https://andre-ye.github.io/history/rr6/asian-american-dreams)
+  - [Notes on *"Becoming Caucasian: Vicissitudes of Whiteness in American Politics and Culture"* by Matthew Frye Jacobson](https://andre-ye.github.io/history/rr6/becoming-caucasian)
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
