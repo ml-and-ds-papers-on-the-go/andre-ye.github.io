@@ -16,7 +16,7 @@ Andre Ye, 10/31/2020
   * [Japanese Immigration](#japanese-immigration)
   * [Race Lumping](#race-lumping)
   * [Anti-Asian Legislation](#anti-asian-legislation)
-    + [Ozawa v. United States, 1922](#ozawa-v-united-states--1922)
+    + [Ozawa v. United States, 1922](#ozawa-v-united-states-1922)
     + [Immigration Act of 1924](#immigration-act-of-1924)
   * [Indian Labor](#indian-labor)
   * [Asian Indian Race Theories and Superiority](#asian-indian-race-theories-and-superiority)
