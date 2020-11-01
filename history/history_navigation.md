@@ -9,7 +9,7 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 - ["Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor"](https://andre-ye.github.io/history/lecture-notes/gender-and-industrial-capitalism), 10/27/20 & 10/29/20
 
 ## Study Guides
-- [Fall Quarter Midterm Study Guide](https://andre-ye.github.io/history/study-guides/fall-quarter-midterm-study-guide)
+- [Fall Quarter Midterm Study Guide](https://andre-ye.github.io/history/study-guides/fall-quarter-midterm-study-guide), 10/29/20.
 
 ## Weekly Reading Responses
 - Weekly Reading Response 4 (Due 10/22)
