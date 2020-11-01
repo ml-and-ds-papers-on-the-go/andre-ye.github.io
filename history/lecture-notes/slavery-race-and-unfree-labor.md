@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Slavery: Race and Unfree Labor*
+[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Slavery: Race and Unfree Labor*
 
 # Notes on *Slavery: Race and Unfree Labor*
 Andre Ye, 10/15/2020
