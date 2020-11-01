@@ -17,6 +17,7 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Notes on "Early Factory Labor in New England" by Harriet H. Robinson (1883)](https://andre-ye.github.io/history/rr5/early-factory-labor), 10/25/20.
 - Weekly Reading Response 6 (Due 11/5)
   - [Notes on Anti-Catholic Petition, 1837](https://andre-ye.github.io/history/rr6/anti-catholic-petition)
+  - [Notes on *"Asian American Dreams: The Emergence of an American People"* by Helen Zia](https://andre-ye.github.io/history/rr6/asian-american-dreams)
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
