@@ -1,9 +1,23 @@
 [Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 12 Notes
 
-# Chapter 5 Notes: "From Revising to Editing"
+# Chapter 12 Notes: "From Revising to Editing"
 Andre Ye, 10/30/2020
 
 ---
+
+## Navigate
+- [Revising Versus Editing](#revising-versus-editing)
+- [The Peer Editing Process](#the-peer-editing-process)
+- [Working With Early Drafts](#working-with-early-drafts)
+  * [Understand the Writer's Responsibilities](#understand-the-writers-responsibilities)
+  * [Understand the Reader's Responsibilities](#understand-the-readers-responsibilities)
+- [Working with Later Drafts](#working-with-later-drafts)
+  * [Understand the Writer's Responsibilities](#understand-the-writers-responsibilities-1)
+  * [Understand the Reader's Responsibilities](#understand-the-readers-responsibilities-1)
+- [Working with Final Drafts](#working-with-final-drafts)
+  * [Understand the Writer's Responsibilities](#understand-the-writers-responsibilities-2)
+  * [Understand the Reader's Responsibilities](#understand-the-readers-responsibilities-2)
+- [Further Peer Editing Group Suggestions](#further-peer-editing-group-suggestions)
 
 ## Revising Versus Editing
 - **Revising:** making changes to a paper to *reflect new thinking or conceptualizing.*
@@ -57,7 +71,44 @@ Andre Ye, 10/30/2020
   6. What passages of the draft are most effective?
   7. What passages of the draft are least effective?
 
-## Analyze an 
+## Working with Later Drafts
+### Understand the Writer's Responsibilities
+- State your thesis more definitively than with an earlier draft.
+- Support your thesis with evidence.
+  - Anticipate possible counterarguments.
 
+### Understand the Reader's Responsibilities
+- Focus as a reader should be mid-level concerns.
+  - Places in the writer's text that are confusing or requie better transitions.
+- Play the role of *naive reader*.
+  - Is something unclear?
+  - Challenge the writer.
 
+## Working with Final Drafts
+### Understand the Writer's Responsibilities
+- Final draft is **editing**, not **revising.**
+  1. What is your unique perspective on your issue?
+  2. To what extent do the words and phrases you use reflect who you believe your readers are?
+  3. Does your style of citation reflect accepted conventions for academic writing?
+  4. What do you think is working best?
+  5. What specific aspect of the essay are you least satisfied with at this time?
 
+### Understand the Reader's Responsibilities
+- Bottom-level of the compositional pyramide.
+  - Style and grammar.
+- Details are important.
+  - Is this the best word to use?
+  - Could this sentence be split into two?
+
+## Further Peer Editing Group Suggestions
+- After a session, discuss:
+  - Which topics were discussed?
+  - What was the level of ideas directed at?
+  - Who initiated talk more frequently?
+- Effective conversation:
+  - Free interaction
+  - Honest and spontaneous expression
+  - High levels of personal involvement
+  - Willingness to take responsibility.
+
+[Back to top](#)
