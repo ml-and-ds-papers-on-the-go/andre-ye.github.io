@@ -36,9 +36,10 @@ Andre Ye, 10/30/2020
 | Further discovery. | Polishing up essay. |
 
 ## The Peer Editing Process
-- The composition pyramid:
+The composition pyramid:
 
 | Level | Considering |
+| --- | --- |
 | Top | Situation, Issues, Thesis, Audience |
 | Middle | Organization, use of sources to support thesis |
 | Bottom | Style and grammar |
