@@ -23,5 +23,5 @@ Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Collingwood 17](https://andre-ye.github.io/precalc/collingwoods/Collingwood_17.pdf){:target="_blank"}
   - [Collingwood 18](https://andre-ye.github.io/precalc/collingwoods/Collingwood_18.pdf){:target="_blank"}
 - Chapter 5: "Functions and Graphs". Definitions, graphs, and manipulations of functions.
-  - [Collingwood 19](https://andre-ye.github.io/precalc/collingwoods/Collingwood_5.pdf){:target="_blank"}
+  - [Collingwood 19](https://andre-ye.github.io/precalc/collingwoods/Collingwood_19.pdf){:target="_blank"}
   
