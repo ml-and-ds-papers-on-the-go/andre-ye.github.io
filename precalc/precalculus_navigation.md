@@ -4,7 +4,7 @@
 Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
 
 ## Collingwoods
-*Collingwood textbook is available [here](https://sites.math.washington.edu/~colling/HSMath120/TB201112.pdf).*
+*Collingwood textbook is available [here](https://sites.math.washington.edu/~colling/HSMath120/TB201112.pdf){:target="_blank"}.*
 - Chapter 2: "Imposing Coordinates". Creating coordinate systems, parametric equations.
   - [Collingwood 5](https://andre-ye.github.io/precalc/collingwoods/Collingwood_5.pdf){:target="_blank"}
   - [Collingwood 6](https://andre-ye.github.io/precalc/collingwoods/Collingwood_6.pdf){:target="_blank"}
