@@ -166,6 +166,18 @@ Andre Ye, 11/3/20
 
 > We are burdened with enormous taxes by foreigners. We are corrupted in the morals of our youth. We are interfered with in our government. We are forced into collisions with other nations. We are tampered with in our religion. We are injured in our labor. We are assailed in our freedom of speech.
 
+- Religious and political themes.
+- How is fear being generated and expressed politically?
+
+
+
+
+
+
+
+
+
+
 
 
 
