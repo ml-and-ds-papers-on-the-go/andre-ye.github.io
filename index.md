@@ -9,6 +9,7 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 - [TS Biology](https://andre-ye.github.io/biology/biology_navigation) w/ Dr. Valensisi
 - [TS History: American History to 1877](https://andre-ye.github.io/history/history_navigation) w/ Dr. Reagan
 - [TS English](https://andre-ye.github.io/english/english_navigation) w/ Dr. Zink
+- [TS Precalculus](andre-ye.github.io/precalc/precalculus_navigation) w/ Dr. Johnston
 
 ## Check out my stuff
 - [Medium Blog](https://medium.com/@andre_ye). I write about machine learning, programming, and mathematics. 3.7k followers, ~200 articles and counting!
