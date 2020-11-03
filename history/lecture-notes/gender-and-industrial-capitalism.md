@@ -3,6 +3,41 @@
 # Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor
 Andre Ye, 10/27/20 & 10/29/20
 
+## Navigate
+- [Introduction](#introduction)
+- [Key Questions and Points](#key-questions-and-points)
+- [Household Economy and Social Parity](#household-economy-and-social-parity)
+  * [Artisanal Labor](#artisanal-labor)
+  * [Agrarian Power](#agrarian-power)
+- [Market Revolution and Social Transformation](#market-revolution-and-social-transformation)
+  * [The Transportation Revolution](#the-transportation-revolution)
+- [Division of Labor](#division-of-labor)
+  * [Putting Out System](#putting-out-system)
+- [Industrial Revolution](#industrial-revolution)
+- [Industrial Power](#industrial-power)
+  * [Water](#water)
+  * [Textile Production](#textile-production)
+- [Dramatic Environmental Impacts](#dramatic-environmental-impacts)
+  * [Pollution on the Concord River](#pollution-on-the-concord-river)
+  * [The Merrimack River Watershed](#the-merrimack-river-watershed)
+  * [Waltham Bostom Manufacturing Company Mill](#waltham-bostom-manufacturing-company-mill)
+  * [Industrial Accidents](#industrial-accidents)
+- [Social Impacts on Industrialization: Labor](#social-impacts-on-industrialization-labor)
+  * [Cheap Labor and Women](#cheap-labor-and-women)
+- [Cult of Domesticity](#cult-of-domesticity)
+  * [Standards on Social Participation](#standards-on-social-participation)
+- [Women and Labor Markets](#women-and-labor-markets)
+  * [Industrial Labor](#industrial-labor)
+  * [Social Impacts of Industrialization: Wages](#social-impacts-of-industrialization-wages)
+  * [Beauties of Our Factory System - Otherwise, Lowell Slavery](#beauties-of-our-factory-system-otherwise-lowell-slavery)
+- [Productivity and Labor Discipline](#productivity-and-labor-discipline)
+  * [The Lords of the Loom and the Lords of the Lash](#the-lords-of-the-loom-and-the-lords-of-the-lash)
+  * [The Liberator and Abolitionist Debate](#the-liberator-and-abolitionist-debate)
+    + [Liberator Debate](#liberator-debate)
+    + [Labor Theory of Value](#labor-theory-of-value)
+    + [Fredrick Douglass on Wages](#fredrick-douglass-on-wages)
+- [Industrial Women](#industrial-women)
+
 ## Introduction
 - First industrialized workforce in the US was all women.
 - Textile manufacturing was done exclusively by women.
@@ -247,6 +282,7 @@ Andre Ye, 10/27/20 & 10/29/20
   - Not selling a barrel or some artisanship craft, you are selling yourself and your time.
 
 ### Beauties of Our Factory System - Otherwise, Lowell Slavery
+
 ```
 Let oppression shrug her shoulders,
 And a haughty tyrant frown,
@@ -263,8 +299,14 @@ Oh! I cannot be a slave, I will not be a slave,
 For I'm so fond of liberty,
 That I cannot be a slave.
 ```
+
 - Comparison of status as a worker in the factories to **slavery**.
   - Writing this at a time when *chattel slavery actually existed.*
+- Relationships of wage.
+- Correct comparison with slavery?
+  - *Probably not.*
+  - Not subjected to violence, not really owned.
+  - Begs further explanation.
   
 ## Productivity and Labor Discipline
 - It's not outside of the realm of reasonableness to make the comparison.
@@ -274,50 +316,47 @@ That I cannot be a slave.
 - Comparisons between slaveholders and overseers.
 - Foremen looking over your work, you were not independent in how you were doing your work.
 
-### The Liberator
+### The Liberator and Abolitionist Debate
+
 ```Our wealthy citizens, as a body, are hostile to the interests fo the laboring classes? Is it not found int heir commercial enterprise, which whiten the ocean with canvas, and give employment to a useful and numerous class of men; it is not found in their manufacturing which multiply labor and cheapen necessities... It is a miserable characteristic of human nature to look with an envious eye upon those whoa re more fortunate in their pursuits, or more exalted in their station."
 ```
+
 - Abolitionists debated this.
   - If you're talking about abolition, include the wage system.
 - Debates in the pages of the abolitionist press: should we include the waged system as part of the system of slavery, or not?
+- Leading abolitionist figure: **William Llyod Garrison.**
+  - Writing to *The Liberator*: if in favor of abolition, it must not only be African slavery but industrial slavery.
+  - Garrison disagreed; believed that the two systems were not comparable.
+- Industrialism *produced and rising the tide for everyone*, Garrison argued.
+  - To say otherwise would be envious.
+  - Not fair to proclaim that these institutions are like slavery.
 
+#### Liberator Debate
+- Published retorts (have an exchange)
+- William West:
+  - Similarities between wage system and slavery.
 
+```
+The value and the price of labor have been rated not by the worth of their product, but by the power of those whoc ommand its proceeds, or for whom it is performed - to obtain it, and enjoy its benefits.
+```
 
+```
+You are striving to excite the attention of your countrymen to the injustice of holding their fellow men in bondage and deprivign them of the fruit of their toil. We are aiming at a similar object.
+```
 
+#### Labor Theory of Value
+- Labor is creating value but not getting its share from the proceeds.
+> The labor theory of value (LTV) is a theory of value that argues that the economic value of a good or service is determined by the total amount of "socially necessary labor" required to produce it. The LTV is usually associated with Marxian economics, although it also appears in the theories of earlier classical economics such as Adam Smith and David Ricardo and later also in anarchist economics. Smith saw the price of a commodity in terms of the labor that the purchaser must expend to buy it, which embodies the concept of how much labor a commodity, a tool for example, can save the purchaser. The LTV is central to Marxist theory, which holds that the working class is exploited under capitalism, and dissociates price and value. Marx did not refer to his own theory of value as a "labour theory of value". -Wikipedia
 
+#### Fredrick Douglass on Wages
+> Experience demonstrates that there may be a slavery of wages only a little less galling and crushing in its effects than chattel slavery, and this this slavery of wages must go down with the other.
+- Should be included in the abolitionist movement, but not *exactly* the same.
+- We should question the value of 'little'.
 
+## Industrial Women
+- Reworking of the social fabric of American society.
+- Requires transformations of economic and social spheres.
+- Transforms the social role of women.
+- Repeating question: *Why were women the first industrial workforce?*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to top](#)
