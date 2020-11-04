@@ -7,6 +7,8 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 - ["Slavery: Race and Unfree Labor"](https://andre-ye.github.io/history/lecture-notes/slavery-race-and-unfree-labor), 10/15/20.
 - ["Empire & Revolution: Society and Politics in Colonial America"](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution), 10/20/20 & 10/22/20
 - ["Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor"](https://andre-ye.github.io/history/lecture-notes/gender-and-industrial-capitalism), 10/27/20 & 10/29/20
+- ["Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions"](https://andre-ye.github.io/history/lecture-notes/race-and-immigration), 11/3/20
+
 
 ## Study Guides
 - [Fall Quarter Midterm Study Guide](https://andre-ye.github.io/history/study-guides/fall-quarter-midterm-study-guide), 10/29/20.
