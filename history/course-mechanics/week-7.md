@@ -59,3 +59,14 @@
 ```
 At the time the Lowell cotton mills were started the caste of the factory girlw as the lowest among the employments of women. In England and in France, particularly, great injustice had been done to her real character. She was represented as subjected to influences that must destroy her purity and self-respect. In the eyes of her overseer she was but a brute, a slave, to be beaten, pinched and and pusehd about. It was to overcome this prejudice that such high wages had been ofered to women that they might be induced to become mill-girls, in spite of the opprobrium that still clung to this degrading occupation.
 ```
+- WTF moments.
+  - The `lowest` occupation?
+  - How does Robinson know what is happening in England and in France?
+  - Conflicting high wages and shame.
+  - Why would the overseers be beating, pinching, and pushing when it seems economically disadvantageous?
+  - The use of slave.
+    - Implies pressure.
+  - Use of 'caste' implies a hierarchy. Where does Robinson place the 'factory girl' on this hierarchy? What does she determine to be a 'noble role' for women? This contradicts with previous discussion on the independence and joy of having work.
+  - What is used by 'purity'?
+
+[Back to top](#)
