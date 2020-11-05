@@ -110,6 +110,7 @@ Andre Ye, 11/3/20
 - Privledged access to jobs, better working conditions, etc.
 - There is real meaning and benefit in being defined as white.
 - Recommending reading: *The Wages of Whiteness* by David R. Roediger
+- Whiteness becomes meaningful by exclusion from job markets.
 
 ## Famine Migration and the Legacy of Globalism and Colonialism
 
@@ -152,7 +153,7 @@ Andre Ye, 11/3/20
 - Irish immigrants stood out.
   - Practiced a different religion, spoke a different language (Gaelic), looked different, had different family relationships (larger families), dressed different, behaved differently.
 
-### Catholicism, Nativism, and the First Anti Immigrant Campaigns
+## Catholicism, Nativism, and the First Anti Immigrant Campaigns
 - **Nativism:** the idea that white-born Protestant peoples were the native interest. Antagonized immigrants as potential threats to priorities.
 - 1852 flyers for the Boston Patriot, affiliated with the American Patriot Party (recalled as the Know-Nothing Party).
 - Stances (all wording is original):
@@ -168,14 +169,44 @@ Andre Ye, 11/3/20
 
 - Religious and political themes.
 - How is fear being generated and expressed politically?
+- Different aspects are being racialized.
+  - Not simply social or cultural difference; people thought aboout discrepnacies as racial (biological, inherent to a lineage).
 
+### 1844 Bible Riots
+- Inn Philadelphia, 1844 Bible Riots
+- Two stages of riots; spring and summer.
+- Untrue rumor that the Catholics would impose teaching the Catholic bible in the school system in Philadelphia.
+  - Ran through Protestant communities.
+  - Working-class men attacked Catholics in the streets.
+- Burned churches.
+- Catholics tried to arm in self-defense; were attacked by Protestant mobs.
+- Dozens of people killed in the riots.
+- Led to direct conflict in the 1844 Bible riots
 
-
-
-
-
-
-
+### The Age of Political Cartooning
+- "Mutual: Both are glad there are bars between them." *Judge* 1891.
+  - Depicts Cathollics as monkeys dressed in suits.
+  - The monkey is glad that it is behind bars.
+  - The joke:
+    - The Irish Catholic is thankful that there are bars between them because the monkey is dangerous.
+    - The monkey is thankful that there are bars betwene them because the Irish Catholic is dangerous.
+  - Any 19th century newspaper reader would have recognized the depiction of humans with simian (ape-like) features.
+    - Depiction of an Irish person.
+    - Irish Catholic and a monkey on the other.
+- Features of Irish Women vs. Anglo-Saxon Women.
+  - The exaggerated and simian dehumanizing characteristics were used to racialize features.
+- *Puck* magazine 1889
+  - "*The mortar of assimilation... and the one element that won't mix.*"
+  - Depicts a female representation of America mixing a bowl of citizenship pwith the spoon of equal rights.
+    - Inside the bowl are representations of the Irish with knives, yelling and screaming.
+    - The rest of the portrayals of people in the bowl stay in it obediently.
+  - All people ares are being racialized. 
+  - The point of the comic is the one element that will not mix; highlighting irish difference. 
+- Thomas Nast and *Harpers Weekly*, 1876
+  - "The ignorant vote-honors are easy."
+  - Displays a black person and an Irish person as equal on a scale, conspiring.
+  - Thomas Nast - the most famous political cartoonist in the 19th century.
+  - Displayed as ignorant and serves as a threat to democracy.
 
 
 
