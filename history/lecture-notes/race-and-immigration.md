@@ -1,7 +1,7 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Race, Immigration and Whiteness: Labor Markets and Cultural Constructions*
 
 # Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions
-Andre Ye, 11/3/20
+Andre Ye, 11/3/20 & 11/5/20.
 
 ## Navigate
 - [Introduction](#introduction)
