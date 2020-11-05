@@ -3,6 +3,30 @@
 # Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions
 Andre Ye, 11/3/20
 
+## Navigate
+- [Introduction](#introduction)
+- [Legal Cornerstones of American Immigration and Constructions of Whiteness](#legal-cornerstones-of-american-immigration-and-constructions-of-whiteness)
+  * [Ante-Bellum Immigration](#ante-bellum-immigration)
+- [Early Industrialization](#early-industrialization)
+- [Unions](#unions)
+  * [Unions and Economism](#unions-and-economism)
+  * [Unions and Racial Exclusivity](#unions-and-racial-exclusivity)
+- [Constructions of Working Class Masculinity](#constructions-of-working-class-masculinity)
+- [Whiteness Structural Components](#whiteness-structural-components)
+  * [Citizenship](#citizenship)
+  * [Jobs](#jobs)
+- [Famine Migration and the Legacy of Globalism and Colonialism](#famine-migration-and-the-legacy-of-globalism-and-colonialism)
+  * [The Irish Famine](#the-irish-famine)
+  * [Irish Immigration to the United States](#irish-immigration-to-the-united-states)
+- [Catholicism, Nativism, and the First Anti Immigrant Campaigns](#catholicism-nativism-and-the-first-anti-immigrant-campaigns)
+  * [1844 Bible Riots](#1844-bible-riots)
+  * [The Age of Political Cartooning](#the-age-of-political-cartooning)
+- [Labor Markets, Making Race, and Immigration](#labor-markets-making-race--and-immigration)
+  * [Fragmented Whiteness 1840s-1920s](#fragmented-whiteness-1840s-1920s)
+    + [Blumenbach and the 5 Race Theory](#blumenbach-and-the-5-race-theory)
+  * [Is Race a System of Nature?](#is-race-a-system-of-nature)
+- [Whiteness](#whiteness)
+
 ## Introduction
 - *Ironworkers Noontime*, Thomas Anschutz, 1880.
 - Racially exclusive labor.
