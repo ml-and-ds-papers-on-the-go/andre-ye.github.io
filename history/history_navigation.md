@@ -28,3 +28,4 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
 - [Week 4 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-4). *Feedback on essay 1, grading standards for essays, reading responses & active reading.*
+- [Week 7 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-7). *Further walk throughs on essays, argumentation, and reading responses.*
