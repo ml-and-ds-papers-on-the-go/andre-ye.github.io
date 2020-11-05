@@ -208,8 +208,66 @@ Andre Ye, 11/3/20
   - Thomas Nast - the most famous political cartoonist in the 19th century.
   - Displayed as ignorant and serves as a threat to democracy.
 
+## Labor Markets, Making Race, and Immigration
+- Enacted in street violence of immigrant peoples.
+- Discussion of building walls around dangerous Chinese peoples who were believed not to be able to assimilate to American standards.
+- Cultural and literal tropes around social differences.
 
+### Fragmented Whiteness 1840s-1920s
+- Many races:
+  - Anglo Saxon/Nordic Race
+  - Celtic/Irish race
+  - Hebrew/Jewish/Semitic race
+  - Italian/Mediterranean race
+  - Slavic/Alpine/Hunky race
+- Whiteness vs. other races.
+- Irish Catholics and Italians are able to claim whiteness.
 
+#### Blumenbach and the 5 Race Theory
+- Johan Friedrich Blumenbach.
+- Argues for 5 race theory.
+  - Caucasian
+  - Mongolian
+  - Malay
+  - Ethopian
+  - American
+- Argued that Mt. Caucasus was the birthplace of humankind.
+- Caucasian race spread to Europe and western Asia as far as India. Four other races emerged as less pure variations.
+- Phrenology: study of skulls.
+- Created an entire racial categorization around different skull types; most were imagined.
+- *Pseudoscientific* discourse changed what it meant to be racial.
+- Caucus mountains.
+  - Blumenbach found a skull in the Caucus mountains he found was particularly well formed.
+  - Believed that this was the origination of the most beautiful peoples.
+  - Origination must have come from the Caucus mountains.
+  - *Caucasian* use of term has carried from this 5-race theory.
+  - Has little to do with real human social development and advancement.
+- Racial typology began to take hold.
 
+### Is Race a System of Nature?
+- Old science understood races as genetically distinct populations with innate characteristics including different kinds of intelligent.
+- Modern science finds few genetic differences between populations and can't reliably identify boundaries between races.
+- Social difference is found within social markers.
+  - Conflict around social access.
+  - Social hierarchy and privledge.
+  - The different doesn't matter - people can sieze upon anything.
+- Variety in human phenotypes falls along a gradient.
+  - We cna choose to draw and redraw the meaning of races.
+- Thesis: **races are socially constructed; societies draw and redraw the boundaries and change the meaning of races.**
+  - Juan Gonzalez talks about the gradation of typologies in the Spanish system that led to more racial mixing.
+  - Social categories of being mulatto.
+  - United States; strict racial typology around being white or black.
+- **Race:** A human population distinguished as a more or less distinct group by genetically transmitted physical characteristics.
+- **Ethnic group:** A population that is distinguished by culture and identity.
 
-
+## Whiteness
+- Throughout most of American history, whiteness has been a precondition for social and political citizenship.
+- Only whites could readily access full political rights.
+- Only whites could feel unmarked, not different, 'normal' in American society.
+- To be nonwhite was to be marked, to be different, and to struggle against barriers to full social and political citizenship.
+- Aspects of culture, religion, skin color in a cauldron that is continually being shaped and re-shaped.
+- In the 19th century, what makes whiteness meaningful?
+  - Civil protections (voting, etc.)
+  - Job protections
+  - Worth fighting and killing for.
+- Immigrants that challenge whiteness were met with fighting and killing.
