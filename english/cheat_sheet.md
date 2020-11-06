@@ -14,6 +14,8 @@
   * [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
   * [Rogerian Approach to Argument](#rogerian-approach-to-argument)
   * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
+- [Issues](#issues)
+  * [Steps to Identifying Issues)(#steps-to-identifying-issues)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -84,6 +86,17 @@
 15. **Fallacy of the Middle Ground.** Assumes that the middle position beteen extreme positions must be correct.
 
 [Back to top.](#)
+
+---
+
+## Issues
+### Steps to Identifying Issues
+1. **Draw on personal experience.** Build your argument from a personal sense of what is important, puzzling, uncomfortable, wrong, or curious.
+2. **Identify what is open to dispute.** What challenges what you think or believe?
+3. **Resist binary thinking.** Accept complexiites.
+4. **Build on and extend the ideas of others.** Open up to new ways of looking at the issue.
+5. **Read to discover a writer's frame.** What theories or ideas shape the writer's focus?
+6. **Consider the constriants of the situation.** Formulate your argument to meet needs and constraints of the context.
 
 ---
 
