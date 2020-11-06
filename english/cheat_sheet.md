@@ -15,7 +15,7 @@
   * [Rogerian Approach to Argument](#rogerian-approach-to-argument)
   * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
 - [Issues](#issues)
-  * [Steps to Identifying Issues)(#steps-to-identifying-issues)
+  * [Steps to Identifying Issues](#steps-to-identifying-issues)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
