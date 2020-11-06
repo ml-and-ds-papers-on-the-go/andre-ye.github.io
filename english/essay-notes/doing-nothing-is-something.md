@@ -20,7 +20,7 @@ Anna Quindlen
 
 - American children's lives have changed for the worse.
   - The calendar of the average middle-class kid is getting filled to the brim. (para. 4)
-- Evidence: parents need to *arrnage schedule times for unscheduled time.
+- Evidence: parents need to *arrange schedule times for unscheduled time.*
 - **Suggestion:** How about doing nothing?
   - It is pathetic to shove a kid's day full of activities.
 - Pyschological research suggesting 'doing nothing' is actually when humans do their best thinking. (para. 6)
@@ -30,11 +30,11 @@ Anna Quindlen
 
 - University of Michigan quantified downtime deficit.
 - American kids have lost 4 unstructured hours per week from the last 20 years.
-- Right to Play movement:
+- Contrasts in Right to Play movement:
 
 | Location | Purpose |
 | --- | --- |
-| Third-world countries | Stopping child labor |
+| Third-world countries | Stopping child labor. |
 | United States | Additional recess. (The labor of being a perpetualy busy child. |
 
 <br>
