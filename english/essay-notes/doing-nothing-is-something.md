@@ -8,6 +8,8 @@ Andre Ye, 11/6/2020
 Anna Quindlen
 : As a bestselling author of novels and children's books, Anna Quindlen is widely known for her commentary on current events and culture. She won a Pulitzer Prize for a column in the *New York Times.*
 
+<br>
+
 - Summer is coming soon; windows are opening, the school materials are wearing out. (para. 1)
 > Hanging out. How boring it was. (para. 2)
 - Kids used to be bored and passive.
