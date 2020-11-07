@@ -1,6 +1,6 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Video notes
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Video Notes - Central Dogma, DNA Experiments and Synthesis
 
-# Video notes
+# Video Notes - Central Dogma, DNA Experiments and Synthesis
 Andre Ye, 11/7/2020
 
 ---
