@@ -23,10 +23,11 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on "Early Factory Labor in New England" by Harriet H. Robinson (1883)](https://andre-ye.github.io/history/rr5/early-factory-labor), 10/25/20.
 - Weekly Reading Response 6 (Due 11/5)
   - [Notes on Anti-Catholic Petition, 1837](https://andre-ye.github.io/history/rr6/anti-catholic-petition), 10/31/20.
-  - [Notes on *"Asian American Dreams: The Emergence of an American People"* by Helen Zia](https://andre-ye.github.io/history/rr6/asian-american-dreams), 10/31/20.
-  - [Notes on *"Becoming Caucasian: Vicissitudes of Whiteness in American Politics and Culture"* by Matthew Frye Jacobson](https://andre-ye.github.io/history/rr6/becoming-caucasian), 11/1/20.
+  - [Notes on *Asian American Dreams: The Emergence of an American People* by Helen Zia](https://andre-ye.github.io/history/rr6/asian-american-dreams), 10/31/20.
+  - [Notes on *Becoming Caucasian: Vicissitudes of Whiteness in American Politics and Culture* by Matthew Frye Jacobson](https://andre-ye.github.io/history/rr6/becoming-caucasian), 11/1/20.
 - Weekly Reading Response 7 (Due 11/12)
   - [Notes on *John Brown's Last Speech*](https://andre-ye.github.io/history/rr7/john-brown), 11/7/20.
+  - [Notes on *River of Dark Dreams: Slavery and Empire in the Cotton Kingdom* by Walter Johnson](https://andre-ye.github.io/history/rr7/river-of-dark-dreams), 11/7/20.
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
