@@ -18,6 +18,8 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 - Proteins. *Types of proteins, folding, functions, amino acids.*
   - [Textbook Notes - Protein Structure and Function](https://andre-ye.github.io/biology/proteins/textbook-notes), 10/29/20
   - [4 Structures & 9 Types of Proteins Cheat Sheet (Video Notes)](https://andre-ye.github.io/biology/proteins/video_notes), 10/29/20
+- Genes and DNA.
+  - [Textbook Notes (section 1.3, 15.1-15.3) - DNA and Gene Synthesis and Repair](https://andre-ye.github.io/biology/genes-and-dna/textbook-notes), 11/7/20
 
 ## The Scientific Process and Scientific Writing
 - [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
