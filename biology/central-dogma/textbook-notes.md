@@ -6,6 +6,32 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigation
+- [1.3: Life Processes Information and Requires Energy](#13-life-processes-information-and-requires-energy)
+  * [Introduction](#introduction)
+  * [The Central Dogma](#the-central-dogma)
+  * [Life Requires Energy](#life-requires-energy)
+- [15: DNA and the Gene: Synthesis and Repair](#15-dna-and-the-gene-synthesis-and-repair)
+- [15.1: What Are Genes Made Of?](#151-what-are-genes-made-of-)
+  * [Initial Biological Hypothesis That Genes Were Made of Proteins](#initial-biological-hypothesis-that-genes-were-made-of-proteins)
+  * [The Herschey-Chase Experiment](#the-herschey-chase-experiment)
+    + [Experiment in Step-by-Step Tabular Form](#experiment-in-step-by-step-tabular-form)
+  * [The Structure of DNA](#the-structure-of-dna)
+- [15.2: Testing Early Hypotheses About DNA Synthesis](#152-testing-early-hypotheses-about-dna-synthesis)
+  * [Three Alternative Hypotheses](#three-alternative-hypotheses)
+  * [The Meselson-Stahl Experiment](#the-meselson-stahl-experiment)
+    + [Experiment in Step-by-Step Tabular Form](#experiment-in-step-by-step-tabular-form-1)
+- [15.3: A Model for DNA Synthesis](#153-a-model-for-dna-synthesis)
+  * [DNA Polymerase](#dna-polymerase)
+    + [Endergonic Polymerization Reactions](#endergonic-polymerization-reactions)
+  * [Where Does Replication Start?](#where-does-replication-start)
+  * [How is the Helix Opened and Stabilized?](#how-is-the-helix-opened-and-stabilized)
+  * [How is the Leading Strand Synthesized?](#how-is-the-leading-strand-synthesized)
+  * [How is the Lagging Strand Synthesized?](#how-is-the-lagging-strand-synthesized)
+    + [Discontinuous Replication Hypothesis](#discontinuous-replication-hypothesis)
+    + [Reiji and Tsuneko Okazaki Experiment](#reiji-and-tsuneko-okazaki-experiment)
+    + [The Discovery of Okazaki Fragments](#the-discovery-of-okazaki-fragments)
+    + [Connection of Okazaki Fragments](#connection-of-okazaki-fragments)
+  * [New Discoveries in DNA Synthesis](#new-discoveries-in-dna-synthesis)
 
 ## 1.3: Life Processes Information and Requires Energy
 ### Introduction
@@ -238,32 +264,36 @@ Dispersive replication | Parental double helix was fragmented into small pieces 
 ### How is the Lagging Strand Synthesized?
 - Lagging strand (discontinuous strand) is synthesized in the direction away from the replication fork.
 
+#### Discontinuous Replication Hypothesis
+- Proposed to explain how lagging strand was synthesized.
+- Primase synthesizes new RNA primers for lagging strands as the moving replication fork opens single-stranded regions of DNA.
+  - DNA polymerase syntheses short DNA fragments from these primers.
+  - Fragments linked to form a continuous strand.
 
+#### Reiji and Tsuneko Okazaki Experiment
+- 1960s; tested a prediction of discontinuous replication hypothesis - existence of short DNA fragments on one of two newsly synthesized strands of DNA.
+- Pulse-chase strategy.
+- Exposed a culture of growing *E. coli* cells to radioactive deoxyribonucleotides (pulse) and transferred cells to growth medium with nonradioactive deoxyribonucleotides (chase).
+  - Radioactive deoxyribonucleotides should first appear in short fragments of DNA.
 
+#### The Discovery of Okazaki Fragments
+- Researchers found short radioactively labelled DNA fragments averaging about 1000 deoxyribonucleotides long.
+- Short DNAs (attached to RNA primers) known as **Okazaki fragments**.
+- Gradually became longer during the chase.
 
+#### Connection of Okazaki Fragments
+- Bacteria: DNA polymerase III dissasociates from 3' end of Okazaki fragment when polymerase encounters RNA primer that begins next Okazaki fragment.
+- DNA polymerase I attaches to 3' end of Okazaki fragment.
+  - Moves in 5' to 3', removing the RNA primer ahead of it and replaces ribonucleotides with deoxyribonucleotides.
+- Enzyme called DNA ligase catalyzes the formation of the phosphodiester bond between 3' and 5' ends of adjacent Okazaki fragments, closing the backbone.
 
+### New Discoveries in DNA Synthesis
+- New insights continue to emerge.
+- Proteins and enzymes work in a macromolecular machine called the **replisome.**
+- Replisome may contain up to three copies of DNA polymerase III.
 
+[Back to top](#)
 
+---
 
 [^1]: Lower-density molecules cluster in bands high in the centrifuge tube, higher-density molecules cluster in bands lower in the tube.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
