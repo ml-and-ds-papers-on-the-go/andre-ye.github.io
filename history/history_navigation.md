@@ -3,12 +3,13 @@
 # TS History: American History to 1877
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
+Quick Links: [Lecture Notes](#lecture-notes), [Study Guides](#study-guides), [Weekly Reading Responses](#weekly-reading-responses), [Course Mechanics & Feedback](#course-mechanics)
+
 ## Lecture Notes
 - ["Slavery: Race and Unfree Labor"](https://andre-ye.github.io/history/lecture-notes/slavery-race-and-unfree-labor), 10/15/20
 - ["Empire & Revolution: Society and Politics in Colonial America"](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution), 10/20/20 & 10/22/20
 - ["Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor"](https://andre-ye.github.io/history/lecture-notes/gender-and-industrial-capitalism), 10/27/20 & 10/29/20
 - ["Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions"](https://andre-ye.github.io/history/lecture-notes/race-and-immigration), 11/3/20 & 11/5/20
-
 
 ## Study Guides
 - [Fall Quarter Midterm Study Guide](https://andre-ye.github.io/history/study-guides/fall-quarter-midterm-study-guide), 10/29/20.
@@ -24,6 +25,8 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Notes on Anti-Catholic Petition, 1837](https://andre-ye.github.io/history/rr6/anti-catholic-petition), 10/31/20.
   - [Notes on *"Asian American Dreams: The Emergence of an American People"* by Helen Zia](https://andre-ye.github.io/history/rr6/asian-american-dreams), 10/31/20.
   - [Notes on *"Becoming Caucasian: Vicissitudes of Whiteness in American Politics and Culture"* by Matthew Frye Jacobson](https://andre-ye.github.io/history/rr6/becoming-caucasian), 11/1/20.
+- Weekly Reading Response 7 (Due 11/12)
+  - [Notes on *John Brown's Last Speech*](https://andre-ye.github.io/history/rr7/john-brown), 11/7/20.
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
