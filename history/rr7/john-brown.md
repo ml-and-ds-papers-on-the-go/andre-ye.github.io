@@ -4,6 +4,11 @@
 Andre Ye, 11/7/2020
 
 ## Navigate
+- [Context](#context)
+- [Denial of Intent](#denial-of-intent)
+- [Injustice of Penalty](#injustice-of-penalty)
+- [Religious Justification](#religious-justification)
+- [Concluding Statements](#concluding-statements)
 
 ## Context
 > On October, 16, 1859, John Brown and nearly two dozen comrades seized the armory at Harper's Ferry in West Virginia, hoping to use its massive arsenal in the struggle to forcibly end slavery. Captured and brought to trial at nearby Charles Town, Brown was found guilty of treason. One month before his execution, John Brown addressed a courtroom in Charlestown, West Virginia, defending his role in the action at Harper's Ferry. Henry David Thoreau, although himself did not favor violence, praised John Brown, and when the fiery Preacher was sentenced to death, Ralph Waldo emerson said: "He will make the gallows holy as the cross."
