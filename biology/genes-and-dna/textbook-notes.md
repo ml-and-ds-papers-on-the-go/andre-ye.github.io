@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Central Dogma > Textbook Notes: 1.3, 15.1, 15.2, 15.3
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Textbook Notes: 1.3, 15.1, 15.2, 15.3
 
 # Textbook Notes: 1.3, 15.1, 15.2, 15.3
 Andre Ye, 11/7/2020
