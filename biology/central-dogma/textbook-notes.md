@@ -132,6 +132,120 @@ Andre Ye, 11/7/2020
 - Lined these two strands up in opposite directions in antiparallel fashion.
 
 ## 15.2: Testing Early Hypotheses About DNA Synthesis
+- A-T and G-C pairing rules suggest a way for DNA to be copied when chomosomes are replicated.
+- Proposed that existing strands of DNA served as a template for production.
+
+### Three Alternative Hypotheses
+- Biologists proposed some alternatives about DNA replication:
+
+Hypothesis | Description
+--- | ---
+Semiconservative replication | If parental strands of DNA separate, each could be used as a synthesis of a new daughter strand. Each daughter DNA molecule consists of one old strand and one new strand. Conserves only one of the strands.
+Conservative replication | If bases of strands turned out from the helix, they could serve as a template for an entirely new double helix all at once.
+Dispersive replication | Parental double helix was fragmented into small pieces before replication, and each piece was replicated either with conservative or semiconservative mechanisms. Fragments would be joined into two molecules that contained a mixture of parental and daughter strands.
+
+### The Meselson-Stahl Experiment
+- Worked with *Escherichia coli* (*E. coli*) (same bacterium used in Hershey & Chase)
+- Bacterial cells copy their entire complement of DNA (genome) before every cell division.
+- Distinguish parent strands from daughter strands: plan to grow *E. coli* cells in the presence of nitrogen isotopes of different masses.
+  - Different nitrogen isotope available in growth as DNA synthesized; the parental & daughter strands will have different identies.
+  - Density-gradient centrifugation separates molecules based on their density. [^1]
+  - Double stranded DNA molecules are subjected to density-gradient centrifugation; DNA that contains heavier isotopes of nitrogen will form a band lower in the tube.
+- DNA containing nitrogen isotope-14 and nitrogne isotope-15 could be sseparated into two bands.
+- Grew *E. coli* cells with nutrients containing only `15_N` (nitrogen isotope 15); purified DNA and transferred culture to growth medium with `14_N`.
+- After enough time, cells divided (DNA copied). Culture divided again; sample was removed and DNA was isolated.
+- Concluded that conservative replication and dispersive replication was wrong. 
+
+#### Experiment in Step-by-Step Tabular Form
+
+| Aspect | Description |
+| --- | --- |
+| Question | Is replication semiconservative, conservative, or dispersive? |
+| Hypothesis 1 | Replication is conservative. |
+| Hypothesis 2 | Replication is semiconservative. |
+| Hypothesis 3 | Replication is dispersive. |
+| Experimental Setup | Grow *E. coli* cells in medium with `15_N`. Transfer cells to medium with `14_N`. Let the cells divide twice (total 3 generations). Centrifuge the three samples separately. Compare locations of DNA bands.
+| Prediction 1 | After two generations: 1/2 low-density DNA, 1/2 intermediate-density DNA. |
+| Prediction 2 | 1/4 high-density DNA, 3/4 low-density DNA. |
+| Prediction 3 | All intermediate-density DNA. |
+| Results | After 2 generations, 1/2 low-density DNA and 1/2 intermediate-density DNA. |
+| Conclusion | Replication is semiconservative. |
+
+## 15.3: A Model for DNA Synthesis
+- DNA inside a cell is like an ancient cell.
+- Ancient tests contain messages thousands of years old; DNA in cells has been copied and passed down from LUCA.
+
+### DNA Polymerase
+- DNA replication breakthrough: discovery of DNA polymerase.
+  - Polymerizes deoxyribonucleotide monomers into DNA.
+  - Is a protein that catalyzes DNA synthesis.
+  - Many different types of DNA polymerase.
+- DNA polymerase only works in one direction; only adds deoxyribonucleotides to the 3' end of the chain.
+  - DNA synthesis goes from 5' to 3'.
+
+#### Endergonic Polymerization Reactions
+- Polymerization reactions are usually endergonic (require input of energy).
+- DNA synthesis requires an input of energy, but potential energy of deoxyribonucleotide monomers is raiased by reactions tha add two phosphate groups, forming **deoxyribonucleotide triphosphates (dNTPs)**.
+  - *n* represents any of 4 bases found in DNA.
+  - dNTP has high potential energy; forms phosphodiester bonds in DNA strand.
+
+### Where Does Replication Start?
+- Biologists used electron microscopy to catch DNA replication in action.
+- Replication bubble forms as DNA is synthesized.
+  - Forms at sequence of bases called *origin of replication.*
+- Bacterial chromosomes have only one origin of replication. Eukaryotes have multiple origins of replication.
+- **Replication fork** is a Y-shaped region where parental DNA double helix is separated into strands and copied.
+- DNA synthesis occurs in two directions at once.
+
+### How is the Helix Opened and Stabilized?
+- Proteins converge at an origin of replication in bacteria and eukaryotes.
+- However, organisms use different ways to control DNA synthesis.
+
+| Type | Process |
+| --- | --- |
+| Bacteria | Set of proteins recognizes origin of chromosome; strands near origin are separated. DNA helicase (enzyme) binds to one of the single strands of DNA near the forks. |
+| Eukaryotes | Proteins that initiate DNA replication are held tight by cell-cyle regulatory proteins. DNA helicase is loaded onto double-stranded DNA at the origin. |
+| All organisms | DNA helicase uses energy of ATP hydrolysis (breakdown) to separate strands of DNA at replication forks. **Single-stranded DNA-binding proteins (SSBPs)** attach to strands to prevent them from becoming double helices again. |
+
+- Topoisomerase is an enzyme that cuts DNA, allows it to unwind, and rejoins it.
+- Acts as DNA replication works ahead of the advancing replication fork to relieve twists generatd by DNA helicase.
+
+### How is the Leading Strand Synthesized?
+1. **DNA is opened, unwound, and primed.**
+  - Primase synthesizes the RNA primer. 
+  - Topoisomerase relieves twisting forces.
+  - Helicase opens double helix.
+  - SSBPs stabilize large strands.
+2. Synthesis of leading strand begins. 
+  - Sliding clamp holds DNA polymerase in place.
+  - DNA polymerase synthesizes leading strand in 5' to 3' direction.
+
+- Consequences of anti-parallel nature of DNA strands and limitations of DNA polymerases.
+  1. DNA polymerase can synthesize DNA only in 5' to 3' direction.
+  2. DNA polymerase cannot start synthesizing from scratch on a template strand.
+    - Can only extend fromt he 3' of an existing strand that is hydrogen-bonded to the template.
+- 3' end supplied by a strand of RNA called a **primer** that is base paired to the DNA template.
+  - Primase is a RNA polymerase (enzymes that catalyze polymerization of ribonucleotides into RNA).
+  - RNA polymerase can start synthesis from scratch.
+- Primer laid down on single-stranded template.
+  - DNA polymerase adds deoxyribonucleotides in the 5' to 3' direction.
+  - A protein ring encircles DNA and binds to DNA polymerase.
+  - Sliding clamp keeps DNA polymerase from falling off the DNA during synthesis.
+- **Antiparallel orientation of DNA** is significant.
+  - Strand of DNA synthesizes towards replication fork called **leading strand** (or **continuous strand**), because its synthesis proceeds continuously  in the direction of the moving replication fork.
+- After RNA primer is in place, DNA polymerase moves along reading the template and adding deoxyribonucleotides one by one to the extending 3' end of the strand.
+
+### How is the Lagging Strand Synthesized?
+- Lagging strand (discontinuous strand) is synthesized in the direction away from the replication fork.
+
+
+
+
+
+
+
+
+[^1]: Lower-density molecules cluster in bands high in the centrifuge tube, higher-density molecules cluster in bands lower in the tube.
 
 
 
