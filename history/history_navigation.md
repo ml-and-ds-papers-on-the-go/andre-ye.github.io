@@ -3,7 +3,7 @@
 # TS History: American History to 1877
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
-Quick Links: [Lecture Notes](#lecture-notes), [Study Guides](#study-guides), [Weekly Reading Responses](#weekly-reading-responses), [Course Mechanics & Feedback](#course-mechanics)
+Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-guides), [Weekly Reading Responses](#weekly-reading-responses), [Course Mechanics & Feedback](#course-mechanics)
 
 ## Lecture Notes
 - ["Slavery: Race and Unfree Labor"](https://andre-ye.github.io/history/lecture-notes/slavery-race-and-unfree-labor), 10/15/20
