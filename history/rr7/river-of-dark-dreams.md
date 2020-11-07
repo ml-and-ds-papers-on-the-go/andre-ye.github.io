@@ -10,6 +10,7 @@ Andre Ye, 11/7/2020
 - Published by the Belknap Press of Harvard University Press.
 - Published in 2013 at Cambridge, Massachusetts.
 - The reading excerpt for class is Chapter 9: *The Mississippi Valley in the Time of Cotton*.
+- Every section will be marked by `*Page 244 (excerpt p.2)*`. This indicates that the section information begins on page 244 in the book, or the 2nd page of the PDF given for the class reading.
 
 ## The Hidden Capitalism of Slavery
 *Page 244 (excerpt p.2)*
