@@ -47,6 +47,7 @@ Andre Ye, 11/7/2020
 
 
 ### Herschey-Chase Experiment
+
 | Aspect | Description |
 | --- | --- |
 | Question | Do viral genes consist of DNA or protein? |
@@ -145,7 +146,8 @@ Dispersive replication | Parental double helix was fragmented into small pieces 
 | Lagging strand | The strand that runs opposite to the direction in which the replication fork is moving. This causes a lag. |
 | Continuous strand | The strand that moves in the same direction as the replication fork. |
 | Okazaki fragments | Short DNA fragments attached to RNA primers produced by the lag of the lagging strnad. |
-| Origin of Replication | A sequence of bases that indicates the start of a replication bubble, in which two replication forks move in opposite directions to separate the DNA strand. | Proteins and enzymes work in a macromolecular machine called the replisome. Replisome may contain up to three copies of DNA polymerase III.
+| Origin of Replication | A sequence of bases that indicates the start of a replication bubble, in which two replication forks move in opposite directions to separate the DNA strand. | 
+| Replisome | Proteins and enzymes work in a macromolecular machine called the replisome. Replisome may contain up to three copies of DNA polymerase III.
 | RNA polymerase | A polymerase that can start synthesis from scratch. Primase is a RNA polymerase (enzymes that catalyze polymerization of ribonucleotides into RNA). |
 | RNA primers | Because DNA polymerase cannot synthesize new nucleotides on its onw, but RNA polymerase (for example, primase) can. This is used to initiate building, and is later removed by DNA polymerase I. |
 
