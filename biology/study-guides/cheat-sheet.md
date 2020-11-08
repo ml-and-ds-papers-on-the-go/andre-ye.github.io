@@ -29,10 +29,11 @@ Andre Ye, 11/7/2020
 | DNA Hypothesis | T2 virus genes consist of DNA. |
 | Protein Hypothesis | T2 virus genes consist of protein. |
 | Experimental Setup | Label viruses (grow one set of TS w/ radioactive DNA and radioactive protein). Infect bacteria. Agitate cultures. Centrifuge solutions and force cells into pellet. Record location of radioactive labels. |
-| Prediction of DNA Hypothesis | Radioactive DNA will be located within the pellet. |
-| Prediction of Protein Hypothesis | Radioactive protein will be located within the pellet. |
+| Prediction of DNA Hypothesis | Radioactive DNA will be located within the pellet of the centrifuge. |
+| Prediction of Protein Hypothesis | Radioactive protein will be located within the pellet of the centrifuge. |
 | Results | Radioactive DNA is in pellet. Radioactive protein is in solution. |
 | Conclusion | T2 virus genes consist of DNA. |
+| Significance | Proved that heritable information takes the form of DNA, not proteins. |
 
 ### Meselson-Stahl Experiment
 
@@ -42,12 +43,13 @@ Andre Ye, 11/7/2020
 | Hypothesis 1 | Replication is conservative. |
 | Hypothesis 2 | Replication is semiconservative. |
 | Hypothesis 3 | Replication is dispersive. |
-| Experimental Setup | Grow *E. coli* cells in medium with `15_N`. Transfer cells to medium with `14_N`. Let the cells divide twice (total 3 generations). Centrifuge the three samples separately. Compare locations of DNA bands.
+| Experimental Setup | Grow *E. coli* cells in medium with `15_N` (heavy nitrogen, see [DNA Replication Terms and Concepts](#dna-replication-terms-and-concepts)). Transfer cells to medium with `14_N` (regular nitrogen). Let the cells divide twice (total 3 generations). Centrifuge the three samples separately. Compare locations of DNA bands.
 | Prediction 1 | After two generations: 1/2 low-density DNA, 1/2 intermediate-density DNA. |
 | Prediction 2 | 1/4 high-density DNA, 3/4 low-density DNA. |
 | Prediction 3 | All intermediate-density DNA. |
 | Results | After 2 generations, 1/2 low-density DNA and 1/2 intermediate-density DNA. |
 | Conclusion | Replication is semiconservative. |
+| Significance | Proved that, in accordance with Watson and Crick's suspicions, that DNA replicated by splitting down the middle and using each half as a template. Thus, each DNA is half-old and half-new. |
 
 [Back to top](#)
 
