@@ -197,9 +197,46 @@ Cotton planters were not ignorant of standards of the market; they were capitali
   - Cotton was weighed, sampled, and sold.
 
 ### Cotton Markets and Global Pathways
+*Page 257 (excerpt p.8)*
 - Not all cotton shipped directly from the Mississippi Valley to Great Britain directly across the Atlantic.  
+- Cotton from New Orleans might take several paths to the market.
+  - 15% of Southern cotton was annually sold to domestic manufactures (usually in New England).
+    - This was a small portion of the global cotton trade.
+    - Accounted for a large portion of the industrial output of the United States.
+  - 85% of the crop was shipped directly from New Orleans across the Atlantic to Liverpool.
+- Lots of cotton was shipped to New York, where it wasa unloaded, inspected, consigned, reloaded, then shipped across the Atlantic.
+- Southern cotton reached Europe by way of New York.
 
+### New York and the Cotton Trade
+*Page 257 (excerpt p.8)*
+- New York attained large control over the cotton trade.
+  - This was a concern to pro-slavery analysts of the cotton trade more than any other concern had been.
+- Commercial spaces of the nineteenth century were **made, not given**.
+  - Distance measured not in miles but dollars.
+  - New York's banks were able to offer longer credit on better terms to those interested in buying cotton.
+- Slower rates of money paid for cotton degraded; this could compensate for the longer distance the cotton would have to travel to market.
+- A large existing volume of trade between New York and Liverpool.
+  - Government had granted New York a monopoly over the mail service to Great Britain.
+  - Enabled regularly schedule ships to operate at a profit. 
+- US imported lots from Great Britain but exported very little other than cotton; it was in the interest of packets to ship cotton at lower rates than competitors.
+- Lowered the per-pound rate for shipping cotton to Liverpool via New York; shortened the distance cotton travelled to the market.
+  - Measured in dollars, New Orleans to New York to Liverpool was shorter than travelling directly (measured in miles).
 
+### The Banking System of Slavery and Capital
+*Page 259 (excerpt p.9)*
+- Agriculturalists that create the wealth of the country do not get daily receipts of money; their produce is ready only once a year.
+- Required supplies to be purchased **on credit** year round.
+- Banking system of the country based around this bill movement of produce.
+- Debts represented a dimension of linkages between Mississippi Valley.
+- Capital entered the Mississippi Valley in the winter months when cotton was sold.
+- Crops came to markets in New Orlenas; cotton merchants (often agents of merchant banks in NY or Liverpool) provided advances for eventual sale.
+- **In return for lending factors, the cotton merchants recieved the right to sell it on a consignment basis.**
+  - Perhaps earning the right to ship it aboard their own ships.
+- Credit took the form of a draft payable in NY or Liverpool.
+  
+  
+  
+  
 
 
 
