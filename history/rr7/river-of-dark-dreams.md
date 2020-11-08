@@ -222,7 +222,7 @@ Cotton planters were not ignorant of standards of the market; they were capitali
 - Lowered the per-pound rate for shipping cotton to Liverpool via New York; shortened the distance cotton travelled to the market.
   - Measured in dollars, New Orleans to New York to Liverpool was shorter than travelling directly (measured in miles).
 
-### The Banking System of Slavery and Capital
+## The Banking System of Slavery and Capital
 *Page 259 (excerpt p.9)*
 - Agriculturalists that create the wealth of the country do not get daily receipts of money; their produce is ready only once a year.
 - Required supplies to be purchased **on credit** year round.
@@ -232,8 +232,146 @@ Cotton planters were not ignorant of standards of the market; they were capitali
 - Crops came to markets in New Orlenas; cotton merchants (often agents of merchant banks in NY or Liverpool) provided advances for eventual sale.
 - **In return for lending factors, the cotton merchants recieved the right to sell it on a consignment basis.**
   - Perhaps earning the right to ship it aboard their own ships.
-- Credit took the form of a draft payable in NY or Liverpool.
+- Credit took the form of a sight draft payable in NY or Liverpool.
+
+### Credit and Debt
+*Page 260 (excerpt p.10)*
+- Credit extended by merchant houses revolved the complexity of trade into liquidity.
+- Planters in Louisiana and Mississippi were able to pay their debts when they delivered their crop.
+- American importers were able to buy debt that they could use to pay for European imports.
+- Foreign exchange cycled from the Deep South in the fal to the North in the winter.
+- Bills entered a transatlantic money market.
+  - Paid for finished goods imported to Great Britain, where cotton was shipped to a market where it was sampled, graded, and sold to a manufacturer.
+
+*Page 263 (excerpt p.11)*
+- Even a good crop did not protect a planter if he could not get it to market in time.
+- Even when crops were gathered, ginned, packed, and shipped, cotton planters were substantially exposed.
+  - Bore the risks of the global market.
+- Cotton was sold on consignment; planters retained legal ownership to the time it was sold.
+- Could find themselves demanded for money they had already paid; front of the debt chain.
+
+### Supplies and Costs
+*Page 261 (excerpt p.10)*
+- A working plantation needed many things:
+  - Rough-cut shoes worn by slaves
+  - Salt pork for their rations
+  - Cornish hens and French wins for the planter
+  - Schoolbooks for his children
+  - Ribbons for his wife hair
+  - Hoes to cut graph
+  - Baling wire to pack cotton
+  - etc.
+- Planter's indebtedness to merchants was "common sense".
+- In the form of plantation supplies, consumable goods, or cash advanced, money that factors lent to planters was not their own.
+  - Borrowed from banks in New Orleans, New York, or even Liverpool.
+  - A fictional stream of capital.
+- Provided the factor with credit that could be used to pay for goods over the course of the year.
+- Drafts promising payment at a specified date could be "discounted"[^1] by local bankers and money changers.
+  - Credit allowed temporal and spatial unevenness of the cotton market to be smoothed out.
   
+#### Example
+*Page 261 (excerpt p.10)*
+A planter who needed cotton seed in March could have it purchased by a factor in New Orleans, who could buy it with money borrowed from a bank in New York.
+
+When the seed grew into cotton, it will be shipped to the factor, who would sell the cotton and use the proceeds to cover his own debt to the bank. When the sale of cotton was insufficient, the factor would roll the debt to the next year's crop.
+
+Factor rates:
+
+| Interest | 8% |
+| Commission | 2.5% |
+
+### Absorbment of Risk at the End of the Debt Chain
+*Page 261 (excerpt p.10)*
+- The network of advances and consignments structured the cotton trade with a small risk on the end of the chain of debt.
+- Factors and merchant-bankers were able to make money off the cotton trade *while absorbing very little risk.*
+
+*Page 262 (excerpt p.11)*
+- Merchant bankers could require borrowers to obtain an endorsement.
+  - 'Accomodating endorsers' would be liable for debt if principal borrower defaulted.
+- Endorsers lent their creditworthiness to the borrower; *eased the flow of capital into the economy.*
+- Endorsement respatialized and recapitalized risk by using local networks of trade and sociability to insulate merchant bankers.
+
+#### The Brown Brothers
+*Page 262 (excerpt p.11)*
+- One of the largest firms heavily involved in the cotton trade. 
+- Tried to limit risk by advancing only 3/4 of the value theye xpected cotton would eventually bring.
+- Brown Brothers rarely purchased cotton on the company's account.
+  - Distributed risk through a network of factors and cotton brokers.
+  - Lent them money and recieved guaranteed consignments.
+
+## Realities of the Ecosystem and Debt
+*Page 262 (excerpt p.11)*
+###  Weather
+*Page 262 (excerpt p.11)*
+- Rain or high wind after cotton bloomed would diminish the value of the crop.
+- Severe storms, cold springs, and droughts could leave plants small and the bolls few.
+- Too much sun in the middle of the season could cause a crop ot wither.
+- Too much rain could drown it.
+- Late spring meant that the crop bloomed 'behind'.
+- Early frost meant that picking season would be cut short.
+
+### Bugs and Pests
+*Page 263 (excerpt p.11)*
+- Narrowing of genetic spectrum of Southern cotton meant it was more vulnerable to insects and parasites.
+- "Rust and rot" were the primary threats to the cotton plant.
+  - "Rust" gave the leaves a brown and deadened tinge.
+  - "Rot" attacked the boll; indicated the presence of worms.
+- "Army worm"; cannot be exterminated.
+
+### Self-Imposed Biological Feedback Loop
+*Page 263 (excerpt p.11)*
+- Planters sough to *revise ecological limits* of a slave-based economic practice by using *hybridized seed.*
+- This created a biological feedback loop that threatened to ruin crops.
+
+### Transportation Issues
+*Page 264 (excerpt p.12)*
+- Physical properties of cotton made it vulnerable to 'going bad' in the field.
+  - Cotton could be 'skidded' across a muddy embankment,
+  - Exposed to weather,
+  - Warehoused underneath a leaking rough,
+  - Partially eaten by cattle.
+- Cotton went to market in a 'reckless' way: rafts often were not careful with the luggage and ruined cotton.
+
+#### Paper Packaging to Address Physical Vulnerabilities
+*Page 265 (excerpt p.12)*
+- Much of factor business involved encasing bales of cotton in a protective coating.
+- Vulnerable physical properties were accompanied by paper guarantees of weight and quality, partitions of ownership and risk, designations of responsibility, etc.
+- **The 'merchantability' of cotton was rendered separable from its physical form: volatile cotton was determined to be commercially stable.**
+  - Factors collapsed the dimensionality of time in the cotton market into timeliness, focusing on being in the right place at the right time.
+
+## Speculation
+*Page 266 (excerpt p.13)*
+- Cotton was stabilized by commercial paper.
+- This made it a good medium for speculation.
+### The Cotton Market
+*Page 266 (excerpt p.13)*
+- Cotton market had tremendous volatility.
+- Prices often varied 10 to 15 percent within a month.
+- Difference between a good crop and a good one could be determined by where the sale of one's cotton fell on a seasonal price curve.
+
+### Statistics and Predicting the Future
+*Page 267 (excerpt p.13)*
+- Buyers and sellers in the cotton market began the season by trying to estimate the size of the previous year's crop.
+- These numbers helped planters and merchants imagine the future.
+  - Would there be a shortage of cotton?
+  - Would the bulk of the crop come in the middle of the season?
+- Mastering the cotton trade requires factors to imagine the arc of the cotton market.
+
+### Estimating the Size of Total Cotton Crop
+*Page 268 (excerpt p.14)*
+
+
+
+
+
+
+
+
+
+
+
+[^1]: Traded at currency
+
   
   
   
