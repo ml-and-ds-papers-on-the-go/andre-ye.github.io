@@ -8,19 +8,44 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigate
-- [Famous Experiments](#famous-experiments)
-  * [Herschey-Chase Experiment](#herschey-chase-experiment)
-  * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
-- [Terms and Concepts](#terms-and-concepts)
-  * [DNA](#dna)
-    + [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
-    + [DNA Replication Terms and Concepts](#dna-replication-terms-and-concepts)
-  * [Proteins](#proteins)
-    + [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
+* [Navigate](#navigate)
+* [Famous Experiments](#famous-experiments)
+  + [Miller-Urey Experiment](#miller-urey-experiment)
+  + [Herschey-Chase Experiment](#herschey-chase-experiment)
+  + [Meselson-Stahl Experiment](#meselson-stahl-experiment)
+* [Terms and Concepts](#terms-and-concepts)
+  + [Chemistry](#chemistry)
+    - [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
+  + [Origin of Life](#origin-of-life)
+    - [Two Theories](#two-theories)
+  + [RNA](#rna)
+    - [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
+  + [DNA](#dna)
+    - [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
+    - [DNA Replication Terms and Concepts](#dna-replication-terms-and-concepts)
+  + [Proteins](#proteins)
+    - [Protein Levels of Structure](#protein-levels-of-structure)
+    - [Protein Functions and Types](#protein-functions-and-types)
+    - [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
 
+    
 ---
 
 ## Famous Experiments
+
+### Miller-Urey Experiment
+
+| Aspect | Description |
+| --- | -------------------- |
+| Question | Can simple molecules and kinetic energy lead to chemical evolution? |
+| Hypothesis | Chemical evolution of organic molecules will occur in environments simulating early Earth conditions. |
+| Null Hypothesis | Chemical evolution will not occur in early Earth simulations. |
+| Prediction of Hypothesis | If kinetic energy is added to a mix of simple molecules, complex organic compounds will be produced. |
+| Prediction of Null Hypothesis | No complex organic compounds will be produced. |
+| Results | Samples from solution contained formaldehyde, hydrogen cyanide, and several complex compounds with C=C bonds, like amino acids (e.g. glycine). |
+| Conclusion | Chemical evolution occurs readily if simple molecules with high free energy are exposed to a source of kinetic energy. |
+| Significance | Paved the idea for foundation for ideas of chemical evolution and sparked further experiments. |
+
 
 ### Herschey-Chase Experiment
 | Aspect | Description |
@@ -57,6 +82,44 @@ Andre Ye, 11/7/2020
 
 ## Terms and Concepts
 
+### Chemistry
+
+#### Chemical Foundation of Life Terms and Concepts
+
+| Term | Definition |
+| --- | ------- |
+| Atom | the smallest identifiable unit of matter. |
+| Element | a substance that consists entirely of a single type of atom. |
+| Isotope | forms of an element with different numbers of neutrons. |
+| Atomic Number | characteristic number of protons in an atom. |
+| Mass Number | sum of protons and neutrons in an atom. |
+| Covalent Bond | when two atoms share electrons, and the connected atoms form a molecule. Make the atoms more stable, often complete shells. |
+| Compound | atoms of different elements are bonded together. |
+| Electronegativity | when atoms of different elements bond, they may pull electrons towards their nuclei with different strengths. |
+| Nonpolar Covalent Bond | a bond that involves equally shared electrons. |
+| Polar Covalent Bond | a bond that involves assymetrically shared electrons. |
+| Ionic Bond | electrons in ionic bonds are completely transferred from one atom to another. |
+| Solvent | an agent for dissolving, or getting substances into solution. |
+
+### Origin of Life
+
+#### Two Theories
+
+| Theory | Process |
+| --- | ------------------ |
+| Prebiotic Soup Model | Simple molecules like `N2`, `NH3`, and `CO` were present in the atmosphere of ancient earth. Energy in sunlight drove reactions among simple molecules to produce molecules like `formaldehyde` and `hydrogen cyanide`. Stimulated by heat, the products formed more complex molecules like `ribose`, `glycine`, and `acetaldehyde`. |
+| Surface Metabolism Model | Simple molecules like `N2`, `NH3`, and `CO` were present in early oceans and hydrothermal events. Vent minerals catalyzed spontaneous reactions among high-energy molecules to produce, for instance, `acetic acid`. Concentration and heat formed more complex molecules like ribose.
+
+### RNA
+
+#### RNA vs DNA Levels of Structure
+
+| Level of Structure | DNA | RNA |
+| --- | --- | --- |
+| Primary | Sequence of deoxyribonucleotides: bases are A, T, G, C | Sequence of ribonucleotides: bases are A, U, G, C |
+| Secondary | Two antiparallel strands twist into a double helix, stabilized by hydrogen bonding, hydrophobic bonding, hydrophobic interactions, and van der Waals interactions | Single strand folds back on itself to form a double-helical 'stem' and an unpaired 'loop'. |
+| Tertiary | Double helical DNA forms compact structures by wrapping around histone proteins or twisting into supercoils. | Secondary structures fold to form a wide variety of distinctive three-dimensional shape. |
+
 ### DNA
 
 #### 3 DNA Replication Hypotheses
@@ -89,6 +152,29 @@ Dispersive replication | Parental double helix was fragmented into small pieces 
 
 
 ### Proteins
+
+#### Protein Levels of Structure
+
+| Level of Structure | Description | Stabilized by |
+| --- | --- |
+| Primary | Each protein has a unique primary structure, determined by the number and sequence of amino acids, making up the polypeptide chain. 20 amino acids are used to build proteins. Various amino acids could be linked in almost any sequence. | Peptide bonds |
+| Secondary | Parts of the polypeptide chain are folded or coiled. For example, forms alpha helix - chain twists forms a helix or beta pleated sheats - chain folds back on itself, or two regions lie parallel. Results from hydrogen bonding between atoms of the polypeptide backbone. | Hydrogen bonding between groups along the peptide-bonded backbone |
+| Tertiary | Superimposed on primary and secondary structure: irregular loops and folds that give the protein its 3d shape. Results from interactions along R groups - hydrophilic or polar `R`-groups may hydrogen bond with each other or turn outwards and bond with surrounding water and hydrophobic or nonpolar `R` groups cluster on the inside of the protein, away from water. | Bonds and other interactions between R-groups or between R-groups and a peptide-bonded backbone; sulfur-containing strong covalent bonds |
+| Quaternary | Some proteins are made up multiple polypeptide chains. Results from combination of two or more polypeptide | Same interactions that stabilize tertiary structure. |
+
+#### Protein Functions and Types
+
+Type | Functions
+--- | ---
+Structural Proteins | Anchors cell parts; serves as tracks along which cell parts can move. Binds cells together to form muscles, ligaments, etc.
+Signal Proteins | Hormonal proteins that coordinate an organism's activity by acting as a signal between cells.
+Transport Proteins | Carry molecules from place to place.
+Sensory Proteins | Detect environmental signals like light.
+Enzyme Proteins | A protein that changes the rate of a chemical reaction without itself being changed into a different molecule in the process.
+Storage Proteins | Stockpile materials used to make other proteins. Store nutrient and energy-rich molecules for later use.
+Contractile (Motor) Proteins | Move parts of a cell.
+Gene Regulatory Proteins | Bind to DNA in particular locations and control whether certain genes will be read.
+Defensive Proteins | Defensive proteins help organisms fight infection, heal damaged tissue, and evade predators.
 
 #### Proteins Required for Synthesis in Bacteria
 
