@@ -442,7 +442,15 @@ Factor rates:
 - Interest of planters may have been sacrificed (sold short) at any chain of advance purchase and promised payment.
 - Cotton was regularly 'slaughtered' for capital.
 
-## Planter
+## Planter Denial of Responsibility, Self-Perception, and Agency
+*Page 277 (excerpt p.18)*
+- Planters would often credit themselvs for good prices and high cotton returns.
+- Terms like "management", "skill', "diligence", etc. reflected an image of wordly success.
+- "I"-language used extensively.
+- When return was low, the services like factors were not supports but contraints on freedom.
+- When times were bad, planters beat their slaves and blamed merchants.
+- Plants emphasized **loss of control** over their own affairs.
+
 
 
 [^1]: Traded at currency
