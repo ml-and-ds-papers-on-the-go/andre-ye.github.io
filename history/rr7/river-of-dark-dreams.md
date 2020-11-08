@@ -4,6 +4,58 @@
 Andre Ye, 11/7/2020
 
 ## Navigate
+- [Context](#context)
+- [The Hidden Capitalism of Slavery](#the-hidden-capitalism-of-slavery)
+  * [Connections Between Slavery of the South and Capitalism of the North](#connections-between-slavery-of-the-south-and-capitalism-of-the-north)
+  * [The Three Sets of Planters' Processes](#the-three-sets-of-planters--processes)
+  * [Rate of Conversion](#rate-of-conversion)
+  * [The Labor Calculation](#the-labor-calculation)
+- [Slavery as Productivity](#slavery-as-productivity)
+  * [The Aggregate Output Calculation](#the-aggregate-output-calculation)
+  * [Violence as the Metric of Production](#violence-as-the-metric-of-production)
+- [The Nature of Cotton](#the-nature-of-cotton)
+  * [Quality Escapes Measuring Cotton with a Quantitative Metric](#quality-escapes-measuring-cotton-with-a-quantitative-metric)
+  * [High Standards and Classifications of Cotton During Sale](#high-standards-and-classifications-of-cotton-during-sale)
+    + [Poor and Fraudulent Packing](#poor-and-fraudulent-packing)
+    + [Thesis of Current Section](#thesis-of-current-section)
+- [Where Slave-Owning Planters Capitalists?](#where-slave-owning-planters-capitalists)
+  * [The Argument Against Slaveowners as Capitalists](#the-argument-against-slaveowners-as-capitalists)
+  * [The Argument For Slaveowners as Capitalists](#the-argument-for-slaveowners-as-capitalists)
+  * [Compare and Contrast of the Two Positions](#compare-and-contrast-of-the-two-positions)
+  * [Reframing the Argument in Light of the Two Positions](#reframing-the-argument-in-light-of-the-two-positions)
+- [The Bale of Cotton](#the-bale-of-cotton)
+  * [American Cotton Powering the World Economy](#american-cotton-powering-the-world-economy)
+  * [The Cotton Gin](#the-cotton-gin)
+  * [The Slave Market and the Cotton Market](#the-slave-market-and-the-cotton-market)
+  * [New Orleans](#new-orleans)
+  * [Cotton Markets and Global Pathways](#cotton-markets-and-global-pathways)
+  * [New York and the Cotton Trade](#new-york-and-the-cotton-trade)
+- [The Banking System of Slavery and Capital](#the-banking-system-of-slavery-and-capital)
+  * [Credit and Debt](#credit-and-debt)
+  * [Supplies and Costs](#supplies-and-costs)
+    + [Example](#example)
+  * [Absorbment of Risk at the End of the Debt Chain](#absorbment-of-risk-at-the-end-of-the-debt-chain)
+    + [The Brown Brothers](#the-brown-brothers)
+- [Realities of the Ecosystem and Debt](#realities-of-the-ecosystem-and-debt)
+  * [Weather](#weather)
+  * [Bugs and Pests](#bugs-and-pests)
+  * [Self-Imposed Biological Feedback Loop](#self-imposed-biological-feedback-loop)
+  * [Transportation Issues](#transportation-issues)
+    + [Paper Packaging to Address Physical Vulnerabilities](#paper-packaging-to-address-physical-vulnerabilities)
+- [Speculation](#speculation)
+  * [The Cotton Market](#the-cotton-market)
+  * [Statistics and Predicting the Future](#statistics-and-predicting-the-future)
+  * [Estimating the Size of Total Cotton Crop](#estimating-the-size-of-total-cotton-crop)
+  * [Information as Currency](#information-as-currency)
+- [Factor-Planter Relationships](#factor-planter-relationships)
+  * [Planter Control Over Markets](#planter-control-over-markets)
+  * [Factor Divergence of Interests](#factor-divergence-of-interests)
+  * [Planter Control Over Sales](#planter-control-over-sales)
+  * [Lack of Information to Planters](#lack-of-information-to-planters)
+  * [Lack of Trust Between Planters and Factors](#lack-of-trust-between-planters-and-factors)
+- [Planter Denial of Responsibility, Self-Perception, and Agency](#planter-denial-of-responsibility-self-perception-and-agency)
+- [Planter-Slave Relationships](#planter-slave-relationships)
+  * [Slaves as Capital](#slaves-as-capital)
 
 ## Context
 - Written by Walter Johnson. He is Winthrop Professor of History and Professor of African and African American Studies at Harvard University, where he is also director of the Charles Warren Center for Studies in American History.
@@ -449,16 +501,30 @@ Factor rates:
 - "I"-language used extensively.
 - When return was low, the services like factors were not supports but contraints on freedom.
 - When times were bad, planters beat their slaves and blamed merchants.
-- Plants emphasized **loss of control** over their own affairs.
+- Planters emphasized **loss of control** over their own affairs.
+- Claims of the South becoming "tributary" to a network of "avricious merchants".
+
+## Planter-Slave Relationships
+*Page 278 (excerpt p.19)*
+- Planters wereoverseers, not slaves; interposed betweens chedule of money market and cotton trade.
+- Former slaves attirbuted owner's violence to indebtedness.
+- Whereas the conventional political economy the separation of capital and labor is important, in the Cotton Kingdom slaves were both.
+
+### Slaves as Capital
+*Page 279 (excerpt p.19)*
+- Slaveholders stored savings in salves.
+  - Slaves stood security for those that owned them.
+- Antebellum: majority of collateralized loans in Lousiana involved mortgages on slaves.
+- Mobility and salability of slaves - meant that slaves could be moved from place to place.
+  - Rendered the most liquidated form of capital in the Mississippi valley.
+- Slaves served as guarantors of loans that banks made to merchants and merchants made to planters.
+- Slaves were the human hosts for speculative loans of the cotton trade.
+- A "determination to ocnvert his slaves, and even his own flesh and blood, into money to pay his debt."
+- The real cotton could not absorb the flow of fictional capital; difference was accounted for in human flesh.
 
 
+---
+
+[Back to top](#)
 
 [^1]: Traded at currency
-
-  
-  
-  
-
-
-
-**Will continue to be updated.**
