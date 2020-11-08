@@ -8,7 +8,6 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigate
-* [Navigate](#navigate)
 * [Famous Experiments](#famous-experiments)
   + [Miller-Urey Experiment](#miller-urey-experiment)
   + [Herschey-Chase Experiment](#herschey-chase-experiment)
