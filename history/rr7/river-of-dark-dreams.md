@@ -113,7 +113,7 @@ Andre Ye, 11/7/2020
 - Careless packaging caused a discrepancy between "sample and the bulk".
 - Adjudication of capitalists were phrased on this.
 
-#### Thesis of Section
+#### Thesis of Current Section
 Cotton planters were not ignorant of standards of the market; they were capitalists operating in a capitalistic sphere. Planters watched sharply over their slaves and strictly managed and balanced influences of ecology, labor, and finance. 
 
 ## Where Slave-Owning Planters Capitalists?
@@ -145,5 +145,62 @@ Cotton planters were not ignorant of standards of the market; they were capitali
 | --- | --- |
 | Against | Eurocentric. Treats history of capitalism in England as global. Subordinates other histories. <br> Treats enslavement in Africa as primary accumulation. <br> Claims are not universal. |
 | For | Treats capitalism as a series of markers regardless the sphere of production. Do the differences in designations of slaves and wage-earning works not matter? <br> Capitalism *must* distinguish between slave and free labor. |
+
+### Reframing the Argument in Light of the Two Positions
+*Page 254 (excerpt p.7)*
+- A materialist and historical analysis begins from the fact that there was no 19th century capitalism without slavery.
+- Industrial slavery, however, it *may* have developed w/o solave-produced cotton and Southern capital markets, did not develop that way.
+- One cannot extract the history of industrial development from its entanglement with slavery and label the former capitalist and the latter 'precapitalist' or 'noncapitalist'.
+- **Understand more concretely the workings of the market.**
+  - Set aside prefabricated questions and begin with *the bale of cotton.
+
+## The Bale of Cotton
+*Page 254 (excerpt p.7)*
+- Numbers are representations of real bales of cotton; abstractions of progress.
+  - Bales per acre per hand.
+  - Bales sent to market.
+  - Drayage.
+  - Insurance.
+  - Storage.
+  - Price per pound.
+- The commercial standard of the cotton trade is the *bale*.
+  - However, the weight is not uniform.
+  - There is almost not standard of capacity that is uniform for the bale.
+
+### American Cotton Powering the World Economy
+*Page 255 (excerpt p.7)*
+- The American cotton dominated global supply of cotton and a large portion of global economic activity.
+  - From little cotton in end of 18th century to 2nd quarter of 19th.
+
+### The Cotton Gin
+*Page 255 (excerpt p.7)*
+- In 1794, the cotton gin was invented.
+  - Credited to Eli Whitney, although is contested.
+- Provided cotton planters with a machine that could remove seeds entangled in each bool.
+- Made it possible to cultivate cotton profitably in large portions of the Southern US.
+- High prices of cotton produced the greatest economic boom in the nation's century.
+- 1821; Mississippi and Louisiana produced 20 million pounds of cotton.
+- 1859; that numbers was about 864 million pounds.
+- **Cotton and slavery went together.**
+
+### The Slave Market and the Cotton Market
+*Page 256 (excerpt p.8)*
+- Prices in the slave market varied directly with that of the cotton market.
+  - This was no surprise in an economy where planters determined productivity of labor in cotton rather than in currency.
+
+### New Orleans
+*Page 256 (excerpt p.8)*
+- Cotton produced by slaves in the Mississippi Valley made their way through the market into the port of New Orleans.
+- Cotton economy grew; river traffic on the Mississippi grew correspondingly.
+- New Orleans was an export-processing zone mediating the Cotton Kingdom (of the Mississippi) and the Atlantic.
+- New Orleans workers unloaded hundreds of thousands of bales of cotton from steamboats.
+  - Cotton was weighed, sampled, and sold.
+
+### Cotton Markets and Global Pathways
+- Not all cotton shipped directly from the Mississippi Valley to Great Britain directly across the Atlantic.  
+
+
+
+
 
 **Will continue to be updated.**
