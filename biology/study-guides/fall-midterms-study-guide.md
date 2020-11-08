@@ -10,10 +10,6 @@ Andre Ye, 10/31/2020
 ## Chemical Basis for Life
 - **Electronegativities:** `O > N > S = C = H = P`.
 
-| Atom | Valence Number |
-| --- | --- |
-| Oxygen | 1 |
-
 | Term | Definition |
 | --- | ------- |
 | Atom | the smallest identifiable unit of matter. |
