@@ -332,6 +332,10 @@ Factor rates:
   - Partially eaten by cattle.
 - Cotton went to market in a 'reckless' way: rafts often were not careful with the luggage and ruined cotton.
 
+*Page 270 (excerpt p.15)*
+- Even if cotton was stowed in the hold of a ship, it could be delayed by low water and miss the high prices of the season.
+
+
 #### Paper Packaging to Address Physical Vulnerabilities
 *Page 265 (excerpt p.12)*
 - Much of factor business involved encasing bales of cotton in a protective coating.
@@ -359,15 +363,86 @@ Factor rates:
 
 ### Estimating the Size of Total Cotton Crop
 *Page 268 (excerpt p.14)*
+- A crucial aspect of trader's speculation.
+- New Orlenas firms sent agent into the countryside to track the growth of crop in the field.
+- Factors that could determine the size of the crop:
+  - Too much rain in Alabama.
+  - Rain and rust in Georgia.
+  - The boll worm in Eastern Mississippi.
+  - etc.
 
+### Information as Currency
+*Page 269 (excerpt p.14)*
+- Planters would sell their cotton, then talk up the size of their crop.
+- Cotton market subject to pull of stories told about it.
+  - Published reports and tables turne dto rumors and gossip.
+- Rumor and gossip at one end of the season became news and intelligence of history.
+- 1825: NY speculators exploited gap in news and newspaper by paying a postal contractor to transmit cotton purchase orders while holding mail containing news from Europe, upon which their bets were based.
+- Telegraphy in 1840s evened geographic access to market information.
 
+*Page 271 (excerpt p.15)*
+- Cotton could arrive at the market on the wave of rising prices.
+  - News of a short crop, long credit, expanding worldwide demand.
+- If the time was right, cotton planters could make considerable profit.
+- Cotton planters were often compared to gamblers.
+> They turn the farmer's life into that of a gambler and speculator. -Lousiana journalist.
+- Dependent upon chances and evil cards - bad seasons, fall in prices, etc.
 
+## Factor-Planter Relationships
+### Planter Control Over Markets
+*Page 271 (excerpt p.15)*
+- Planters were legally but not physically present at the sale of their cotton.
+- Crucial decisions where usually made by factors.
+- Planter scould exert control over the sale of their crop by *holding it back from the market*.
+- Crops could be held back when planters believed it was going to be short
+- Cotton being held back into country in anticipation of higher prices was a source of uncertainty.
+  - Cotton factors urged planters to send crops further for sale.
+- When the market was active, it was best to ship cotton to catch the save.
+- When the market was dull, it was best to ship cotton so that it was available whent hings began to move.
 
+*Page 272 (excerpt p.16)*
+- Planters could gamble on rhythm of cotton season by withholding cotton.
+- Could not, however, stop the flow of time.
+- Always another crop gathering at their back.
 
+### Factor Divergence of Interests
+*Page 272 (excerpt p.16)*
+- Factors handled multiple crops and made their money on commission.
+  - Had less of a stake in any particular transaction.
+- Income depended on maximizing the volume of sales, instead of maximizing the value of any one sale.
 
+### Planter Control Over Sales
+*Page 273 (excerpt p.16)*
+- Once crop was sent, planters could control the shipment of cotton with written guidelines. 
+- e.g. hold onto cotton until it reaches *x* price, then sell.
+- A factor that sold cotton for less than that price **could be held legally liable for the difference** between that obtained and the one specified by the planter.
+- Cotton held a risk of not being sold.
+  - Generally planters allowed factors discretion in marketing cotton.
 
+### Lack of Information to Planters
+*Page 274 (excerpt p.17)*
+- Information about a crop was often given the planters in writing.
+- Formulations gestureda t daily business of the cotton market.
+  - Even if they drew specifics, likely speculation.
+- Factors had not seen the bales themselves.
+  - Actions they took in the cotton market was shrouded in speculation.
+> Merchants act advisedly - planters in the dark.
+- Mishandling of crops could become subjects of lawsuits.
 
+### Lack of Trust Between Planters and Factors
+*Page 275 (excerpt p.17)*
+- Cotton planters often doubted the honesty of factors.
+- Cotton merchants as "Southern Yankees".
+- New Orlenas merchants had creative accounting, heavy charging.
+- Planters believed agents would be dishonest:
+  - Record sales at a lower rate in their books,
+  - Deduct a half-cent on the rest,
+  - Launder goods they owned themselves through third-party sellers.
+- For instance, erred recordings in factor books: William Brandon *owed* $6,000 instead of being $6,000 in debt.
+- Interest of planters may have been sacrificed (sold short) at any chain of advance purchase and promised payment.
+- Cotton was regularly 'slaughtered' for capital.
 
+## Planter
 
 
 [^1]: Traded at currency
