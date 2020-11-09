@@ -16,6 +16,8 @@
   * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
 - [Issues](#issues)
   * [Steps to Identifying Issues](#steps-to-identifying-issues)
+- [Peer Editing and Revision](#peer-editing-and-revision)
+  * [The Compositional Pyramid](#the-compositional-pyramid)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -97,6 +99,17 @@
 4. **Build on and extend the ideas of others.** Open up to new ways of looking at the issue.
 5. **Read to discover a writer's frame.** What theories or ideas shape the writer's focus?
 6. **Consider the constriants of the situation.** Formulate your argument to meet needs and constraints of the context.
+
+---
+
+## Peer Editing and Revision
+### The Composition Pyramid
+
+| Level | Considering |
+| --- | --- |
+| Top | Situation, Issues, Thesis, Audience |
+| Middle | Organization, use of sources to support thesis |
+| Bottom | Style and grammar |
 
 ---
 
