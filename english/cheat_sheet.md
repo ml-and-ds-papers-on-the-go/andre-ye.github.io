@@ -17,7 +17,7 @@
 - [Issues](#issues)
   * [Steps to Identifying Issues](#steps-to-identifying-issues)
 - [Peer Editing and Revision](#peer-editing-and-revision)
-  * [The Compositional Pyramid](#the-compositional-pyramid)
+  * [The Composition Pyramid](#the-composition-pyramid)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
