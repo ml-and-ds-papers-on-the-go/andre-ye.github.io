@@ -9,6 +9,16 @@ Ronald E. Purser
 : Ronald E. Purser is a professor of management who teaches at the College of Business and the College of Education at San Francisco State University. He routinely writes for *Huffington Post*, *Salon*, and *Alternet*. The following essay is an excerpt from his book, *McMindfulness: How Mindfulness Became the New Capitalist Spirituality* (2019).
 
 ## Navigate
+- [Introduction](#introduction)
+  * [Mindfulness in Schools](#mindfulness-in-schools)
+  * [The Authoritarianism of Mindfulness](#the-authoritarianism-of-mindfulness)
+- [Mindfulness to the Rescue](#mindfulness-to-the-rescue)
+  * [Ignorance of Liberation](#ignorance-of-liberation)
+  * [Racialization of Mindfulness](#racialization-of-mindfulness)
+- [Cognitive Capitalism](#cognitive-capitalism)
+  * [The Capitalism in Mindfulness](#the-capitalism-in-mindfulness)
+  * [Discrimination in Mindfulness](#discrimination-in-mindfulness)
+  * [Quietism](#quietism)
 
 ## Introduction
 ### Mindfulness in Schools
