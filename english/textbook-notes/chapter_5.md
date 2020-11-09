@@ -46,7 +46,37 @@ Andre Ye, 11/6/2020
   - Editorial? Letter?
 - Situation can function as a major constraint from ethical standpoint.
 
+## Formulating Issue-Based Questions 
+- When you identify an issue, you need to understand it in the context of its situation. 
+  - An issue does not exist apart from what people value.
+- The situation and the issue should be both relevant and timely.
+  - These will make the task of connecting to your audience much easier when you write about the issue.
+- Think about why the issue matters to you and why it might matter to others.
+  - Be prepared to **make the issue relevant.**
 
+#### An Issue-Based Question Can Help...
+- Clarify what you know about the issue.
+- Guide your inquiry with a clear focus.
+- Organize your inquiry around a specific issue.
+- Develop an argument by asking How, Why, Should.
+- Consider who your argument is.
+- Determine resources you have to answer a qeustion.
 
+#### Good Questions
+- A good question develops from an issue.
+  - A fundamental tension that is identified in the conversation
+
+### The Process
+1. Refine your topic. 
+  - The **topic** is the subject you want to write about.
+    - Homelessness, tests, violence. 
+  - A specific topic needs to be refined into an issue before it can be effectively explored.
+2. Explain your interest in the topic.
+  - Look at facts and interesting ideas.
+3. Identify an issue.
+  - Find a place of disagreement. 
+4. Formulate your topic as a question.
+  - Redirect your topic as a question that points towards an argument.
+5. Acknowledge your audience.
 
 [Back to top](#)
