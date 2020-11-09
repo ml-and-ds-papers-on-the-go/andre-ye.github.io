@@ -22,3 +22,4 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
 - Culture & Politics
   - [*"What Mindfulness Revolution?*" by Ronald E. Purser](https://andre-ye.github.io/english/essay-notes/what-mindfulness-revolution), 10/23/20.
   - [*"Doing Nothing is Something"* by Anna Quindlen](https://andre-ye.github.io/english/essay-notes/doing-nothing-is-something), 11/6/20.
+  - [*"Mindful Schools"* by Ronald E. Purser](https://andre-ye.github.io/english/essay-notes/mindful-schools), 11/9/20.
