@@ -1,6 +1,6 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Education > *Doesn't Anybody Get a C Anymore?*
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Education > *Mindful Schools?*
 
-# Essay Notes on "*Doesn't Anybody Get a C Anymore?*" by Phil Primack
+# Essay Notes on "*Mindful Schools*" by Ronald E. Purser
 Andre Ye, 10/26/2020
 
 ---
