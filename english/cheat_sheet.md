@@ -16,6 +16,7 @@
   * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
 - [Issues](#issues)
   * [Steps to Identifying Issues](#steps-to-identifying-issues)
+  * [Steps to Formulating an Issue-Based Question](#steps-to-formulating-an-issue-based-question)
 - [Peer Editing and Revision](#peer-editing-and-revision)
   * [The Composition Pyramid](#the-composition-pyramid)
 
@@ -99,6 +100,13 @@
 4. **Build on and extend the ideas of others.** Open up to new ways of looking at the issue.
 5. **Read to discover a writer's frame.** What theories or ideas shape the writer's focus?
 6. **Consider the constriants of the situation.** Formulate your argument to meet needs and constraints of the context.
+
+### Steps to Formulating an Issue-based Question
+1. Refine your topic. 
+2. Explain your interest in the topic.
+3. Identify an issue.
+4. Formulate your topic as a question.
+5. Acknowledge your audience.
 
 ---
 
