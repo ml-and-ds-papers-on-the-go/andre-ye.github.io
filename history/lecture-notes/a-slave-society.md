@@ -6,7 +6,7 @@ Andre Ye, 11/10/20
 ## Introduction
 - Ransom, *Conflict and Compromise*. Cambridge UP, 1986.
   - The Economics of Slavery
-  - Access image [here](https://canvas.uw.edu/courses/1437128/files?preview=69940818) (requires login to Canvas)
+  - Access image [here](https://canvas.uw.edu/courses/1437128/files?preview=69940818){:target="_blank"} (requires login to Canvas)
 - Productivity increases: tells a story of violence.
 - A metric - math - that's showing the:
   - Increasing important of slavery & cotton production
