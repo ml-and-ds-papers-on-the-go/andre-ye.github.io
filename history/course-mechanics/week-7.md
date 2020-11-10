@@ -46,10 +46,10 @@
 3. Keep the questions tied to the text and time period.
 4. Use a quote to ground you in the text.
 5. Speculate.
-- Speculation in analysis should not *take you away* from the history and content.
-- Don't speculate about something tangential. 
-- Common move: "we see nativism in the 19th century, this reminds me about right now."
-  - A comparison half-analysis, but it's not the type of textual analysis that needs to be developed.
+  - Speculation in analysis should not *take you away* from the history and content.
+  - Don't speculate about something tangential. 
+  - Common move: "we see nativism in the 19th century, this reminds me about right now."
+    - A comparison half-analysis, but it's not the type of textual analysis that needs to be developed.
 - If one moves in this process, they will be able to develop an analysis.
 - Stay as closely grounded to the text as one possibly can
   - Perhaps frame a quote.
@@ -57,9 +57,9 @@
 
 ### Example From WTF Moment to Analysis
 ```
-At the time the Lowell cotton mills were started the caste of the factory girlw as the lowest among the employments of women. In England and in France, particularly, great injustice had been done to her real character. She was represented as subjected to influences that must destroy her purity and self-respect. In the eyes of her overseer she was but a brute, a slave, to be beaten, pinched and and pusehd about. It was to overcome this prejudice that such high wages had been ofered to women that they might be induced to become mill-girls, in spite of the opprobrium that still clung to this degrading occupation.
+At the time the Lowell cotton mills were started the caste of the factory girl was the lowest among the employments of women. In England and in France, particularly, great injustice had been done to her real character. She was represented as subjected to influences that must destroy her purity and self-respect. In the eyes of her overseer she was but a brute, a slave, to be beaten, pinched and and pusehd about. It was to overcome this prejudice that such high wages had been ofered to women that they might be induced to become mill-girls, in spite of the opprobrium that still clung to this degrading occupation.
 ```
-- WTF moments.
+- **WTF moments.**
   - The `lowest` occupation?
   - How does Robinson know what is happening in England and in France?
   - Conflicting high wages and shame.
@@ -68,5 +68,24 @@ At the time the Lowell cotton mills were started the caste of the factory girlw 
     - Implies pressure.
   - Use of 'caste' implies a hierarchy. Where does Robinson place the 'factory girl' on this hierarchy? What does she determine to be a 'noble role' for women? This contradicts with previous discussion on the independence and joy of having work.
   - What is used by 'purity'?
+- **Generating a specific set of questions to launch critical inquiry.**
+  - Why beaten and pinched?
+  - Why impinge women's character and purity?
+  - Why say slave and overseer?
+  - Why a degrading occupation?
+- **Speculative answers.**
+  - Power: relationship between employment and sexual harassment or assault.
+  - Gender: women's morality and social standing counterposed to paid work. 
+  - Language: metaphor of slavery for wages.
+  - Conditions: poverty, dangerous work, etc.
+- **Take speculation (potential idea) and check it against the text.**
+  - Does the speculative answer give us a greater understanding of the ideas?
+  - Are some answers more off-base? Do not sound or look right?
+
+## Four Stages of Critical Analysis
+- I observed 'beaten/pinched'
+- I asked 'but why is this so?'
+- I speculated 'power? employment? labor?'
+- I proved 'quotes from this or other texts'
 
 [Back to top](#)
