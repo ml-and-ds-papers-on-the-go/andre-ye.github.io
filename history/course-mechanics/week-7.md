@@ -8,6 +8,14 @@
   - Develop strong and independent thinking that can justify claims through appropriate use of evidence and **analysis.**
 - Active reading and argumentative reading relationship.
 
+## Navigate
+- [Active Reading](#active-reading)
+- [Reading Response and Analysis](#reading-response-and-analysis)
+  * [Complete Reading Response Process and Advice](#complete-reading-response-process-and-advice)
+  * [Example From WTF Moment to Analysis](#example-from-wtf-moment-to-analysis)
+  * [Four Stages of Critical Analysis](#four-stages-of-critical-analysis)
+- [Discussions](#discussions)
+
 ## Active Reading
 - Struggling with a text?
   1. Ask questions - what don't I understand?
@@ -82,10 +90,16 @@ At the time the Lowell cotton mills were started the caste of the factory girl w
   - Does the speculative answer give us a greater understanding of the ideas?
   - Are some answers more off-base? Do not sound or look right?
 
-## Four Stages of Critical Analysis
+### Four Stages of Critical Analysis
 - I observed 'beaten/pinched'
 - I asked 'but why is this so?'
 - I speculated 'power? employment? labor?'
 - I proved 'quotes from this or other texts'
+
+## Discussions
+- Notice that there is a falloff in the week.
+- Not the same level of engagement as in Friday discussion time.
+- Think about ways to make you feel more comfortable contributing to discussions.
+- See Sophia and Dr. Reagan for pointers.
 
 [Back to top](#)
