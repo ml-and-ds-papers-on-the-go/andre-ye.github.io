@@ -9,15 +9,18 @@ Alfie Kohn
 : As a writer and critic of competitive testing, Alfi Kohn has published hundreds of articles and fourteen books. His most recent book is *Schooling Beyond Measure... and Other Unorthodox Essays about Education* (2015). The following article appeared in the *New York Times* on June 2019.
 
 ## Navigate
-- [Opening Thoughts](#opening-thoughts)
-- [Personal Exper
+- [Introduction](#introduction)
+- [Disturbing Implications of High Standards](#disturbing-implications-of-high-standards)
+- [Excellence for the Few](#excellence-for-the-few)
+- [Objections to Grade Inflation](#objections-to-grade-inflation)
+- [Stop Ranking](#stop-ranking)
 
 ## Introduction
 *Paragraph 1*
 - School reform has been populated by rhetoric framed as top-down mandates of what students should be taught.
 - If every student passed the tests, the reaction would not change.
 
-## Distrubing Implications of High Standards
+## Disturbing Implications of High Standards
 *Paragraph 4*
 - "High standards" really means *standards that not all students will be able to meet*.
 - If all students met them, standards would be raised high enough such that some students missed them.
