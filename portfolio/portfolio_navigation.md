@@ -3,6 +3,12 @@
 
 A compilation of essays and projects I've produced at the Transition School.
 
+## English
+- [Fall Midterm Essay](https://andre-ye.github.io/english/portfolio/English Fall Midterm Essay.pdf){:target="_blank"}.
+  ```
+  Thesis: Education – its meaning, implementation, and value – has shifted significantly throughout history. Even the roots of its etymology reveal its complexity; education comes from the Latin educere, which some define as bringing or drawing out – education as finding and developing something within, centered around developing general skills – and others as training or being led forth – the cultivation of the mind with imparted knowledge, aiming for a knowledgeable population. These represent two fundamental pillars of thought on education’s purpose and scope, yet neither are complete individually. The purpose of education is to inspire and to guide its students along the empirical arts with emphasis on individuality and fostering passion, for it is both moral and practical. Education centers around student initiative, and any educational system that ignores this will find that their students stop wherever the system drops them, if not earlier. Even as a drive to learn is anchored to content, it is possible – and much more effective – to forgo advancing rapidly with content and ensure that students fully understand and appreciate what has been learned so far. A strong discovery-centric curriculum can give students of all abilities depth and interest in any subject, regardless how simple. Education, while serving society, is at its root for the individual. Passivity can do little; invigoration and fascination will always be able to overcome any knowledge deficit. 
+  ```
+
 ## History
 ### Major Essays
 - [Fall Midterm Essay](https://andre-ye.github.io/history/portfolio/Fall Midterm Essay.pdf){:target="_bank"}.
