@@ -25,5 +25,8 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Textbook Notes (section 1.3, 15.1-15.3) - DNA and Gene Synthesis and Repair](https://andre-ye.github.io/biology/genes-and-dna/textbook-notes), 11/7/20
   - [Video notes - Central Dogma, DNA Experiments and Synthesis](https://andre-ye.github.io/biology/genes-and-dna/video-notes), 11/7/20
 
+## Lab Background and Notes
+- [Introduction to Biotechnology Lab Notes](https://andre-ye.github.io/biology/labs/introduction-to-biotechnology-methods), 11/12/20
+
 ## The Scientific Process and Scientific Writing
 - [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
