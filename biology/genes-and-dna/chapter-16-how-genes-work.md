@@ -1,13 +1,13 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Textbook Notes: 16.1, 16.2, 16.3, 16.4
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Textbook Notes - "How Genes Work": 16.1, 16.2, 16.3, 16.4
 
-# Textbook Notes: 16.1, 16.2, 16.3, 16.4
+# Textbook Notes - "How Genes Work": 16.1, 16.2, 16.3, 16.4
 Andre Ye, 11/14/2020
 
 ---
 
 ## Navigation
 - [Introduction](#introduction)
-- [16.1: What Do Genese Do?](#161-what-do-genese-do-)
+- [16.1: What Do Genes Do?](#161-what-do-genes-do)
   * [The One-Gene, One-Enzyme Hypothesis](#the-one-gene-one-enzyme-hypothesis)
   * [An Experimental Test of the Hypothesis](#an-experimental-test-of-the-hypothesis)
     + [Tabular Form](#tabular-form)
@@ -37,7 +37,7 @@ Andre Ye, 11/14/2020
   - How does **gene expression** occur?
   - *Process of converting information in DNA to molecules that do things.*
 
-## 16.1: What Do Genese Do?
+## 16.1: What Do Genes Do?
 - George Beadle and Edward Tatum published a series of important experiments.
   - Idea: knock out a gene by damaging it and then infer what the gene does by observing the phenotype of the mutant individual.
 - Alleles that do not function are *null alleles*.
