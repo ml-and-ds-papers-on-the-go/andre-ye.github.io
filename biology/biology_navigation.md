@@ -23,8 +23,9 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [4 Structures & 9 Types of Proteins Cheat Sheet (Video Notes)](https://andre-ye.github.io/biology/proteins/video_notes), 10/29/20
 - Genes and DNA. *Models and exploration of DNA synthesis and repair.*
   - [Textbook Notes (section 1.3, 15.1-15.3) - DNA and Gene Synthesis and Repair](https://andre-ye.github.io/biology/genes-and-dna/textbook-notes), 11/7/20
-  - [Video Notes - Central Dogma, DNA Experiments and Synthesis](https://andre-ye.github.io/biology/genes-and-dna/video-notes), 11/7/20
   - [Textbook Notes (section 16.1-16.4) - How Genes Work (Transcription, Translation, Mutations)](https://andre-ye.github.io/biology/genes-and-dna/chapter-16-how-genes-work), 11/14/20
+  - [Video Notes - Central Dogma, DNA Experiments and Synthesis](https://andre-ye.github.io/biology/genes-and-dna/video-notes), 11/7/20
+  - [Video Notes - Transcription and Translation](https://andre-ye.github.io/biology/genes-and-dna/genes-video-notes), 11/14/20
 
 ## Lab Background and Notes
 - [Introduction to Biotechnology Lab Notes](https://andre-ye.github.io/biology/labs/introduction-to-biotechnology-methods), 11/12/20
