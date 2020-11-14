@@ -29,4 +29,11 @@ Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Collingwood 18](https://andre-ye.github.io/precalc/collingwoods/Collingwood_18.pdf){:target="_blank"}
 - Chapter 5: "Functions and Graphs". Definitions, graphs, and manipulations of functions.
   - [Collingwood 19](https://andre-ye.github.io/precalc/collingwoods/Collingwood_19.pdf){:target="_blank"}
-  
+  - [Collingwood 20](https://andre-ye.github.io/precalc/collingwoods/Collingwood_20.pdf){:target="_blank"}
+  - [Collingwood 21](https://andre-ye.github.io/precalc/collingwoods/Collingwood_21.pdf){:target="_blank"}
+  - [Collingwood 22](https://andre-ye.github.io/precalc/collingwoods/Collingwood_22.pdf){:target="_blank"}
+- Chapter 6: "Multipart Functions." Modelling and working with piecewise functions.
+  - [Collingwood 23](https://andre-ye.github.io/precalc/collingwoods/Collingwood_23.pdf){:target="_blank"}
+  - [Collingwood 24](https://andre-ye.github.io/precalc/collingwoods/Collingwood_24.pdf){:target="_blank"}
+  - [Collingwood 25](https://andre-ye.github.io/precalc/collingwoods/Collingwood_25.pdf){:target="_blank"}
+  - [Collingwood 26](https://andre-ye.github.io/precalc/collingwoods/Collingwood_26.pdf){:target="_blank"}
