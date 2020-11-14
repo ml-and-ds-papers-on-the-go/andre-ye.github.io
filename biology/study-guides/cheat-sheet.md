@@ -8,25 +8,30 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigate
-* [Famous Experiments](#famous-experiments)
-  + [Miller-Urey Experiment](#miller-urey-experiment)
-  + [Herschey-Chase Experiment](#herschey-chase-experiment)
-  + [Meselson-Stahl Experiment](#meselson-stahl-experiment)
-* [Terms and Concepts](#terms-and-concepts)
-  + [Chemistry](#chemistry)
-    - [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
-  + [Origin of Life](#origin-of-life)
-    - [Two Theories](#two-theories)
-  + [RNA](#rna)
-    - [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
-  + [DNA](#dna)
-    - [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
-    - [DNA Replication Terms and Concepts](#dna-replication-terms-and-concepts)
-  + [Proteins](#proteins)
-    - [Protein Levels of Structure](#protein-levels-of-structure)
-    - [Protein Functions and Types](#protein-functions-and-types)
-    - [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
-
+- [Famous Experiments](#famous-experiments)
+  * [Miller-Urey Experiment](#miller-urey-experiment)
+  * [Herschey-Chase Experiment](#herschey-chase-experiment)
+  * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
+  * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
+- [Terms and Concepts](#terms-and-concepts)
+  * [Chemistry](#chemistry)
+    + [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
+  * [Origin of Life](#origin-of-life)
+    + [Two Theories](#two-theories)
+  * [RNA](#rna)
+    + [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
+  * [DNA](#dna)
+    + [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
+    + [DNA Replication Terms and Concepts](#dna-replication-terms-and-concepts)
+  * [Proteins](#proteins)
+    + [Protein Levels of Structure](#protein-levels-of-structure)
+    + [Protein Functions and Types](#protein-functions-and-types)
+    + [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
+  * [Translation, Transcription, and the Genetic Code](#translation-transcription-and-the-genetic-code)
+    + [Complete Genetic Code Table](#complete-genetic-code-table)
+    + [Properties of the Genetic Code](#properties-of-the-genetic-code)
+    + [Types of Point Mutations](#types-of-point-mutations)
+    + [The 3 Categories of Mutations](#the-3-categories-of-mutations)
     
 ---
 
@@ -75,6 +80,20 @@ Andre Ye, 11/7/2020
 | Results | After 2 generations, 1/2 low-density DNA and 1/2 intermediate-density DNA. |
 | Conclusion | Replication is semiconservative. |
 | Significance | Proved that, in accordance with Watson and Crick's suspicions, that DNA replicated by splitting down the middle and using each half as a template. Thus, each DNA is half-old and half-new. |
+
+### Srb-Horowitz Experiment
+
+| Aspect | Description |
+| --- | --- |
+| Question | What do genes do? |
+| Hypothesis | Each gene contains information needed to make one enzyme. |
+| Null Hypothesis | Genes do not have a one-to-one correspondence with enzymes. |
+| Experimental Strategy | Produce mutants unable to synthesize arginine, then test different steps in the mtabolic pathway for synthesizing arginine. |
+| Experimental Setup | Isolate *Neurospora crassa* that cannot synthesize arginine in four environments: no supplement, supplemented with only ornithine, supplemented only with citrulline, supplemented only with arginine |
+| Prediction of Hypothesis | There will be 3 distinct types of mutants corresponding to defects in enzyme 1, 2, and 3 in the pathway for synthesizing arginine. Each mutant will be able to grow  on different combinations. |
+| Prediction of Null Hypothesis | There will not be a simple correspondence between a particular mutation and a particular enzyme. |
+| Results | Three types of mutants *arg1*, *arg2*, *arg3*. They are able to grow in the metabolic pathway *from* orthinine, citrulline, and arginine, respectively. *arg1* cells lack enzyme 1 from precursor to orthinine, *arg2* cells lack enzyme 2 from orthinine to citrulline, etc. |
+| Conclusion | The one-gene, one-enzyme hypothesis is supported. |
 
 [Back to top](#)
 
@@ -192,5 +211,30 @@ Defensive Proteins | Defensive proteins help organisms fight infection, heal dam
 | Lagging-strand synthesis | Sliding clamp | Holds DNA polymerase in place during strand extention. |
 | Lagging-strand synthesis | DNA Polymerase I | Removes the RNA primer and replaces it with DNA. |
 | Lagging-strand synthesis | DNA ligase | Catalyzes the jooining of Okazaki fragments into a continuous strand. |
+
+### Translation, Transcription, and the Genetic Code
+#### Complete Genetic Code Table
+![Complete Genetic Code](https://andre-ye.github.io/biology/genes-and-dna/codon%20base%20table.PNG)
+
+#### Properties of the Genetic Code
+
+| Property | Description |
+| --- | --- |
+| Redundant | All amino acids (except for 2) are coded for by more than one codon. Codons specifying the same amino acid are synonymous codons. |
+| Unambiguous | A given codon never codes for more than one amino acid. | 
+| Non-overlapping | Once the ribosome locks onto the first codon, the reading frame is established and the ribosome rads one codon one after another. |
+| Universal | Witha f ew exceptions, codons specify the same amino acids in all organisms. |
+| Conservative | Several codons specify the same amino acid, but the first two bases are usually identical. |
+- If a change in DNA sequence leads to a change in the third position, it is less likely to alter the amino acid in the protein.
+- Genetic code minimizes the phenotypic affects of small alterations.
+  - Genetic code not assembled randomly; honed by natural selection and is remarkably efficient.
+  
+#### Types of Point Mutations
+![Types of point mutations](https://andre-ye.github.io/biology/genes-and-dna/types%20of%20point%20mutations%20table.PNG
+
+#### The 3 Categories of Mutations
+1. **Beneficial.** Some mutations increase the fitness of an organism.
+2. **Neutral.** If the mutation has not effect on fitness, it is neutral. e.g. silent mutations.
+3. **Deleterious.** Most individuals are well-adapted to their current habitat and mutations are random changes in genotype; most mutations lower fitness.
 
 [Back to top](#)
