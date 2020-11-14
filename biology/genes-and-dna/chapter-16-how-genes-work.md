@@ -167,8 +167,9 @@ Andre Ye, 11/14/2020
 | Redundant | All amino acids (except for 2) are coded for by more than one codon. Codons specifying the same amino acid are synonymous codons. |
 | Unambiguous | A given codon never codes for more than one amino acid. | 
 | Non-overlapping | Once the ribosome locks onto the first codon, the reading frame is established and the ribosome rads one codon one after another. |
-| Universal | Witha f ew exceptions, codons specify the same amino acids in all organisms. |
+| Universal | With a few exceptions, codons specify the same amino acids in all organisms. |
 | Conservative | Several codons specify the same amino acid, but the first two bases are usually identical. |
+
 - If a change in DNA sequence leads to a change in the third position, it is less likely to alter the amino acid in the protein.
 - Genetic code minimizes the phenotypic affects of small alterations.
   - Genetic code not assembled randomly; honed by natural selection and is remarkably efficient.
