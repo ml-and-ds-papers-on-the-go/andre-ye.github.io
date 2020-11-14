@@ -194,7 +194,7 @@ Andre Ye, 11/14/2020
 - Some mutations can shift the reading frame, and are called **frameshift mutations.** Usually destroy the function.
 - **Nonsense mutation** occurs when a codon that specifies an amino acid is changed into one that specifies a stop codon. This causes early termination of the polypeptide chain.
 
-![Types of point mutations](https://andre-ye.github.io/biology/genes-and-dna/types of point mutations table.PNG)
+![Types of point mutations](https://andre-ye.github.io/biology/genes-and-dna/types%20of%20point%20mutations%20table.PNG)
 
 #### The 3 Categories of Mutations
 1. **Beneficial.** Some mutations increase the fitness of an organism.
