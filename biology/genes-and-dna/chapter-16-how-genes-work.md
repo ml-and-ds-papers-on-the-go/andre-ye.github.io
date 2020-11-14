@@ -99,9 +99,39 @@ Andre Ye, 11/14/2020
 - Central dogma is important, but life is not always as clean.
 
 ## 16.3: The Genetic Code
+- Once biologists understood the pattern of information flow, they asked: how can the base sequence of mRNA code become amino acids?
+- Genetic code: the relationship between a sequence of nucleotides in DNA or RNA and the seuqence of amino acids in a protein.
 
+### How Long is a Word in the Genetic Code?
+- Genetic language, words specify amino acids. How long is the message that designates one amino acid?
+- George Gamow: each genetic word contains 3 bases.
+  - There are only 4 different bases (A, U, G, C). A one-base code can specify only 4 different amino acids.
+  - A two-base code can represent 16 different amino acids.
+  - A three-base code can represent 64 different amino acids.
+- Three-base code (**triplet code**) is shortest genetic code for at least 20 amino acids.
+  - The genetic code may be redundant (amino acid can be specified by more than one triplet of bases).
+- **Codon** - group of three bases that specifies an amino acid.
+  - Different codons might mean the same amino acid (e.g. AAA and AAG).
 
+#### Francis Crick and Sydney Brenner Experiment
+- Developed an experiment to see if codons were actually 3 bases long.
+- Used chemicals that caused an occasional addition or deletion of a base pair.
+- This led to the loss of function in the gene being studied.
+- A single addition or deletion throws the sequence of codons (**reading frame**) out of register.
+- Functional proteins were produced when sequences were eliminated when three base pairs were eliminated altogether.
 
+### How Did Researchers Crack the Code?
+- Marshall Nirenberg and Heinrich Matthaei developed a method of synthesizing RNAs composed of single-type of ribonucleotide.
+  - RNA triplet UUU codes for phenylalanine.
+  - RNA triplet AAA codes for lysine.
+  - RNA triplet CCC codes for proline.
+- Extended this work to create RNAs from different mixtures of different nucleotides.
+  - Researchers could predict how often a paticular triplet woul occur on average in RNA molecules.
+  - Ribosome-binding experiments enabled Nirenberg & Leder to fill in the meanings of all remaining unknown codons.
+- **Some codons do not specify amino acids.**
+  - Instead, they signal an end fo the reading frame.
+- **Start codons**. AUG start codon signals protein synthesis should began at that point.
+- **Three stop codons** (termination codons) with sequences UAA, UAG, and UGA. Stop codons signal for the end fo a reading frame (end of a polypeptide).
 
 
 
