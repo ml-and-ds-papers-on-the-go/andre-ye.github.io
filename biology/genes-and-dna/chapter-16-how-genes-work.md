@@ -6,6 +6,29 @@ Andre Ye, 11/14/2020
 ---
 
 ## Navigation
+- [Introduction](#introduction)
+- [16.1: What Do Genese Do?](#161-what-do-genese-do-)
+  * [The One-Gene, One-Enzyme Hypothesis](#the-one-gene-one-enzyme-hypothesis)
+  * [An Experimental Test of the Hypothesis](#an-experimental-test-of-the-hypothesis)
+    + [Tabular Form](#tabular-form)
+- [16.2: The Central Dogma of Molecular Biology](#162-the-central-dogma-of-molecular-biology)
+  * [The Genetic Code Hypothesis](#the-genetic-code-hypothesis)
+  * [RNAas the Intermediary between Genes and Proteins](#rnaas-the-intermediary-between-genes-and-proteins)
+  * [Dissecting the Central Dogma](#dissecting-the-central-dogma)
+    + [The Roles of Transcription and Translation](#the-roles-of-transcription-and-translation)
+    + [Linking Genotypes to Phenotypes](#linking-genotypes-to-phenotypes)
+    + [Modifications of the Central Dogma](#modifications-of-the-central-dogma)
+- [16.3: The Genetic Code](#163-the-genetic-code)
+  * [How Long is a Word in the Genetic Code?](#how-long-is-a-word-in-the-genetic-code)
+    + [Francis Crick and Sydney Brenner Experiment](#francis-crick-and-sydney-brenner-experiment)
+  * [How Did Researchers Crack the Code?](#how-did-researchers-crack-the-code)
+    + [Complete Genetic Code Table](#complete-genetic-code-table)
+    + [Analyzing the Code](#analyzing-the-code)
+    + [The Value of Knowing the Code](#the-value-of-knowing-the-code)
+- [16.4: What Are the Types and Consequences of Mutation?](#164-what-are-the-types-and-consequences-of-mutation)
+  * [Point Mutations](#point-mutations)
+    + [The 3 Categories of Mutations](#the-3-categories-of-mutations)
+  * [Chromosome Mutations](#chromosome-mutations)
 
 ## Introduction
 - DNA has been called the blueprint of life, but how is it brought to life?
@@ -136,15 +159,60 @@ Andre Ye, 11/14/2020
 #### Complete Genetic Code Table
 ![Complete Genetic Code](https://andre-ye.github.io/biology/genes-and-dna/codon%20base%20table.PNG)
 
+#### Analyzing the Code
+- Important properties:
 
+| Property | Description |
+| --- | --- |
+| Redundant | All amino acids (except for 2) are coded for by more than one codon. Codons specifying the same amino acid are synonymous codons. |
+| Unambiguous | A given codon never codes for more than one amino acid. | 
+| Non-overlapping | Once the ribosome locks onto the first codon, the reading frame is established and the ribosome rads one codon one after another. |
+| Universal | Witha f ew exceptions, codons specify the same amino acids in all organisms. |
+| Conservative | Several codons specify the same amino acid, but the first two bases are usually identical. |
+- If a change in DNA sequence leads to a change in the third position, it is less likely to alter the amino acid in the protein.
+- Genetic code minimizes the phenotypic affects of small alterations.
+  - Genetic code not assembled randomly; honed by natural selection and is remarkably efficient.
 
+#### The Value of Knowing the Code
+- Knowing the genetic code lets biologists predict the amino acid sequence encoded by a particular DNA sequence.
+  - Lets them determine mRNA and DNA sequences that could code for a particular set of amino acids.
+- Set of mRNA or DNA sequences can code for a particular amino acid sequence.
+  - Code is redundant.
+  - If a polypeptide contains phenylalanine, don't know if it is UUU or UUC.
+  
+## 16.4: What Are the Types and Consequences of Mutation?
+- Mutations change genetic information.
+- A mutation was defined as a heritable change in a gene.
+- Heritability can be from mother cell ot daughter cells or between generations of multicellular organisms.
+- **Molecular view of mutation:** mutation is any permanent change in the organism's DNA.
+- Is a modification of a cell's information archive (changes its genotype and creates new alleles).
 
+### Point Mutations
+- A change in the sequence of bases can result to an alteration of one or a small number of base pairs: a *point mutation.*
+- Point mutations that change the identity of an amino acid in a protein are **missense mutations.**
+- A point mutation that has no impact on the amino acid is a **silent mutation.**
+- Some mutations can shift the reading frame, and are called **frameshift mutations.** Usually destroy the function.
+- **Nonsense mutation** occurs when a codon that specifies an amino acid is changed into one that specifies a stop codon. This causes early termination of the polypeptide chain.
 
+![Types of point mutations](https://andre-ye.github.io/biology/genes-and-dna/types of point mutations table.PNG)
 
+#### The 3 Categories of Mutations
+1. **Beneficial.** Some mutations increase the fitness of an organism.
+2. **Neutral.** If the mutation has not effect on fitness, it is neutral. e.g. silent mutations.
+3. **Deleterious.** Most individuals are well-adapted to their current habitat and mutations are random changes in genotype; most mutations lower fitness.
+- **Most point mutations are slightly deleterious or neutral.**
 
+### Chromosome Mutations
+- There are larger-scale mutations that can change the entire structure or number of chromosomes.
+- A polyploidy is the state of having more than two of each type of chromosome, an aneuploidy results from the addition or deletion of individual chromosomes.
+- Changes in chromosomes result from mistakes in moving chromosomes during meiosis or mitosis.
+  - Mutations don't change DNA sequences but cause permanent changes in an organism's DNA.
+- Structure of individual chromosomes can be changed in significant ways.
+- Four major types:
+  1. A **deletion** can be caused by a broken segment of a chromosome.
+  2. An **inversion** can be caused when segments of a broken chromosome are flipped and re-joined.
+  3. Errors in crossing over or in DNA synthesis lead to the presence of a **duplication**, or multiple copies of the segment.
+  4. **Translocation** occurs when a broken piece of a chromosome is attached to a different chromosomes.
+- Chromosome mutations can be beneficial, neutral, or deleterious.
 
-
-
-
-
-
+[Back to top](#)
