@@ -133,6 +133,9 @@ Andre Ye, 11/14/2020
 - **Start codons**. AUG start codon signals protein synthesis should began at that point.
 - **Three stop codons** (termination codons) with sequences UAA, UAG, and UGA. Stop codons signal for the end fo a reading frame (end of a polypeptide).
 
+#### Complete Genetic Code Table
+![Complete Genetic Code](https://andre-ye.github.io/biology/genes-and-dna/codon%20base%20table.PNG)
+
 
 
 
