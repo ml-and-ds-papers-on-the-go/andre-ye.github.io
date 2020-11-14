@@ -8,7 +8,7 @@ Andre Ye, 11/14/2020
 ## Navigation
 - Chapter 16 Assigned Videos
   - [DNA Replication and RNA Transcription and Translation](#dna-replication-and-rna-transcription-and-translation)
-  - [The Central Dogma amd Phenotyepes](#the-central-dogma-amd-phenotypes)
+  - [The Central Dogma amd Phenotyepes](#the-central-dogma-and-phenotypes)
   - [Overview of Protein Syntheis](#overview-of-protein-syntheis)
   - [The Triplet Nature of the Genetic Code](#the-triplet-nature-of-the-genetic-code)
 - Chapter 17 Assigned Videos
@@ -35,7 +35,7 @@ Andre Ye, 11/14/2020
   - Every three bases codes for a specific amino acid.
   - Represents a *codon*.
 
-## The Central Dogma amd Phenotypes
+## The Central Dogma and Phenotypes
 *Pearson Media, Figure Walkthrough.*
 - DNA to RNA to Protein.
   - Information transfer, not chemical conversion.
