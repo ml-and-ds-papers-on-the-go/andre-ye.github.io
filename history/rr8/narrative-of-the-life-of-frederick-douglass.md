@@ -18,7 +18,6 @@ Andre Ye, 11/15/2020
 - Frederick Douglass was born into slavery on Maryland's Eastern Shore in 1818. He escaped from slavery at age 20 and became an active figure in the abolitionist movement, eventually becoming one of the most important black American figures of the 19th century. In these excerpts from his first autobiography, he describes his experiences as a slave.
 
 ## Chapter 2
-*page 1*
 - Slaves of all other farms recieved allowance of food and clothing.
   - Monthly allowance: 8 pounds of pork and one bushel of corn meal.
   - Yearly clothing: no more than 7 dollars of cost.
