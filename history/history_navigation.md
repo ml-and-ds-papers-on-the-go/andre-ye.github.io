@@ -31,6 +31,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *River of Dark Dreams: Slavery and Empire in the Cotton Kingdom* by Walter Johnson](https://andre-ye.github.io/history/rr7/river-of-dark-dreams), 11/7/20.
 - Weekly Reading Response 8 (Due 11/19)
   - [Notes on *Ain't I a Woman?* by Sojourner Truth](https://andre-ye.github.io/history/rr8/aint-i-a-woman)
+  - [Notes on *Incidents in the Life of a Slave Girl* by Linda Brent](https://andre-ye.github.io/history/rr8/life-of-a-slave-girl)
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
