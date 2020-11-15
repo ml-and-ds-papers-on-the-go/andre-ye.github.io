@@ -16,9 +16,10 @@
   * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
 - [Issues](#issues)
   * [Steps to Identifying Issues](#steps-to-identifying-issues)
-  * [Steps to Formulating an Issue-Based Question](#steps-to-formulating-an-issue-based-question)
-- [Peer Editing and Revision](#peer-editing-and-revision)
+  * [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
+- [Revision and Sources](#revision-and-sources)
   * [The Composition Pyramid](#the-composition-pyramid)
+  * [Steps to Identifying Sources](#steps-to-identifying-sources)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -110,7 +111,7 @@
 
 ---
 
-## Peer Editing and Revision
+## Revision and Sources
 ### The Composition Pyramid
 
 | Level | Considering |
@@ -118,6 +119,12 @@
 | Top | Situation, Issues, Thesis, Audience |
 | Middle | Organization, use of sources to support thesis |
 | Bottom | Style and grammar |
+
+### Steps to Identifying Sources
+1. Consult experts who can guide your research.
+2. Develop a working knowledge of standard sources.
+3. Distinguish between primary and secondary sources.
+4. Distinguish between popular and scholarly sources.
 
 ---
 
