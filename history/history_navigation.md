@@ -29,6 +29,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - Weekly Reading Response 7 (Due 11/12)
   - [Notes on *John Brown's Last Speech*](https://andre-ye.github.io/history/rr7/john-brown), 11/7/20.
   - [Notes on *River of Dark Dreams: Slavery and Empire in the Cotton Kingdom* by Walter Johnson](https://andre-ye.github.io/history/rr7/river-of-dark-dreams), 11/7/20.
+- Weekly Reading Response 8 (Due 11/19)
+  - [Notes on *Ain't I a Woman?* by Sojourner Truth](https://andre-ye.github.io/history/rr8/aint-i-a-woman)
 
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
