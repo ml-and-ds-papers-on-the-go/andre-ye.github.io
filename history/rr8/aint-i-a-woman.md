@@ -1,7 +1,7 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 8 > Notes on *Ain't I A Woman?*
 
 # Notes on *Ain't I A Woman?*
-Andre Ye, 11/7/2020
+Andre Ye, 11/14/2020
 
 ## Navigate
 - [Context](#context)
