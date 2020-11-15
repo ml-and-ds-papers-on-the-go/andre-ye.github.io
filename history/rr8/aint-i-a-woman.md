@@ -4,6 +4,9 @@
 Andre Ye, 11/7/2020
 
 ## Navigate
+- [Context](#context)
+- [Notes](#notes)
+- [Full Text](#full-text)
 
 ## Context
 Written by Sojourner Truth (1797-1883), delivered 1851 at the Women's Convention, Akron, Ohio.
