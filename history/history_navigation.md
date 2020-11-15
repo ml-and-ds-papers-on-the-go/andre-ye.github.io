@@ -30,9 +30,9 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *John Brown's Last Speech*](https://andre-ye.github.io/history/rr7/john-brown), 11/7/20.
   - [Notes on *River of Dark Dreams: Slavery and Empire in the Cotton Kingdom* by Walter Johnson](https://andre-ye.github.io/history/rr7/river-of-dark-dreams), 11/7/20.
 - Weekly Reading Response 8 (Due 11/19)
-  - [Notes on *Ain't I a Woman?* by Sojourner Truth](https://andre-ye.github.io/history/rr8/aint-i-a-woman)
-  - [Notes on *Incidents in the Life of a Slave Girl* by Linda Brent](https://andre-ye.github.io/history/rr8/life-of-a-slave-girl)
-
+  - [Notes on *Ain't I a Woman?* by Sojourner Truth](https://andre-ye.github.io/history/rr8/aint-i-a-woman), 11/14/20.
+  - [Notes on *Incidents in the Life of a Slave Girl* by Linda Brent](https://andre-ye.github.io/history/rr8/life-of-a-slave-girl), 11/15/20.
+  - [Notes on *Narrative of the Life of Frederick Douglass* by Frederick Douglass](https://andre-ye.github.io/history/rr8/narrative-of-the-life-of-frederick-douglass), 11/15/20.
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
 - [Week 4 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-4). *Feedback on essay 1, grading standards for essays, reading responses & active reading.*
