@@ -5,6 +5,36 @@ Andre Ye, 10/17/2020
 
 ---
 
+## Navigate
+- [Introduction](#introduction)
+  * [Consult Experts Who Can Guide Your Research](#consult-experts-who-can-guide-your-research)
+    + [Your Writing Instructor](#your-writing-instructor)
+    + [Libraries At Your Campus or Local Library](#libraries-at-your-campus-or-local-library)
+    + [Experts in Other Fields](#experts-in-other-fields)
+    + [Research Manuals, Handbooks, and Dedicated Websites](#research-manuals--handbooks--and-dedicated-websites)
+  * [Develop a Working Knowledge of Standard Sources](#develop-a-working-knowledge-of-standard-sources)
+  * [Distinguish Between Primary and Secondary Sources](#distinguish-between-primary-and-secondary-sources)
+  * [Distinguish Between Popular and Scholarly Sources](#distinguish-between-popular-and-scholarly-sources)
+  * [Steps to Identifying Sources](#steps-to-identifying-sources)
+- [Searching for Sources](#searching-for-sources)
+  * [Perform a Keyword Search](#perform-a-keyword-search)
+  * [Try Browsing](#try-browsing)
+- [Evaluating Library Sources](#evaluating-library-sources)
+  * [Examine the Table of Contents and Index](#examine-the-table-of-contents-and-index)
+  * [Read the Introductory Sections](#read-the-introductory-sections)
+  * [Skim for the Argument](#skim-for-the-argument)
+  * [Check the Notes and Bibliographic References](#check-the-notes-and-bibliographic-references)
+  * [Assess Accuracy and Credibility](#assess-accuracy-and-credibility)
+  * [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
+- [Evaluating Internet and Social Media Sources](#evaluating-internet-and-social-media-sources)
+  * [Evaluate the Author of the Content](#evaluate-the-author-of-the-content)
+  * [Evaluate the Organization That Supports the Content](#evaluate-the-organization-that-supports-the-content)
+  * [Evaluate the Purpose of the Content](#evaluate-the-purpose-of-the-content)
+  * [Evaluate the Information](#evaluate-the-information)
+  * [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
+- [Writing an Annotated Bibliography](#writing-an-annotated-bibliography)
+  * [Steps to Writing an Annotated Bibliography](#steps-to-writing-an-annotated-bibliography)
+
 ## Introduction
 - When you visit a source repository, you usually have identified a topic or something you would like to explore.
 - Your topic, question, or working thesis will determine the nature and extent of information that is needed.
@@ -159,6 +189,4 @@ This article provides a good history and analysis of the present dropout problem
 3. **Determine relevance.** Discuss how this research may be used in your own argument.
 
 
-
-
-
+[Back to top](#)
