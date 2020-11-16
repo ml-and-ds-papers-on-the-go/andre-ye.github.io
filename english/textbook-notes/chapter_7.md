@@ -69,3 +69,61 @@ Andre Ye, 10/17/2020
 ### Try Browsing
 - Browse is a headings search.
   - You an browse displays of alphabetic lists of entries, show the number of records for each entry, and indicate whether there are cross-references for each entry.
+  
+## Evaluating Library Sources
+- The information we encounter will vary widely in its relevance and overall quality.
+- Information will vary in its relevance.
+- **Skimming** involves four steps.
+  1. Examine the table of contents and index.
+  2. Read the introductory sections.
+  3. Skim for the argument by reading topic sentences.
+  4. Check notes and bibliographic references.
+
+### Examine the Table of Contents and Index
+- Analyzing the table of contents can help reveal which topics the author focuses on, which may be valuable in your own research.
+The index is a recurring alphabetical list of the important and recurring concepts in a book.
+
+### Read the Introductory Sections
+- Many authors use a preface or an introduction to explain themes they focus on in the book.
+- **Abstracts** serve the same purpose, but are usually only 250 words long.
+
+### Skim for the Argument
+- Reading the first sentence of each paragraph can help determine the relevance of a book or an article. 
+- Types of phrases and questions can help you get a sense of what the author is trying to accomplish and whether the author's work will be of use to you.
+- If the source still seems promising, you can reflect on whether it will help you answer your research question.
+
+### Check the Notes and Bibliographic References
+- Look closely at writers' notes and bibliographies to discern who they feel are the important voices int he field.
+
+### Assess Accuracy and Credibility
+- Find the following information for each article or book:
+  - Author's background and credentials
+  - Author's purpose
+  - Audience
+  - Nature of the conversation
+  - How the author supports the argument
+  - The accuracy of the author's evidnece
+  - The author's biases and personal views.
+
+### Steps to Evaluating Library Sources
+1. Examine the table of contents and index. Consider the most relevant chapters and headings to your topic and the list of relevant subjects.
+2. Read the introductory sections. Get an overview of the author’s argument.
+3. Skim for the argument. Read topic sentences to determine the source’s relevance to your research. Go deeper to assess the type and quality of evidence the author uses. Note whether the author uses credible evidence to support the argument.
+4. eck the notes and bibliographic references. Identify other writers an author refers to and the titles of both books and articles. (Are the names and titles cited in many other works?)
+5. ess the information for accuracy and credibility. Find out about the author’s educational background and relevance to the topic, issue, or question that the author addresses. Consider the types of evidence the author uses, the source of data, and whether the data can be verified.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
