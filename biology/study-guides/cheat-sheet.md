@@ -176,7 +176,7 @@ Dispersive replication | Parental double helix was fragmented into small pieces 
 #### Protein Levels of Structure
 
 | Level of Structure | Description | Stabilized by |
-| --- | --- |
+| --- | --- | --- |
 | Primary | Each protein has a unique primary structure, determined by the number and sequence of amino acids, making up the polypeptide chain. 20 amino acids are used to build proteins. Various amino acids could be linked in almost any sequence. | Peptide bonds |
 | Secondary | Parts of the polypeptide chain are folded or coiled. For example, forms alpha helix - chain twists forms a helix or beta pleated sheats - chain folds back on itself, or two regions lie parallel. Results from hydrogen bonding between atoms of the polypeptide backbone. | Hydrogen bonding between groups along the peptide-bonded backbone |
 | Tertiary | Superimposed on primary and secondary structure: irregular loops and folds that give the protein its 3d shape. Results from interactions along R groups - hydrophilic or polar `R`-groups may hydrogen bond with each other or turn outwards and bond with surrounding water and hydrophobic or nonpolar `R` groups cluster on the inside of the protein, away from water. | Bonds and other interactions between R-groups or between R-groups and a peptide-bonded backbone; sulfur-containing strong covalent bonds |
@@ -230,7 +230,7 @@ Defensive Proteins | Defensive proteins help organisms fight infection, heal dam
   - Genetic code not assembled randomly; honed by natural selection and is remarkably efficient.
   
 #### Types of Point Mutations
-![Types of point mutations](https://andre-ye.github.io/biology/genes-and-dna/types%20of%20point%20mutations%20table.PNG
+![Types of point mutations](https://andre-ye.github.io/biology/genes-and-dna/types%20of%20point%20mutations%20table.PNG)
 
 #### The 3 Categories of Mutations
 1. **Beneficial.** Some mutations increase the fitness of an organism.
