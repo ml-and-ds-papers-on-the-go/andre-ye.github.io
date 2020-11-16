@@ -20,6 +20,11 @@
 - [Revision and Sources](#revision-and-sources)
   * [The Composition Pyramid](#the-composition-pyramid)
   * [Steps to Identifying Sources](#steps-to-identifying-sources)
+  * [Steps to Identifying Sources](#steps-to-identifying-sources-1)
+  * [Steps to Skimming](#steps-to-skimming)
+  * [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
+  * [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
+  * [Steps to Writing an Annotated Bibliography](#steps-to-writing-an-annotated-bibliography)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -125,6 +130,36 @@
 2. Develop a working knowledge of standard sources.
 3. Distinguish between primary and secondary sources.
 4. Distinguish between popular and scholarly sources.
+
+### Steps to Identifying Sources
+1. Consult experts who can guide your research.
+2. Develop a working knowledge of standard sources.
+3. Distinguish between primary and secondary sources.
+4. Distinguish between popular and scholarly sources.
+
+### Steps to Skimming
+1. Examine the table of contents and index.
+2. Read the introductory sections.
+3. Skim for the argument by reading topic sentences.
+4. Check notes and bibliographic references.
+
+### Steps to Evaluating Library Sources
+1. **Examine the table of contents and index.** Consider the most relevant chapters and headings to your topic and the list of relevant subjects.
+2. **Read the introductory sections.** Get an overview of the author’s argument.
+3. **Skim for the argument.** Read topic sentences to determine the source’s relevance to your research. Go deeper to assess the type and quality of evidence the author uses. Note whether the author uses credible evidence to support the argument.
+4. **Check the notes and bibliographic references.** Identify other writers an author refers to and the titles of both books and articles. (Are the names and titles cited in many other works?)
+5. **Assess the information for accuracy and credibility.** Find out about the author’s educational background and relevance to the topic, issue, or question that the author addresses. Consider the types of evidence the author uses, the source of data, and whether the data can be verified.
+
+### Steps to Evaluating Internet and Social Media Sources
+1. **Evaluate the author of the content.** Is the author an expert?
+2. **Evaluate the organization that supports the content.** What entity funds the content and what is the extent of its credibility?
+3. **Evaluate the purpose of the content.** What are interests of the site, and what is it trying to do?
+4. **Evaluate the information.** Identify what type of information appears and the extent to which it is credible.
+
+### Steps to Writing an Annotated Bibliography
+1. **Present key ideas.** Describe what the research is about.
+2. **Analyze.** Explain what the author responds to, purpose, potential gaps, and credibility.
+3. **Determine relevance.** Discuss how this research may be used in your own argument.
 
 ---
 
