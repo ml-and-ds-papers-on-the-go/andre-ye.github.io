@@ -20,7 +20,6 @@
 - [Revision and Sources](#revision-and-sources)
   * [The Composition Pyramid](#the-composition-pyramid)
   * [Steps to Identifying Sources](#steps-to-identifying-sources)
-  * [Steps to Identifying Sources](#steps-to-identifying-sources-1)
   * [Steps to Skimming](#steps-to-skimming)
   * [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
   * [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
@@ -124,12 +123,6 @@
 | Top | Situation, Issues, Thesis, Audience |
 | Middle | Organization, use of sources to support thesis |
 | Bottom | Style and grammar |
-
-### Steps to Identifying Sources
-1. Consult experts who can guide your research.
-2. Develop a working knowledge of standard sources.
-3. Distinguish between primary and secondary sources.
-4. Distinguish between popular and scholarly sources.
 
 ### Steps to Identifying Sources
 1. Consult experts who can guide your research.
