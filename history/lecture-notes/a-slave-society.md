@@ -263,6 +263,38 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
 
 \* Values are in dollars. n/a = not available.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 **To be continued**
