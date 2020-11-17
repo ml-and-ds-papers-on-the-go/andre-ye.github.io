@@ -33,7 +33,9 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Ain't I a Woman?* by Sojourner Truth](https://andre-ye.github.io/history/rr8/aint-i-a-woman), 11/14/20.
   - [Notes on *Incidents in the Life of a Slave Girl* by Linda Brent](https://andre-ye.github.io/history/rr8/life-of-a-slave-girl), 11/15/20.
   - [Notes on *Narrative of the Life of Frederick Douglass* by Frederick Douglass](https://andre-ye.github.io/history/rr8/narrative-of-the-life-of-frederick-douglass), 11/15/20.
+  
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
 - [Week 4 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-4). *Feedback on essay 1, grading standards for essays, reading responses & active reading.*
 - [Week 7 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-7). *Further walk throughs on essays, argumentation, and reading responses.*
+- [Week 8 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-8). *Discussion on steps of argumention, They Say I Say (framing arguments in opposition to others.*
