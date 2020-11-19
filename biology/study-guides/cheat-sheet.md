@@ -99,9 +99,9 @@ Andre Ye, 11/7/2020
 
 ---
 
-## Terms and Concepts
+## Core Ideas
 
-### Chemistry
+### Chemistry, Origin of Life, Nucleic Acids
 
 #### Chemical Foundation of Life Terms and Concepts
 
@@ -120,16 +120,12 @@ Andre Ye, 11/7/2020
 | Ionic Bond | electrons in ionic bonds are completely transferred from one atom to another. |
 | Solvent | an agent for dissolving, or getting substances into solution. |
 
-### Origin of Life
-
 #### Two Theories
 
 | Theory | Process |
 | --- | ------------------ |
 | Prebiotic Soup Model | Simple molecules like `N2`, `NH3`, and `CO` were present in the atmosphere of ancient earth. Energy in sunlight drove reactions among simple molecules to produce molecules like `formaldehyde` and `hydrogen cyanide`. Stimulated by heat, the products formed more complex molecules like `ribose`, `glycine`, and `acetaldehyde`. |
 | Surface Metabolism Model | Simple molecules like `N2`, `NH3`, and `CO` were present in early oceans and hydrothermal events. Vent minerals catalyzed spontaneous reactions among high-energy molecules to produce, for instance, `acetic acid`. Concentration and heat formed more complex molecules like ribose.
-
-### RNA
 
 #### RNA vs DNA Levels of Structure
 
@@ -139,8 +135,6 @@ Andre Ye, 11/7/2020
 | Secondary | Two antiparallel strands twist into a double helix, stabilized by hydrogen bonding, hydrophobic bonding, hydrophobic interactions, and van der Waals interactions | Single strand folds back on itself to form a double-helical 'stem' and an unpaired 'loop'. |
 | Tertiary | Double helical DNA forms compact structures by wrapping around histone proteins or twisting into supercoils. | Secondary structures fold to form a wide variety of distinctive three-dimensional shape. |
 
-### DNA
-
 #### 3 DNA Replication Hypotheses
 
 Hypothesis | Description
@@ -148,27 +142,6 @@ Hypothesis | Description
 Semiconservative replication | If parental strands of DNA separate, each could be used as a synthesis of a new daughter strand. Each daughter DNA molecule consists of one old strand and one new strand. Conserves only one of the strands.
 Conservative replication | If bases of strands turned out from the helix, they could serve as a template for an entirely new double helix all at once.
 Dispersive replication | Parental double helix was fragmented into small pieces before replication, and each piece was replicated either with conservative or semiconservative mechanisms. Fragments would be joined into two molecules that contained a mixture of parental and daughter strands.
-
-#### DNA Replication Terms and Concepts
-
-| Term | Definition |
-| --- | --- |
-| Chromosome theory of inheritance | Proposed that chromosomes contain genes. |
-| Nitrogen 14 | Normal nitrogen; used in the Meselson-Stahl experiment to distinguish parent strands from daughter strands. |
-| Nitrogen 15 | Heavy nitrogen with one more neutron; used in the Meselson-Stahl experiment to distinguish parent strands from daughter strands. |
-| 5' to 3' Direction | The direction in which DNA is synthesized. |
-| Antiparallel strands | Strands of DNA that lie opposite each other. |
-| Complementary base pairing | Base A matched with base T, base G matches with base C. |
-| Density gradient centrifugation | Separates molecules based on their density. Lower-density molecules cluster in bands high in the centrifuge tube, higher-density molecules cluster in bands lower in the tube. |
-| dNTP | DNA synthesis requires an input of energy, but potential energy of deoxyribonucleotide monomers is raiased by reactions tha add two phosphate groups, forming deoxyribonucleotide triphosphates (dNTPs). dNTP has high potential energy; forms phosphodiester bonds in DNA strand. |
-| Discontinuous Replication | Proposed to explain how lagging strand was synthesized. Primase synthesizes new RNA primers for lagging strands as the moving replication fork opens single-stranded regions of DNA; DNA polymerase syntheses short DNA fragments from these primers. Fragments linked to form a continuous strand. |
-| Lagging strand | The strand that runs opposite to the direction in which the replication fork is moving. This causes a lag. |
-| Continuous strand | The strand that moves in the same direction as the replication fork. |
-| Okazaki fragments | Short DNA fragments attached to RNA primers produced by the lag of the lagging strnad. |
-| Origin of Replication | A sequence of bases that indicates the start of a replication bubble, in which two replication forks move in opposite directions to separate the DNA strand. | 
-| Replisome | Proteins and enzymes work in a macromolecular machine called the replisome. Replisome may contain up to three copies of DNA polymerase III.
-| RNA polymerase | A polymerase that can start synthesis from scratch. Primase is a RNA polymerase (enzymes that catalyze polymerization of ribonucleotides into RNA). |
-| RNA primers | Because DNA polymerase cannot synthesize new nucleotides on its onw, but RNA polymerase (for example, primase) can. This is used to initiate building, and is later removed by DNA polymerase I. |
 
 
 ### Proteins
@@ -236,5 +209,90 @@ Defensive Proteins | Defensive proteins help organisms fight infection, heal dam
 1. **Beneficial.** Some mutations increase the fitness of an organism.
 2. **Neutral.** If the mutation has not effect on fitness, it is neutral. e.g. silent mutations.
 3. **Deleterious.** Most individuals are well-adapted to their current habitat and mutations are random changes in genotype; most mutations lower fitness.
+
+### Process of Initiating Transcription in Bacteria
+1. Initiation begins. Sigma binds to the promoter region of the DNA, characterized by the -35 box and the -10 box.
+2. Initiation continues. RNA polymerase opens up the DNA helix and transcription begins. NTPs are used to create the complement of the template strand. 
+3. Initiation completes. Sigma is released from the core enzyme and RNA synthesis continues. The RNA polymerase moves downstream along the DNA.
+
+### Process of Ending Transcription in Bacteria
+1. Hairpin forms. RNA polymerase transcribes a transcription-termination signal, which codes for RNA that forms a hairpin. 
+2. Termination. The RNA hairpin leads to the RNA separating from RNA polymerase, terminating transcription.
+
+### Processed mRNA Strand Diagram
+![](https://andre-ye.github.io/biology/genes-and-dna/pre%20mrna%20diagram.PNG)
+
+## Terms and Concepts
+### DNA Replication
+
+| Term | Definition |
+| --- | --- |
+| Chromosome theory of inheritance | Proposed that chromosomes contain genes. |
+| Nitrogen 14 | Normal nitrogen; used in the Meselson-Stahl experiment to distinguish parent strands from daughter strands. |
+| Nitrogen 15 | Heavy nitrogen with one more neutron; used in the Meselson-Stahl experiment to distinguish parent strands from daughter strands. |
+| 5' to 3' Direction | The direction in which DNA is synthesized. |
+| Antiparallel strands | Strands of DNA that lie opposite each other. |
+| Complementary base pairing | Base A matched with base T, base G matches with base C. |
+| Density gradient centrifugation | Separates molecules based on their density. Lower-density molecules cluster in bands high in the centrifuge tube, higher-density molecules cluster in bands lower in the tube. |
+| dNTP | DNA synthesis requires an input of energy, but potential energy of deoxyribonucleotide monomers is raiased by reactions tha add two phosphate groups, forming deoxyribonucleotide triphosphates (dNTPs). dNTP has high potential energy; forms phosphodiester bonds in DNA strand. |
+| Discontinuous Replication | Proposed to explain how lagging strand was synthesized. Primase synthesizes new RNA primers for lagging strands as the moving replication fork opens single-stranded regions of DNA; DNA polymerase syntheses short DNA fragments from these primers. Fragments linked to form a continuous strand. |
+| Lagging strand | The strand that runs opposite to the direction in which the replication fork is moving. This causes a lag. |
+| Continuous strand | The strand that moves in the same direction as the replication fork. |
+| Okazaki fragments | Short DNA fragments attached to RNA primers produced by the lag of the lagging strnad. |
+| Origin of Replication | A sequence of bases that indicates the start of a replication bubble, in which two replication forks move in opposite directions to separate the DNA strand. | 
+| Replisome | Proteins and enzymes work in a macromolecular machine called the replisome. Replisome may contain up to three copies of DNA polymerase III.
+| RNA polymerase | A polymerase that can start synthesis from scratch. Primase is a RNA polymerase (enzymes that catalyze polymerization of ribonucleotides into RNA). |
+| RNA primers | Because DNA polymerase cannot synthesize new nucleotides on its onw, but RNA polymerase (for example, primase) can. This is used to initiate building, and is later removed by DNA polymerase I. |
+
+### Transcription and Translation
+
+Term | Definition
+--- | ---
+mutation | The altering of genes of chromosomes in some sort of way.
+codon | A group of three nucleotide bases that specifies an amino acid.
+fitness | In the context of transcription and translation, the ability for a gene expression to positively impact the phenotype such that the genotype gets passed down to another generation.
+frameshift | Mutations that shift the reading frame. These are usually point addition or deletions that affect the position of every base after it.
+gene expression | The process by which gene information is used to produce a gene product.
+genetic code | The mapping of each codon to an amino acid.
+messenger RNA (mRNA) |
+mutants | Genes whose sequence or chromosomes that have been altered in some sort of way.
+reading frame | The sequence of codons, the sequence broken down into groups of three beginning at the start codon and ending at the end codon.
+RNA polymerase | A polymerase that can synthesize RNA without a primer, unlike DNA polymerase.
+start codon | A codon that indicates when protein synthesis should begin. This is `AUG`.
+stop codon | Indicate when protein synthesis should stop. There are three: `UAA`, `UAG`, and `UGA`.
+transcription | The transferring of genetic information from DNA to forms of RNA.
+translation | The transferring of information from RNA to proteins.
+translocation | A chromosomal error in which a broken piece of a chromosome is attached to a different chromosomes.
+triplet code | A three-base code (forming codons).
+3' poly(A) tail | Enzyme cuts the 3’ end of the pre-MRNA after the poly(A) signal, and specialized RNA polymerase adds 100 to 250 adenine nucleotides, forming this. It is not encoded by the DNA template strand, yet required for ribosomes to start translation and to protect the end of mRNA from attack by enzymes.
+5' cap | An added cap consisting of odified guanine nucleotide linked to transcript in an unusual way when the 5' end of pre-mRNA emerges. Enables ribosomes to bind to the mRNA and protects the 5’ end of the mRNA from enzymes that degrade RNA (ribonucleases).
+aminoacyl tRNA |
+aminoacyl/A cite |
+anticodon |
+AUG codon | The one start codon.
+coding strand | The strand opposite to the one used during transcription to build the complementary pre-mRNA strand (template strand). The transcripted pre-mRNA is synthesized in the same direction as the coding strand. 
+downstream | The RNA polymerase moves in this direction when moving along the DNA.
+elongation | Occurs after RNA polymerase leaves the promoter region as it synthesizes RNA, during which the enzyme reads the DNA template on the 3’ end at a rate of 50 nucleotides per second.
+exit/E site |
+exons | Regions that are transcribed and represented in final RNA (**ex**pressed in mature DNA).
+introns | Regions of a gene that are transcribed but not represented in the final RNA.
+peptidyl/P site |
+phosphorylation |
+polyribosomes | Formed in bacteria when ribosomes attach to mRNA and begin synthesizing proteins before transcription was complete. Polyribosomes increase the number of copies of a protein that can be made from single mRNA.
+pre-mRNA | Eukaryotic genes initially copied from nonfunctional RNAs. Same as 'primary RNA transcript'.
+primary RNA transcript | Eukaryotic genes initially copied from nonfunctional RNAs. Same as 'pre-mRNA'.
+promoters | Sites where transcription should begin.
+protein folding |
+ribosomal RNA |
+ribosome | A component of the cell outside of the nucleus that is responsible for reading mRNA and synthesizing an appropriate protein.
+RNA processing | Is used to convert primary transcripts (pre-mRNA) into mature and functional RNA.
+RNA splicing | Is the removal and rejoining of introns from a transcription. Done with snRNPs (small nuclear ribonucleoproteins).
+spliceosomes | An aggregate macromolecular machine consisting of snRNPs (small nuclear ribonucleoproteins).
+template strand | The strand used during transcription to build the complementary pre-mRNA strand.
+termination |
+transfer RNA (tRNA) |
+upstream | DNA is upstream of the point of reference. The RNA polymerase moves in the opposite direction of this when moving along the DNA.
+wobble hypothesis |
+*This table will continue to be updated.*
 
 [Back to top](#)
