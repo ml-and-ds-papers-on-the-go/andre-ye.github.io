@@ -142,5 +142,3 @@ Andre Ye, 11/14/2020
 - Antibiotics hurt the function of ribosomes of bacterium but not eukaryotes.
 
 [Back to top](#) 
-  
-  
