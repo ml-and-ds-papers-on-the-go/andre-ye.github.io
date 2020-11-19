@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Textbook Notes - "How Genes Work": 16.1, 16.2, 16.3, 16.4
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Genes and DNA > Textbook Notes - "Transcription, RNA Processing, and Translation" - Sections 17.1, 17.2, 17.3, 17.4, 17.5
 
 # Textbook Notes - "Transcription, RNA Processing, and Translation" - Sections 17.1, 17.2, 17.3, 17.4, 17.5
 Andre Ye, 11/17/2020
@@ -57,8 +57,49 @@ Andre Ye, 11/17/2020
 - **Termination** ends transcription.
   - Transcription stops in bacteria when RNA polymerase transcribes a DNA sequence called a transcription-termination signal.
 
+### Transcription in Eukaryotes
+- Eukaryotes are somewhat similar in features of transcription to bacteria.
+- Important differences:
+  - Eukaryotes have **three** major polymerases.
+    - RNA polymerase I, II, & III (pol I, pol II, pol III).
+    - Each polymerase produces *certain types of RNA*. 
+  - Promoters in eukaryotic DNA are larger and  more diverse.
+    - Most eukaryotic promoters include a 'TATA box', centered 30 base pairs upstream of the transcription start site.
+  - Eukaryotic RNA polymerases recognize promoters using **general transcription factors.**
+    - First to assemble at the promoter, RNA polymerase follows.
+  - Termination of transcription differs from termination in bacteria.
+    - DNA sequence near the end of each gene called the polyadenylation signal (**poly(A) signal**) is transcribed.
+    - RNA downstream continues to transcribe the DNA template.
+    - RNA polymerase comes off the DNA template.
+  - Transcription and translation are separated in time and space. 
+    - Transcription occurs in the nucleus and translation occurs in ribosomes of the cytoplasm for eukaryotes.
+    - Bacteria begins translating mRNA before its transcription is complete.
 
+## 17.2: RNA Processing in Eukaryotes
+- Newly transcribed eukaryotic RNAs were nonfunctional and many times larger than corresponding RNAs.
+- Eukaryotic genes are initially copied from nonfunctional RNAs called **primary transcripts**.
+  - Primary transcript is pre-mRNA for protein-coding genes.
+- Primary transcript required **RNA processing** to generate mature and functional RNA.
 
+### The Startling Discovery of Split Eukaryotic Genes
+- Richard Roberts and Phillip Sharp (1977) discovered a common-cold virus had protein-coding genes with intervening sequences of noncodingDNA.
+  - Key information *was split into pieces.*
+- Experiment:
+  1. Heat the virus's DNA to break hydrogen bonds.
+  2. Single-stranded DNA incubated with mRNA.
+    - Intention: promote base pairing to reveal where genes occurred.
+- Parts of the DNA formed loops.
+  - Stretches of DNA not represented in corresponding mRNA.
+- Example: eukaryotic genes do not carry messages like
+```
+Biology is my favorite course of all time.
+```
+- Instead, the message would be something like
+```
+BIOLηεπpoενχνσoφγενεσOGY IS MY
+FAVORαpεLντεppeπTε，＆!3vνoν中o命ωγ命ITECOURSE
+OFαν{r可αωεTOl3εσπλLXε。TOγεTηεp ALL TIME
+```
 
 
 
