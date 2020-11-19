@@ -76,7 +76,7 @@ fitness | In the context of transcription and translation, the ability for a gen
 frameshift | Mutations that shift the reading frame. These are usually point addition or deletions that affect the position of every base after it.
 gene expression | The process by which gene information is used to produce a gene product.
 genetic code | The mapping of each codon to an amino acid.
-messenger RNA (mRNA) |
+messenger RNA (mRNA) | The form of RNA used to carry information from the DNA in the nucleus to the ribosome in the cytoplasm to produce proteins.
 mutants | Genes whose sequence or chromosomes that have been altered in some sort of way.
 reading frame | The sequence of codons, the sequence broken down into groups of three beginning at the start codon and ending at the end codon.
 RNA polymerase | A polymerase that can synthesize RNA without a primer, unlike DNA polymerase.
