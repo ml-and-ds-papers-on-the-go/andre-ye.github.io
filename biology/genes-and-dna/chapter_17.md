@@ -74,6 +74,15 @@ Andre Ye, 11/17/2020
   - Transcription and translation are separated in time and space. 
     - Transcription occurs in the nucleus and translation occurs in ribosomes of the cytoplasm for eukaryotes.
     - Bacteria begins translating mRNA before its transcription is complete.
+    
+### Process: Initiating Transcription in Bacteria
+1. Initiation begins. Sigma binds to the promoter region of the DNA, characterized by the -35 box and the -10 box.
+2. Initiation continues. RNA polymerase opens up the DNA helix and transcription begins. NTPs are used to create the complement of the template strand. 
+3. Initiation completes. Sigma is released from the core enzyme and RNA synthesis continues. The RNA polymerase moves downstream along the DNA.
+
+### Process: Ending Transcription in Bacteria
+1. Hairpin forms. RNA polymerase transcribes a transcription-termination signal, which codes for RNA that forms a hairpin. 
+2. Termination. The RNA hairpin leads to the RNA separating from RNA polymerase, terminating transcription.
 
 ## 17.2: RNA Processing in Eukaryotes
 - Newly transcribed eukaryotic RNAs were nonfunctional and many times larger than corresponding RNAs.
