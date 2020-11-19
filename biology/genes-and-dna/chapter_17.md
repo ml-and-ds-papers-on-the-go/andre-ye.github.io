@@ -97,15 +97,42 @@ Biology is my favorite course of all time.
 - Instead, the message would be something like
 ```
 BIOLηεπpoενχνσoφγενεσOGY IS MY
-FAVORαpεLντεppeπTε，＆!3vνoν中o命ωγ命ITECOURSE
-OFαν{r可αωεTOl3εσπλLXε。TOγεTηεp ALL TIME
+FAVORαpεLντεppeπITε3vνoν中o命ωγ命ITECOURSE
+OFαν{r可αωεTOl3εσπλLXTOγεTηεp ALL TIME
 ```
+- Sections of a noncoding sequence are represented with random characters.
+  - Must be removed from the RNA before it can carry an understandable message.
 
+#### Introns and Exons
+- Regions of a gene that are transcribed but not represented in the final RNA are introns.
+- Regions that are transcribed and represented in final RNA are called exons (*ex*pressed in mature DNA).
+- "intron" and "exon" also used for regions of transcribed RNA that are cut out (introns) or retained (exons).
+- Exons are not necessarily protein-coding regions.
+  - Many are, but some exons are RNA sequences that do not code for proteins.
 
+### RNA Splicing
+- Transcription of eukaryotic genes generates a primary transcript with exons and introns.
+- Through **splicing**, introns are removed from the growing RNA strand.
+  - Pieces of the primary transcript are removed and remaining segments are joined.
+  - Results in uninterrupted RNA mesage.
+- Protein + RNA macromolecular machiens are small nuclear ribonucleoproteins (snRNPs).
 
+#### The Process of RNA Splicing
+1. snRNPs (small nuclear ribonucleoproteins) bind to the start and end of an intron and to a branch site within the intron.
+2. More snRNPs join, and a spliceosome assembles. These are large macromolecular machines that form as an aggregate of snRNPs.
+3. The 5' end of the intron is cut from the exon, and the intron forms a single-stranded stem with a loop (a lariat) with an adenine in its connecting branch point.
+4. The 3' end of the intron is cut, releasing the intron as a lariat. Exons are joined by a phosphodiester linkage. Cut intron is degraded to ribonucleoside monophosphates.
 
-
-
+### Adding Caps and Tails to Transcripts
+- Two additional processing events are required for splicing.
+  1. When 5' end of pre-mRNA emerges, enzymes add a 5' cap.
+    - Modified guanine nucleotide linked to transcript in an unusual way.
+    - Enables ribosomes to bind to the mRNA and protects the 5' end of the mRNA from enzymes that degrade RNA (ribonucleases).
+  2. Enzyme cuts the 3' end of the pre-MRNA after the poly(A) signal.
+    - Specialized RNA polymerase adds 100 to 250 adenine nucleotides.
+    - Known as the poly(A) tail.
+    - Not encoded by the DNA template strand.
+    - Required for ribosomes to start translation and to protect the end of mRNA from attack by enzymes.
 
 
 
