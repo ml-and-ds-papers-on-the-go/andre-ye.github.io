@@ -295,6 +295,7 @@ termination |
 transfer RNA (tRNA) |
 upstream | DNA is upstream of the point of reference. The RNA polymerase moves in the opposite direction of this when moving along the DNA.
 wobble hypothesis |
+
 *This table will continue to be updated.*
 
 [Back to top](#)
