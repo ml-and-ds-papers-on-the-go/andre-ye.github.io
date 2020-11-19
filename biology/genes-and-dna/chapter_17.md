@@ -36,8 +36,26 @@ Andre Ye, 11/17/2020
 - RNA polymerase moves *downstream* from a point of reference, DNA is said to be *upstream* from the point of reference.
 - The sequence TTGACA is 35 bases upstream of the +1 site called the -35 box.
 
+#### Events Inside the Holoenzyme
+- Transcription can only be initiated when sigma binds to the -35 and -10 boxes in DNA.
+- The sigma protein can bind the promoter in only one orientation.
+- The orientation of the promoter determines which DNA strand will be used as the template and which direction RNA polymerase will start synthesizing.
+- When the holoenzyme is bound to a promoter,
+  1. RNA polymerase opens the DNA helix.
+  2. DNA strands form a 'transcription bubble'.
+- Ribonucleoside triphosphates (NTPs) enter a channel in the enzyme and diffuse to the active site.
 
-
+### Elongation and Termination in Bacteria
+- When the RNA polymerase leaves the promoter region as it synthesizes RNA, the **elongation** phase is under way.
+- During elongation, the enzyme reads the DNA template on the 3' end at a rate of 50 nucleotides per second.
+- RNA polymerase proofreads and corrects errors.
+  - A macromolecular machine with a structure critical for its function.
+- Differerent parts of the enzyme helped steer the template through channels inside the enzyme and to separate newly synthesized RNA from the DNA template.
+- Double-stranded DNA goes in and out of one grove.
+  - NTPs enter another one.
+  - RNA strand exits out the rear.
+- **Termination** ends transcription.
+  - Transcription stops in bacteria when RNA polymerase transcribes a DNA sequence called a transcription-termination signal.
 
 
 
