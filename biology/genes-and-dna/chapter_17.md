@@ -143,8 +143,39 @@ OFαν{r可αωεTOl3εσπλLXTOγεTηεp ALL TIME
     - Not encoded by the DNA template strand.
     - Required for ribosomes to start translation and to protect the end of mRNA from attack by enzymes.
 
+![](https://andre-ye.github.io/biology/genes-and-dna/pre%20mrna%20diagram.PNG)
 
+## 17.3: An Introduction to Translation
+- To synthesize a protein, the sequence of bases in a messenger RNA molecule must be translated into a sequence of amino acids in a polypeptide.
 
+### Ribosomes Are the Site of Protein Synthesis
+- *Where does translation occur?*
+- Answer: observation that there is correlation between number of ribosomes in a cell and rate of protein synthesis.
+  - Test: Roy Britten et al. performed a pulse-chase experiment.
+  - Concluded that proteins are synthesized at ribosomes and then released.
+
+### An Overview of Translation
+- Decade after ribosome hypothesis confirmed: electron micrographs showed bacterial ribosomes in action.
+  - Bacteria: ribosomes can attach to mRNA and begin synthesizing proteins before transcription was complete.
+  - Multiple ribosomes attach to each mRNA.
+    - Structure of this is a polyribosome.
+  - Polyribosomes increase the number of copies of a protein that can be made from single mRNA.
+- Transcription and translation can be coupled in bacteria because there is no nuclear envelope to separate the two processes.
+  - Gene expression can hence be very fast.
+- Eukaryotes, transcription and translation are separated by *time and space.*
+  - When mRNAs are outside of the nucleus, ribosomes can attach and begin translation.
+
+  
+### How Does mRNA Specify Amino Acids?
+- Discovery of genetic code revealed that triplet codons in mRNA specify particular amino acids.
+  - How does this conversion happen?
+  
+#### Two Hypotheses of Codon Interactions with Amino Acids
+- **Hypothesis 1:** Bases in a particular codon were complementary in shape or charge to the side group of an amino acid.
+  - Problem: how could nucleic acid bases itneract with nonpolar amino acid side groups?
+- **Hypothesis 2:** Adapter molecules hold amino acids in place while interacting directly.
+
+**To be continued.**
 
 
 
