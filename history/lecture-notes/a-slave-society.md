@@ -1,7 +1,38 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Empire & Revolution: Society and Politics in Colonial America*
 
 # A Slave Society: Economics and Culture of American Slavery
-Andre Ye, 11/10/20
+Andre Ye, 11/10/20 & 11/19/20
+
+## Navigate
+- [Introduction](#introduction)
+- [Central Questions](#central-questions)
+  * [Comments](#comments)
+- [From Colonial to Modern Slavery](#from-colonial-to-modern-slavery)
+  * [Capitalist Slavery](#capitalist-slavery)
+    + [Colonial Slavery](#colonial-slavery)
+    + [End of Colonial Period](#end-of-colonial-period)
+- [Cotton](#cotton)
+  * [Long and Short Staple Cotton](#long-and-short-staple-cotton)
+  * [Soil Erosion](#soil-erosion)
+  * [The Need for Expansion](#the-need-for-expansion)
+  * [Indian Removal and Demand for Cotton Lands](#indian-removal-and-demand-for-cotton-lands)
+    + [Cherokee](#cherokee)
+    + [Andrew Jackson and Indian Removal](#andrew-jackson-and-indian-removal)
+- [King Cotton](#king-cotton)
+  * [Export and Significance of Cotton](#export-and-significance-of-cotton)
+- [The Second Middle Passage](#the-second-middle-passage)
+  * [Slavery and the Nation](#slavery-and-the-nation)
+    + [Manufacturing](#manufacturing)
+- [The Southern Economy](#the-southern-economy)
+    + [Plain Folk of the Old South](#plain-folk-of-the-old-south)
+  * [The Planter Class](#the-planter-class)
+    + [Slave System](#slave-system)
+    + [Data: Average Prices of Slaves in States Across Time](#data--average-prices-of-slaves-in-states-across-time)
+- [Productivity and Labor Discipline](#productivity-and-labor-discipline)
+  * [The Paternalist Ethos and Justifications of Slavery](#the-paternalist-ethos-and-justifications-of-slavery)
+    + [White Women and Southern Patriarchy](#white-women-and-southern-patriarchy)
+  * [Pro Slavery Arguments](#pro-slavery-arguments)
+  * [Abolition in the Americas](#abolition-in-the-americas)
 
 ## Introduction
 - Ransom, *Conflict and Compromise*. Cambridge UP, 1986.
@@ -321,67 +352,6 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
   - First and only successful slave revolution in world history.
   - Enslaved peoples of the French colony revolt, overthrow their masters, defeat them, and create a new nation of liberated slaves called *Haiti*.
 - Pro-slavery arguments were overwhelmingly defensive.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
