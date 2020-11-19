@@ -211,13 +211,14 @@ Andre Ye, 11/10/20
   - Innovative financial mechanisms are being created.
   - Insurance: what if the ship sinks and the buyer never pays the planter?
   - U.S. financial industry getting a large boost from the institution fo slavery.
+- Ancillary jobs rise with slavery (auctions, slave-breakers, cotton textile manufacturing, industrial revolution constructed with slavery, banking).
 
 #### Manufacturing
 - The largest economic engine of the New England system: **textile manufacturing.**
   - Textiles from the South, creating the first industrial corporations in the United States.
 - Manufacturing purchased cotton for extremely cheap prices and converted it into profit to sell.
 
-### The Southern Economy
+## The Southern Economy
 - Working in the Southern economy meant working around or in association to the slave.
 - Selling agriculture to these hue plantations with hundreds or even thousands of slaves that need food.
 - Making anything - wagons, barrels, baskets, etc. are all used to facilitate the process of cotton harvesting and sale.
@@ -232,11 +233,20 @@ Andre Ye, 11/10/20
   - Southern planters dominated the political system.
   - Some resented this and were hostile to the Southern planters.
 - West Virginia breaks off from Virginia as a state; had hostility to the slavery.
+- Slavery works its way into American economic growth.
 
 ### The Planter Class
 - One quarter of planters owned slaves, but most only had a few.
   - Were very few extremely large plantations.
-  - Few families owned more than 100 slaves.
+  - Few families (small proportion) owned more than 100 slaves.
+- The slave system was drastically expanding.
+- Become the richest Americans of the area.
+- South: only one quarter of whites owned slaves.
+  - If you did own slaves, however, you **made it** - you were part of the upper class.
+  - Slaves that owned many slaves had unparalleled riches; part of the American elite.
+  - Has tremendous political influence; were so few because the capital investment is so large.
+  - Tremendous capital investment to have multiple slaves; needed access to lots of credit or outright wealth.
+- Enslaved persons can then become access to further credit - can use assets for loans for more productive work to grow profit margins and productive capacity.
 
 #### Slave System
 - Prime hand: slaves were rated by 'quality'.
@@ -262,6 +272,84 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
 | 1860 | n/a | 1200 | 1400 | 1800 | 1600 | 1800 |
 
 \* Values are in dollars. n/a = not available.
+
+## Productivity and Labor Discipline
+- Economic pressures impacted *what slaves were experiencing.*
+- Attempt to manage day-by-day labor; quota system - slavemasters would purchase a slave, the slave would work for a year, and at the end of the year depending on production output would continue to raise quotas.
+- 2% annual increase in productivity of plantations.
+  - May not seem like a lot, but means a 4-fold level increase in production per slave.
+  - Tremendously productive system.
+- Back to the graph: highly planned and calculated, consciously and intentional.
+  - A difficult picture to reckon with, challenging how we think about the institution of slavery and the foundation for modern America.
+- We are not discussing the justifications; with this expansion, it's *a little bit embarrassing*.
+  - Embarrassed to explicitly put slavery in the Constitution.
+  - How to deal with this contradiction? How to justify a system like this?
+
+### The Paternalist Ethos and Justifications of Slavery
+- Variety of ways to justify claims.
+- Some were religious: looking for New Testament examples in the Bible to justify slavery.
+  - Many justifications did come from the Old Testament as well.
+  - One justification - carry a moral sin through lineage; story of Cane and Able as the Curse of Ham.
+- *Paternalist ethos*
+  - Ideas of *caring for the people*, protector status.
+  - A degree of separation even within this portrayal of separation
+    - Very present hierarchy.
+
+#### White Women and Southern Patriarchy
+> A man loves his children because they are weak, helpless, and dependent. He loves his wife for the similar reasons.
+- So to with slaves; paternalist ethos involves in Southern paternalist ethos.
+- A natural hierarchy based in gender; so to between races.
+- These natural similes of hierarchies were huge justifications for slaveowners.
+- Civilizational grounds: when was there a civilization that achieved greatness that did not practice slavery?
+  - It's never happened; Egypt, Greece, Rome, etc. all societies that utilized slavery as the foundation for what makes civilization possible.
+  - How to question? Based in wealth, natural hierarchies, and virtually permanent in society.
+
+### Pro Slavery Arguments
+- Not an embarrassment of slavemasters, but instead a point of pride.
+- Proudly forthright and public arguments made to justify the institution of slavery.
+  - No shame; argued to be a natural, right, and human system.
+- Counterarguments being made at the same time.
+
+### Abolition in the Americas
+- Defenses for hte economic and social system are being made.
+- Slave trade is banned in the US in 1808.
+  - Still happening through piracy, but it's much more difficult.
+- 1838, Britain bans slavery; pays out slavemasters as slaves become free.
+- 1831; publication of *The Liberator*, the most prominent liberation newspaper in the U.S.
+  - Tide of writing is growing and slaveowners are not shying away from this intellectual fight.
+- Hatian revolution; tide of abolitionist sentiment.
+  - First and only successful slave revolution in world history.
+  - Enslaved peoples of the French colony revolt, overthrow their masters, defeat them, and create a new nation of liberated slaves called *Haiti*.
+- Pro-slavery arguments were overwhelmingly defensive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
