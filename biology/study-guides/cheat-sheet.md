@@ -8,11 +8,9 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigate
-- [Famous Experiments](#famous-experiments)
-  * [Miller-Urey Experiment](#miller-urey-experiment)
-  * [Herschey-Chase Experiment](#herschey-chase-experiment)
-  * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
-  * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
+- [Terms and Concepts](#terms-and-concepts)
+  * [DNA Replication](#dna-replication)
+  * [Transcription and Translation](#transcription-and-translation)
 - [Core Ideas](#core-ideas)
   * [Chemistry, Origin of Life, Nucleic Acids](#chemistry--origin-of-life--nucleic-acids)
     + [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
@@ -28,12 +26,21 @@ Andre Ye, 11/7/2020
     + [Properties of the Genetic Code](#properties-of-the-genetic-code)
     + [Types of Point Mutations](#types-of-point-mutations)
     + [The 3 Categories of Mutations](#the-3-categories-of-mutations)
-    * [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria)
-    * [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria)
-    * [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
-- [Terms and Concepts](#terms-and-concepts)
-  * [DNA Replication](#dna-replication)
-  * [Transcription and Translation](#transcription-and-translation)
+    + [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria)
+    + [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria)
+    + [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
+    + [Process of Protein Synthesis in Ribosomes](#process-of-protein-synthesis-in-ribosomes)
+    + [Process of Initiating Translation in Bacteria](#process-of-initiating-translation-in-bacteria)
+    + [Process of Elongation Phase of Translation](#process-of-elongation-phase-of-translation)
+    + [Process of Terminating Translation](#process-of-terminating-translation)
+    + [Complete Process of the Central Dogma](#complete-process-of-the-central-dogma)
+    + [Central Dogma in Bacteria vs Eukaryotes](#central-dogma-in-bacteria-vs-eukaryotes)
+- [Important Experiments](#important-experiments)
+  * [Miller-Urey Experiment](#miller-urey-experiment)
+  * [Herschey-Chase Experiment](#herschey-chase-experiment)
+  * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
+  * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
+  * [Zamecnik et al Experiment](#zamecnik-et-al-experiment)
     
 ---
 
