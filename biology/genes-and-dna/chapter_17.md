@@ -5,6 +5,44 @@ Andre Ye, 11/17/2020
 
 ---
 
+## Navigate
+- [17.1: An Overview of Transcription](#171-an-overview-of-transcription)
+  * [Initiation: How Does Transcription Begin in Bacteria?](#initiation-how-does-transcription-begin-in-bacteria)
+    + [Bacterial Promoters](#bacterial-promoters)
+    + [Events Inside the Holoenzyme](#events-inside-the-holoenzyme)
+  * [Elongation and Termination in Bacteria](#elongation-and-termination-in-bacteria)
+  * [Transcription in Eukaryotes](#transcription-in-eukaryotes)
+  * [Process: Initiating Transcription in Bacteria](#process-initiating-transcription-in-bacteria)
+  * [Process: Ending Transcription in Bacteria](#process-ending-transcription-in-bacteria)
+- [17.2: RNA Processing in Eukaryotes](#172-rna-processing-in-eukaryotes)
+  * [The Startling Discovery of Split Eukaryotic Genes](#the-startling-discovery-of-split-eukaryotic-genes)
+    + [Introns and Exons](#introns-and-exons)
+  * [RNA Splicing](#rna-splicing)
+    + [The Process of RNA Splicing](#the-process-of-rna-splicing)
+  * [Adding Caps and Tails to Transcripts](#adding-caps-and-tails-to-transcripts)
+- [17.3: An Introduction to Translation](#173-an-introduction-to-translation)
+  * [Ribosomes Are the Site of Protein Synthesis](#ribosomes-are-the-site-of-protein-synthesis)
+  * [An Overview of Translation](#an-overview-of-translation)
+  * [How Does mRNA Specify Amino Acids?](#how-does-mrna-specify-amino-acids)
+    + [Two Hypotheses of Codon Interactions with Amino Acids](#two-hypotheses-of-codon-interactions-with-amino-acids)
+- [17.4: The Structure and Function of Transfer RNA](#174-the-structure-and-function-of-transfer-rna)
+  * [Zamecnik Experiment](#zamecnik-experiment)
+  * [What is the Structure of tRNAs?](#what-is-the-structure-of-trnas)
+  * [How Are Amino Acids Attached to tRNAs?](#how-are-amino-acids-attached-to-trnas)
+  * [How Many Types of tRNAs Are There?](#how-many-types-of-trnas-are-there)
+- [17.5: Ribosome Structure and Function in Translation](#175-ribosome-structure-and-function-in-translation)
+  * [Initiating Translation](#initiating-translation)
+    + [Process of Initiating Translation in Bacteria](#process-of-initiating-translation-in-bacteria)
+  * [Elongation: Extending the Polypeptide](#elongation-extending-the-polypeptide)
+    + [Is the Ribosome and Enzyme or a Ribozyme?](#is-the-ribosome-and-enzyme-or-a-ribozyme)
+    + [Moving Down the mRNA](#moving-down-the-mrna)
+    + [Process of Elongation Phase of Translation](#process-of-elongation-phase-of-translation)
+  * [Terminating Translation](#terminating-translation)
+    + [Process of Terminating Translation](#process-of-terminating-translation)
+  * [Polypeptides Are Modified After Translation](#polypeptides-are-modified-after-translation)
+    + [Polypeptide Folding](#polypeptide-folding)
+    + [Chemical Modifications](#chemical-modifications)
+
 ## 17.1: An Overview of Transcription
 - The first step in using genetic information is transcription.
   - This is the synthesis of an RNA version of the instructions in archive.
@@ -232,9 +270,108 @@ OFαν{r可αωεTOl3εσπλLXTOγεTηεp ALL TIME
     - Flexibility 'wobble' in base pairing.
   - Wobble pairing allows one tRNA to read more than one codon.
 - Wobbles in the third position of a codon explain 40 tRNAs translating 61 arrangements of codons.
+- **Wobble pairing does not account for redundancy**, it only explains how on tRNA can read more than one codon, not how one amino acid can be specified by more than one codon.
 
+## 17.5: Ribosome Structure and Function in Translation
+- Translation of each codon in mRNA into the next amino acid *begins when the anticodon of tRNA binds to the codon.*
+- Codon translation is complete when a peptide bond forms between the amino acid and the polypeptide.
+- rRNAs (ribosomal RNAQs) that, with proteins, make up ribosomes.
+- Ribosomes separate into a large and small subunit.
+  - Each ribosome consists of many rRNA molecules and proteins.
+  - **Small subunit hold mRNA, large subunit is where peptide bonds are fromed.**
+- Three sites:
+  - tRNA carries an amino acid. This site is the 'A' site (acceptor or aminoacyl).
+  - tRNA in the middle holds the growing polypeptide chain and occupies the P (peptidyl) site in the ribosome. Think as 'P' for peptide-bond formation.
+  - tRNA that no longer has amino acids attached leave the ribosome, occupying the E site ('E' for exit).
+- Process of protein synthesis in ribosomes:
+  1. Aminoacyl tRNA diffuses into the A site. If its anticodon matches a codon in mRNA, it stays in the ribosome.
+  2. A peptide bond forms between the amino acid held by the aminoacyl tRNA in the A site and the growing polypeptide in the P site.
+  3. The ribosome moves relative to the mRNA by one codon. All three tRNAs are shifted one position within the ribosome.
+    - tRNA in E site exits.
+    - tRNA in P site moves to the E site.
+    - tRNA in A site switches to P site.
+    - A site is empty and ready to accept another aminoacyl tRNA.
+- Protein being synthesized grows by one amino acid each time.
+  - Protein synthesis begins at the amino end (N-terminus) of the polypeptide and proceeds towards the carboxy end (C-terminus).
+  
+### Initiating Translation
+- To translate an mRNA, a ribosome must begin at the first codon in a message, translate the mRNA up to the termination, then stop.
+- Three phrases of protein synthesis: initiation, elongation, and termination.
+- Start codon is found near the 5' end of mRNA; codes for amino acid methionine.
+  - Distinguish initiation of translation at the start codon from initiation of transcription at the promoter.
+- Translation *begins when a **section of rRNA in a small ribosomal subnit binds to a complementary sequence on an mRNA.***
+  - This mRNA region is the **ribosome binding site** (also called the **Shine-Dalgarno sequence**).
+  - About six nucleotides upstream from the start codon.
+- Interactions betweenthe small subunit, message, and tRNA are mediated by **initiation factors**.
+  - Help prepare the ribosome for translation and in binding the first aminoacyl tRNA.
+  - Modified form of methionine - N-formylmethionine (abbreviated f-Met).
+- In **eukaryotes**:
+  - More initiation factors are needed.
+  - Ribosome first associates with cap on the 5' end of mRNA.
+  - Initiator tRNA carries normal methionine.
+- Initiation is complete when the large subunit joins the complex.
+  - Initiator tRNA occupies the P site. This is the only time a tRNA carrying a single amino acid occupies the P site.
+- Summary:
+  - Translation initiation in bacteria is three-pronged.
+    1. mRNA binds to a small ribosomal subunit.
+    2. Initiator tRNA with f-Met binds to the start codon.
+    3. Large ribosomal subunit binds.
+  - Initiation in eukaryotes is different but has similarities.
 
-**To be continued.**
+#### Process of Initiating Translation in Bacteria
+1. **mRNA binds to a small subunit.** A sequence in mRNA called the ribosome binding site binds to a complementary seuqnece in an RNA molecule, which is part of the small subunit of the ribosome. This is helped by initiation factors.
+2. **Initiator aminoacyl tRNA binds to the start codon.** This usually carries f-Met.
+3. The **large subuit of the ribosome binds**, completing the ribosome assembly; translation can begin.
 
+### Elongation: Extending the Polypeptide
+- At the start of elongation, the E and A sites in the ribosome are empty of tRNAs.
+- An mRNA codon is exposed in the A site.
+- The elongation phase begins when an aminoacyl tRNA binds to the codon in the A site.
+- See process for more details on the elongation phase.
 
+#### Is the Ribosome and Enzyme or a Ribozyme?
+- Ribosomes contain roughly equal amounts of protein and RNA.
+- The active site consisted entirely of RNA; therefore the ribosome is a ribozyme (not a protein-based enzyme).
 
+#### Moving Down the mRNA
+- Peptide bond formation involves the transfer of the amino acid linked to the tRNA in the P site to the amino acid held by the tRNA in the A site.
+- During **translocation**, the ribosome moves one codon down from the mRNA once a new peptide bond is formed.
+  - An mRNA in reality is ratcheted througha  stationary ribosome.
+  - Important point: translocation is a codon-by-codon movement.
+_ **Elongation factors** are proteins required for translocation.
+  - Translocation requires energy; elongation factors bind to the ribosome and break down GTP, an energy-rich molecule.
+- Anticodons of tRNA are bound to the codons of mRNA; movement of ribosome brings uncharged tRNA into the E site and the tRNA containing the growing polypeptide in the P site.
+
+#### Process of Elongation Phase of Translation
+1. **Incoming aminoacyl tRNA** moves into the A site. Its anticodon base pairs with the mRNA codon.
+2. **Peptide bond formation**. The amino acid attached to the tRNA in the P site is transferred by formation of a peptide bond to the amino acid of the tRNA in the A site.
+3. **Translocation**. The ribosome moves one codon down the mRNA with the help of elongation factors. THe tRNA attached to the polypeptide moves into the P site. The A site is empty.
+4. **Incoming aminoacyl tRNA**. A new charged tRNA moves into the A site, where its anticodon base-pairs with an mRNA codon.
+5. **Peptide-bond formation.** The polypeptide chain attached to the tRNA in the P site is transferred by peptide bond formation to the aminoacyl tRNA in the A site.
+6. **Translocation.** THe ribosome moves one codon down the mRNA. The tRNA attached to the polypeptide chain moves into the P site. Uncharged tRNA from P site moves to the E site, where tRNA is ejected. The A site becomes empty again.
+
+### Terminating Translation
+- Genetic code includes three stop codons - `UAA`, `UAG`, and `UGA`.
+- tRNAs do not work to terminate translation.
+  - The translocating ribosome reaches one of the stop codons and a protein called a **release factor** recognizes the stop codon and fills the A site.
+- Stop codons found in the 3' region of mRNA.
+- Release factors fit tightly into the A site; they have the size and shape of an aminoacyl tRNA.
+  - Once in the A site, release factor triggers the hydrolysis of the bond that links tRNA in the P site and frees the polypeptide.
+  
+#### Process of Terminating Translation
+1. **Release factor binds to stop codon.** When the translocating ribosome reaches a stop codon, a protein release factor fills up the A site and breaks the bond linking tRNA to the polypeptide chain.
+2. **Polypeptide and uncharged tRNA are released.**
+3. **Ribosome subunits separate.** They are ready to attach tot he start codon of another message.
+
+### Polypeptides Are Modified After Translation
+- Proteins are not fully formed or functional at the end of translation.
+
+#### Polypeptide Folding
+- A protein's function depends on its shape, which depends on how it folds.
+- Folding is guided and accelerated by proteins called molecular chaperones.
+
+#### Chemical Modifications
+- Eukaryotic proteins are extensively modified even after they are synthesized.
+  - e.g. addition of sugars, lipid groups, phosphate groups.
+
+[Back to top](#)
