@@ -175,6 +175,65 @@ OFαν{r可αωεTOl3εσπλLXTOγεTηεp ALL TIME
   - Problem: how could nucleic acid bases itneract with nonpolar amino acid side groups?
 - **Hypothesis 2:** Adapter molecules hold amino acids in place while interacting directly.
 
+## 17.4: The Structure and Function of Transfer RNA
+- Crick's ideas for an adapter molecule were discovered by accident.
+- Ribosomes provide the catalytic machinery, mRNAs contribute the message to be translated, amino acids are the building blocks of proteins, and ATP supplies energy.
+  - **Not enough.** Transfer RNA (tRNA) was needed to complete the picture.
+- tRNA has an amino acid attached, known as **aminoacyl tRNA**.
+
+### Zamecnik Experiment
+- What happens to amino acids bound to tRNAs?
+- Paul Zamecnik et al tracked radioactive leucine molecules attached to tRNAs; found that amino acids were transferred from tRNAs to proteins.
+
+| Aspect | Description |
+| --- | --- |
+| Question | What happens to amino acids attached to tRNAs? |
+| Hypothesis | Aminoacyl tRNAs transfer amino acids to growing polypeptides. |
+| Null Hypothesis | Aminoacyl tRNAs do not transfer amino acids to growing polypeptides. |
+| Experimental Setup | Attach radioactive leucine molecules to tRNAs. Attach aminoacyl tRNAs to an in vitro system that allows protein synthesis. Follow the path of radioactive amino acids. |
+| Prediction of Hypothesis | Radioactive amino acids will be found in the polypeptides. |
+| Prediction of Null Hypothesis | Radioactive amino acids will not be found in the polypeptides. |
+| Results | Radioactive signal of tRNA and polypeptides are inversely proportional to each other. When there is low radioactive signal in tRNA, there is high radioactive signal in the polypeptides, and vice versa. |
+| Conclusion | Aminoacyl tRNAs transfer amino acids to growing polypeptides. |
+
+### What is the Structure of tRNAs?
+- tRNA serves as a chemical go-between that allows amino acids to interact with an mRNA template.
+- Initial studies established the sequence of nucleotides in tRNAs.
+  - Usually short (75-95 nucleotides).
+  - Certain parts of each tRNA could form hydrogen bonds with complementary base sequences somewhere else in the same molecule.
+    - Forms stem-and-loop structures.
+- **Two important parts of tRNA:**
+  - CCA sequence at 3' end of tRNA molecule is the site for amino acid attachment.
+  - Loop opposite to the amino acid attachment site contains three ribonucleotides that serve as an **anticodon.**
+    - Anticodon is a triplet of ribonucleotides that can form base pairs with the codon for the amino acid in mRNA. e.g. anticodon os AAA is UUU.
+- X-ray crystallography revealed tertiary structure of tRNA; folds into an L-shaped molecule with an anticodon on one end and the CCA sequence + attached amino acid on another end.
+
+### How Are Amino Acids Attached to tRNAs?
+- Three important components of linking amino acids to tRNAs:
+  - Input of energy from ATP required to attach amino acid to tRNA.
+  - Enzymes called **aminoacyl-tRNA synthetates** catalyze the addition of amino acids to tRNAs. Known as 'charging' a tRNA.
+  - For each of the 20 major amino acids, there is a different aminoacyl-tRNA synthetase and one or more tRNAs.
+- Each synthetase has a binding site for one amino acid and tRNA.
+  - Differences in tRNA shape let enzymes recognize and match tRNA to the amino acid.
+- The tRNA and aminoa cid structures fit together.
+  - Precision is important; frequent mistakes in choosing the matching amino acid are disasterous.
+
+### How Many Types of tRNAs Are There?
+- Paradox: genetic code specifies 20 common amino acids using 61 different codons.
+  - There should be 61 different tRNAs to read codons.
+  - Most cells have about 40.
+- How can 61 codons be translated with 40 tRNAs?
+- **Wobble hypothesis:**
+  - (Most) Amino acids are specified by more than one codon.
+  - Codons for the same amino acid often have the same nucleotides for the first and second positions but different nucleotides in the third position.
+  - `CAA` and `CAG` both code for glutamine; tRNA with GUU anticodon can pair with the first two bases of both.
+  - tRNA reads the codon because the `U` in anticodon third position can form a nonstandard base pair with `G` in `CAG`.
+  - Crick: proposed that certain bases bind to bases that do not match Watson-Crick base pairing.
+    - Flexibility 'wobble' in base pairing.
+  - Wobble pairing allows one tRNA to read more than one codon.
+- Wobbles in the third position of a codon explain 40 tRNAs translating 61 arrangements of codons.
+
+
 **To be continued.**
 
 
