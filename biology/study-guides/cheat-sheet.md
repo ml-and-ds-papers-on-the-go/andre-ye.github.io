@@ -28,9 +28,9 @@ Andre Ye, 11/7/2020
     + [Properties of the Genetic Code](#properties-of-the-genetic-code)
     + [Types of Point Mutations](#types-of-point-mutations)
     + [The 3 Categories of Mutations](#the-3-categories-of-mutations)
-  * [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria)
-  * [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria)
-  * [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
+    * [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria)
+    * [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria)
+    * [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
 - [Terms and Concepts](#terms-and-concepts)
   * [DNA Replication](#dna-replication)
   * [Transcription and Translation](#transcription-and-translation)
@@ -212,16 +212,16 @@ Defensive Proteins | Defensive proteins help organisms fight infection, heal dam
 2. **Neutral.** If the mutation has not effect on fitness, it is neutral. e.g. silent mutations.
 3. **Deleterious.** Most individuals are well-adapted to their current habitat and mutations are random changes in genotype; most mutations lower fitness.
 
-### Process of Initiating Transcription in Bacteria
+#### Process of Initiating Transcription in Bacteria
 1. Initiation begins. Sigma binds to the promoter region of the DNA, characterized by the -35 box and the -10 box.
 2. Initiation continues. RNA polymerase opens up the DNA helix and transcription begins. NTPs are used to create the complement of the template strand. 
 3. Initiation completes. Sigma is released from the core enzyme and RNA synthesis continues. The RNA polymerase moves downstream along the DNA.
 
-### Process of Ending Transcription in Bacteria
+#### Process of Ending Transcription in Bacteria
 1. Hairpin forms. RNA polymerase transcribes a transcription-termination signal, which codes for RNA that forms a hairpin. 
 2. Termination. The RNA hairpin leads to the RNA separating from RNA polymerase, terminating transcription.
 
-### Processed mRNA Strand Diagram
+#### Processed mRNA Strand Diagram
 ![](https://andre-ye.github.io/biology/genes-and-dna/pre%20mrna%20diagram.PNG)
 
 ## Terms and Concepts
