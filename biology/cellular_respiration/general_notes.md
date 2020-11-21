@@ -24,6 +24,8 @@ Andre Ye, 11/21/2020
   * [Summary in Tabular Form](#summary-in-tabular-form)
 - [Determing the Rate of Cellular Respiration](#determing-the-rate-of-cellular-respiration)
 
+![](https://andre-ye.github.io/biology/cellular_respiration/cell-resp-img.PNG)
+
 ## Video - Cellular Respiration Introduction
 *By Khan Academy, access [here](https://www.khanacademy.org/science/ap-biology/cellular-energetics/cellular-respiration-ap/v/introduction-to-cellular-respiration){:target="_blank"}*
 
