@@ -8,39 +8,37 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigate
-- [Terms and Concepts](#terms-and-concepts)
-  * [DNA Replication](#dna-replication)
-  * [Transcription and Translation](#transcription-and-translation)
-- [Core Ideas](#core-ideas)
-  * [Chemistry, Origin of Life, Nucleic Acids](#chemistry--origin-of-life--nucleic-acids)
-    + [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
-    + [Two Theories](#two-theories)
-    + [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
-    + [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
-  * [Proteins](#proteins)
-    + [Protein Levels of Structure](#protein-levels-of-structure)
-    + [Protein Functions and Types](#protein-functions-and-types)
-    + [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
-  * [Translation, Transcription, and the Genetic Code](#translation--transcription--and-the-genetic-code)
-    + [Complete Genetic Code Table](#complete-genetic-code-table)
-    + [Properties of the Genetic Code](#properties-of-the-genetic-code)
-    + [Types of Point Mutations](#types-of-point-mutations)
-    + [The 3 Categories of Mutations](#the-3-categories-of-mutations)
-    + [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria)
-    + [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria)
-    + [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
-    + [Process of Protein Synthesis in Ribosomes](#process-of-protein-synthesis-in-ribosomes)
-    + [Process of Initiating Translation in Bacteria](#process-of-initiating-translation-in-bacteria)
-    + [Process of Elongation Phase of Translation](#process-of-elongation-phase-of-translation)
-    + [Process of Terminating Translation](#process-of-terminating-translation)
-    + [Complete Process of the Central Dogma](#complete-process-of-the-central-dogma)
-    + [Central Dogma in Bacteria vs Eukaryotes](#central-dogma-in-bacteria-vs-eukaryotes)
-- [Important Experiments](#important-experiments)
-  * [Miller-Urey Experiment](#miller-urey-experiment)
-  * [Herschey-Chase Experiment](#herschey-chase-experiment)
-  * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
-  * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
-  * [Zamecnik et al Experiment](#zamecnik-et-al-experiment)
+ * [Terms and Concepts](#terms-and-concepts)
+   + [DNA Replication](#dna-replication)
+   + [Transcription and Translation](#transcription-and-translation)
+   + [Cellular Respiration](#cellular-respiration)
+ * [Core Ideas](#core-ideas)
+   + [Chemistry, Origin of Life, Nucleic Acids](#chemistry--origin-of-life--nucleic-acids)
+     - [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
+     - [Two Theories](#two-theories)
+     - [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
+     - [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
+   + [Proteins](#proteins)
+     - [Protein Levels of Structure](#protein-levels-of-structure)
+     - [Protein Functions and Types](#protein-functions-and-types)
+     - [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
+   + [Translation, Transcription, and the Genetic Code](#translation--transcription--and-the-genetic-code)
+     - [Complete Genetic Code Table](#complete-genetic-code-table), [Properties of the Genetic Code](#properties-of-the-genetic-code)
+     - [Types of Point Mutations](#types-of-point-mutations), [The 3 Categories of Mutations](#the-3-categories-of-mutations)
+     - [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria), [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria), [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
+     - [Process of Protein Synthesis in Ribosomes](#process-of-protein-synthesis-in-ribosomes)
+     - [Process of Initiating Translation in Bacteria](#process-of-initiating-translation-in-bacteria), [Process of Elongation Phase of Translation](#process-of-elongation-phase-of-translation), [Press of Terminating Translation](#process-of-terminating-translation)
+     - [Complete Process of the Central Dogma](#complete-process-of-the-central-dogma)
+     - [Central Dogma in Bacteria vs Eukaryotes](#central-dogma-in-bacteria-vs-eukaryotes)
+   + [Cellular Respiration](#cellular-respiration-1)
+     - [Process Input Output Table and Chemical Equation](#process-input-output-table-and-chemical-equation)
+     - [Cellular Respiration Diagram](#cellular-respiration-diagram)
+ * [Important Experiments](#important-experiments)
+   + [Miller-Urey Experiment](#miller-urey-experiment)
+   + [Herschey-Chase Experiment](#herschey-chase-experiment)
+   + [Meselson-Stahl Experiment](#meselson-stahl-experiment)
+   + [Srb-Horowitz Experiment](#srb-horowitz-experiment)
+   + [Zamecnik et al Experiment](#zamecnik-et-al-experiment)
     
 ---
 
@@ -392,19 +390,5 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Prediction of Null Hypothesis | Radioactive amino acids will not be found in the polypeptides. |
 | Results | Radioactive signal of tRNA and polypeptides are inversely proportional to each other. When there is low radioactive signal in tRNA, there is high radioactive signal in the polypeptides, and vice versa. |
 | Conclusion | Aminoacyl tRNAs transfer amino acids to growing polypeptides. |
-
-[Back to top](#)
-
-
-
-
-
-
-
-
-
-
-
-
 
 [Back to top](#)
