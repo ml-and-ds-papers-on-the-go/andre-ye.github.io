@@ -32,8 +32,14 @@ Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Collingwood 20](https://andre-ye.github.io/precalc/collingwoods/Collingwood_20.pdf){:target="_blank"}
   - [Collingwood 21](https://andre-ye.github.io/precalc/collingwoods/Collingwood_21.pdf){:target="_blank"}
   - [Collingwood 22](https://andre-ye.github.io/precalc/collingwoods/Collingwood_22.pdf){:target="_blank"}
-- Chapter 6: "Multipart Functions." Modelling and working with piecewise functions.
+- Chapter 6: "Graphical Analysis." Modelling and working with piecewise functions.
   - [Collingwood 23](https://andre-ye.github.io/precalc/collingwoods/Collingwood_23.pdf){:target="_blank"}
   - [Collingwood 24](https://andre-ye.github.io/precalc/collingwoods/Collingwood_24.pdf){:target="_blank"}
   - [Collingwood 25](https://andre-ye.github.io/precalc/collingwoods/Collingwood_25.pdf){:target="_blank"}
   - [Collingwood 26](https://andre-ye.github.io/precalc/collingwoods/Collingwood_26.pdf){:target="_blank"}
+  - [Collingwood 27](https://andre-ye.github.io/precalc/collingwoods/Collingwood_27.pdf){:target="_blank"}
+  - [Collingwood 28](https://andre-ye.github.io/precalc/collingwoods/Collingwood_28.pdf){:target="_blank"}
+  - [Collingwood 29](https://andre-ye.github.io/precalc/collingwoods/Collingwood_29.pdf){:target="_blank"}
+- Chapter 7: "Quadratic Modelling." Working with quadratic functions. 
+  - [Collingwood 30](https://andre-ye.github.io/precalc/collingwoods/Collingwood_30.pdf){:target="_blank"}
+  - [Collingwood 31](https://andre-ye.github.io/precalc/collingwoods/Collingwood_31.pdf){:target="_blank"}
