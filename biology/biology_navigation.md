@@ -25,9 +25,12 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Textbook Notes (section 17.1-17.5) - Processes of Transcription, RNA Processing, Translation](https://andre-ye.github.io/biology/genes-and-dna/chapter_17), 11/18/20.
   - [Video Notes - Central Dogma, DNA Experiments and Synthesis](https://andre-ye.github.io/biology/genes-and-dna/video-notes), 11/7/20
   - [Video Notes - Transcription and Translation](https://andre-ye.github.io/biology/genes-and-dna/genes-video-notes), 11/14/20
+- Cellular Respiration
+  - [General Notes - Glycolysis, Krebs Cycle, Electron-Transport Chain, Lab Information](https://andre-ye.github.io/biology/cellular_respiration/general_notes), 11/21/20
 
 ## Lab Background and Notes
 - [Introduction to Biotechnology Lab Notes](https://andre-ye.github.io/biology/labs/introduction-to-biotechnology-methods), 11/12/20
+- [Cellular Respiration Lab](https://andre-ye.github.io/biology/cellular_respiration/general_notes#cellular-respiration-lab-background), 11/21/20
 
 ## The Scientific Process and Scientific Writing
 - [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
