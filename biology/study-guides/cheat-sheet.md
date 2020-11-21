@@ -116,6 +116,22 @@ transfer RNA (tRNA) | tRNA is the 'intermediate' step between mRNA and amino aci
 upstream | DNA is upstream of the point of reference. The RNA polymerase moves in the opposite direction of this when moving along the DNA.
 wobble hypothesis | Most amino acids are specified by more than one codon. Codons for the same amino acid often have the same nucleotides for the first and second positions but different nucleotides in the third position. Certain bases bind to bases that do not match Watson-Crick base pairing, producing flexibility ('wobble') in base pairing. This allows tRNA to read more than one codon. Wobble pairing does not account fo redundancy.
 
+### Cellular Respiration
+
+| Term | Definition |
+| --- | --- |
+| Glycolysis | Means “breaking up glycose” (glycol = glycose, ysis = break up). Breaks up the glucose from a 6-carbon molecule (e.g. `C-C-C-C-C-C`) into two (`C-C-C` and `C-C-C`). Is the first process in cellular respiration. Releases 4 ATP and requires 2 ATP (net releases 2 ATP). Is an anaerobic process (does not need oxygen). |
+| Glucose | A sugar (`glucose = gluc (sweet) + ose (sugar)`) in which carbohydrates are decomposed into. This is converted via cellular respiration into ATP. |
+| ATP | Abbreviated for adenosine triphosphate, ATP is a fundamental unit of energy in cells. Its energy is stored in chemical bonds between a phosphate group; this is released when one phosphate detaches and ATP becomes ADP (adenosine diphosphate). |
+| Pyruvate | The two 3-carbon molecules that result when glycolysis breaks down the 6-carbon glucose. Pyruvate is later converted into acetyl-CoA in acetyl-coenzyme A synthesis. |
+| Citric Acid | Another name for the Krebs cycle. |
+| Krebs Cycle | Each molecule of acetyl-CoA is metabolized; energy is released via electrons, which are used in the electron transport chain. Produces an additional 2 ATP and is an aerobic process (needs oxygen). |
+| Acetyl CoA | The molecule pyruvate is converted to in acetyl-coenzyme A synthesis. This is later used in the Krebs cycle. |
+| Electron transport chain | A series of proteins that electrons are moved through; hydrogens and electrons are removed from `NADH` and `FADH2` electron carriers for ATP synthesis. |
+| `NAD+`/`NADH` | An electron carrier; oxidized form is `NAD+` (is not carrying electrons) and reduced form is `NADH` (is carrying electrons). Will transition between these two states throughout cellular respiration. |
+| `FAD`/`FADH2` | An electron carrier; oxidized form is `FAD` (is not carrying electrons) and reduced form is `FADH2` (is carrying electrons). Will transition between these two states throughout cellular respiration. |
+| Respirometer | A respirometer is composed of a vial and a volume of air. It measures the rate of consumption of oxyugen of a living organism. |
+
 ---
 
 ## Core Ideas
@@ -284,6 +300,24 @@ Transcription | Proteins that associate with promoter | Sigma and variants | Gen
 RNA processing | | Rare | Extensive, several steps occur before RNA is exported to the cytoplasm.
 Translation | Initiation and termination | Less complex | More complex
 Translation | Elongation | Similar to eukaryotes | Similar to bacteria
+
+### Cellular Respiration
+
+#### Process Input Output Table and Chemical Equation
+
+| Process | Starting Material | Net Energy Output |
+| --- | --- | --- |
+| Glycolysis | 1 Glucose | 2 `NADH`, 2 ATP |
+| Acetyl-CoA Synthesis and the Krebs Cycle | 2 Pyruvate | 8 `NADH`, 2 `FADH2`, 2 ATP |
+| Electron-Transport Chain | 10 `NADH`, 2 `FADH2` | 32 ATP |
+
+**Chemical Equation:**
+```
+C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
+```
+
+#### Cellular Respiration Diagram
+![](https://andre-ye.github.io/biology/cellular_respiration/cell-resp-img.PNG)
 
 ---
 
