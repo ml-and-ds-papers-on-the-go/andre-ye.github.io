@@ -98,12 +98,55 @@ And we ain't for the n*****, but we are here for the war.
   - **The condition of the slave had changed**, no matter who won the war.
 - The South needed to be careful; assured them of the bad character of the North.
 
-####
+### Questioning that the Northernors were Abolitionists
+*page 6*
+- War was about to happen; slaves began to sense it and large numbers of fugitive salves & free blacks rushed to the North.
+- When Northern officials arrived in war, they made sure not to touch slavery.
+  - W.T. Sherman in October 1861: was polite and said he had no idea of interfering with slaves.
+  - Major Generasl Dix: was careful in seizure of two counties in Virginia not to touch slaves.
+  - Burnside: returned two slaves that had tried to run away from them.
+    - May have been salves.
+  - July 4th, Colonel Pryor of Ohio: repudiated that the Northern army were abolitionists.
+- Southern newspapers argued that the war was over abolition; Northeners denied this.
+  - Some even promised to put down slave insurrections "with an iron hand".
+  - Some took measures to send fugitives back.
+- In the North, blacks were not allowed to enlist.
+```
+[The Civil War was begun]... in the interests of slavery on both sides.
+The South was fighting to take slavery out of the Union,
+and the North fighting to keep it in the Union;
+the South fighting tog et it beyond the limits of the United State Constitution,
+and the North fgihting for the old guarantees;
+- both despising the Negro,
+but insulting the Negro.
+- Frederick Douglass, Boston 1865
+```
 
+### What the Civil War Was to the Slaves
+#### Southern Propaganda
+*page 8*
+- It was not clear to most of the slaves what the war meant.
+  - Spread propaganda: the Northeners would sell the slaves into worse slavery of the West Indies.
+  - Would drive slaves from plantations into highways and danger.
+- The South spread propaganda and pointed to how badly fugitive slaves lived.
+  - Spread stories of Northernors taking women away forcefully.
 
-
-
-
+#### A Stream of Fugitive Slaves
+*page 9*
+- As long as the Union stood still, the slave worked; when the Union army moved into slave territory, the slave joined it.
+- Fugitive slaves: had been running to the North and onwards to Canada.
+  - Kept down the chanc of insurrection.
+  - The chhance to run away increased, there was encouragement.
+- The Union did not propose to fight for slaves or to touch slavery; yet faced a stampede of fugitive slaves.
+- Tried to send the slaves back; marker of a "dress parade war" (fancily and status-driven constructions of etiquette).
+  - When it became a real war, slaves were captured or recieved, used as laborers & servants for the Northern army.
+- **Southern worker held the key to the war.**
+  - The black worker raised food and raw materials in a more strategic place than the white worker.
+- When Fremont in Missouri freed slaves, Lincoln repudiated what he had done.
+  - General Butler: kept fugitives and freed them letting them to do whatever work they could.
+- Slaves were being used for military purposes by the North.
+- A flood of fugitives arrived; a slave population pushed its way towards Northern troops.
+  - Sometimes encountered worse treatment, but still stuck given that their interests were identical.
 
 
 
