@@ -17,6 +17,8 @@
 - [Issues](#issues)
   * [Steps to Identifying Issues](#steps-to-identifying-issues)
   * [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
+- [Constructing Writing](#constructing-writing)
+  * [Steps to Establishing a Context for a Thesis](#steps-to-establishing-a-context-for-a-thesis)
 - [Revision and Sources](#revision-and-sources)
   * [The Composition Pyramid](#the-composition-pyramid)
   * [Steps to Identifying Sources](#steps-to-identifying-sources)
@@ -112,6 +114,15 @@
 3. Identify an issue.
 4. Formulate your topic as a question.
 5. Acknowledge your audience.
+
+---
+
+## Constructing Writing
+### Steps to Establishing a Context for a Thesis
+1. **Establish that the issue is current and relevant.** Point out the extent to which others have recognized the problem, issue, or question that you are writing about.
+2. **Briefly present what others have said.** Explain how others have addressed the problem, issue, or question you are focusing on.
+3. **Explain what you see as the problem.** Identify what is open to dispute.
+4. **State your thesis.** Help readers see your purpose and how you intend to achieve it—by correcting a misconception, filling a gap, modifying a claim others have accepted, or stating an hypothesis.
 
 ---
 
