@@ -1,7 +1,41 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Movements for Liberation: Abolition and Expansions of Freedom*
 
 # Movements for Liberation: Abolition and Expansions of Freedom
-Andre Ye, 11/19/20
+Andre Ye, 11/24/20
+
+## Navigation
+- [Introduction](#introduction)
+- [Central Claims](#central-claims)
+- [America as a Slave Society](#america-as-a-slave-society)
+  * [Life Under Slavery](#life-under-slavery)
+  * [Maintaining Order and Slave Culture](#maintaining-order-and-slave-culture)
+  * [Threat of Sale](#threat-of-sale)
+  * [Slave Religion](#slave-religion)
+    + [Gospel of Freedom](#gospel-of-freedom)
+- [Slavery and Abolition: Slave Resistance](#slavery-and-abolition--slave-resistance)
+  * [Large Scale Slave Rebellions](#large-scale-slave-rebellions)
+  * [Movement for Abolition](#movement-for-abolition)
+  * [Quakers and the Christian Abolition](#quakers-and-the-christian-abolition)
+    + [Colonization](#colonization)
+  * [Abolition Before 1830](#abolition-before-1830)
+  * [Slavery and Moral Suasion](#slavery-and-moral-suasion)
+  * [William Lloyd Garrison and the LIerators](#william-lloyd-garrison-and-the-lierators)
+  * [American Anti Slavery Society](#american-anti-slavery-society)
+  * [Abolition, Citizenship, and Freedom](#abolition--citizenship--and-freedom)
+  * [Abolition and Race](#abolition-and-race)
+  * [Militant Abolitionism](#militant-abolitionism)
+  * [Direct Action and the Underground Railroad](#direct-action-and-the-underground-railroad)
+    + [Harpers Ferry and John Brown](#harpers-ferry-and-john-brown)
+  * [Retaliation](#retaliation)
+  * [Northern States](#northern-states)
+    + [Mail Ban](#mail-ban)
+    + [Gag Rule](#gag-rule)
+  * [Abolitionist Women](#abolitionist-women)
+  * [London 1840 Anti Slavery Convention](#london-1840-anti-slavery-convention)
+  * [Seneca Falls](#seneca-falls)
+  * [What is Liberation?](#what-is-liberation-)
+    + [Forms of Resistance](#forms-of-resistance)
+
 
 ## Introduction
 - Framework for thinking about what those in a political position to struggle against slavery were up against.
@@ -103,7 +137,7 @@ Movements for Liberation: Slaves, Women, and Workers
 - A resonant idea in Christianity; part of the reason why it spread to quickly in the Roman underclass and the slave tradition.
   - Perhaps as support, but resistance present.
 
-## Slavery and Abolition: Slave Resistance
+## Slave Resistance
 - Embedded in the culture; in actual actions. Not only beliefs and talkings.
 - People resisted the slave system, sometimes a day-to-day resistance that could be acts of sabatoge.
   - e.g. acts of hoeing a field; given the tools to do that, wouldn't you break the hoes.
@@ -113,104 +147,149 @@ Movements for Liberation: Slaves, Women, and Workers
 - Overt actions: running away became increasingly violent. 
   - A major part of resistance mainly done by men.
   - Few women ran away. (Why was this?)
-  - Individual acts of resistance.
-- Collective acts of resistance.
-  - Form a work group and refuse to do work.
-  - Form rebellions; use the tools and turn them as weapons in an attempt to liberate oneself.
-    - A whole series of rebellions in the 19th century that ran apace decade-by-decade.
-    - SOme form of large scale revolt starting in 1800 with Gabriel's rebellion, 1811 in the New Orleans Uprising, etc.
 
-### Large Scale Slave Rebellions
-- Significant slave uprisings in the systems.
-+ Major themes: slave agency, *who has the power and interest to end the institution of slavery?*
-+ Depiction: asking to be liberated by others, is not taking action on their own behalf to make that liberation possible.
-+ Truth, Jabobs, etc. are at the center of their activity that generates broader movements in the mid nineteenth century.
-+ Really began to have a destabilizing and conflictual role in American society, lead to the civil war.
-+ Modern slavery intensified under markets and profitability
-+ Focusing not on the system but slave culture.
-+ Multiple forms of resistance; syncratic traditions, resistance to social death.
-+ In the stories that people told each other.
-+ Not overt restistance, cunning, critique of anger.
-+ Seen in slave resistance, with curse of ham; used to justify slavery vs the old testament stories of exodus, or the new testament gospels of Christ teachings of ultimate justice and redemption.
-+ Idea of a greater justice outside of human justice and systems that ultimately will be rewarded by God and will lead to the ultimate jubilee, liberation.
-+ Either in the life afterwards or a new religious figure bringing redemption on Earth.
-+ Thinking about this as resistance.
+### Smaller Scale Resistance
+- Individual acts of resistance.
 + Overt forms of resistance; day-to-day and individualized practices of slave resistance.
 + Shirking work; not being told what to do.
 + Sabatoging/lying/feigning ignorance.
 + Seen in ledger books; (Morgan’s argument – slave resistance read as laziness)
-+ Overt: running away, an increasing crisis in American society of the 1840s.
-+ Thousands of people were running away at significant damage to slave owners (collateral of access to loans, etc.).
-+ A significant cost.
-+ Slaves running away are becoming an increasing political problem nationally.
-+ Trying to assert their form of autonomy; an individual form of resistance.
-+ Steal away to get yourself out of the situation; more riskily as a group (easier to track, only as fast as the slowest numbers, etc.)
+	+ Overt: running away, an increasing crisis in American society of the 1840s.
+	+ Thousands of people were running away at significant damage to slave owners (collateral of access to loans, etc.).
+	+ A significant cost.
+	+ Slaves running away are becoming an increasing political problem nationally.
+	+ Trying to assert their form of autonomy; an individual form of resistance.
+	+ Steal away to get yourself out of the situation; more riskily as a group (easier to track, only as fast as the slowest numbers, etc.)
 
+- Significant slave uprisings in the systems.
++ Major themes: slave agency, *who has the power and interest to end the institution of slavery?*
+	+ Depiction: asking to be liberated by others, is not taking action on their own behalf to make that liberation possible.
+	+ Truth, Jabobs, etc. are at the center of their activity that generates broader movements in the mid nineteenth century.
++ Really began to have a destabilizing and conflictual role in American society, lead to the civil war.
+	+ Modern slavery intensified under markets and profitability
+	+ Focusing not on the system but slave culture.
+	+ Multiple forms of resistance; syncratic traditions, resistance to social death.
+	+ In the stories that people told each other.
++ Not overt restistance: cunning, critique of anger.
++ Idea of a greater justice outside of human justice and systems that ultimately will be rewarded by God and will lead to the ultimate liberation.
+	+ Either in the life afterwards or a new religious figure bringing redemption on Earth.
+	+ Thinking about this as resistance.
+
+### Collective Resistance
+- Collective acts of resistance.
+- Form a work group and refuse to do work.
+- Form rebellions; use the tools and turn them as weapons in an attempt to liberate oneself.
+- A whole series of rebellions in the 19th century that ran apace decade-by-decade.
+- Some form of large scale revolt starting in 1800 with Gabriel's rebellion, 1811 in the New Orleans Uprising, etc.
 + Collective acts of overt resistance:
-+ Individual forms of resistance, but also collective forms of resistance in which groups of slaves would take action against their master.
-+ Outright rebellion or revolt; every decade in the 19th century there was a large scale slave revolt that threatened and intimidated the slavemasters that were constantly in the fear of slave resolt.
-+ True in majority-black counties (places where the black enslaved population was the majority), but also in places like Virginia and every salve state.
+	+ Individual forms of resistance, but also collective forms of resistance in which groups of slaves would take action against their master.
+	+ Outright rebellion or revolt; every decade in the 19th century there was a large scale slave revolt that threatened and intimidated the slavemasters that were constantly in the fear of slave resolt.
+	+ True in majority-black counties (places where the black enslaved population was the majority), but also in places like Virginia and every salve state.
 + 1800 revolt: Gabriel’s Rebellion.
-+ Gabriel was a literate salve.
-religious beliefs; is able to get the money to buy back her freedom.
-- The master had actually sold her children down to the deep south in retaliation.
-- Tubman disagreed with the notion of persuading people that slavery was bad and needed to be undone
-- Opinion: we need tot ake action to free as many slaves as possible.
-- Will never convince whit esociety that change is possible.
-- Must take lots of change.
-	- Led dozens of raids, making repeated trips to lbierate poeple.
-		- Began with her family members.
-	- Led raids that would free people ing roups (rare)
-- ONe of the most hated figure sof teh SOuth, one of the main reasnos why the fugitive slave law is passed int he frist place.
-- Frees hundreds of poeple; once, freed 700 people at a time in the Combahee river int eh South Carolina on a plantation by the river.
+	+ Gabriel was a literate salve.
+	+ Had been organizing with the idea that they would march to Richmond and attack white people; basic outline of the plan. 
+	+ Had been assembling weapons, developing network. 
+	+ Were betrayed; these slaves were captured, executed, or sold. 
++ 1811: New Orleans Insurrection. 
+	+ 500 enslaved people who rebelled on the slaveholders on their own plantation. 
+	+ Destroyed property, killed white slaveholders, began to march. 
+	+ Slavemasters encountered the slave insurrection and used firearms to shoot and kill 66 people. 
+	+ Startling admissions: intention of those that were captured were just to kill more white people. 
+	+ Was not shared beyond this. 
++ 1820s: Denmark Vesey
+	+ Charleston, North Carolina. 
+	+ Vessey was a preacher and used his preaching to make connections in the slave quarters, developed plant or evolt. 
+
+ 
+### Large Scale Slave Rebellions 
+#### Nat Turner’s Rebellion 
++ 1830; was one of the more successful uprising. 
+	+ Nat Turner was a preacher; saw himself as something like a chosen prophet of God. 
+	+ Someone that came to lead his people out of bondage and slavery. 
++ Was successful in staging this uprising. 
+	+ Several dozen enslaved peoples sized weapons, killed 60 masters and their families (including children). 
+	+ Strategy was not entirely clear; met with milita and *disbanded but not captured*. 
++ Turner disappears for months; led to furious pursuit and fear of him. 
+	+ Fear that Nat Turner could be **anywhere**. 
+	+ Could attack and kill more white people. 
++ Found, captured, placed in prison, and tried (facing execution). 
++ Account from a journalist who interviews him: a rare insight into what happened and what Nat Turner was thinking. 
+	+ Gives an account of his life full of religious symbolism; a ‘chosen prophet’; felt a calling to liberate his peoples and to lead them in ‘redemption’. 
+	+ Turner’s response to doubt: “Was not Christ crucified?” 
+	+ Turner is tried and executed. 
+
+#### Gender Divide in Slave Rebellion
+- Couple hundred women involved in the uprising and took arms. 
+	+ Not as much as men; these men are leading the revolts 
++ Mainly men that did the running away, examples of men running south. 
+	+ Some women run away, but it was mainly men. 
++ Many speculation about why this is, women perhaps felt more tied to family and children. 
+	+ Perhaps had a degree of power (Jacobs’ piece; grandmother is a position of power) 
++ Women were not in fact not resisting in their own ways. 
++ Daily actions of stealing food, other forms of individual resistance were common to women. 
+
+#### Sojourner Truth and Harriet Tubman
++ Truth was enslaved in New York; spoke from a long Dutch tradition (Dutch accent). Questions about the authenticity of the Am I a Woman Speech. 
+	+ Is promised freedom by her master if she works for him in a single term. 
+	+ New York outlaws it; the slavemaster lied to her in an attempt to get her working for further years. 
++ Truth flees but decides to leave 5 of her children; took an infant and the other children 
++ Becomes an orator to speak from her experience and to persuade people. Takes on a taken name (takes on a religious awakening and takes up her political movement work around political religious beliefs; is able to get the money to buy back her freedom.
+- The master had actually sold her children down to the deep South in retaliation.
+
+<br>
+
+- Tubman disagreed with the notion of persuading people that slavery was bad and needed to be undone.
+- Opinion: we need to take action to free as many slaves as possible.
+	- Will never be possible to convince white society that change is possible.
+- Led dozens of raids, making repeated trips to liberate poeple.
+	- Began with her family members.
+	- Led raids that would free people in groups, an extremely risky and rare move.
+- One of the most hated figures of the South, one of the main reasons why the fugitive slave law is passed.
+- Frees hundreds of people; once, freed 700 people at a time in South Carolina on a plantation by the river.
 - Extremely militant and dedicated to large slave rebellion.
 
-### Movement for Abolition
+## Movement for Abolition
 - Emerging movement for abilition founded in slave self-activity (slaves running away and telling their stories, leading more poeple, having more of an impact on the Christian beliefs in Slavery)
-- White people became activists and movement politics around ending the isntitution of slavery.
-- Willian Lloyd Garrison.
-	- Some of the earliest are two suiisters, Sarah Grtimke and Angelina Grimke.
+- White people became activists and movement politics around ending the institution of slavery.
+- Some of the earliest are two sisters, Sarah Grtimke and Angelina Grimke.
 	- Daughters of slaveowners in South Carolina.
 	- Grew up with the slave system and came to see it as antithetical to their Christian beliefs.
-
-	- Some of the frist people to decry it publikallly; went on speeches and made the argument against slavery.
-	- Why you, as awhite persdon, should cary about this.
-	- A growing trend of white activism.
+	- Some of the frist people to decry it publically; went on speeches and made the argument against slavery.
+- A growing trend of white activism.
 
 ### Quakers and the Christian Abolition
 - Grimke sisters came into Quaker abolitionist circles.
-- Quakers are known as a society of friends; emphasis on horizontal relationships betwene people and with god.
-	- Do not need a preacher, pastor, etc. can ahve a direct relationships with god and other people.
-	- Create a society of friends based on that.
-	- William Penn (quakrer)
-- ZVery prominent in the state of pennsylvania, north of the slave states maryland and norht carolina.
+- Quakers are known as a society of friends; emphasis on horizontal relationships betwene people and with God.
+	- Do not need a preacher, pastor, etc. to have a direct relationships with God and other people.
+- Very prominent in the state of Pennsylvania, north of the slave states Maryland and North Carolina.
 - Slaves found the Quaker tradition, were interested in this horizontal, friend-based social relationships.
-- Saw slaverya s a moral violation fo christian principles.
-- Many noirth aboltilinooinsts were quakrers.
-- Even still, whit eabolitonist movement were not perfect.
-- Many abolitiniosts saw slavery as wrong, but did not see blacks as being equal as whites in any way.
-- Salvery is ended, something needs tob e done as slaves; wants to pusht hem out.
-- End slavery, then do something with blcack people so they are not fully equal.
-- Prominent optionZ:
+- Saw slavery as a moral violation of Christian principles.
+- Many Northern abolitionists were Quakers.
+- Even still, the white abolitonist movement was not perfect.
+	- Many abolitonists saw slavery as wrong, but did not see blacks as being equal as whites in any way.
+- Slavery is ended, something needs to be done to the slaves, a 'pushing out' in essence.
+	- End slavery, then do something with black people as they are not *fully* equal.
+	- Common solution: *Colonization.*
 
 #### Colonization
-- Sendngin black people back to africa where they can have their own society and not be part of african society.
-- henry clay: unconquerable prejudice resulting from their color, they never could amalgamate wiht thef ree whites int his country. it was desirable, therefore, as it reespected htem, adn the residue of the population of the country, to drain them off. 'heny clay';
-- Slowly end the process of having african americans in the americas. 
+- Sending black people back to Africa where they can have their own society and not be part of American society.
+```
+...unconquerable prejudice resulting from their color, they never could amalgamate with the free whites of this country. 
+It was desirable, therefore, as it respected them, and the residue of the population of the country, to drain them off.
+- Henry Clay, leading American politician and abolitionist
+```
+- Slowly end the process of having African Americans in the Americas. 
 - Solution: get rid of the source of the prejudice out of their respectability.
-- An example of justifications for slavery witht he paternalist ethos.
-- Henry clay -leading american politicians and aboliitonist.
-- Paternalist ethos - it's in your best interest to be ensalved, etc. you cannot be civilized, so alvery will help you .
-- Similar laims in abolitionist writers. NOt really fit for american society, so dshould be drained off.
-- Not your fault peopl ehate you, butin youyr best interest if you go and do this hitng.
+- An example of justifications for slavery with the paternalist ethos.
 
-### Abolition Before 1830
+### Gradualist Abolition Before 1830
 - Theodore Weld and Arthur Tappan
 - Steeped in these ideas. 
-- Crtaintly oppposed to slavery ont he moral grunds and want to see it ended as soon as poisslb.e
-- Not commited to black equalityu, see blacks as inferior to whites, see a contraditction in terms of how you create a socieyt without societey.
-- Begin to participate in a hwoole series of activities in the 1820s or so that are aboliteionists alogn these linesa.
-- Faced consequences; were he usbjects of public riducple and riotes.
+- Certainly oppposed to slavery on the moral grounds and wanted to see it end.
+- However, were not commited to *black equality* in that they saw blacks as inherently inferior to weights.
+	- A contradiction of creating society without societally fit peoples.
+- Participated in a series of activities of the 1820s or so with abolitionists along these lines.
+	- Still, faced backlash: public ridicule and outrage.
 
 ### Slavery and Moral Suasion
 - Moral suasion; you need to eventually convince enough people that this system is wrong, that we need to do something else.
@@ -223,7 +302,7 @@ religious beliefs; is able to get the money to buy back her freedom.
 - A popualr idea throuhgout the twentieth centry.
 - Liberia - founding a nation for free enslaved peoples.
 - More than just talk; people were involved in this process.
-0- Gradualist pacificst motions. Devie a easonalbe process to undo theis sisystem.
+- Gradualist pacificst motions. Devie a easonalbe process to undo theis sisystem.
 
 ### William Lloyd Garrison and the LIerators
 - 1830s; intransigent, uncompromising, righteous, activists who said "what the f" we cannot have gradualist ideas.
