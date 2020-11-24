@@ -12,30 +12,37 @@ Andre Ye, 11/24/20
   * [Threat of Sale](#threat-of-sale)
   * [Slave Religion](#slave-religion)
     + [Gospel of Freedom](#gospel-of-freedom)
-- [Slavery and Abolition: Slave Resistance](#slavery-and-abolition--slave-resistance)
+- [Slave Resistance](#slave-resistance)
+  * [Smaller Scale Resistance](#smaller-scale-resistance)
+  * [Collective Resistance](#collective-resistance)
   * [Large Scale Slave Rebellions](#large-scale-slave-rebellions)
-  * [Movement for Abolition](#movement-for-abolition)
+    + [Nat Turner’s Rebellion](#nat-turners-rebellion)
+    + [Gender Divide in Slave Rebellion](#gender-divide-in-slave-rebellion)
+    + [Sojourner Truth and Harriet Tubman](#sojourner-truth-and-harriet-tubman)
+- [Movement for Abolition](#movement-for-abolition)
   * [Quakers and the Christian Abolition](#quakers-and-the-christian-abolition)
     + [Colonization](#colonization)
-  * [Abolition Before 1830](#abolition-before-1830)
+  * [Gradualist Abolition Before 1830](#gradualist-abolition-before-1830)
   * [Slavery and Moral Suasion](#slavery-and-moral-suasion)
-  * [William Lloyd Garrison and the LIerators](#william-lloyd-garrison-and-the-lierators)
-  * [American Anti Slavery Society](#american-anti-slavery-society)
-  * [Abolition, Citizenship, and Freedom](#abolition--citizenship--and-freedom)
+    + [William Lloyd Garrison and the Liberator](#william-lloyd-garrison-and-the-liberator)
+    + [American Anti Slavery Society](#american-anti-slavery-society)
+  * [Abolition, Citizenship, and Freedom](#abolition-citizenship-and-freedom)
+    + [Universalistic Conceptions of Liberty](#universalistic-conceptions-of-liberty)
   * [Abolition and Race](#abolition-and-race)
   * [Militant Abolitionism](#militant-abolitionism)
   * [Direct Action and the Underground Railroad](#direct-action-and-the-underground-railroad)
     + [Harpers Ferry and John Brown](#harpers-ferry-and-john-brown)
-  * [Retaliation](#retaliation)
-  * [Northern States](#northern-states)
+  * [Retaliation to Abolitionism](#retaliation-to-abolitionism)
+  * [Conflict in the Northern States and National Legislative Bodies](#conflict-in-the-northern-states-and-national-legislative-bodies)
     + [Mail Ban](#mail-ban)
     + [Gag Rule](#gag-rule)
-  * [Abolitionist Women](#abolitionist-women)
+- [Abolitionist Women](#abolitionist-women)
   * [London 1840 Anti Slavery Convention](#london-1840-anti-slavery-convention)
   * [Seneca Falls](#seneca-falls)
-  * [What is Liberation?](#what-is-liberation-)
+  * [What is Liberation?](#what-is-liberation)
     + [Forms of Resistance](#forms-of-resistance)
-
+  * [What is Liberation?](#what-is-liberation-1)
+    + [Forms of Resistance](#forms-of-resistance-1)
 
 ## Introduction
 - Framework for thinking about what those in a political position to struggle against slavery were up against.
@@ -132,7 +139,7 @@ Movements for Liberation: Slaves, Women, and Workers
 
 #### Gospel of Freedom
 - Emphasizes the liberatory and humane practices not only in Exodus but in Jesus' teachings in the New Testament.
-- Testaments to human freedomand Emancipation.
+- Testaments to human freedom and Emancipation.
 - Foundations of Christ's teachings around the poor and the righteous to be rectified.
 - A resonant idea in Christianity; part of the reason why it spread to quickly in the Roman underclass and the slave tradition.
   - Perhaps as support, but resistance present.
@@ -198,7 +205,7 @@ Movements for Liberation: Slaves, Women, and Workers
 	+ Was not shared beyond this. 
 + 1820s: Denmark Vesey
 	+ Charleston, North Carolina. 
-	+ Vessey was a preacher and used his preaching to make connections in the slave quarters, developed plant or evolt. 
+	+ Vesey was a preacher and used his preaching to make connections in the slave quarters, developed revolt.
 
  
 ### Large Scale Slave Rebellions 
@@ -293,50 +300,41 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 
 ### Slavery and Moral Suasion
 - Moral suasion; you need to eventually convince enough people that this system is wrong, that we need to do something else.
-- That we shoudls lowly end the system and can have a slow proess of abolition.
-- Anyone born after this date will be free, some payout system, etc.
-- Morallly wrong, need to conincce nouehg people and need a gradual process of ending it...................................
-- INo the 20th century, some african americans embraced the idea of colonization.
-- Look at how racist osiceyt is - can you imagine equality it his system? 
-	- some argued not possible, develp plans for going somewhere else and creating their onw society.
-- A popualr idea throuhgout the twentieth centry.
-- Liberia - founding a nation for free enslaved peoples.
-- More than just talk; people were involved in this process.
-- Gradualist pacificst motions. Devie a easonalbe process to undo theis sisystem.
+	- We should slowly end the system and can have a slow process of abolition
+	- Potential gradualist solutions: anyone born after this date will be free, some payout system, etc.
+- Morally wrong, need to convince enough people of the moral wrongs of slavery.
 
-### William Lloyd Garrison and the LIerators
-- 1830s; intransigent, uncompromising, righteous, activists who said "what the f" we cannot have gradualist ideas.
-- System is horrible; need to undo this immeidately, no compromise.
-- top priority fo rmorally conscienstious people int he untied states.
-- garrison became otr publisht he lbierator, part of the militant perspective
-- Putting forward claim for immediateism . leading whit eifgure of abolitinoinsm.
-- ensppwaper is veryu improtant. 100k people in circulation.
-- in a country of twenty millliuno peopl ein the north and 9 miliono in the south.
-- many peope int he nation, only 100k subscribr.e
-- becomes the leading vcoice, has a take.
+- Into the 20th century, some African Americans embraced the idea of colonization.
+- Argued of the inherent and irremovable racism in the system.
+	- Some argued change was not possible and not worth provoking, developed plans for going somewhere else and creating their own society.
+- A popular idea throughout the twentieth centry.
+	- Liberia - founding a nation for free enslaved peoples.
+- More than just talk; people were *involved* in this process.
+	- Gradualist pacifist motions.
+
+#### William Lloyd Garrison and the Liberator
+- 1830s; intransigent, uncompromising, righteous, activists who denounced gradualism as passive and took action.
+	- Argued that the institution of slavery was **too horrendous** to be gradualist; need to undo this immeidately, no compromise.
+- Argued that this was the top priority for morally conscientious people.
+- William Lloyd Garrison was the publisher of the Liberator, part of a militant abolitionist perspective.
+- Put forward the claim fo immediatism, a leading white figure of abolitionism.
+- *The Liberator* was very important; circulated around 100k people.
+	- However, in a country of 20m people in the North and 9m in the South.
 ```
-I a aaware that many object tot he severity of my language, but is there not cuase for severity?
-I will be as harsh as truth, and as uncompromising as jusitce. oN this subject, i do not wish to think, or to speak, or write, with moderation.
-NO! NO!
-Tell a manw hose house is on fire to give a mdoerate alarm
-tell hm to moderatelyr esuce his wife from the hands of the ravisher
-tel  the mother to graduallye xtricate her babe from the fire into which it has fallen
-but urge me not to use moderation in a c uase like the present.
-i am in earnest - I will not equivocate - I wil not excuse - I will not repeate a single inch - and i will be heard.
+“I am aware that many object to the severity of my language; but is there not cause for severity? I will be as harsh as truth, and as uncompromising as justice. On this subject, I do not wish to think, or to speak, or write, with moderation. No! no! Tell a man whose house is on fire to give a moderate alarm; tell him to moderately rescue his wife from the hands of the ravisher; tell the mother to gradually extricate her babe from the fire into which it has fallen; — but urge me not to use moderation in a cause like the present. I am in earnest — I will not equivocate — I will not excuse — I will not retreat a single inch — AND I WILL BE HEARD. The apathy of the people is enough to make every statue leap from its pedestal and to hasten the resurrection of the dead.”
+- William Lloyd Garrison
 ```
-- the apathy of the people is enought o make everys tatue leap from its pedestal and to hasten the resurrection of the dead.0
+- Very few white people; *The Liberator* reader numbers were very small.
 
-- Very few white people; the liberator numbers were very small.
-
-### American Anti Slavery Society
-- Abolitionist sentiments were not widespread or widely held.
-- Nevertheless are militantly committed to the righteousness of their cause and of taking action.
-- Begin to found organizations that advocate for moving for anti-slavery in a series of ways.
-- organization slie the ameircan anti-slavery society founded in 1839 working politically and legislatively, attempting to get petititons sent to the government. 
+#### American Anti Slavery Society
+- Abolitionist sentiments were not widespread or widely held;
+	- Nevertheless are militantly committed to the righteousness of their cause and of taking action.
+- Begin to found organizations that advocate for moving tpwards anti-slavery in a series of ways.
+- The American Anti Slavery Society, founded in 1839 working politically and legislatively, attempting to get petititons sent to the government. 
   - Thinking about a timeline, fazing out, partial emission, etc.
-  - All kinds of attempts to funciton in a more direct, political, ideological, and moral way.
+  - All kinds of attempts to function in a more direct, political, ideological, and moral way.
 - Slave accounts were often published by press as part of political propaganda to indicate the evils of slavery.
-- Methods are being developed during this time to push the envelope.
+- Methods are being developed during this time to further push the envelope.
 
 ### Abolition, Citizenship, and Freedom
 - A new kind of ideological conception of freedom, claims to rights, synthesis of ideas that we have seen, etc.
@@ -344,16 +342,18 @@ i am in earnest - I will not equivocate - I wil not excuse - I will not repeate 
 - Maybe if we are not thinking strictly religiously, we can think of it being inherent to mankind.
   - Perhaps call them "sets of rights" *inherent* to **humanness**.
   - Everyone should have access to and should not be denied.
+  
+#### Universalistic Conceptions of Liberty
 - An emerging univeralistic conception of liberty; one that is not tied to any sets of limitations like reason, etc.
   - You can say that one of the bases is the new intellectual tradition and new sets of writings, ideas, and histories.
     - Declaration of Independence (document that had been forgotten in the American legal tradition; not a legal document or a foundational legal piece, was written at the height of the Revolutionary War as a political statement).
-    - A formerly enslaved black man - David Walker - uncovered the document as part of claims for immediate revolution.
+    - A formerly enslaved black man - **David Walker** - uncovered the document as part of claims for immediate revolution.
     - *All men* have rights; a synthetic tradition being chrystallized to create new antiracist traditions.
 - Walker is rediscovering tradition of putting new interpretation and synthesis of these ideas around universalistic claims of rights, drawing on the past.
 
 ### Abolition and Race
-- Needed to be around questions of race; pro-slavery arguments like moral, Christian, civilizational, based on rights, etc. boils down to enslaved peoples are inferior.
-- Abolitionists fought against the idea that enslaved peoples were inferior.
+- Needed to be around questions of race; pro-slavery arguments like moral, Christian, civilizational, based on rights, etc. boils down to *enslaved peoples are inferior.*
+- Abolitionists fought against the root-level idea that enslaved peoples were inferior.
 - Pro-colonization claims (are inferior but perhaps slavery should end) begin to be undone in the 1830s to 1840s.
   - Proof: oratories, traditions, intellectual ideas, legislative documents, etc.
   - Attempting to articulate this set of ideas.
@@ -379,7 +379,7 @@ i am in earnest - I will not equivocate - I wil not excuse - I will not repeate 
   - Small, but were not waiting around for gradualist change.
   - Had been involved in decades' worth of political work and not seeing much movement.
 
-### Retaliation
+### Retaliation to Abolitionism
 - Physical violence, threats.
 - Boston: William Llyod Garrison is almost lynched.
   - Marched into the commons with a noose around his neck becuase he was so unpopular *in the North*.
@@ -390,30 +390,32 @@ i am in earnest - I will not equivocate - I wil not excuse - I will not repeate 
 - Printing presses attacked. 
 - Abolitionists faced tremendous hostility and outright violence.
 
-### Northern States
+### Conflict in the Northern States and National Legislative Bodies
 - Abolitionists/Northernors are not necessarily the same.
-- Did not want to do much about it; many thought it was right.
+- Did not want to do much about it; many thought slavery was in fact right.
 
 #### Mail Ban
-- Thinking about this politically; Congress refused tot ake any action.
-- laws would prevent abolitionists from sending newspapers in the mail *that was guaranteed*.
-- ANyone could get their newspaper published in one state r colony and have it distributed anywhere for the free exchange of ideas. 
-- Conress moves to ban the distribution fo abolitionist ideas in the mail system.
+- Thinking about this politically; Congress refused to take any action.
+- Laws would prevent abolitionists from sending newspapers in the mail *that was guaranteed*.
+- Anyone could get their newspaper published in one state or colony and have it distributed anywhere for the free exchange of ideas. 
+- Congress moves to ban the distribution of abolitionist ideas in the mail system.
 - Could be siezed and destroyed.
 
 #### Gag Rule
-- Ban the discussion of slavery on the Congress floor.
+- Banned the discussion of slavery on the Congress floor.
 - Any persons or citizen can petition their government of redress; Congress must address it.
 - 1840s; Congress refused to do so, banned the introduction of any abolitionist petitions, readings, and ideas from being read on the floor.
 - Clear Constitutional violations. 
 
-### Abolitionist Women
-- What does this allow you to do? -Cannot vote, cannot run fooor office, cannot petition the government, acannot riwrite about it, speaking oturs are met with angry mobs disrupting your ability to speechh, burning down buildings,a ttacking the press, etc.
+## Abolitionist Women
+- What does this allow you to do? 
+	- Cannot vote, cannot run for office, cannot petition the government, cannot write about it
+	- Are met with angry mobs disrupting your ability to speech, burning down buildings, attacking the press, etc.
 - Abolitionist women are encountering hostility from Americna society for even speaking on the issue.
 - "Am I not a woman and a sister?" (1830s after the British Anti-slavery Society Medallion).
 - Adapting the abolitionist movement from male-centric standard to women's emancipation and equality on those terms.
 - Women and men both deserving of rights.
-- Universal human claims to autonomy, independence, freedom, and soforth.
+	- Universal human claims to autonomy, independence, freedom, and soforth.
 - Overwhelming majority of people who ran away did not becomie movement activists.
   - Try to get a job in the North and not be involved in the level of engagement as political activists.
   - Could integrate into Northern society - still segregated - but could get work as laborers, as homeworkers, as domestic servants, etc.
@@ -439,10 +441,27 @@ i am in earnest - I will not equivocate - I wil not excuse - I will not repeate 
 - Founded by activists; Elizabeth Cady Stanton in 1840 comes back to the US; in 1848, has organized a women's rights convention in New York.
 - Looking at slavery; looking at women's role in society.
 - Drafted: requesting property ownership, divorce, and the right to vote.
-  - A contested thing.
+  - A contested thing.f women's rights in tandem.
+
+### What is Liberation?
+- How do we define terms of what liberation is and what it means to be free?
+- A number of different segments of American society from enslaved peoples themselves.
+- Women - middle-class, abolitionist reformers, enslaved women, Northern manufacturing workers - all generating claims around liberation.
+- Forms of liberation that looked different for each segment of American society yet were nontheless collectively pushing political and intellectual boundaries.
+
+#### Forms of Resistance
+- In the face of this power and oppression; what is justified?
+  - Ignoring effectiveness. What is reasonable?
+  - What role does violence play in this?
+  - Is it righteous? Is it effective?
+  - Questions women of the women's rights movement and formerly enslaved peoples were facing.
+- Brown: it is time to rise up and revolt. Douglass: I'm not sure; maybe it's right, but will it work?
+- Who has the social power to address these wrongs?
+  - Who can make this happen, and by what means?
+  - Challenging questions that abolitionists and free peoples struggled with during these decades. 
   - Frederick Douglass was part of this convention; encouraged the right to vote.
 - Is ridiculed and faced many hostility.
-- Many women took their name *off* the Declaration.
+- Many women took their name *off* the initial Declaration.
 - Nontheless became a foundation for a parallel movement of women's rights in tandem.
 
 ### What is Liberation?
@@ -464,5 +483,3 @@ i am in earnest - I will not equivocate - I wil not excuse - I will not repeate 
 
 
 [Back to top](#)
-
-To be continued.
