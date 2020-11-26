@@ -13,10 +13,10 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 
 ## Check out my stuff
 - [TS Portfolio](https://andre-ye.github.io/portfolio/portfolio_navigation), a compilation of essays and projects I've produced at TS.
-- [Medium Blog](https://medium.com/@andre_ye). I write about machine learning, programming, and mathematics. 3.7k followers, ~200 articles and counting!
-- [Critiq](https://critiq.tech). A site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/), [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/), and I coded to reimagine what peer revision for essays can be and do.
+- [Medium Blog](https://medium.com/@andre_ye){:target="_blank"}. I write about machine learning, programming, and mathematics. 3.7k followers, ~200 articles and counting!
+- [Critiq](https://critiq.tech){:target="_blank"}. A site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
 
 ## Contact
 - My email is `ye-andre@outlook.com`.
-- Check out my [LinkedIn](https://www.linkedin.com/in/andre-ye-501746150/) to connect and view my certifications, awards, experience, projects, & more.
+- Check out my [LinkedIn](https://www.linkedin.com/in/andre-ye-501746150/){:target="_blank"} to connect and view my certifications, awards, experience, projects, & more.
 
