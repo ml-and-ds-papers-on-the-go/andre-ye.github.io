@@ -52,6 +52,7 @@ Andre Ye, 11/21/2020
 - Alternate theory: Instead, *Black slaves objected not to work itself but the **conditions** of work.*
   - They were willing to work the same plantation work for the North, but when principles of honesty in treatment and education were fulfilled.
   - Wanted to see the toils of their own work; when this was respected Black slaves were incredibly productive.
+  - They objected not to laboring but to the circumstances under which they labored.
 - Timeline:
   - Beginnings of the Civil War. The Northern army initially *does not aim to fight against slavery*.
   - Fugitive slaves begin approaching Northern troops in large numbers. Some officials in the Northern arm see labor potential and set them to work.
