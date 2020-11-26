@@ -34,6 +34,9 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Ain't I a Woman?* by Sojourner Truth](https://andre-ye.github.io/history/rr8/aint-i-a-woman), 11/14/20.
   - [Notes on *Incidents in the Life of a Slave Girl* by Linda Brent](https://andre-ye.github.io/history/rr8/life-of-a-slave-girl), 11/15/20.
   - [Notes on *Narrative of the Life of Frederick Douglass* by Frederick Douglass](https://andre-ye.github.io/history/rr8/narrative-of-the-life-of-frederick-douglass), 11/15/20.
+- Weekly Reading Response 9 (Due 12/3)
+  - [Notes on *Black Reconstruction* by W.E. Burghardt Du Bois](https://andre-ye.github.io/history/rr9/black_reconstruction), 11/25/20.
+  - [Notes on the Emancipation Proclamation](https://andre-ye.github.io/history/rr9/emancipation_proclamation), 11/26/20.
   
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
