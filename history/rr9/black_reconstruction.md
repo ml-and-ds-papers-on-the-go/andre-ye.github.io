@@ -4,6 +4,40 @@
 Andre Ye, 11/21/2020
 
 ## Navigate
+- [Context](#context)
+- [Summary and Key Points](#summary-and-key-points)
+- [Introduction](#introduction)
+- [Initial Motivation for the War](#initial-motivation-for-the-war)
+  * [Economic Incentives](#economic-incentives)
+  * [Ignoring Interests of Minorities](#ignoring-interests-of-minorities)
+- [The Importance of Slaves](#the-importance-of-slaves)
+  * [Fugitive Slaves](#fugitive-slaves)
+  * [Southern Dependence on Slaves](#southern-dependence-on-slaves)
+    + [Military Usage](#military-usage)
+  * [Questioning that the Northernors were Abolitionists](#questioning-that-the-northernors-were-abolitionists)
+  * [What the Civil War Was to Slaves](#what-the-civil-war-was-to-slaves)
+    + [Southern Propaganda](#southern-propaganda)
+    + [A Stream of Fugitive Slaves](#a-stream-of-fugitive-slaves)
+    + [Southern Denialism](#southern-denialism)
+  * [To Slaves as Militant Laborers](#to-slaves-as-militant-laborers)
+    + [Motivations for the Transition](#motivations-for-the-transition)
+- [Systematic Organizing of Slaves](#systematic-organizing-of-slaves)
+  * [Butler and the New Orleans Sugar Plantations](#butler-and-the-new-orleans-sugar-plantations)
+  * [Systems for Caring for Slaves](#systems-for-caring-for-slaves)
+    + [Failing Systems and Justification Based on Conditions of Work](#failing-systems-and-justification-based-on-conditions-of-work)
+    + [General Grant's System](#general-grants-system)
+    + [Blacks Buying Land](#blacks-buying-land)
+    + [Sherman and the Sea Island Circular](#sherman-and-the-sea-island-circular)
+  * [Implications of Such Systems](#implications-of-such-systems)
+    + [The Importance of Conditions of Work](#the-importance-of-conditions-of-work)
+- [Formation of Organizations and Commissions](#formation-of-organizations-and-commissions)
+  * [The American Missionary Association and Religion](#the-american-missionary-association-and-religion)
+  * [Educational Commissions](#educational-commissions)
+  * [Abuses of Commissions](#abuses-of-commissions)
+- [Redefinition of the Objectives of the North in War](#redefinition-of-the-objectives-of-the-north-in-war)
+  * [Impact on Strategies of the South](#impact-on-strategies-of-the-south)
+  * [Lincoln and Centering Slaves in the War](#lincoln-and-centering-slaves-in-the-war)
+- [Conclusion](#conclusion)
 
 ## Context
 - Complete title: *Black Reconstruction: An Essay Toward a History of the Part Which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860-1880*
@@ -15,15 +49,17 @@ Andre Ye, 11/21/2020
 ## Summary and Key Points
 - Theory: Black slaves escaped the South to the North because they did not want to work anymore.
   - Arising contradiction: Black slaves were better off in plantations than following a Northern army around, fugitives were ill-treated in the North.
-- Thesis: Instead, *Black slaves objected not to work itself but the **conditions** of work.*
+- Alternate theory: Instead, *Black slaves objected not to work itself but the **conditions** of work.*
   - They were willing to work the same plantation work for the North, but when principles of honesty in treatment and education were fulfilled.
-  - Wanted to see the toils of their own work.
+  - Wanted to see the toils of their own work; when this was respected Black slaves were incredibly productive.
 - Timeline:
   - Beginnings of the Civil War. The Northern army initially *does not aim to fight against slavery*.
   - Fugitive slaves begin approaching Northern troops in large numbers. Some officials in the Northern arm see labor potential and set them to work.
     - Slaves are still often ill-treated.
   - More fugitive slaves continue to arrive. As the white Northern soldier grew tired, the fugitive slave became a military laborer.
-  - From slavery-passive to employing fugitive slaves in the army, the North's transition 
+  - The North found that fugitives were very productive when given their own land and some level of freedom.
+    - Several 'experiments' that used this were successful.
+- Thesis: The North was not abolitionist, but given the black slave's objection not to work itself but tyrannical *conditions* of work, the black slave became valuable assets that strengthened the North and weakened the South. This reframed the war from unity around slavery, something neither side had anticipated.
 
 ## Introduction
 *Page 2*
@@ -266,7 +302,7 @@ but insulting the Negro.
 *page 24*
 - To aid the government came religious and benevolent organizations.
 
-### THe American Missionary Association and Religion\
+### Te American Missionary Association and Religion
 *page 24*
 - The AMA grew out of defense for black slaves; captured the slave ship *Amistad* in 1837.
 - Extended work in 1862-1863, establishing missions along the Atlantic Coast.
@@ -335,22 +371,11 @@ but insulting the Negro.
 - Price of disaster of war; a price few Americans initially dreamed of paying.
 - North was not abolitionist; but as abolitionist-democracy gained in power, they guided the nation out of moral failure.
 
+[Back to top](#)
 
+---
 
 [^1]: even though it was against Lincoln's policy.
 [^2]: Butler's successor
 [^3]: for the most part, at least
 [^4]: of some sort
-
-
-
-
-
-
-
-
-
-
-
-
-
