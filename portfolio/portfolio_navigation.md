@@ -12,6 +12,10 @@ A compilation of essays and projects I've produced at the Transition School.
 ### Presentations
 - [Media Studies Group Presentation](https://andre-ye.github.io/english/portfolio/Media Studies Group.pdf){:target="_blank"}.
 
+## Mathematics
+- [Fall Quarter Project 1 - Math Paper](https://andre-ye.github.io/precalc/portfolio/Project_1_Final_Draft.pdf){:target="_blank"}.
+  > Title: "Intersections of Constricted Lines Within a Unit Circle"
+
 ## History
 ### Major Essays
 - [Fall Midterm Essay](https://andre-ye.github.io/history/portfolio/Fall Midterm Essay.pdf){:target="_blank"}.
