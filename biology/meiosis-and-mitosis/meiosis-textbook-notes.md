@@ -94,7 +94,45 @@ Andre Ye, 11/27/20
 - **Homologous chromosome pairs come together**.
   - Result is the **synapsis**.
   - Pairing of homologous chromosomes along their regions.
+- THe homologs are held together by the **synaptonemal complex**, a net of proteins.
+- Structure that results from synapsis is **bivalent**; consits of paired homologous replicated chromosomes.
+- Chromatids from different homologs are referred to as **non-sister chromatids**.
 
+#### Later Prophase I
+- The nuclear envelope is complete broken down.
+- Each homolog in the bivalent come to be attached to microtubule fibers that come from a spindle poole.
+  - One homolog is attached to each.
+  - This attachment is essential for separating homologous pairs.
+- The synaptonemal complex disassembles in late prophase I, and the homologs begin to separate at many points along their length.
+  - Are joined by the X-shaped structure (chiasmata, singular: chiasma)
+- One chiama forms in every pair of homologous chromosomes.
+  - Chiasmata mark sites of DNA breakage and rejoining.
+- Chromatids that form a chiasma are **non-sister chromatids**.
+  - At each chiasma, there is an *exchange of parts of chromosomes*; known as **crossing over**.
+
+#### Metaphase I
+- Kinetochore microtubules move pairs of homologous chromosomes (the bivalents) to the **metaphae plate**.
+  - The place in between the poles of the spindle apparatus.
+- Important points about chromosome movement:
+  - In metaphase I, each bivalent is 'on' the metaphase plate (one homolog on one side and the other homolog on the other).
+  - The alignment of each bivalent is independent of other bivalents.
+    - Rephrased, alignment of bivalent is important.
+
+#### Anaphase I and Telophase I
+- Anaphase I begins as homologs move to different poles of the spindle apparatus.
+  - Kinetochores of each homolog attach to spindle fibers; each homolog is attached to a different spindle pole.
+  - Two homologous chromosomes in the bivalent separate from each other.
+- Chiasmata are broken during anaphae I. (cohesin proteins are removed).
+- Separating homologs are a combination of maternal and paternal segments.
+- During telophase I, homologs finish moving to opposite sides of the spindle.
+- **Cytokenisis** (division of the cytoplasm) occurs and two haploid daughter cells form.
+
+#### Meiosis I: A Recap
+- Chromosome movement happens through assembly and dissassembly of microtubules attached to the kinetochore.
+- During meiosis I, a diploid parent cell produces two haploid daughter cells.
+  - Sister chromatids remain attached to each chromosome.
+  - Chromosomes in each daughter cell are a random assortment of maternal and paternal chromosomes because of crossing over and independent alignment.
+    
 
 
 
