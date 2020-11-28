@@ -8,7 +8,7 @@ Andre Ye, 11/27/2020
 ## Navigation
 
 ## Meiosis: Where the Sex Starts, Crash Course Biology
-*Available [here](https://kcts9.pbslearningmedia.org/resource/c65df616-fffc-461b-8d70-c13bc4bc4c1a/meiosis-where-the-sex-starts-crash-course-biology-13/)*
+*Available [here](https://kcts9.pbslearningmedia.org/resource/c65df616-fffc-461b-8d70-c13bc4bc4c1a/meiosis-where-the-sex-starts-crash-course-biology-13/){:target="_blank"}*
 - Sexual reproduction; cells split repeatedly to form a human.
 - Most of your somatic (body) cells replicate through cell identification.
 - Mitosis replicates a cell with 46 chromosomes into two identical cells.
@@ -57,7 +57,7 @@ Andre Ye, 11/27/2020
   - Forms 1 *egg* (with more nutrients and organelles to make the new embryo) and 3 polar bodies (esentially useless).
 
 ## Khan Academy Fertalization Terms
-*Access [here](https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/fertilization-haploid-diploid-gamete-zygote-homologous)*
+*Access [here](https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/fertilization-haploid-diploid-gamete-zygote-homologous){:target="_blank"}*
 - When the sperm and the egg cell fuse, this is *fertilization*.
   - Produces a cell that differentiates into all the cells of our body.
 - Each of the sex cells (sperm cell and the ovum) are called **gametes**.
@@ -79,7 +79,7 @@ Andre Ye, 11/27/2020
     - Referred to as 2*n*.
 
 ## Chromosomal Crossover in Meiosis I
-*Access [here](https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/chromosomal-crossover-in-meiosis-i)*.
+*Access [here](https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/chromosomal-crossover-in-meiosis-i){:target="_blank"}*.
 - Germ cell; a cell that can go through mitosis to produce germ cells or undergo meiosis to produce other germ cells, or to undergo meiosis to produce gametes.
 - Hypothetical: Diploid Number is 4.
 - **Interphase**: grows and replicates DNA; after replicating, it is still one *chromosome*.  
