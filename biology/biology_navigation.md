@@ -2,10 +2,14 @@
 # TS Biology
 Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
+Jump down to a section: [Study Guides](#study-guides), [Biology Content](#biology-content), [Lab Background and Notes](#lab-background-and-notes)
+
 ## Study Guides
 - [Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/study-guides/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
 ## Biology Content
+- The Scientific Process and Scientific Writing
+  - [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
 - Chemistry, Nucleic Acids, Origin-of-Life Hypotheses.
   - [Textbook Notes (sections 2.1, 2.2) - Chemical Basis for Life](https://andre-ye.github.io/biology/chemical-basis-for-life-notes), 10/17/20
   - [Video Notes - Chemical Basis for Life](https://andre-ye.github.io/biology/video_chemical_basis_for_life), 10/17/20
@@ -34,6 +38,3 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 ## Lab Background and Notes
 - [Introduction to Biotechnology Lab Notes](https://andre-ye.github.io/biology/labs/introduction-to-biotechnology-methods), 11/12/20
 - [Cellular Respiration Lab](https://andre-ye.github.io/biology/cellular_respiration/general_notes#cellular-respiration-lab-background), 11/21/20
-
-## The Scientific Process and Scientific Writing
-- [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
