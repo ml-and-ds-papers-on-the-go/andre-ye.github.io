@@ -17,7 +17,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Video Notes - Chemical Evolution](https://andre-ye.github.io/biology/chemical-evolution/video-notes), 10/24/20
   - [Video Notes - Origin of Life Hypotheses](https://andre-ye.github.io/biology/chemical-evolution/video-notes-origin-of-life), 10/27/20
 - Proteins. *Types of proteins, folding, functions, amino acids.*
-  - [Textbook Notes - Protein Structure and Function](https://andre-ye.github.io/biology/proteins/textbook-notes), 10/29/20
+  - [Textbook Notes (section 3.1-3.3) - Protein Structure and Function](https://andre-ye.github.io/biology/proteins/textbook-notes), 10/29/20
   - [4 Structures & 9 Types of Proteins Cheat Sheet (Video Notes)](https://andre-ye.github.io/biology/proteins/video_notes), 10/29/20
 - Genes and DNA. *Models and exploration of DNA synthesis and repair.*
   - [Textbook Notes (section 1.3, 15.1-15.3) - DNA and Gene Synthesis and Repair](https://andre-ye.github.io/biology/genes-and-dna/textbook-notes), 11/7/20
@@ -27,6 +27,9 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Video Notes - Transcription and Translation](https://andre-ye.github.io/biology/genes-and-dna/genes-video-notes), 11/14/20
 - Cellular Respiration
   - [General Notes - Glycolysis, Krebs Cycle, Electron-Transport Chain, Lab Information](https://andre-ye.github.io/biology/cellular_respiration/general_notes), 11/21/20
+- Meiosis and Mitosis
+  - [Textbook Notes (section 13.1, 13.2) - Process of Meiosis and Mitosis, Genetic Variation](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis-textbook-notes), 11/27/20.
+  - [Video Notes - Meiosis and Mitosis](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis_video_notes), 11/27/20.
 
 ## Lab Background and Notes
 - [Introduction to Biotechnology Lab Notes](https://andre-ye.github.io/biology/labs/introduction-to-biotechnology-methods), 11/12/20
