@@ -133,42 +133,61 @@ Andre Ye, 11/27/20
   - Sister chromatids remain attached to each chromosome.
   - Chromosomes in each daughter cell are a random assortment of maternal and paternal chromosomes because of crossing over and independent alignment.
     
+### The Phases of Meiosis II
+- Chromosome replication occurred *before* meiosis I.
+  - There is **no DNA replication** before meiosis II. (critical difference)
+- Meiosis II *separates the sister chromatids into individual cells.*
+  - Each cell contains unreplicated daughter chromosomes
+- After meiosis II, there are four haploid cells.
+  - Meiosis II occurs in both daughter cells produced by meiosi.
+- The overall process of Meiosis produces four daughter cells from a parent cell.
+
+#### Prophase II
+- A spindle apparatus forms in both daughter cells.
+- Microtubules that polymerize from the two spindle pokes attach to the kinetochores on opposite sides of every chromosome.
+  - These begin to move the chromosomes towards the **middle** of the cell.
+
+#### Metaphase II
+- The chromosomes are lined up at the metaphase plate.
+  - Each chromosome is attached by spindle fibers to *both* of the poles.
+
+#### Anaphase II and Telophase II
+- The sister chromatids are separated in anaphase II.
+- These move to different daughter cells in telophase II.
+- Each chromatid is considered to be an independent daughter chromosome.
+
+### Mitosis versus Meiosis
+[diagram]
 
 
+## 13.2: Meiosis Promotes Genetic Variation
+- Because of the crossing over and random shuffling components of meiosis I, chromosomes in one gamete are different from chromosomes in every other gamete.
+- Fertilization creates genetically varied diploid offspring.
+  - Does this by bringing together two haploid sets of parental chromosomes.
+- Chromosome sets and varied combinations occur *only* in sexual reproduction.
+  - **Asexual reproduction** produces offspring without the fusion of gametes, and is based of mitosis. Aexually produced offspring are clones (exact genetic copies).
+  - **Sexual reproduction** is the production of offspring through the generation and fusion of gametes. Sexual reproduction results in offspring that have chromosome complements.
 
+### Independent Assortment
+- Each somatic cell in your body has **23 homologous pairs of chromosomes** (46 in total).
+  - Half the chromosomes come from your mother, half come from your father.
+- When pairs of homologous chromosomes line up during meiosis I, different combinations of maternal and paternal chromosomes result.
+  - This phenomenon is known as **independent assortment**.
+- The creation of new combinations of alleles is known as **genetic recombination**.
+- A diploid organism can produce `2^n` combinations (*n* is the haploid chromosome number).`
+  - 8.4 million combinations for humans.
+  
+### Crossing Over
+- Segments of paternal and maternal chromatids exchange when crossing over.
+- Crossing over produces new combinations of alleles *within* a chromosome.
+- Genetic recombination is important because it creates genetically diverse gametes.
+  - Independent asortment generates varied combinations.
+  - Crossing over produces *new combinations of alleles in **each** chromosome*.
 
+### How Does Fertilization Affect Genetic Variation?
+- Crossing over and the independent assortment of maternal and paternal chromosomes enure every gamete is unique.
+- Random fertilization means that the sperm and the egg can come together, regardless of which alleles they carry.
+- A human can produce ~8.4 million gamete by independent asortment.
+  - Two parents can produce `8.4m * 8.4m = 70.6 * 10^12` genetically distinct offspring.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to top](#)
