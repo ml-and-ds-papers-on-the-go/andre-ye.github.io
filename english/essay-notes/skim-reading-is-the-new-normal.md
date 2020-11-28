@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Education > *Skim Reading is the New Normal*
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Culture & Politics > *Skim Reading is the New Normal*
 
 # Essay Notes on "*Skim Reading is the New Normal*" by Maryanne Wolf
 Andre Ye, 11/27/2020
