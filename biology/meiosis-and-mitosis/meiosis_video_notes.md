@@ -6,6 +6,12 @@ Andre Ye, 11/27/2020
 ---
 
 ## Navigation
+- [Meiosis: Where the Sex Starts, Crash Course Biology](#meiosis-where-the-sex-starts-crash-course-biology)
+- [Khan Academy Fertilization Terms](#khan-academy-fertilization-terms)
+- [Chromosomal Crossover in Meiosis I](#chromosomal-crossover-in-meiosis-i)
+- [Genetic Variation](#genetic-variation)
+- [Allele Shuffling](#allele-shuffling)
+- [What is inheritance?](#what-is-inheritance)
 
 ## Meiosis: Where the Sex Starts, Crash Course Biology
 *Available [here](https://kcts9.pbslearningmedia.org/resource/c65df616-fffc-461b-8d70-c13bc4bc4c1a/meiosis-where-the-sex-starts-crash-course-biology-13/){:target="_blank"}*
@@ -56,7 +62,7 @@ Andre Ye, 11/27/2020
 - During telophase I, more of the cytoplasm, organelles, etc. head into one of the cells; same with telophase II.
   - Forms 1 *egg* (with more nutrients and organelles to make the new embryo) and 3 polar bodies (esentially useless).
 
-## Khan Academy Fertalization Terms
+## Khan Academy Fertilization Terms
 *Access [here](https://www.khanacademy.org/science/ap-biology/heredity/meiosis-and-genetic-diversity/v/fertilization-haploid-diploid-gamete-zygote-homologous){:target="_blank"}*
 - When the sperm and the egg cell fuse, this is *fertilization*.
   - Produces a cell that differentiates into all the cells of our body.
@@ -99,5 +105,32 @@ Andre Ye, 11/27/2020
   - Generally happens at fairly 'clean' points, called the chiasma.
     - plural: chiasmata.
 
-[Back to top](#)
+## Genetic Variation
+*By Utah Learn Genetics, access [here](https://learn.genetics.utah.edu/content/evolution/variation){:target="_blank"}*
+- Genetic variation happens through mutation and recombination
+- A gene variation that makes it unable to see could be harmful, for example.
+- A gene variation that makes it more attractive to pollinators allows its genes to be pased down.
+- Most gene variation are not good or bad (neutral).
+  - Don't effect survival, so usually stay in a population.
+- Harmful variations get weeded out.
+- Variation is necessary to life.
 
+## Allele Shuffling
+*By Utah Learn Genetics, access[here](https://learn.genetics.utah.edu/content/evolution/allele){:target="_blank"}*
+- Alleles have variations in their DNA sequences.
+  - May change amino acid, or when, where, and how much protein is made.
+- A population can have many alleles for each gene.
+- The traits are influenced by combinations of alleles.
+- Pairs of chromosomes have pairs of genes arranged in the same order.
+- Chromosomes are copied, recombined, shuffled, and split into four haploid cells (sperm/eggs).
+
+## What is inheritance?
+*By Utah Learn Genetics, access[here](https://learn.genetics.utah.edu/content/evolution/inheritance/){:target="_blank"}*
+- When things reproduce, they pass DNA to their offspring.
+- Some living things like bacteria can reproduce without a partner.
+- People reproduce with a partner (sexual reproduction)
+  - We all have two copies of each gene.
+  - This influences our inherited traits.
+- Children resemble their genes, but unique gene combinations give children a unique set of characteristic.
+
+[Back to top](#)
