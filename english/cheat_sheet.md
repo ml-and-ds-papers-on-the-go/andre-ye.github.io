@@ -4,28 +4,32 @@
 *\*Not actually for cheating. A handy reference for discussions, reading, and writing.*
 
 ## Navigation
-- [Habits of Mind of Academic Writers](#habits-of-mind-of-academic-writers)
-- [Reading and Understanding](#reading-and-understanding)
-  * [Steps of a Rhetorical Analysis](#steps-of-a-rhetorical-analysis)
-  * [Steps to Writing a Paraphrase](#steps-to-writing-a-paraphrase)
-  * [Steps to Writing a Summary](#steps-to-writing-a-summary)
-- [Arguments and Claims](#arguments-and-claims)
-  * [Identifying Types of Claims](#identifying-types-of-claims)
-  * [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
-  * [Rogerian Approach to Argument](#rogerian-approach-to-argument)
-  * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
-- [Issues](#issues)
-  * [Steps to Identifying Issues](#steps-to-identifying-issues)
-  * [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
-- [Constructing Writing](#constructing-writing)
-  * [Steps to Establishing a Context for a Thesis](#steps-to-establishing-a-context-for-a-thesis)
-- [Revision and Sources](#revision-and-sources)
-  * [The Composition Pyramid](#the-composition-pyramid)
-  * [Steps to Identifying Sources](#steps-to-identifying-sources)
-  * [Steps to Skimming](#steps-to-skimming)
-  * [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
-  * [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
-  * [Steps to Writing an Annotated Bibliography](#steps-to-writing-an-annotated-bibliography)
+ * [Navigation](#navigation)
+ * [Habits of Mind of Academic Writers](#habits-of-mind-of-academic-writers)
+ * [Reading and Understanding](#reading-and-understanding)
+   + [Steps of a Rhetorical Analysis](#steps-of-a-rhetorical-analysis)
+   + [Steps to Writing a Paraphrase](#steps-to-writing-a-paraphrase)
+   + [Steps to Writing a Summary](#steps-to-writing-a-summary)
+ * [Arguments and Claims](#arguments-and-claims)
+   + [Identifying Types of Claims](#identifying-types-of-claims)
+   + [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
+   + [Rogerian Approach to Argument](#rogerian-approach-to-argument)
+   + [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
+   + [Steps to Writing a Synthesis](#steps-to-writing-a-synthesis)
+ * [Issues](#issues)
+   + [Steps to Identifying Issues](#steps-to-identifying-issues)
+   + [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
+ * [Constructing Writing](#constructing-writing)
+   + [Steps to Establishing a Context for a Thesis](#steps-to-establishing-a-context-for-a-thesis)
+ * [Revision and Sources](#revision-and-sources)
+   + [The Composition Pyramid](#the-composition-pyramid)
+   + [Steps to Identifying Sources](#steps-to-identifying-sources)
+   + [Steps to Skimming](#steps-to-skimming)
+   + [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
+   + [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
+   + [Steps to Writing an Annotated Bibliography](#steps-to-writing-an-annotated-bibliography)
+   + [Principles Governing Plagiarism](#principles-governing-plagiarism)
+   + [Steps to Avoiding Plagiarism](#steps-to-avoiding-plagiarism)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -94,6 +98,11 @@
 13. **Hasty Generalization.** Draws a conclusion about a group with a sample size too small.
 14. **Straw Man Argument.** Makes a generalization about a group without actually citing a specific writer or work.
 15. **Fallacy of the Middle Ground.** Assumes that the middle position beteen extreme positions must be correct.
+
+### Steps to Writing a Synthesis
+1. **Make connections between and among different texts.** Annotate the texts you are working with from an eye of comparison.
+2. **Decide what those connections mean and how you want readers to understand them.** Decide what similarities and differences mean to you and what they might mean to readers.
+3. **Formulate the gist of what you've read.** Identify an overarching idea.
 
 [Back to top.](#)
 
@@ -164,6 +173,17 @@
 1. **Present key ideas.** Describe what the research is about.
 2. **Analyze.** Explain what the author responds to, purpose, potential gaps, and credibility.
 3. **Determine relevance.** Discuss how this research may be used in your own argument.
+
+### Principles Governing Plagiarism
+1. All written work is accepted as your work.
+2. The wording of something you submit is taken to be your own.
+3. Concepts and ideas given in a paper are assumed to have originated from you.
+4. Online materials used for a paper also apply to these principles.
+5. Writing can be corrected and revised with reference books or with a peer group, but it cannot have been revised substantially by someone else.
+
+### Steps to Avoiding Plagiarism
+1. **Always cite the source.** Signal that you are paraphrasing, summariziing, synthesizing, or quoting your sources.
+2. **Provide a full citation in the bibliography.** A full citation must be provided at the end of every paper.
 
 ---
 
