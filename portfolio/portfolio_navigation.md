@@ -2,6 +2,7 @@
 # TS Portfolio
 
 A compilation of essays and projects I've produced at the Transition School.
+Jump down to a section: [English](#english), [Math](#mathematics), [History](#history).
 
 ## English
 ### Major Essays
