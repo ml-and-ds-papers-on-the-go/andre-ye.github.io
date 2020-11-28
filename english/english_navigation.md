@@ -22,6 +22,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
   - [*"Grade Inflation Gone Wild"* by Stuart Rojstaczer](https://andre-ye.github.io/english/essay-notes/grade-inflation-gone-wild), 10/26/20.
   - [*"Doesn't Anybody Get a C Anymore?"* by Phil Primack](https://andre-ye.github.io/english/essay-notes/doesnt-anybody-get-a-c-anymore), 10/26/20.
   - [*"Why Can't Everyone Get As?"* by Alfie Kohn](https://andre-ye.github.io/english/essay-notes/why-cant-everyone-get-as), 11/11/20.
+  - [*“Undergraduate Education and the Developmnet of Moral and Civic Reponsibility”* by Anne Colby and Thomas Erhlich, with Elizabeth Beaumont and Jason Stephens](https://andre-ye.github.io/english/essay-notes/undergraduate-education), 11/27/20.
 - Culture & Politics
   - [*"What Mindfulness Revolution?*" by Ronald E. Purser](https://andre-ye.github.io/english/essay-notes/what-mindfulness-revolution), 10/23/20.
   - [*"Doing Nothing is Something"* by Anna Quindlen](https://andre-ye.github.io/english/essay-notes/doing-nothing-is-something), 11/6/20.
