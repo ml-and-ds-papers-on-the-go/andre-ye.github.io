@@ -8,37 +8,47 @@ Andre Ye, 11/7/2020
 ---
 
 ## Navigate
- * [Terms and Concepts](#terms-and-concepts)
-   + [DNA Replication](#dna-replication)
-   + [Transcription and Translation](#transcription-and-translation)
-   + [Cellular Respiration](#cellular-respiration)
- * [Core Ideas](#core-ideas)
-   + [Chemistry, Origin of Life, Nucleic Acids](#chemistry--origin-of-life--nucleic-acids)
-     - [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
-     - [Two Theories](#two-theories)
-     - [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
-     - [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
-   + [Proteins](#proteins)
-     - [Protein Levels of Structure](#protein-levels-of-structure)
-     - [Protein Functions and Types](#protein-functions-and-types)
-     - [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
-   + [Translation, Transcription, and the Genetic Code](#translation--transcription--and-the-genetic-code)
-     - [Complete Genetic Code Table](#complete-genetic-code-table), [Properties of the Genetic Code](#properties-of-the-genetic-code)
-     - [Types of Point Mutations](#types-of-point-mutations), [The 3 Categories of Mutations](#the-3-categories-of-mutations)
-     - [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria), [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria), [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
-     - [Process of Protein Synthesis in Ribosomes](#process-of-protein-synthesis-in-ribosomes)
-     - [Process of Initiating Translation in Bacteria](#process-of-initiating-translation-in-bacteria), [Process of Elongation Phase of Translation](#process-of-elongation-phase-of-translation), [Press of Terminating Translation](#process-of-terminating-translation)
-     - [Complete Process of the Central Dogma](#complete-process-of-the-central-dogma)
-     - [Central Dogma in Bacteria vs Eukaryotes](#central-dogma-in-bacteria-vs-eukaryotes)
-   + [Cellular Respiration](#cellular-respiration-1)
-     - [Process Input Output Table and Chemical Equation](#process-input-output-table-and-chemical-equation)
-     - [Cellular Respiration Diagram](#cellular-respiration-diagram)
- * [Important Experiments](#important-experiments)
-   + [Miller-Urey Experiment](#miller-urey-experiment)
-   + [Herschey-Chase Experiment](#herschey-chase-experiment)
-   + [Meselson-Stahl Experiment](#meselson-stahl-experiment)
-   + [Srb-Horowitz Experiment](#srb-horowitz-experiment)
-   + [Zamecnik et al Experiment](#zamecnik-et-al-experiment)
+- [Terms and Concepts](#terms-and-concepts)
+  * [DNA Replication](#dna-replication)
+  * [Transcription and Translation](#transcription-and-translation)
+  * [Cellular Respiration](#cellular-respiration)
+  * [Meiosis](#meiosis)
+- [Core Ideas](#core-ideas)
+  * [Chemistry, Origin of Life, Nucleic Acids](#chemistry--origin-of-life--nucleic-acids)
+    + [Chemical Foundation of Life Terms and Concepts](#chemical-foundation-of-life-terms-and-concepts)
+    + [Two Theories](#two-theories)
+    + [RNA vs DNA Levels of Structure](#rna-vs-dna-levels-of-structure)
+    + [3 DNA Replication Hypotheses](#3-dna-replication-hypotheses)
+  * [Proteins](#proteins)
+    + [Protein Levels of Structure](#protein-levels-of-structure)
+    + [Protein Functions and Types](#protein-functions-and-types)
+    + [Proteins Required for Synthesis in Bacteria](#proteins-required-for-synthesis-in-bacteria)
+  * [Translation, Transcription, and the Genetic Code](#translation--transcription--and-the-genetic-code)
+    + [Complete Genetic Code Table](#complete-genetic-code-table)
+    + [Properties of the Genetic Code](#properties-of-the-genetic-code)
+    + [Types of Point Mutations](#types-of-point-mutations)
+    + [The 3 Categories of Mutations](#the-3-categories-of-mutations)
+    + [Process of Initiating Transcription in Bacteria](#process-of-initiating-transcription-in-bacteria)
+    + [Process of Ending Transcription in Bacteria](#process-of-ending-transcription-in-bacteria)
+    + [Processed mRNA Strand Diagram](#processed-mrna-strand-diagram)
+    + [Process of Protein Synthesis in Ribosomes](#process-of-protein-synthesis-in-ribosomes)
+    + [Process of Initiating Translation in Bacteria](#process-of-initiating-translation-in-bacteria)
+    + [Process of Elongation Phase of Translation](#process-of-elongation-phase-of-translation)
+    + [Process of Terminating Translation](#process-of-terminating-translation)
+    + [Complete Process of the Central Dogma](#complete-process-of-the-central-dogma)
+    + [Central Dogma in Bacteria vs Eukaryotes](#central-dogma-in-bacteria-vs-eukaryotes)
+  * [Cellular Respiration](#cellular-respiration-1)
+    + [Process Input Output Table and Chemical Equation](#process-input-output-table-and-chemical-equation)
+    + [Cellular Respiration Diagram](#cellular-respiration-diagram)
+  * [Meiosis and Mitosis](#meiosis-and-mitosis)
+    + [Meiosis vs Mitosis Table](#meiosis-vs-mitosis-table)
+    + [Meiosis vs Mitosis Diagram](#meiosis-vs-mitosis-diagram)
+- [Important Experiments](#important-experiments)
+  * [Miller-Urey Experiment](#miller-urey-experiment)
+  * [Herschey-Chase Experiment](#herschey-chase-experiment)
+  * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
+  * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
+  * [Zamecnik et al Experiment](#zamecnik-et-al-experiment)
     
 ---
 
@@ -129,6 +139,34 @@ wobble hypothesis | Most amino acids are specified by more than one codon. Codon
 | `NAD+`/`NADH` | An electron carrier; oxidized form is `NAD+` (is not carrying electrons) and reduced form is `NADH` (is carrying electrons). Will transition between these two states throughout cellular respiration. |
 | `FAD`/`FADH2` | An electron carrier; oxidized form is `FAD` (is not carrying electrons) and reduced form is `FADH2` (is carrying electrons). Will transition between these two states throughout cellular respiration. |
 | Respirometer | A respirometer is composed of a vial and a volume of air. It measures the rate of consumption of oxyugen of a living organism. |
+
+### Meiosis
+| Term | Definition |
+| --- | --- |
+| asexual reproduction | Reproduction in which the offspring's genetic data is the exact same as their parent's genetic information. |
+| autosomes | Chromosomes that are not sex chromosomes (like `X` and `Y` 23rd chromosomes in humans). |
+| centromere | The region of a chromosome to which the microtubules of the spindle attach, via the kinetochore, during cell division. |
+| crossing over | During prophase I, non-sister chromatids of homologous chromosomes exchange parts of their DNA at the same spots. This promotes genetic variation. |
+| daughter cell | The cell produced by a parent cell. |
+| diploid cell | A cell with two versions of each chromosome. These are our somatic (body) cells. |
+| haploid cell | A cell with only one version of each chromosome. These are our sex cells (sperm and egg). |
+| ploidy | The number of chromosome sets. Diploid cells have a ploidy of 2, haploid cells have a ploidy of 1. This is the coefficient of *n* when describing chromosome count. |
+| genetic recombination | The creation of new combinations of alleles. |
+| homologous chromosomes | Chromosomes that are the same size and shape, and contain the same genes at the same location. |
+| independent assortment | A phenomenon in which homologous chromosomes line up in meiosis I irrespective of what other chromosomes are. This allows for different combinations of alleles. |
+| unreplicated chromosome | A chromosome that has not yet been replicated. |
+| replicated chromosome | A chromosome that has been replicated, meaning that it consists of two chromatids, each the size of an unreplicated chromosome. |
+| homologous pair | A pair of chromosomes that are homologous. (see homologous chromosomes) |
+| maternal and paternal chromosomes | Chromosomes that come from the mother and the father, respectively. |
+| meiosis | The process by which four haploid daughter cells are generated from one diploid parent cell. |
+| non-sister chromatids | Chromatids in a chromosome from different homologs. |
+| reduction division | Meiosis I is a *reduction division* operation in that the number of chromoomes goes from *2n* to *n*. Meiosis II is *not* so because the number of chromosomes goes from *n* to *n*, although the absolute quantity of DNA decreases. |
+| sex chromosomes | The chromosomes that determine the offspring's ex. |
+| sperm | The male sex cell. |
+| zygote | The cell fromed by the union of the sperm and egg. |
+| egg | The female sex cell. |
+| gamete | A haploid sex cell. |
+| sexual reproduction | Reproduction that requires the union of two gametes. |
 
 ---
 
@@ -316,6 +354,12 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 
 #### Cellular Respiration Diagram
 ![](https://andre-ye.github.io/biology/cellular_respiration/cell-resp-img.PNG)
+
+### Meiosis and Mitosis
+#### Meiosis vs Mitosis Table
+![](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis-vs-mitosis-table.PNG.jpg)
+#### Meiosis vs Mitosis Diagram
+![](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis-vs-mitosis-diagram.PNG)
 
 ---
 
