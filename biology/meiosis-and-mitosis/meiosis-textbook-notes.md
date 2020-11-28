@@ -6,6 +6,28 @@ Andre Ye, 11/27/20
 ---
 
 ## Navigate
+- [Introduction](#introduction)
+- [13.1: How Does Meiosis Occur?](#131--how-does-meiosis-occur)
+  * [Chromosomes Come in Distinct Sizes and Shapes](#chromosomes-come-in-distinct-sizes-and-shapes)
+  * [The Concept of a Ploidy](#the-concept-of-a-ploidy)
+  * [An Overview of Meiosis](#an-overview-of-meiosis)
+    + [Meiosis Consists of Two Cell Divisions](#meiosis-consists-of-two-cell-divisions)
+    + [Meiosis I is a Reduction Division](#meiosis-i-is-a-reduction-division)
+  * [Phases of Meiosis I](#phases-of-meiosis-i)
+    + [Early Prophase I](#early-prophase-i)
+    + [Later Prophase I](#later-prophase-i)
+    + [Metaphase I](#metaphase-i)
+    + [Anaphase I and Telophase I](#anaphase-i-and-telophase-i)
+    + [Meiosis I: A Recap](#meiosis-i-a-recap)
+  * [The Phases of Meiosis II](#the-phases-of-meiosis-ii)
+    + [Prophase II](#prophase-ii)
+    + [Metaphase II](#metaphase-ii)
+    + [Anaphase II and Telophase II](#anaphase-ii-and-telophase-ii)
+  * [Mitosis versus Meiosis](#mitosis-versus-meiosis)
+- [13.2: Meiosis Promotes Genetic Variation](#132-meiosis-promotes-genetic-variation)
+  * [Independent Assortment](#independent-assortment)
+  * [Crossing Over](#crossing-over)
+  * [How Does Fertilization Affect Genetic Variation?](#how-does-fertilization-affect-genetic-variation)
 
 ## Introduction
 - People have known that during sexual reproduction, a male reproductive cell (**sperm**) and a female reproductive cell (**egg**) unite in **fertilization**.
@@ -157,7 +179,7 @@ Andre Ye, 11/27/20
 - Each chromatid is considered to be an independent daughter chromosome.
 
 ### Mitosis versus Meiosis
-[diagram]
+![](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis-vs-mitosis-table.PNG.jpg)
 
 
 ## 13.2: Meiosis Promotes Genetic Variation
