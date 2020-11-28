@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Education > *Do We Read Differently on Paper Than on a Screen?*
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Essay Notes](https://andre-ye.github.io/english/english_navigation#notes-on-essays) > Technology > *Do We Read Differently on Paper Than on a Screen?*
 
 # Essay Notes on "*Do We Read Differently on Paper Than on a Screen?*" by Maria Gilje Torheim
 Andre Ye, 11/27/2020
