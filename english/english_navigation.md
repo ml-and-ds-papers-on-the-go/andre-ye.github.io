@@ -17,6 +17,8 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
 - Technology
   - [*"History Retweets Itself"* by Tom Standage](https://andre-ye.github.io/english/essay-notes/history-retweets-itself), 10/19/20.
   - [*"Why Aren't Social Media Delivering Democracy?"* by Dana Radcliffe](https://andre-ye.github.io/english/essay-notes/why-arents-social-media-delivering-democracy), 10/23/20.
+  - [*"Do We Read Differently on Paper Than on a Screen?"* by Maria Gilje Torheim](https://andre-ye.github.io/english/essay-notes/do-we-read-differently-on-paper-than-on-a-screen), 11/27/20.
+  - [*"Skim Reading is the New Normal"* by Maryanne Wolf](https://andre-ye.github.io/english/essay-notes/skim-reading-is-the-new-normal), 11/27/20.
 - Education
   - [*"How Big-Time Sports Ate College Life"* by Laura Pappano](https://andre-ye.github.io/english/essay-notes/how-big-time-sports-ate-college-life), 10/20/20.
   - [*"The United States of (Non)Reading: The End of Civilization or a New Era?"* by Susan D. Blum](https://andre-ye.github.io/english/essay-notes/united-states-of-non-reading), 10/26/20.
@@ -24,6 +26,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
   - [*"Doesn't Anybody Get a C Anymore?"* by Phil Primack](https://andre-ye.github.io/english/essay-notes/doesnt-anybody-get-a-c-anymore), 10/26/20.
   - [*"Why Can't Everyone Get As?"* by Alfie Kohn](https://andre-ye.github.io/english/essay-notes/why-cant-everyone-get-as), 11/11/20.
   - [*“Undergraduate Education and the Developmnet of Moral and Civic Reponsibility”* by Anne Colby and Thomas Erhlich, with Elizabeth Beaumont and Jason Stephens](https://andre-ye.github.io/english/essay-notes/undergraduate-education), 11/27/20.
+  - [*"Do Students Lose Depth in Digital Reading?"* by Naomi S. Baron](https://andre-ye.github.io/english/essay-notes/do-students-lose-depth-in-digital-reading), 11/27/20.
 - Culture & Politics
   - [*"What Mindfulness Revolution?*" by Ronald E. Purser](https://andre-ye.github.io/english/essay-notes/what-mindfulness-revolution), 10/23/20.
   - [*"Doing Nothing is Something"* by Anna Quindlen](https://andre-ye.github.io/english/essay-notes/doing-nothing-is-something), 11/6/20.
