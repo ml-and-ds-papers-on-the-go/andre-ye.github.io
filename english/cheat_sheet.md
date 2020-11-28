@@ -15,12 +15,12 @@
    + [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
    + [Rogerian Approach to Argument](#rogerian-approach-to-argument)
    + [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
-   + [Steps to Writing a Synthesis](#steps-to-writing-a-synthesis)
  * [Issues](#issues)
    + [Steps to Identifying Issues](#steps-to-identifying-issues)
    + [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
  * [Constructing Writing](#constructing-writing)
    + [Steps to Establishing a Context for a Thesis](#steps-to-establishing-a-context-for-a-thesis)
+   + [Steps to Writing a Synthesis](#steps-to-writing-a-synthesis)
  * [Revision and Sources](#revision-and-sources)
    + [The Composition Pyramid](#the-composition-pyramid)
    + [Steps to Identifying Sources](#steps-to-identifying-sources)
@@ -98,12 +98,6 @@
 13. **Hasty Generalization.** Draws a conclusion about a group with a sample size too small.
 14. **Straw Man Argument.** Makes a generalization about a group without actually citing a specific writer or work.
 15. **Fallacy of the Middle Ground.** Assumes that the middle position beteen extreme positions must be correct.
-
-### Steps to Writing a Synthesis
-1. **Make connections between and among different texts.** Annotate the texts you are working with from an eye of comparison.
-2. **Decide what those connections mean and how you want readers to understand them.** Decide what similarities and differences mean to you and what they might mean to readers.
-3. **Formulate the gist of what you've read.** Identify an overarching idea.
-
 [Back to top.](#)
 
 ---
@@ -132,6 +126,12 @@
 2. **Briefly present what others have said.** Explain how others have addressed the problem, issue, or question you are focusing on.
 3. **Explain what you see as the problem.** Identify what is open to dispute.
 4. **State your thesis.** Help readers see your purpose and how you intend to achieve it—by correcting a misconception, filling a gap, modifying a claim others have accepted, or stating an hypothesis.
+
+
+### Steps to Writing a Synthesis
+1. **Make connections between and among different texts.** Annotate the texts you are working with from an eye of comparison.
+2. **Decide what those connections mean and how you want readers to understand them.** Decide what similarities and differences mean to you and what they might mean to readers.
+3. **Formulate the gist of what you've read.** Identify an overarching idea.
 
 ---
 
