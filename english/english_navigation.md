@@ -10,6 +10,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
 - [Chapter 5 Notes: "From Identifying Issues to Forming Questions"](https://andre-ye.github.io/english/textbook-notes/chapter_5), 11/6/20.
 - [Chapter 6 Notes: "From Formulating to Developing a Thesis"](https://andre-ye.github.io/english/textbook-notes/chapter_6), 11/21/20.
 - [Chapter 7 Notes: "Identifying Sources"](https://andre-ye.github.io/english/textbook-notes/chapter_7), 11/15/20.
+- [Chapter 8 Notes: "From Synthesis to Researched Argument"](https://andre-ye.github.io/english/textbook-notes/chapter_8), 11/27/20.
 - [Chapter 12 Notes: "From Revising to Editing"](https://andre-ye.github.io/english/textbook-notes/chapter_12), 11/2/20.
 
 ## Notes on Essays
