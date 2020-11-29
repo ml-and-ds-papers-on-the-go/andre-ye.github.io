@@ -4,32 +4,33 @@
 *\*Not actually for cheating. A handy reference for discussions, reading, and writing.*
 
 ## Navigation
- * [Navigation](#navigation)
- * [Habits of Mind of Academic Writers](#habits-of-mind-of-academic-writers)
- * [Reading and Understanding](#reading-and-understanding)
-   + [Steps of a Rhetorical Analysis](#steps-of-a-rhetorical-analysis)
-   + [Steps to Writing a Paraphrase](#steps-to-writing-a-paraphrase)
-   + [Steps to Writing a Summary](#steps-to-writing-a-summary)
- * [Arguments and Claims](#arguments-and-claims)
-   + [Identifying Types of Claims](#identifying-types-of-claims)
-   + [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
-   + [Rogerian Approach to Argument](#rogerian-approach-to-argument)
-   + [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
- * [Issues](#issues)
-   + [Steps to Identifying Issues](#steps-to-identifying-issues)
-   + [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
- * [Constructing Writing](#constructing-writing)
-   + [Steps to Establishing a Context for a Thesis](#steps-to-establishing-a-context-for-a-thesis)
-   + [Steps to Writing a Synthesis](#steps-to-writing-a-synthesis)
- * [Revision and Sources](#revision-and-sources)
-   + [The Composition Pyramid](#the-composition-pyramid)
-   + [Steps to Identifying Sources](#steps-to-identifying-sources)
-   + [Steps to Skimming](#steps-to-skimming)
-   + [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
-   + [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
-   + [Steps to Writing an Annotated Bibliography](#steps-to-writing-an-annotated-bibliography)
-   + [Principles Governing Plagiarism](#principles-governing-plagiarism)
-   + [Steps to Avoiding Plagiarism](#steps-to-avoiding-plagiarism)
+- [Habits of Mind of Academic Writers](#habits-of-mind-of-academic-writers)
+- [Reading and Understanding](#reading-and-understanding)
+  * [Steps of a Rhetorical Analysis](#steps-of-a-rhetorical-analysis)
+  * [Steps to Writing a Paraphrase](#steps-to-writing-a-paraphrase)
+  * [Steps to Writing a Summary](#steps-to-writing-a-summary)
+- [Arguments and Claims](#arguments-and-claims)
+  * [Identifying Types of Claims](#identifying-types-of-claims)
+  * [Steps to Analyzing an Argument](#steps-to-analyzing-an-argument)
+  * [Rogerian Approach to Argument](#rogerian-approach-to-argument)
+  * [15 Types of Logical Fallacies](#15-types-of-logical-fallacies)
+- [Issues](#issues)
+  * [Steps to Identifying Issues](#steps-to-identifying-issues)
+  * [Steps to Formulating an Issue-based Question](#steps-to-formulating-an-issue-based-question)
+- [Constructing Writing](#constructing-writing)
+  * [Steps to Establishing a Context for a Thesis](#steps-to-establishing-a-context-for-a-thesis)
+  * [Steps to Writing a Synthesis](#steps-to-writing-a-synthesis)
+  * [Steps to Integrating Sources Into Your Writing](#steps-to-integrating-sources-into-your-writing)
+  * [Common Verbs in Signal Phrases](#common-verbs-in-signal-phrases)
+- [Revision and Sources](#revision-and-sources)
+  * [The Composition Pyramid](#the-composition-pyramid)
+  * [Steps to Identifying Sources](#steps-to-identifying-sources)
+  * [Steps to Skimming](#steps-to-skimming)
+  * [Steps to Evaluating Library Sources](#steps-to-evaluating-library-sources)
+  * [Steps to Evaluating Internet and Social Media Sources](#steps-to-evaluating-internet-and-social-media-sources)
+  * [Steps to Writing an Annotated Bibliography](#steps-to-writing-an-annotated-bibliography)
+  * [Principles Governing Plagiarism](#principles-governing-plagiarism)
+  * [Steps to Avoiding Plagiarism](#steps-to-avoiding-plagiarism)
 
 ## Habits of Mind of Academic Writers
 1. **Inquiring**. Begin with questions that lead to rich and complex insights.
@@ -140,7 +141,7 @@
 4. **Use signal phrases to introduce and identify the source.** Use short quotations with the grammar of your own sentences.
 
 
-#### Common Verbs in Signal Phrases
+### Common Verbs in Signal Phrases
 
 | agrees | concludes | emphasizes | maintains | recommends |
 | argues | counters | explains | notes | responds |
