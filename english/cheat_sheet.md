@@ -133,6 +133,22 @@
 2. **Decide what those connections mean and how you want readers to understand them.** Decide what similarities and differences mean to you and what they might mean to readers.
 3. **Formulate the gist of what you've read.** Identify an overarching idea.
 
+### Steps to Integrating Sources Into Your Writing
+1. **Take an active stance.** You guide where your paper is going, not your sources.
+2. **Explain the source.** Explain the material you quote, paraphrase, or summarize.
+3. **Be fair to your sources.** Do not unfairly represent the content, and show what you change with ellipses and brackets.
+4. **Use signal phrases to introduce and identify the source.** Use short quotations with the grammar of your own sentences.
+
+
+#### Common Verbs in Signal Phrases
+
+| agrees | concludes | emphasizes | maintains | recommends |
+| argues | counters | explains | notes | responds |
+| asserts | declares | illustrates | observes | reveals |
+| claims | demontrates | implies | points out | tates |
+| comments | disagrees | indicates | proposes | takes issue with |
+| compares | disputes | insists | questions | writes |
+
 ---
 
 ## Revision and Sources
