@@ -43,3 +43,4 @@ Notes on essay feedback, workshops, etc. given in class.
 - [Week 4 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-4). *Feedback on essay 1, grading standards for essays, reading responses & active reading.*
 - [Week 7 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-7). *Further walk throughs on essays, argumentation, and reading responses.*
 - [Week 8 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-8). *Discussion on steps of argumention, They Say I Say (framing arguments in opposition to others.*
+- [Week 9 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-9). *Discussion on evidence-claim instead of claim-evidence, analysi to argumentation.*
