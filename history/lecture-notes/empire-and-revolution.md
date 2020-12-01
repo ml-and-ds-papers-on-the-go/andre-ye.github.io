@@ -14,7 +14,7 @@ The American Revolution was political and complicated. It was not a neat story a
   - [Proclamation line of 1763](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#proclamation-line-of-1763)
 - Unrest, riots, and revolt
   - [Political Outlook on Independence](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#political-outlook-on-independence)
-  - [Colonial Possibilities - Land and Labor](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#colonial-possibilities---land-and-labor)
+  - [Colonial Possibilities - Land and Labor](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#colonial-possibilities-land-and-labor)
   - [Colonial Mercantilism](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#colonial-mercantilism)
   - [Slavery and the Colonial Elite](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#slavery-and-the-colonial-elite)
   - [Slave Population & the Stono River Rebellion](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#slave-population--the-stono-river-rebellion)
