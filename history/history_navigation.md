@@ -12,6 +12,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - ["Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions"](https://andre-ye.github.io/history/lecture-notes/race-and-immigration), 11/3/20 & 11/5/20
 - ["A Slave Society: Economics and Culture of American Slavery"](https://andre-ye.github.io/history/lecture-notes/a-slave-society), 11/10/20 & 11/12/20
 - ["Movements for Liberation: Abolition and Expansions of Freedom"](https://andre-ye.github.io/history/lecture-notes/movements-for-liberation), 11/19/20
+- ["Civil War: Politics and Control of the State"](https://andre-ye.github.io/history/lecture-notes/civil-war), 12/1/20
 
 ## Study Guides
 - [Fall Quarter Midterm Study Guide](https://andre-ye.github.io/history/study-guides/fall-quarter-midterm-study-guide), 10/29/20.
