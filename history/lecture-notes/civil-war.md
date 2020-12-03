@@ -228,74 +228,10 @@ Andre Ye, 12/1/20.
   - Only recently have those numbers reached parity.
 - Older war tactics are meeting new war technologies and leading to a horrendous outcomes.
 
-### War Propaganda
-
-
-
-ASK FREE SOIL ARGUMENT - WHAT ABOUT FREE SLAVES COMPETING?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## The War that Slaves Made
+- The notion of Contraband Camps: what first happens in 1s and 2s become dozens and thousands of slaves.
+- Definitive towards forcing emancipation; this becomes a crucial war aim.
+- The Southern society needs slaves as its one advantage and forces the North to recognize emancipation.
+- Pay close attention to what is happening in the Emancipation Proclamation.
+
+[Back to top](#)
