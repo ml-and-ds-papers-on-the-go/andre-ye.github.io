@@ -4,6 +4,27 @@
 Andre Ye, 12/1/20.
 
 ## Navigate
+- [Introduction](#introduction)
+  * [Central Question](#central-question)
+  * [Slave Resistance](#slave-resistance)
+- [Free Soil Argument](#free-soil-argument)
+  * [Economic Growth and the Cultural Transformation](#economic-growth-and-the-cultural-transformation)
+- [1846 War with Mexico](#1846-war-with-mexico)
+  * [Breakout of the War](#breakout-of-the-war)
+  * [Results and Conclusions](#results-and-conclusions)
+- [Problems of the Empire](#problems-of-the-empire)
+  * [Wilmot Proviso and Compromise of 1850](#wilmot-proviso-and-compromise-of-1850)
+  * [Kansas Nebraska Act](#kansas-nebraska-act)
+- [Fugitive Slave Law and Abolition](#fugitive-slave-law-and-abolition)
+- [Slave Power](#slave-power)
+  * [Control of the Government](#control-of-the-government)
+  * [Dred Scott](#dred-scott)
+- [The Republican Party and Free Labor](#the-republican-party-and-free-labor)
+  * [The Election of Lincoln](#the-election-of-lincoln)
+- [The Secession Crisis](#the-secession-crisis)
+  * [The First Modern War](#the-first-modern-war)
+  * [The Technology of War](#the-technology-of-war)
+- [The War that Slaves Made](#the-war-that-slaves-made)
 
 ## Introduction
 - Considering the far-reaching impacts of the slave system that had tentacles into many aspects of American society.
