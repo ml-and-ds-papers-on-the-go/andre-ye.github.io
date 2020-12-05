@@ -38,6 +38,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - Weekly Reading Response 9 (Due 12/3)
   - [Notes on *Black Reconstruction* by W.E. Burghardt Du Bois](https://andre-ye.github.io/history/rr9/black_reconstruction), 11/25/20.
   - [Notes on the Emancipation Proclamation](https://andre-ye.github.io/history/rr9/emancipation_proclamation), 11/26/20.
+- Weekly Reading Response 10 (Due 12/10)
+  - [Notes on *Labor of Love, Labor of Sorrow* by Jacqueline Jones](https://andre-ye.github.io/history/rr10/labor-of-love), 12/5/20.
   
 ## Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
