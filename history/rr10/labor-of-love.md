@@ -4,12 +4,41 @@
 Andre Ye, 12/5/2020
 
 ## Navigate
+- [Context](#context)
+- [Thesis and Main Points](#thesis-and-main-points)
+- [Introduction](#introduction)
+- [In Pursuit of Freedom](#in-pursuit-of-freedom)
+  * [Black Slaves and Impact on Family Structures](#black-slaves-and-impact-on-family-structures)
+  * [Slaves That Stayed](#slaves-that-stayed)
+  * [Conclusion](#conclusion)
+- [Black Women as Free Laborers](#black-women-as-free-laborers)
+  * [Northern Free Labor Thought](#northern-free-labor-thought)
+  * [Unionization of Slave Workers](#unionization-of-slave-workers)
+  * [Conclusion](#conclusion-1)
+- [The Political Economy of Black Family and Community Life in the Postwar Period](#the-political-economy-of-black-family-and-community-life-in-the-postwar-period)
+  * [Withdrawal of Black Females from Wage Labor](#withdrawal-of-black-females-from-wage-labor)
+  * [Sharecroppping System](#sharecroppping-system)
+  * [Sexual Division of Labor](#sexual-division-of-labor)
+  * [Kinship and Collectivization of Labor](#kinship-and-collectivization-of-labor)
+  * [Political Gathering of Freedmen](#political-gathering-of-freedmen)
+  * [Conclusion](#conclusion-2)
+- [New Dresses, Defiant Words, and Their Price](#new-dresses-defiant-words-and-their-price)
+  * [Conclusion](#conclusion-3)
+- [Out of the Fields: City Life and Schooling](#out-of-the-fields-city-life-and-schooling)
+  * [Conclusion](#conclusion-4)
 
 ## Context
 - Full title: *Labor of Love, Labor of Sorrow: Black Women, Work, and the Family from Slavery to the Present*.
 - Class reading is *Chapter 2: Freed Women? The Civil War and Reconstruction.*
 - By Jacqueline Jones.
 - Published by Basic Books, Inc., Publishers in New York.
+
+## Thesis and Main Points
+- Among the dislocation of the Civil War, a common purpose remained to escape oppression of slavery while attempting to keep family intact.
+- In making decisions about how family labor was organized, black people rejected materialistic individualism of the North as well as brutal authoritarianism of the South.
+- The development of a coexisting between economic and social family worlds was significant and made a living increasingly carried by individuals apart from family life.
+- Patterns of interracial violence revealed anxieties related to sex, race, and power that remained locked in the South's collective consciousness.
+- Black women continued occupied two statuses: as wives, mothers, and upholders of culture in their neighborhoods, and as workers belonging to a despised caste. Freedwomen percieved freedom not to be a release from labor, but the oppurtunity labor for their own families and community.
 
 ## Introduction
 *page 2*
@@ -68,7 +97,7 @@ Andre Ye, 12/5/2020
 - Fleeing black women deprived the South of a large labor supply.
 
 ### Conclusion
-Among the dislocation of the Civil War, a common purpose remained to escape oppression of slavery while attempting to keep familie intact.
+Among the dislocation of the Civil War, a common purpose remained to escape oppression of slavery while attempting to keep family intact.
 
 ## Black Women as Free Laborers
 *page 18*
@@ -166,7 +195,7 @@ The development of a coexisting between economic and social family worlds was si
 - **These were personal attacks carried out face-to-face.**
 
 ### Conclusion
-Patterns of interracial violence revealed anxieties related to sex, race, and power that remained locked in the South's collective consciousnesss.
+Patterns of interracial violence revealed anxieties related to sex, race, and power that remained locked in the South's collective consciousness.
 
 ## Out of the Fields: City Life and Schooling
 *page 31*
@@ -189,39 +218,5 @@ Patterns of interracial violence revealed anxieties related to sex, race, and po
 
 ### Conclusion
 Black women continued to occupy two statuses: as wives, mothers, and upholders of culture in their neighborhoods, and as workers belonging to a despised caste. Freedwomen percieved freedom not to be a release from labor, but the oppurtunity labor for their own families and community.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [Back to top](#)
