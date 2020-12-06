@@ -141,6 +141,7 @@ wobble hypothesis | Most amino acids are specified by more than one codon. Codon
 | Respirometer | A respirometer is composed of a vial and a volume of air. It measures the rate of consumption of oxyugen of a living organism. |
 
 ### Meiosis
+
 | Term | Definition |
 | --- | --- |
 | asexual reproduction | Reproduction in which the offspring's genetic data is the exact same as their parent's genetic information. |
@@ -424,6 +425,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | The one-gene, one-enzyme hypothesis is supported. |
 
 ### Zamecnik et al Experiment
+
 | Aspect | Description |
 | --- | --- |
 | Question | What happens to amino acids attached to tRNAs? |
