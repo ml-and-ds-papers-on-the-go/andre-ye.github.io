@@ -43,3 +43,10 @@ Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
 - Chapter 7: "Quadratic Modelling." Working with quadratic functions. 
   - [Collingwood 30](https://andre-ye.github.io/precalc/collingwoods/Collingwood_30.pdf){:target="_blank"}
   - [Collingwood 31](https://andre-ye.github.io/precalc/collingwoods/Collingwood_31.pdf){:target="_blank"}
+  - [Collingwood 32](https://andre-ye.github.io/precalc/collingwoods/Collingwood_32.pdf){:target="_blank"}
+  - [Collingwood 33](https://andre-ye.github.io/precalc/collingwoods/Collingwood_33.pdf){:target="_blank"}
+  - [Collingwood 34](https://andre-ye.github.io/precalc/collingwoods/Collingwood_34.pdf){:target="_blank"}
+  - [Collingwood 35](https://andre-ye.github.io/precalc/collingwoods/Collingwood_35.pdf){:target="_blank"}
+  - [Collingwood 36](https://andre-ye.github.io/precalc/collingwoods/Collingwood_36.pdf){:target="_blank"}
+  - [Collingwood 37](https://andre-ye.github.io/precalc/collingwoods/Collingwood_37.pdf){:target="_blank"}
+  - [Collingwood 38](https://andre-ye.github.io/precalc/collingwoods/Collingwood_38.pdf){:target="_blank"}
