@@ -45,6 +45,8 @@ Andre Ye, 11/7/2020
     + [Meiosis vs Mitosis Diagram](#meiosis-vs-mitosis-diagram)
 - [Important Experiments](#important-experiments)
   * [Miller-Urey Experiment](#miller-urey-experiment)
+  - [Griffith Experiment](#griffith-experiment)
+  - [Avery-MacLeod-McCarty Experiment](#avery-macleod-mccarty-experiment)
   * [Herschey-Chase Experiment](#herschey-chase-experiment)
   * [Meselson-Stahl Experiment](#meselson-stahl-experiment)
   * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
@@ -379,6 +381,33 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | Chemical evolution occurs readily if simple molecules with high free energy are exposed to a source of kinetic energy. |
 | Significance | Paved the idea for foundation for ideas of chemical evolution and sparked further experiments. |
 
+### Griffith Experiment
+
+| Aspect | Description |
+| --- | --- |
+| Question | Can bacteria transfer genetic information through transformation? |
+| Hypothesis | Bacteria can transfer genetic information through tranformation. |
+| Null Hypothesis | Bacteria do not transfer genetic information through tranformation. |
+| Experimental Setup | Take four types of strains: rough strain (virulent), smooth strain (virulent), heat-killed smooth strain, and mix of rough strain and heat-killed smooth strain. Inject strains into mice and see if they live or die. |
+| Prediction of Hypothesis | If bacteria can transfer genetic information through transformation, the mix of rough strain and heat-killed smooth strain will kill the mouse. |
+| Prediction of Null Hypothesis | If bacteria do not transfer genetic information through tranformation, the mix of rough strain and heat-killed smooth strain will kill the mouse. |
+| Results | Mice did not die from the rough strain, did die from the smooth strain, did not die from the heat-killed smooth strain, and did die from the mix of rough strain and heat-killed smooth strain. |
+| Conclusion | There is a 'transformation principle' that is allowing the smooth strain, even if it has been killed, to transfer its genetic information to the rough strain to make it become a smooth strain, thus killing the mouse. |
+| Significance | Provided basis for the Avery-MacLeod-McCarty experiment. |
+
+### Avery-MacLeod-McCarty Experiment
+
+| Aspect | Description |
+| --- | --- |
+| Question | What is causing the mix of rough strain and heat-killed smooth strain to kill the mouse in the Griffith Experiment? |
+| Hypothesis | The DNA in the heat-killed smooth strain is transfering genetic information and 'corrupting' the rough strain to kill the mouse. |
+| Null Hypothesis | Some other aspect of the heat-killed smooth strain (i.e. proteins) is killing the mouse. |
+| Experimental Setup | Perform chemical actions to isolate parts of the mix of rough strain and heat-killed smooth strain. Mix each part with the rough strain, inject it into the mouse, and see if it lives or dies. Analyze the part that causes the mouse to die. |
+| Prediction of Hypothesis | If DNA in the heat-killed smooth strain is transfering genetic information, the part that kills the mouse will be DNA. |
+| Prediction of Null Hypothesis | Some other aspect of the heat-killed smooth strain is killing the mouse, the part that kills the mouse will not be DNA. |
+| Results | When analyzing the ratios of nitrogen in the part that killed the mouse, it was confirmed that the part was DNA, not proteins. |
+| Conclusion | DNA is responsible for the transfer of genetic information. |
+| Significance | Was part of a growing field of research that proposed DNA, not proteins, held genetic information. |
 
 ### Herschey-Chase Experiment
 
