@@ -269,8 +269,8 @@ Defensive Proteins | Defensive proteins help organisms fight infection, heal dam
 | --- | --- |
 | Redundant | All amino acids (except for 2) are coded for by more than one codon. Codons specifying the same amino acid are synonymous codons. |
 | Unambiguous | A given codon never codes for more than one amino acid. | 
-| Non-overlapping | Once the ribosome locks onto the first codon, the reading frame is established and the ribosome rads one codon one after another. |
-| Universal | Witha f ew exceptions, codons specify the same amino acids in all organisms. |
+| Non-overlapping | Once the ribosome locks onto the first codon, the reading frame is established and the ribosome adds one codon one after another. |
+| Universal | With a few exceptions, codons specify the same amino acids in all organisms. |
 | Conservative | Several codons specify the same amino acid, but the first two bases are usually identical. |
 
 - If a change in DNA sequence leads to a change in the third position, it is less likely to alter the amino acid in the protein.
