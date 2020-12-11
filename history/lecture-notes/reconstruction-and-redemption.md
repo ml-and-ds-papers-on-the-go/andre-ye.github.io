@@ -4,6 +4,31 @@
 Andre Ye, 12/8/20.
 
 ## Navigation
+- [Introduction](#introduction)
+- [The End of the War](#the-end-of-the-war)
+- [Postbellum Questions](#postbellum-questions)
+- [Wartime Reconstruction](#wartime-reconstruction)
+- [Federal Reconstruction](#federal-reconstruction)
+- [Agenda of the Freedmen](#agenda-of-the-freedmen)
+  * [Family](#family)
+  * [Independent Churches](#independent-churches)
+  * [Schooling and Literacy](#schooling-and-literacy)
+  * [Civic Participation](#civic-participation)
+    + [Land and Economic Independence](#land-and-economic-independence)
+  * [Agenda of Southern Plantation Owners](#agenda-of-southern-plantation-owners)
+- [Agenda of the Northernors](#agenda-of-the-northernors)
+  * [Northern Carpet-baggers](#northern-carpet-baggers)
+- [Sharecropping as a Compromise](#sharecropping-as-a-compromise)
+- [Federal Reconstruction](#federal-reconstruction-1)
+  * [Radical Republicans](#radical-republicans)
+  * [Civil Rights Act of 1866](#civil-rights-act-of-1866)
+  * [Feminist and Abolitionist Response](#feminist-and-abolitionist-response)
+  * [The First Vote and Civic Participation](#the-first-vote-and-civic-participation)
+- [Countervailing Forces](#countervailing-forces)
+  * [Colfax Massacre and Reign of Terror](#colfax-massacre-and-reign-of-terror)
+  * [Black Codes](#black-codes)
+- [1877 and the End of Reconstruction](#1877-and-the-end-of-reconstruction)
+  * [1877 Great Railroad Strike](#1877-great-railroad-strike)
 
 ## Introduction
 - Political Map of the United States, Republican Party, 1856: message that Republicans will be surrounded if slavery is not expanded.
