@@ -12,7 +12,7 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 - [TS Precalculus](andre-ye.github.io/precalc/precalculus_navigation) w/ Dr. Johnston
 
 ## Check out my stuff
-- [Medium Blog](https://andre-ye.medium.com){:target="_blank"}. I write about machine learning, programming, and mathematics. 3.7k followers, ~200 articles and counting!
+- [Medium Blog](https://andre-ye.medium.com){:target="_blank"}. I write about machine learning, data science, and (occasionally) mathematics.
 - [Critiq](https://critiq.tech){:target="_blank"}. A site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
 
 ## Contact
