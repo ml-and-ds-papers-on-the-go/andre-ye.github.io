@@ -2,6 +2,16 @@
 # TS Biology
 Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
+---
+
+# Winter Quarter
+## Study Guides
+## Biology Content
+## Lab Background and Notes
+
+---
+
+# Fall Quarter
 Jump down to a section: [Study Guides](#study-guides), [Biology Content](#biology-content), [Lab Background and Notes](#lab-background-and-notes)
 
 ## Study Guides
