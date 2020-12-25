@@ -1,7 +1,17 @@
 [Home](https://andre-ye.github.io) > English Navigation
 # TS English
 
-Taught by Dr. Zink, 2020-2021 Fall, Winter, and  Quarters.
+Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
+
+---
+
+# Winter Quarter
+
+## Textbook Chapter Notes
+
+---
+
+# Fall Quarter
 
 ## Textbook Chapter Notes
 - [English Cheat-Sheet](https://andre-ye.github.io/english/cheat_sheet) - key points and steps from the textbook.
