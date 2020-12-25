@@ -12,7 +12,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 ---
 
 # Fall Quarter
-Jump down to a section: [Study Guides](#study-guides), [Biology Content](#biology-content), [Lab Background and Notes](#lab-background-and-notes)
+Jump down to a section: [Study Guides](#study-guides-1), [Biology Content](#biology-content-1), [Lab Background and Notes](#lab-background-and-notes-1)
 
 ## Study Guides
 - [Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/study-guides/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
