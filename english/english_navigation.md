@@ -8,6 +8,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 # Winter Quarter
 
 ## Lectures and Class Presentations
+- [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
 
 ## Textbook Chapter Notes
 
