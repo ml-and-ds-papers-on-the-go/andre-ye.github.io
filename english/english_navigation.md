@@ -7,7 +7,11 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 
 # Winter Quarter
 
+## Lectures and Class Presentations
+
 ## Textbook Chapter Notes
+
+## Essay Notes
 
 ---
 
