@@ -5,7 +5,99 @@ Andre Ye, 10/21/2020
 
 ---
 
-# Chapter 1: Why Join Critical Conversations About Literature
+## Navigate
+- [Chapter 1: Why Join Critical Conversations About Literature?](#chapter-1--why-join-critical-conversations-about-literature)
+  * [Discourse Communities as Parlors](#discourse-communities-as-parlors)
+  * [Why Join the Critical Conversation on Literature?](#why-join-the-critical-conversation-on-literature)
+  * [Texts and their Authors and Critics](#texts-and-their-authors-and-critics)
+    + ["Text" in literary and cultural analysis](#text-in-literary-and-cultural-analysis)
+    + [Author vs literary critic](#author-vs-literary-critic)
+* [Chapter 2: What is Literary Analysis?](#chapter-2-what-is-literary-analysis)
+  + [A Literary Analysis Makes Interpretive Claims](#a-literary-analysis-makes-interpretive-claims)
+  + [A Literary Analysis must make Debatable Claims](#a-literary-analysis-must-make-debatable-claims)
+  + [A Literary Analysis Supports Arguments with Textual Evidence](#a-literary-analysis-supports-arguments-with-textual-evidence)
+  + [A Literary Analysis Argues for a Thesis About the Text](#a-literary-analysis-argues-for-a-thesis-about-the-text)
+  + [A Literary Analysis Explores the Complexity of the Text](#a-literary-analysis-explores-the-complexity-of-the-text)
+  + [Complexity of arguments vs. complexity of expression](#complexity-of-arguments-vs-complexity-of-expression)
+
+## Chapter 1: Why Join Critical Conversations About Literature?
 - Communities with conversations about texts are *discourse communities*; a group of people that share basic values and ground rules about communication procedures.
 
-## Discourse Communities as Parlors
+### Discourse Communities as Parlors
+- Academic discourse communities are *ongoing* conversations. They build upon and are informed by what others have said.
+  - Conversations go on before and after you come.
+- Academic papers are *similar* to conversations; one may extend, refine, or argue against certain ideas.
+  - However, these 'textual conversations' are much slower than face-to-face discussions.
+  
+### Why Join the Critical Conversation on Literature?
+- If you major in English, you'll find these practices not defined in explicit terms, but they will envertheless show up in lectures, discussions, essays, etc.
+- If you are not majoring in English, understanding conversations of literary critics will prepare you to join conversations in other discourse communities.
+- Skills of literary analysis help you live a thoughtful, reflective, and ethical life.
+  - Interpreting texts helps us understand ourselves and the world.
+  
+### Texts and their Authors and Critics
+
+#### "Text" in literary and cultural analysis
+- Some distinguish literary works and popular books and films; however, English studies is questioning this.
+- What separates the discourse community of literary studies is not *what* critics say, but what kinds of analysis and questions they use.
+- **text** refers to any literary or cultural work the literary critic analyzes.
+- **literary analysis** is the analysis of all sorts of literature, including contemporary books, movies, TV shows, and stories.
+
+#### Author vs literary critic
+- **author** is used to refer to the writer of a primary text.
+- **literary critic** or **critic** refers to person writing the literary analysis of the text.
+
+## Chapter 2: What is Literary Analysis?
+- **Literary analysis** - analytic essays.
+  1. Makes interpretative claims
+  2. Are debatable
+  3. Supported with evidence from the text
+  4. Evidence argues for a thesis about the text
+  5. Explores the complexity of the test
+- Meeting these five objectives makes an argument valued by literary critics.
+
+### A Literary Analysis Makes Interpretive Claims
+- Greek and Roman rhetoricians categorized arguments into five points of disagreements.
+- **Stasis** - point where the controversy rests.
+
+| **Argument type** | **Explanation** |
+| --- | --- |
+| Existence or Fact | Seeks to establish what facts are depicted in a text |
+| Interpretation | Characterizes a text |
+| Evaluation | Makes a judgement about the text being enjoyable, tasteful, good, bed, etc. |
+| Causal | Investigating impacts of factors on the production of the text |
+| Proposal | Argues an action be taken in relation to the text |
+
+- Most literary analyses' stasis is around interpretation.
+- A literary analysis consists of many interpretative arguments.
+- Primary purpose is to explain what a text is, and what readers should take away from it.
+- Literary analyses **differ from plot/character summaries or book/film reviews** because they focus more on facts or are evaluation judgements (respectively).
+
+### A Literary Analysis must make Debatable Claims
+- Main interpretative claims must be *debatable*; people must be able to *disagree* with your claims.
+- If everyone agrees with each other in the discussion 'parlor', it doesn't make for a very interesting one.
+
+### A Literary Analysis Supports Arguments with Textual Evidence
+- Arguments that take risks are valued, but must be backed by evidence.
+- What is counted as 'evidence' depends; look towards context.
+  - For literary scholars, most important sources of evidence are from the text itself.
+  - Careful interpretation & analysis of direct quotation are valued.
+- Furthermore, explain evidence that may seem to contradict you argument instead of leaving it out.
+
+### A Literary Analysis Argues for a Thesis About the Text
+- A literary analysis makes a series of interpretative claims; yet the critic must *connect claims into a **thesis** about the text*.
+- A thesis requires looking a the meaning of individual elements of a text to make a bigger picture.
+  - What messages does the text communicate?
+  - What is the author trying to say?
+  - What does the text reveal about cultural and societal influences in which the author was working?
+
+### A Literary Analysis Explores the Complexity of the Text
+- Literary analysis assumes that literature is complex, and that texts prevent a web to be untangled.
+- Highlight how the text under discussion offers complex messages.
+
+### Complexity of arguments vs. complexity of expression
+- Don't use complicated words or other inflation devices to make a simple argument seem artificially complex.
+- It is the argument, not the expression, that should be complex.
+- A well-written argument allows for readers to follow a complex concept with little difficulty.
+
+[Back to top](#)
