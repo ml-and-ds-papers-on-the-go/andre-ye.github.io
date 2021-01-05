@@ -22,6 +22,7 @@ Andre Ye, 1/4/21
 | History teaches no lessons. | Historians draw lessons from the past as perspectives or guides for the present and future. *Learning from the past assumes aspects of the past will repeat themselves; this may be true, but what does it mean to "learn a lesson from history? Are these lessons scientific?* |
 | History is unable to predict, and history is necessarily subjective, since man is observing himself. | History can provide general guides to future action. Furthermore, subjectivity occurs inn science too, like the principle of uncertainty in physics. *An answer lies in the definition of predictions. Historians cannot rigorously test predictions, and predict on entities that are often impenetrably subjective. Leaving out the sbjectivity in the people of past makes for a malnourished history.* |
 
+
 - Those that agree that history is scientific choose not to give much space to the actions of *individuals*. It's easier to quantify social forces than individual actions.
   - View individuals as a product of history, rather than history a product of individuals.
   - Is history simply an exclusive product of social forces?
