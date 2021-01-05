@@ -14,6 +14,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 ## Study Guides
 
 ## Weekly Reading Responses
+- Weekly Reading Response 1 (Due 1/7)
+  - [Is History a Science?](https://andre-ye.github.io/history/winter/rr1/is-history-a-science)
 
 ## Course Mechanics
 
