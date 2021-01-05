@@ -11,6 +11,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 - [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
 
 ## Textbook Chapter Notes
+- [Notes on Chapter 1: "Why Join Critical Conversations About Literature" and Chapter 2: "What is Literary Analysis?](https://andre-ye.github.io/english/winter/textbook-notes/chapter-1-and-2), 1/4/21.
 
 ## Essay Notes
 
