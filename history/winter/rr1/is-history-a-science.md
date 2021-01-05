@@ -16,7 +16,7 @@ Andre Ye, 1/4/21
 - E.H. Carr's book: *What is History?* (1961). Defends history as a scientific enterprise by responding to objects in a reasoned manner.
 - Responds to the following arguments that history is *not* a science. (Commentary by Goodheart in italics)
 
-| **Objection** | **Carr's Response ** |
+| **Objection** | **Carr's Response** |
 | --- | --- |
 | History deals exclusively with the unique, science with the general. | Various scientists have experienced "the thrill of learning singular things". Historians, furthermore, constantly make generalizations, like the "causes of war". *Does not take up a more serious objection that history does not produce laws in a scientific sense.*|
 | History teaches no lessons. | Historians draw lessons from the past as perspectives or guides for the present and future. *Learning from the past assumes aspects of the past will repeat themselves; this may be true, but what does it mean to "learn a lesson from history? Are these lessons scientific?* |
