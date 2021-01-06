@@ -1,6 +1,6 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Chapter 13 Textbook Notes
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Chapter 18 Textbook Notes
 
-# Textbook Notes: Chapter 13, "Control of Gene Expression in Bacteria"
+# Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"
 Andre Ye, 1/6/21
 
 ---
