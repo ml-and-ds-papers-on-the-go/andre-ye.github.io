@@ -7,6 +7,8 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 # Winter Quarter
 ## Study Guides
 ## Biology Content
+- Module 1: Gene Expression, Development, Technologies
+  - [Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18)
 ## Lab Background and Notes
 
 ---
