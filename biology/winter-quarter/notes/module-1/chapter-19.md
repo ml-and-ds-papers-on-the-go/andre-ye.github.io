@@ -6,6 +6,25 @@ Andre Ye, 1/7/21
 ---
 
 ## Navigation
+- [Introduction](#introduction)
+- [19.1: Gene Regulation in Eukaryotes - An Overview](#191-gene-regulation-in-eukaryotes-an-overview)
+  * [Summary of Levels of Gene Expression in Eukaryotes](#summary-of-levels-of-gene-expression-in-eukaryotes)
+- [19.2: Chromatin Remodeling](#192-chromatin-remodeling)
+  * [Chromatin Structure](#chromatin-structure)
+  * [Chromatin Structure is Altered in Active Genes](#chromatin-structure-is-altered-in-active-genes)
+  * [How is Chromatin Altered?](#how-is-chromatin-altered)
+    + [DNA Methylation](#dna-methylation)
+    + [Histone Modification](#histone-modification)
+    + [Chromatin-Remodeling Complexes](#chromatin-remodeling-complexes)
+  * [DNA and Chromatin Modifications Vary and Can Be Inherited](#dna-and-chromatin-modifications-vary-and-can-be-inherited)
+    + [Long-Lasting Epigenetic Marks Imposed During Development](#long-lasting-epigenetic-marks-imposed-during-development)
+    + [Epigenetic Inheritance is Widespread](#epigenetic-inheritance-is-widespread)
+- [19.3: Initiating Transcription](#193-initiating-transcription)
+  * [Promoter-Proximal Elements Are Regulatory Sequences Near the Core Promoter](#promoter-proximal-elements-are-regulatory-sequences-near-the-core-promoter)
+  * [Enhancers Are Regulatory Sequences Far from the Core Promoter](#enhancers-are-regulatory-sequences-far-from-the-core-promoter)
+  * [The Role of Transcription Factors in Differential Gene Expression](#the-role-of-transcription-factors-in-differential-gene-expression)
+  * [How Do Transcription Factors Recognize Specific DNA Sequences?](#how-do-transcription-factors-recognize-specific-dna-sequences)
+  * [A Model for Transcription Initiation](#a-model-for-transcription-initiation)
 
 ## Introduction
 - Bacteria regulate gene expression b/c of changes in their environment.
@@ -107,60 +126,67 @@ Andre Ye, 1/7/21
 - Human mental retardation - Rett syndrome. Occurs when mutation l eads to absence of a protein that binds to methylated DNA to induce chromatin condensation.
 
 ## 19.3: Initiating Transcription
+- The promoter in eukaryotes is where DNA and RNA polymerase bind to initiate transcription.
+- **Core promoter** refers to the sequence RNA polymerase binds to.
+  - **TATA box** is an intensively studied core promoter sequence.
+- THe **TATA-binding protein (TBP)** binds to initiate transcription.
+  - TBP is in a large protein complex.
 
+### Promoter-Proximal Elements Are Regulatory Sequences Near the Core Promoter
+- **Regulatory** sequences are other DNA sequences *besides the core promoter* that allow control over the initiation of transcription.
+  - Regulatory sequences in eukaryotes are like the operator and CAP binding site.
+- How do yeast cells control metabolism of galactose?
+  - When galactose is absent, *S. cerevisiae* cells produce small amounts of the five galactose-processing enzymes. When galactose is present, the opposite is true.
+  - The regulatory protein binds to a regulatory sequence just upstream from the core promoter for *each* of the five genes.
+- **Instead of being clustered into a single operon, co-regulated genes in eukaryotes have the *same* regulatory DNA sequence that binds to the same type of regulatory protein.**
+  - These regulatory sequences exist in all eukaryotic genes.
+- Regulatory sequences close to the promoter are **promoter-proximal elements**.
+  - Different types of promoter-proximal elements are associated with each gene; eukaryotic cells can express certain genes but not others.
 
+### Enhancers Are Regulatory Sequences Far from the Core Promoter
+- Researchers found a regulatory sequence required for enhanced transcription in one of the *introns*.
+  - The regulatory sequence was thousands of bases away and downstream from the promoter.
+  - These regulatory sequences far from the promoter (and can be in nontranscribed sequences) that activate transcription are **enhancers**.
+  - Enhancers *occur in all eukaryotes*.
+- Enhancers are composed of many short regulatory sequences that bind to a different specific regulatory protein.
+- Enhancers work even if they are flipped from their normal orientation or moved to new locations near the gene.
+- **Transcriptional activators** (or just **activators**) bind to enhancers to begin transcription.
+  - Enhancers and activators are *positive control*, like a gas pedal.
+- Regulatory sequences like enhancers that instead inhibit transcription re **silencers**.
+  - When **repressors** bind to silencers, transcription is shut down.
+  
+### The Role of Transcription Factors in Differential Gene Expression
+- Enhancers and silencers are binding sites for activators and repressors that regulate transcirption; these proteins are **regulatory transcription factors**.
+  - Hundreds of transcription factors binde to enhancers, silencers, and promoter-proximal elements.
+- Different types of cells **express different genes b/c of different transcription factors**.
+  - Genes encoding transcription factors are expressed inr esponse to signals from other cells (esp. during embryonic development).
+- Formation of a muscle cell:
+  1. As a cell in the early embryo, production of muscle cell-specific transcription factors begins.
+  2. Transcription factors bind to regulatory sequences and turn "on" production of muscle-specific proteins.
+- **Differential gene expression results primarily from production or activation of specific transcription factors.**
 
+### How Do Transcription Factors Recognize Specific DNA Sequences?
+- Transcription factors must be able to recognize and bind to a DNA sequence.
+  - DNA bases are partially exposed in the grooves of the DNA double helix. (major and minor grooves)
+- Differences in chemical composition and shape of groves are recognized by transcription factors.
+- A transcriptional factor important for development of muscle cells inserts amino acid side chains into the grooves of DNA.
+  - Complementary interactions between amino acids and a particular sequence of base pairs in DNA.
 
+### A Model for Transcription Initiation
+- Gene expression can be controlled at many levels, *but regulating the start of transcription is perhaps the most important.*
+- **General transcription factors** interact w/ the core promoter and are not restricted to *particular genes* or cell types. 
+  - "general": proteins are necessary for transcription to occur, but do not provide much regulation.
+- TBP is a part of a large general transcription factor.
+- The **mediator** acts as a bridge between regulatory transcirption factors, general transcription factors, and RNA polymerase II.
+  - Plays an important role of integrating regulatory trnascription factors; delivers a signal to RNA polymerase for transcription initiation.
+- Process:
+  1. Activators bind to DNA. Chromatin-remodeling complexes and histone acetyltransferases are used, and chromatin decondenses.
+  2. Some chromatin that is exposed includes the core promoter, promoter-proximal elements, and enhancers.
+  3. Other activators bind to exposed enhancers and promoter-proximal events. DNA-bound activators bind to the Mediator.
+  4. General transcription factors and RNA polymerase II assemble to the Mediator and associate with the core promoter.
+  5. DNA strands are opened, RNA polymerase II begins transcription.
+- Activators work to stimulate transcription, but *also* to bring chromatin-remodeling proteins to the right place.
+- Chromatin remodeling proteins cannot recognize specific DNA sequences; transcriptional activators bind first to recruit them.
+- DNA sometimes disassociates from histone proteins in nucleosomes, exposing regulatory sequences to activators.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to top](#)
