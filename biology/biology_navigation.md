@@ -6,6 +6,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
 # Winter Quarter
 ## Study Guides
+[Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/winter-quarter/study-guide/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 ## Biology Content
 - Module 1: Gene Expression, Development, Technologies
   - [Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18)
@@ -19,7 +20,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 Jump down to a section: [Study Guides](#study-guides-1), [Biology Content](#biology-content-1), [Lab Background and Notes](#lab-background-and-notes-1)
 
 ## Study Guides
-- [Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/study-guides/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
+[Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/study-guides/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
 ## Biology Content
 - The Scientific Process and Scientific Writing
