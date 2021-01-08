@@ -7,6 +7,9 @@
 ---
 
 ## Navigate
+- [Terms and Concepts](#terms-and-concepts)
+  * [Control of Gene Expression in Bacteria](#control-of-gene-expression-in-bacteria)
+  * [Control of Gene Expression in Eukaryotes](#control-of-gene-expression-in-eukaryotes)
 
 ## Terms and Concepts
 
@@ -53,5 +56,32 @@ From [Textbook Notes: Chapter 18, “Control of Gene Expression in Bacteria”](
 | translational control | A level of gene expression control in which certain mRNA are not translated into proteins, for instance by degrading mRNA or reducing its lifespan.
 | trp operon | A form of negative control feedback, the trp operon is used to synthesize tryptophan (an aminoa cid). Genes for trptophan synthesis are expressed only when tryptophan is absent, so the trp repressor - which stops transcription - binds to the operator *only* when it is bound by tryptophan, its regulator. |
 
+### Control of Gene Expression in Eukaryotes
+From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-19){:target="_blank"}
 
+| Term | Definition |
+| --- | --- |
+| acetylation | The promotion of *decondensed* chromatin and activation of transcription. As this allows chromatin to be unwound, it is the "on switch". HATs add acetyl groups to positively charged lysine residues of histones, interfering with the assembly of nucleosomes in condensed chromatin. |
+| activator | Transcriptional activators bind to enhancers to begin transcription. THey are *positive control*. |
+| alternative splicing | Alternative splicing can include introns, resulting in different gene products. This can alter the stability of mRNA, such that certain mRNA has a shorter or longer life span (is more or less easily degraded, respectively). |
+| chromatin | The structure formed by DNA wrapped around proteins, often histones. |
+| chromatin remodeling | Before transcription can begin in eukaryotes, DNA containing the promoter must be released from interactions with the protien, allowing RNA polymerase to contact the promoter. The process of doing this is chromatin remodeling. |
+| DNA methylation | DNA methyltransferases add methyl groups to cytosine residues in DNA, forming sequences abbreviated `CpG`. These methylated `CpG` sequences are recognized by proteins that trigger chromatin condensation ('tightening'). Actively transcribed genes have fewer methylated `CpG` sequences near their promoters, such that the chromatin is less tightly wound. |
+| enhancer | Enhancers are regulatory sequences far away (i.e. thousands of bases) from the promoter, but nevertheless activate transcription. Enhancers are composed of many short regulatory sequences that allow for the binding of a different specific activator. Enhancers work even if they are flipped from their normal orientation, or moved to new locations near the gene. Enhancers occur in all eukaryotes, and can be located in nontranscribed as well as transcribed sequences. |
+| epigenetic inheritance | Cells have patterns of gene expression; daughter cells inherit this pattern through epigenetic inheritance. This way, daughter cells of a skin cell are also skin cells. Epigenetic mechanisms can record life events and are difficult to erase; prenatal conditions, for instance, can cause long-lasting changes in the chromatin of embyros, influencing phenotypes. |
+| exon | Part of the pre-mRNA of eukaryotes that are retained and spliced into the mature mRNA. |
+| histones | Histones are proteins around which DNA often wraps around to form chromatin.  Modifying histones alters the bond between DNA and histone proteins, and can condense (tighten) or decondense (loosen) chromatin, depending on the modifications. |
+| histone acetyl transferases (HATs) | HATs add acetyle groups to positively charged lysine residues of histones, interfering with the assembly of nucleosomes in condensed chromatin, through acetylation. This initiates transcription. |
+| histone deacetylases (HDACs) | HDACs remove acetyle groups, and revert chromatin into a condensed state by tightening it. This is like the "off switch" of transcription. |
+| intron | Part of the pre-mRNA of eukaryotes that are spliced out of the mature mRNA. |
+| mediator | The mediator is a bridge between regulatory transcription factors, general transcription factors, and RNA polymerase II. It integrates regulatory transcription factors and delivers a signal to RNA polymerase for transcription initiation. |
+| methylation | See DNA methylation. In general, methylation is the addition of a methyl group to a substrate. |
+| phosphorylation | Phosphorylation is a post-translational step. In general, it is the addition of a phosphate group to a substrate. |
+| post-translational regulation | Regulation of activated proteins, for instance by preventing protein activation steps like the addition of a phosphate group. This is an energetically cheap action, but inefficient because the entire protein needs to be constructed. |
+| regulatory sequences | In eukaryotes, regulatory sequences are DNA sequences that allow control over the initiation of transcription *other than* the core promoter. Regulatory seuqences are like the operator and CAP binding sites in prokaryotes. |
+| repressors | A regulatory protein that binds to DNA at the operator and stops transcription. |
+| RNA processing | A step that occurs in the Central Dogma for eukaryotes, in which introns are spliced out, among other changes. |
+| silencer | Sharing the same physical characteristics of an enhancer (i.e. far away from the promoter), the silencer instead allows for repressors to bind. When repressors bind to silencers, transcription is inhibited. |
+| transcription factors | Regulatory transcription factors are proteins acting as activators and repressors that bind to enhancers and silencers. General transcription factors interact with the core promoter and are not restricted to any particular gene or cell types; these factors do not provide regulation. |
+| transcriptional activator | Activators that bind to enhancers to begin transcription. These must bind to enhancers first in order to recruit chromatin remodeling proteins (which cannot recognize specific DNA sequences). |
 
