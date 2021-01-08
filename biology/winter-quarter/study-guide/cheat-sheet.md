@@ -82,3 +82,8 @@ From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”
 | transcription factors | Regulatory transcription factors are proteins acting as activators and repressors that bind to enhancers and silencers. General transcription factors interact with the core promoter and are not restricted to any particular gene or cell types; these factors do not provide regulation. |
 | transcriptional activator | Activators that bind to enhancers to begin transcription. These must bind to enhancers first in order to recruit chromatin remodeling proteins (which cannot recognize specific DNA sequences). |
 
+## Core Ideas
+### Module 1 Gene Expression and Development
+#### Table of Elements of Transcriptional Regulation
+![](https://raw.githubusercontent.com/andre-ye/andre-ye.github.io/master/biology/winter-quarter/study-guide/images/elements-of-transcriptional-regulation.png)
+
