@@ -10,6 +10,9 @@
 
 ## Terms and Concepts
 
+### Control of Gene Expression in Bacteria
+From [Textbook Notes: Chapter 18, “Control of Gene Expression in Bacteria”](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18){:target="_blank"}
+
 | Term | Definition |
 | --- | --- |
 | allolactose | A variant of lactose that acts as an inducer of transcription, binding to the lac repressor to prevent it from blocking RNA polymerase. |
@@ -27,28 +30,28 @@
 | inducer | An inducer is a small molecule that triggers the transcription of a gene. It can disable repressors or bind to activators, and therefore allows transcription to start. |
 | lac operon | Genes involved in lactose metabolism form the lac operon. |
 | `lacI` | A gene that prevents the transcription of `lacZ` and `lacY` when lactose is absent. It acts as a negative regulator, and lactose acts as an inducer. `lacI` produces a repressor protein that binds to DNA and overlaps the promoter for `lacZ` and `lacY` genes, preventing RNA polymerase from transcribing. However, lactose binds to it and changes its shape, causing this repressor to release from its binding site. |
-| `lacI+` |
+| `lacI+` | |
 | lactose | A dissacharide sugar that can be broken down into the monosaccharide sugars galactose and glucose. |
-| `lacY` | A gene part of the lac operon that codes for galactosidase permease, which transports lactose iell. |
-| `lacY+` |
-| `lacZ` |
+| `lacY` | A gene part of the lac operon that codes for galactosidase permease, which transports lactose into the cell. |
+| `lacY+` | |
+| `lacZ` | A gene part of the lac operon that codes for beta-galactosidase permease, which breaks lactose into glucose and galactose. |
 | `lacZ+` |
-| master plate |
-| medium |
-| mutagens |
-| negative feedback control |
-| operator |
-| operon |
-| permease |
-| positive feedback |
-| post-translational control |
-| regulon |
-| replica plate |
-| replica plating |
-| repressor |
-| transcriptional control |
-| translational control |
-| trp operon |
+| master plate | |
+| medium | The environment in which an organism is placed in. |
+| mutagens | A substance or agent that induces heritable change in cellular organisms. |
+| negative feedback control | When the final product of a pathway inhibits the production of a product. See the trp operon for an example. |
+| operator | The DNA sequence that the repressor binds to. |
+| operon | A set of coordinately regulated bacteria genes transcribed into one polycistronic (codes for multiple polypeptides) mrNA. |
+| permease | Enzymes that transport, like galactosidase permease, which transports lactose into the cell. }
+| positive feedback | The opposite of a negative feedback control; when the final product of a pathway promotes the production of a product. |
+| post-translational control | Regulation of activated proteins, for instance by preventing protein activation steps like the addition of a phosphate group. This is an energetically cheap action, but inefficient because the entire protein needs to be constructed. |
+| regulon | A set of separate genes and operons that contain the same regulatory sequences, and are controlled by one type of regulatory protein. Regulons are used in global gene regulation to coordinate regulation of many genes. |
+| replica plate | |
+| replica plating | |
+| repressor | A regulatory protein that binds to DNA at the operator and stops transcription. |
+| transcriptional control | A level of gene expression control in which certain genes are not transcribed into mRNA (or pre-mRNA for eukaryotes). |
+| translational control | A level of gene expression control in which certain mRNA are not translated into proteins, for instance by degrading mRNA or reducing its lifespan.
+| trp operon | A form of negative control feedback, the trp operon is used to synthesize tryptophan (an aminoa cid). Genes for trptophan synthesis are expressed only when tryptophan is absent, so the trp repressor - which stops transcription - binds to the operator *only* when it is bound by tryptophan, its regulator. |
 
 
 
