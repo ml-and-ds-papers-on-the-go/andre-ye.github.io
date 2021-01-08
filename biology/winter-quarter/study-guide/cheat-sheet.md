@@ -33,13 +33,12 @@ From [Textbook Notes: Chapter 18, “Control of Gene Expression in Bacteria”](
 | inducer | An inducer is a small molecule that triggers the transcription of a gene. It can disable repressors or bind to activators, and therefore allows transcription to start. |
 | lac operon | Genes involved in lactose metabolism form the lac operon. |
 | `lacI` | A gene that prevents the transcription of `lacZ` and `lacY` when lactose is absent. It acts as a negative regulator, and lactose acts as an inducer. `lacI` produces a repressor protein that binds to DNA and overlaps the promoter for `lacZ` and `lacY` genes, preventing RNA polymerase from transcribing. However, lactose binds to it and changes its shape, causing this repressor to release from its binding site. |
-| `lacI+` | |
+| `lacI-` | A lactose metabolism mutant that constitutively expresses *lacZ* and *lacY* because the gene for the regulatory protein that shuts down *lacZ* and *lacY* is defective. |
 | lactose | A dissacharide sugar that can be broken down into the monosaccharide sugars galactose and glucose. |
 | `lacY` | A gene part of the lac operon that codes for galactosidase permease, which transports lactose into the cell. |
-| `lacY+` | |
+| `lacY-` | A lactose metabolism mutant that cannot accumulate lactose. It lacks galactoside permease to bring lactose into the cell because the *lacY* gene is defective. |
 | `lacZ` | A gene part of the lac operon that codes for beta-galactosidase permease, which breaks lactose into glucose and galactose. |
-| `lacZ+` |
-| master plate | |
+| `lacZ-` | A lactose metabolism mutant that cannot cleave lactose even in the presence of the inducer. It lacks beta-galactosidase because the *lacZ* gene is defective. |
 | medium | The environment in which an organism is placed in. |
 | mutagens | A substance or agent that induces heritable change in cellular organisms. |
 | negative feedback control | When the final product of a pathway inhibits the production of a product. See the trp operon for an example. |
@@ -49,8 +48,6 @@ From [Textbook Notes: Chapter 18, “Control of Gene Expression in Bacteria”](
 | positive feedback | The opposite of a negative feedback control; when the final product of a pathway promotes the production of a product. |
 | post-translational control | Regulation of activated proteins, for instance by preventing protein activation steps like the addition of a phosphate group. This is an energetically cheap action, but inefficient because the entire protein needs to be constructed. |
 | regulon | A set of separate genes and operons that contain the same regulatory sequences, and are controlled by one type of regulatory protein. Regulons are used in global gene regulation to coordinate regulation of many genes. |
-| replica plate | |
-| replica plating | |
 | repressor | A regulatory protein that binds to DNA at the operator and stops transcription. |
 | transcriptional control | A level of gene expression control in which certain genes are not transcribed into mRNA (or pre-mRNA for eukaryotes). |
 | translational control | A level of gene expression control in which certain mRNA are not translated into proteins, for instance by degrading mRNA or reducing its lifespan.
