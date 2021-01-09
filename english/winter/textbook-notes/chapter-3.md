@@ -6,6 +6,14 @@ Andre Ye, 10/21/2020
 ---
 
 ## Navigate
+- [Introduction](#introduction)
+- [What is the Surface/Depth Strategy?](#what-is-the-surface-depth-strategy-)
+- [Using Surface/Depth to Brainstorm](#using-surface-depth-to-brainstorm)
+- [Using Surface/Depth to Write Persuasively](#using-surface-depth-to-write-persuasively)
+  * [Using the surface/depth linking strategy](#using-the-surface-depth-linking-strategy)
+  * [Using the surface/depth contrasting strategy](#using-the-surface-depth-contrasting-strategy)
+- [Plausible vs. Implausible Readings](#plausible-vs-implausible-readings)
+- [A Note on Persuasive Interpretations](#a-note-on-persuasive-interpretations)
 
 ## Introduction
 - Discussing strategies to argue about texts that literary critics use when writing analyses.
