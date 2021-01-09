@@ -17,6 +17,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - Weekly Reading Response 1 (Due 1/7)
   - ["Is History a Science?" by Eugene Goodheart](https://andre-ye.github.io/history/winter/reading-responses/rr1/is-history-a-science)
   - ["On Agency" by Walter Johnson](https://andre-ye.github.io/history/winter/reading-responses/rr1/on-agency)
+- Weekly Reading Response 2 (Due 1/14)
+  - ["I am an Anarchist" by Lucy Parsons](https://andre-ye.github.io/history/winter/reading-responses/rr2/i-am-an-anarchist)
 
 ## Course Mechanics
 
