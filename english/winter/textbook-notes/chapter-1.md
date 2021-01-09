@@ -1,11 +1,12 @@
 [Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 1 Notes
 
 # Notes on Chapter 1: "Why Join Critical Conversations About Literature?"
-Andre Ye, 10/21/2020
+Andre Ye, 1/4/2021
 
 ---
 
 ## Navigate
+* [Introduction](#introduction)
 * [Discourse Communities as Parlors](#discourse-communities-as-parlors)
 * [Why Join the Critical Conversation on Literature?](#why-join-the-critical-conversation-on-literature)
 * [Texts and their Authors and Critics](#texts-and-their-authors-and-critics)
