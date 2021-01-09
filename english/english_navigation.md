@@ -7,13 +7,15 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 
 # Winter Quarter
 
+[English Cheat-Sheet](https://andre-ye.github.io/english/cheat_sheet) - key points and steps from the textbook.
+
 ## Lectures and Class Presentations
 - [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
 
 ## Textbook Chapter Notes
-- [Notes on Chapter 1: "Why Join Critical Conversations About Literature" and Chapter 2: "What is Literary Analysis?](https://andre-ye.github.io/english/winter/textbook-notes/chapter-1-and-2), 1/4/21.
-
-## Essay Notes
+- [Notes on Chapter 1: "Why Join Critical Conversations About Literature"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-1), 1/4/21.
+- [Notes on Chapter 2: "What is a Literary Analysis?"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-2), 1/4/21.
+- [Notes on Chapter 3: "From Surface to Depth"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-3), 1/9/21.
 
 ---
 
