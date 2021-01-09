@@ -13,6 +13,7 @@ Andre Ye, 1/9/2021
 
 ## Introduction
 > I am an anarchist. I suppose you came here, the most of you, to see what Ia real, live anarchist looked like. I suppose some of you expected to see me with a bomb in one hand and a flaming torch in the other, but are disappointed in seeing neither.
+
 - Anarchists are peaceful and law abiding people, Parsons argues; people have misconstrued what it is to be an anarchist.
   - Parsons defines anarchy as "the state of being without political rule", although it has been misrepresented as "chaos".
 
