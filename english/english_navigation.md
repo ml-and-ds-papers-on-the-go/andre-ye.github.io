@@ -7,7 +7,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 
 # Winter Quarter
 
-[English Cheat-Sheet](https://andre-ye.github.io/english/cheat_sheet) - key points and steps from the textbook.
+[English Cheat-Sheet](https://andre-ye.github.io/english/winter/cheat-sheet) - key points and steps from the textbook.
 
 ## Lectures and Class Presentations
 - [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
