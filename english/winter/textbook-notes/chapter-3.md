@@ -7,11 +7,11 @@ Andre Ye, 10/21/2020
 
 ## Navigate
 - [Introduction](#introduction)
-- [What is the Surface/Depth Strategy?](#what-is-the-surface-depth-strategy)
-- [Using Surface/Depth to Brainstorm](#using-surface-depth-to-brainstorm)
-- [Using Surface/Depth to Write Persuasively](#using-surface-depth-to-write-persuasively)
-  * [Using the surface/depth linking strategy](#using-the-surface-depth-linking-strategy)
-  * [Using the surface/depth contrasting strategy](#using-the-surface-depth-contrasting-strategy)
+- [What is the Surface/Depth Strategy?](#what-is-the-surfacedepth-strategy)
+- [Using Surface/Depth to Brainstorm](#using-surfacedepth-to-brainstorm)
+- [Using Surface/Depth to Write Persuasively](#using-surfacedepth-to-write-persuasively)
+  * [Using the surface/depth linking strategy](#using-the-surfacedepth-linking-strategy)
+  * [Using the surface/depth contrasting strategy](#using-the-surfacedepth-contrasting-strategy)
 - [Plausible vs. Implausible Readings](#plausible-vs-implausible-readings)
 - [A Note on Persuasive Interpretations](#a-note-on-persuasive-interpretations)
 
@@ -77,7 +77,7 @@ Initially, "Morning Song" seems to be a loving tribute to motherhood [surface re
   - It can be more reductive than complex because it shuts down the meanings truly contained in a text.
 
 ## A Note on Persuasive Interpretations
-> "Well, that's my interpretation." "It's a poem, so I canr ead into it whatever I want."
+> "Well, that's my interpretation." "It's a poem, so I can read into it whatever I want."
 
 - Such is not the goal of literary analysis; the speaker rejects the communal nature of literary analysis.
 - An interpretation that is closed to others has no obligation to the text or to be credible and persuasive.
