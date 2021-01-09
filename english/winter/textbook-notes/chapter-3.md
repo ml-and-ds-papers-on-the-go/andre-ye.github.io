@@ -7,7 +7,7 @@ Andre Ye, 10/21/2020
 
 ## Navigate
 - [Introduction](#introduction)
-- [What is the Surface/Depth Strategy?](#what-is-the-surface-depth-strategy-)
+- [What is the Surface/Depth Strategy?](#what-is-the-surface-depth-strategy)
 - [Using Surface/Depth to Brainstorm](#using-surface-depth-to-brainstorm)
 - [Using Surface/Depth to Write Persuasively](#using-surface-depth-to-write-persuasively)
   * [Using the surface/depth linking strategy](#using-the-surface-depth-linking-strategy)
