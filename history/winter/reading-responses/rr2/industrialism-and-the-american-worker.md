@@ -4,6 +4,19 @@
 Andre Ye, 1/9/2021
 
 ## Navigate
+- [Introduction](#introduction)
+- [The Shock of Change](#the-shock-of-change)
+  * [Changing Relationships Between Workers and Employers](#changing-relationships-between-workers-and-employers)
+- [Industrial Conflict](#industrial-conflict)
+  * [Conflicts Between Anthracite Miners and Mine Owners](#conflicts-between-anthracite-miners-and-mine-owners)
+  * [Other Conflicts and Industrialist Tactics for Strike Repression](#other-conflicts-and-industrialist-tactics-for-strike-repression)
+  * [1877 Railroad Strikes](#1877-railroad-strikes)
+  * [Haymarket Square Incident](#haymarket-square-incident)
+  * [Andrew Carnegie and Industrialist Desire to Destroy Trade Unions](#andrew-carnegie-and-industrialist-desire-to-destroy-trade-unions)
+    + [Lessons from Two Decades of Industrial Conflict](#lessons-from-two-decades-of-industrial-conflict)
+  * [The Pullman Boycott](#the-pullman-boycott)
+  * [Conclusions and Discussion](#conclusions-and-discussion)
+- [Labor Confronts the Law](#labor-confronts-the-law)
 
 ## Introduction
 - Civil War to the end of the 19th century: **turmoil for the American working class.**
@@ -151,13 +164,10 @@ Andre Ye, 1/9/2021
 - Neither businesspeople nor workers could restrain trade, limit the freedom of others, or hurt general interest.
   - State and federal judges compelled employers to recognize unions.
   - Yet, "taking law into their own hands" is not tolerated.
-- Regulations on labor, wages, and working condition were deemed unconstitutional because of legal principles of individual liberty and free ccontract.
+- Regulations on labor, wages, and working condition were deemed unconstitutional because of legal principles of individual liberty and free contract.
+- However, judges and the law did not always operate with consistency; regulation of underground miners was sometimes found to be justified (i.e. within power to regulate dangerou subsinses).
+- **Confrantation of organized labor with the law was unpleasant;** judges taught trade unionists they could not strike with the support of the state, or ask the state to regulate employers in the interest of labor.
+- Workers continued to worship common principles, and industrialists & allies **rewrote the rules of the game**; transforming the established structure of the community and traditional values.
+- Industrialists suceeded because they were the first to learn the problems of industrial society that escaped individual solutions.
 
-
-
-
-
-
-
-
-
+[Back to top](#)
