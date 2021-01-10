@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 2 > Notes on *Industrialism and the American Worker, 1865-1920*
 
-# Notes on *Industrialism and the American Worker, 1865-1920* by Melvyn dubofsky
+# Notes on *Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky
 Andre Ye, 1/9/2021
 
 ## Navigate
@@ -37,9 +37,39 @@ Andre Ye, 1/9/2021
   2. Employers exerted unilateral authority over employee wages, hours, and working conditions. This disciplinary effort ran against workers and the island communities.
 
 ## Industrial Conflict
+- Workers attempted to preserve or expand their power; employers sought additional authority over their employees.
+- Bitter battles of labor and capital.
+  - Molly Maguire and coal district notoriety;
+  - railroad strikes and riots of 1877;
+  - Haymarket bombing of 1886;
+  - Homestead nad Coeur d'Alene conflicts of 1892, where troops subdued militant strikers;
+  - Pullman railroad boycott of 1894, where the federal government was set in direct opposition to striking workers.
+- Other battles occurred on a more local level
+  - Nonviolent strikes also marred hte industrial history of the period.
+- Striking had become the wage worker's primary defense against employers by the end of the 19th century.
+  - Strikes became more planned and less spontaneous, associated with unions.
 
-
-
+### Conflicts Between Anthracite Miners and Mine Owners
+- Occurred in northeastern Pennsylvania.
+- Older narrative romanticized the situation: noble operators protected the local community against criminimal anarchists ('Mollies'), or courageous miners defined rederess of grievances.
+- Anthracite district of Penn. experienced rapid economic & population growth immediately postbellum. 
+  - Attracted thousands of new miners tot he district.
+  - Economic competition, rising rates of industrial accidents, and a breakdown of law occurred.
+- Economic insecurity was compoundded by constant surveillance and restriction.
+  - In response, Workingmen's Benevolent Association (WBA) formed.
+  - Won success in anthracite fields from 1869 to 1873 under John Siney.
+  - Placed limits on authority of authority.
+- Economic depression of 1873; unemployed miners were a further burden on the community.
+- Franklin B. Gowen - pres. of Reading Railroad.
+  - Sought to reduce competition among smaller operators, and disciplined miners by disassembling their unions.
+  - With a monopoly on the market, Gowen forced other operators to follow his policies on prices, wages, and union negotiation.
+  - Quitely purchased all coal properties available, removing "destructive" competition.
+  - Yet the WBA remained as a force between Gowen and entire domination of the anthracite district.
+- Gowen's purposes were aided by economic depression and community fears; crime seemed to be rampant.
+  - Due to ethnic tensions, Irish immigrants were exploited by British superiors.
+  - The Irish retaliated; violence in the district was hence partly ethnic. However, the conflict is primarily class, not ethnic.
+- 
+  
 
 
 
