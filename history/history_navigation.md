@@ -19,6 +19,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - ["On Agency" by Walter Johnson](https://andre-ye.github.io/history/winter/reading-responses/rr1/on-agency)
 - Weekly Reading Response 2 (Due 1/14)
   - ["I am an Anarchist" by Lucy Parsons](https://andre-ye.github.io/history/winter/reading-responses/rr2/i-am-an-anarchist)
+  - [*Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky](https://andre-ye.github.io/history/winter/reading-responses/rr2/industrialism-and-the-american-worker)
 
 ## Course Mechanics
 
