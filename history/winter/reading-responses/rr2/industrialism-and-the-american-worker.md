@@ -68,21 +68,90 @@ Andre Ye, 1/9/2021
 - Gowen's purposes were aided by economic depression and community fears; crime seemed to be rampant.
   - Due to ethnic tensions, Irish immigrants were exploited by British superiors.
   - The Irish retaliated; violence in the district was hence partly ethnic. However, the conflict is primarily class, not ethnic.
-- 
+- Ancient Order of Hibernians (AOH) - fraternal society of Irish immigrants.
+- Gowen was committed to breaking the WBA and realized defense of law & order made a better public platform than antiunionism.
+  - Worked with the Catholic Bishop of Philadelphia and anthracite district law officials; evidence was raised agains tthe WBA.
+- Long Strike: a January-April 1875 conflict that brought suffering to miners and their families; increased local violence.
+- Trials against Mollies; the jury returned a guilty verdict and 20 Mollies were hanged.
+  - Mollies were linked with unionism and lawlessness.
+  - By linking the WBA with the Mollies, killed unionism in the district.
   
+### Other Conflicts and Industrialist Tactics for Strike Repression
+- Most industrialists lacked Irish-immigrant scapegoats, but neverhteless harnessed violence and defense of the law to turn in their own advantage.
+  - 1873-1876; employers that encoutered a powerful workforce would engage in inevitable violence.
+  - Strikebreakers were often recruited; tensions were often exacerbated by ethnic and racial characteristics of many strikebreakers. Compounded economic and social fault lines; raised violence to a higher level.
+  - In the process, employers acted as ardent defenders of property rights and law & orders.
+    - Often relied upon governors or presidents to provide marshals and troops.
+- Workers saw local power usurped by external sources of authority functioning for the industrialists.
 
+### 1877 Railroad Strikes
+- Financially strained railroads in 1877 cut workers' wages sharply and increased workloads.
+  - Stimulated mass anger and a unionization attempt.
+- July; Baltimore & Ohio Railroad announced third 10% cut in wages; a spontaneous walkout erupted.
+  - Strikes spread to become the most massive and destructive conflict in the late 19th century.
+- 1877 strikes were too turblent for local and even state powers to control; a middle-class citizen decried the collapse of law & order.
+  - Milita were often too undisciplined and onlye scalated the violence.
+- Railroad leaders turned to Washington; federal authorities were informed of anarchy.
+  - Rutherford B. Hayes issued a proclamation declaring a state of emergency and insurrection, dispatched federal troops.
+  - Law and order was maintained at the expense of a group of strikers.
+- Local law enforcement officials eleected by working-class votes assisted strikers; employers would often resort to external sources of power.
+- Between 1877 and 1886, the balance of power between workers and their employers had tipped in favor of the industrialists.
+- Business owners seemed to be more adept than laborers at organizing associations; businesses grew in size and capital resources.
+  - Less pressure from competitors, firms were stronger in disciplining their workers.
+  - Strikes at one plant could be defeated by shifting production to another plant.
+- Technological iinnovation undercut the strength and security of workers; craftsmen found their skills superfluous.
+- Economic power of employers and alliance with government bred frustration among militant workers.
 
+### Haymarket Square Incident
+- 1880s militant workers and radical agitators often resorted to rhetoric of violence, especially in Chicago.
+  - 1886 Chicago: center of radical and anarchist activities.
+- In May 1886, police and strikers clashed; death of two workers.
+- August Spies - anarchist and agitator - called for protest meeting at Haymarket Square on May 4th.
+  - A small crowd turned out and the oratory was uninspiring.
+  - Before the meeting adjourned, special police charged the crowd and a bomb was tossed in.
+- The bomb killed police and civilians alike; Chicago authorities and middle-upper classes were convinced of insurrectionary violence.
+- Police officials, city authorities, newspapers, etc. contributed to the conspiracy. Althoguh the actual bomb thrower was never found, the eight were convicted and seven were hanged.
+- Propagandist campaigns that linked trade unionism with anarchy spread.
+- Furthermore, strikers and milita clashed in Bay View, Wisconsin.
+  - A Polish iron worker used crowd action to close iron foundries; ten were shot fatally to end the strike.
 
+### Andrew Carnegie and Industrialist Desire to Destroy Trade Unions
+- 1870s-1880s: Amalgamated Association fo Iron and Steel Workers was the most powerful craft union of the nation.
+  - Members could only watch as steel production grew more important and Andrew Carnegie produced interruptions with union agreement.
+- Carnegie wanted to end the union's influence.
+- Conflict: battle of Homestead on July 6th, 1892; workers won but were later quashed on July 10 when the governor of Pennsylvania responded to requests to protect private property.
+  - Under protection of the militia, strikebreakers went to work and forced workers to work.
+  - November 1892, the union surrended completely.
 
+#### Lessons from Two Decades of Industrial Conflict
+- Labor lacked to power to challenge concentrated capital.
+- When workers had short-term ability to stalemate employers, the state intervened.
+- If employers sought to drive out unions, workers had no choice but to fight back.
 
+### The Pullman Boycott
+- The conflict revealed respective strength and political power of workers and employers; industrialists' power grew far past that of employees.
+  - Workers were divided by demographic, but employers were united through mergers and trade associations.
+  - Railroads suffered from excessive competition; railroad managers made informal and formal alliances to cure this.
+- American Railway Union (ARU) launched a strike and won a notable victory; immediately began entangled in a conflict.
+  - Members boycotted all railroads using Pullman cars; most railroad traffic was brought to a halt.
+- Grover Cleveland and the Attorney General threw resources of the federal government against the strikers.
 
+### Conclusions and Discussion
+- This discussion of industrial conflict questions assumptions of American social order.
+- Workers are distinguished from employers not by values, behaviors, or goals, but simply by capital owned.
+- Most discussions of American history are very abstracted; people did indeed enjoy simple joys.
+- Still, does democratic-republicanism carry the same implications for both social classes?
+- Hard work was praised as the creator of human progress and happiness; capital was defined as the product of past labor.
+- Most Americans shared a commitment to republican principles, yet power and interest were issues of deadly conflict.
 
-
-
-
-
-
-
+## Labor Confronts the Law
+- The law was a battleground in which shared values and principles favored employers.
+- Late 19th century law generally allowed trade unions to exist legally.
+  - Unions and practices were no longer criminal conspiracies, yet they remained parchment rights.
+- Neither businesspeople nor workers could restrain trade, limit the freedom of others, or hurt general interest.
+  - State and federal judges compelled employers to recognize unions.
+  - Yet, "taking law into their own hands" is not tolerated.
+- Regulations on labor, wages, and working condition were deemed unconstitutional because of legal principles of individual liberty and free ccontract.
 
 
 
