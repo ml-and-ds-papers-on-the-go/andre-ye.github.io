@@ -9,7 +9,8 @@
   * [The Five Stases](#the-five-stases)
 - [Strategies for Close Reading](#strategies-for-close-reading)
   * [Surface Depth Strategy](#surface-depth-strategy)
-    + [Common Words to Use for Surface Depth Strategy](#common-words-to-use-for-surface-depth-strategy)
+  * [Patterns Strategy](#patterns-strategy)
+
 
 ## Guidelines of Literary Analysis
 ### The Five Standards of Litery Analysis
