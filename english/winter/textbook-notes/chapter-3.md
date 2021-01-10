@@ -1,7 +1,7 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 3 & 4 Notes
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 3 Notes
 
 # Notes on Chapter 3: "From Surface to Depth"
-Andre Ye, 10/21/2020
+Andre Ye, 1/9/21
 
 ---
 
