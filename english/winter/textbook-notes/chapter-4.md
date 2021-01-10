@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 3 & 4 Notes
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 4 Notes
 
 # Notes on Chapter 4: "Patterns"
 Andre Ye, 1/10/21
