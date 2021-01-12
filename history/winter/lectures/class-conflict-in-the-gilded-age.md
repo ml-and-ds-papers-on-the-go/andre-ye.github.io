@@ -4,7 +4,19 @@
 Andre Ye, 1/11/21
 
 ## Navigate
-- 
+- [Introduction](#introduction)
+- [Lucy and Albert Parsons](#lucy-and-albert-parsons)
+- [Industrial Chicago](#industrial-chicago)
+  * [Back of the Yards and Stateless Expansion](#back-of-the-yards-and-stateless-expansion)
+  * [1873 Great Depression](#1873-great-depression)
+- [Ethnic Workers and Radical Demands](#ethnic-workers-and-radical-demands)
+  * [Socialism and Anarchism](#socialism-and-anarchism)
+- [May Day and the Movement for the Eight Hour Day](#may-day-and-the-movement-for-the-eight-hour-day)
+  * [McCormick International Harvester Lockout and Strike](#mccormick-international-harvester-lockout-and-strike)
+- [Rally at Haymarket](#rally-at-haymarket)
+  * [Police Repression of the Anarchists](#police-repression-of-the-anarchists)
+  * [Legacy of Haymarket](#legacy-of-haymarket)
+- [The Second Industrial Revolution](#the-second-industrial-revolution)
 
 ## Introduction
 - Some may be surprised at the extent of class conflict.
