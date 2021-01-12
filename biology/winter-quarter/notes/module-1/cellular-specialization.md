@@ -1,17 +1,34 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Cellular Specialization
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Cellular Specialization and Differentiation Notes
 
-# Cellular Specialization Notes
+# Cellular Specialization and Differentiation Notes
 Andre Ye, 1/12/21
 
 ---
 
 ## Navigate
-- [Pluripotent Stem Cells and Gene Expression](#pluripotent-stem-cells-and-gene-expression)
-- [Internal Environment Cues](#internal-environment-cues)
-- [External Environment Cues](#external-environment-cues)
-- [Conclusion](#conclusion)
 
-## Pluripotent Stem Cells and Gene Expression
+## Gene Expression Regulates Cell Differentiation
+- All cells in a multicellualr organism contain the same DNA, but are composed of different types of cells.
+- Certain genes are expressed or repressed to dictate cellular morphology and function.
+
+### Do All Cells Really Contain the Same DNA?
+- Substantial evidence supporting that cells within a multicellular organism have the same genome.
+- Fully differentiated cell types are capable of givign rise to an entire new animal.
+  - Shown in experiment: nucleus of adult frog skin cell was transplanted in a donor embryo.
+  - Genome of differentiated cell used in Dolly the SHeep cloning.
+- In mammals, *genes are not lost during development*, and must be regulated.
+
+### Cell Extrinsic Regulation of Gene Expression
+- Gene expression is regulated by many extrinsic and intrinsic factors.
+- Cell-extrinsic factors include environmental cues (e.g. small molecules, proteins, temperature, oxygen).
+  - Can originate from *other cells*, or within the organism's environment.
+- Recieving signaling molecules triggers cascades that cause semipermanent changes to transcription (expression of genes).
+- Gene expression changes can change the entire organism (e.g. molting in insects).
+  - Hormones can act as a signal to trigger a cascade of events and changes gene expression. THis acts as a cell-extrinsic factor.
+
+
+## Cellular Specialization
+### Pluripotent Stem Cells and Gene Expression
 - Every cell in our body - muscle or skin or nerve or blood cell - comes from a common group of stem cells during development.
   - Muscles with its contractile proteins, waterproof skin cells, etc. all are derived from stem cells.
 - Imagine a library: it has all sorts of books, but depending on which books you read, you end up knowing a different subset of books.
@@ -27,19 +44,19 @@ Andre Ye, 1/12/21
 - How does a cell decide what it's going to specialize into?
   - Cells decide this based on *cues* from an internal or external environment.
 
-## Internal Environment Cues
+### Internal Environment Cues
 - In the development of many organisms, we begin from a *zygote* that has transcription factors (and mRNA precursors).
   - Transcription factors activate certain genes and turn them on.
   - Transcription factors are clustered in one area; as the zygote divides, all the transcription factors end up in half of the cells.
   - Different genes are activated in each of these cells; this mechanism is called *asymmetric segregation of cellular determinants*.
 - Transcription factors are not symmetrically distributed.
 
-## External Environment Cues
+### External Environment Cues
 - A cell or a group of cells can force another group to differentiate.
 - Diffusion: diffuse signals that bind to receptors and cause cells to differentiate.
 - Direct contact: surface proteins on two cells binding to each other.
 - Gap junctions: little connections, or connexons, between cells that are connected.
 - Induction is key to forming lots of our body parts, like limbs, ears, eyes, and others.
 
-## Conclusion
+### Conclusion
 The goal is to change gene expression, which causes cells to differentiate into more specialized cells.
