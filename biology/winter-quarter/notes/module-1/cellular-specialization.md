@@ -18,14 +18,28 @@ Andre Ye, 1/12/21
   - Genome of differentiated cell used in Dolly the SHeep cloning.
 - In mammals, *genes are not lost during development*, and must be regulated.
 
-### Cell Extrinsic Regulation of Gene Expression
+### Cell-Extrinsic Regulation of Gene Expression
 - Gene expression is regulated by many extrinsic and intrinsic factors.
 - Cell-extrinsic factors include environmental cues (e.g. small molecules, proteins, temperature, oxygen).
   - Can originate from *other cells*, or within the organism's environment.
 - Recieving signaling molecules triggers cascades that cause semipermanent changes to transcription (expression of genes).
 - Gene expression changes can change the entire organism (e.g. molting in insects).
-  - Hormones can act as a signal to trigger a cascade of events and changes gene expression. THis acts as a cell-extrinsic factor.
+  - Hormones can act as a signal to trigger a cascade of events and changes gene expression. This acts as a cell-extrinsic factor.
+- Scientists can learn about physiological processes by studying gene expression patters changing over time.
 
+### Cell-Intrinsic Regulation of Gene Expression
+- DNA can be modified in a way that affects gene expression; chromatin can be chemically modified.
+- Chromatin modification can affect gene expression by changing the accessibility of genes to transcription factors.
+  - Methylation and acetylation are epigenetic becuase they don't alter the primary sequence but act at a level *just above* it.
+- Changes in chromatin modification regulate gene expression during developmental cell-type specification.
+- Chromatin modification can be stable over an organism's life, permanently influencing gene expression.
+  - However, **chromatin modification is reversable**.
+  - Chromatin modifications are erased during the production of gametes.
+- Embyronic cell types are known to have a unique set of chromatin modifications; hypotheiss: chromatin modification helps lock in changes in gene expression required during development.
+  - Permanent silencing of genes involved in embryogenesis drives the development of cells to more mature cell types.
+- Emerging hypothesis: cell-cell signaling and epigenetic changes converge to guide cell differentiation decisions in development and later.
+
+---
 
 ## Cellular Specialization
 ### Pluripotent Stem Cells and Gene Expression
