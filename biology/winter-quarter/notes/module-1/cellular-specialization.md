@@ -6,6 +6,15 @@ Andre Ye, 1/12/21
 ---
 
 ## Navigate
+- [Gene Expression Regulates Cell Differentiation](#gene-expression-regulates-cell-differentiation)
+  * [Do All Cells Really Contain the Same DNA?](#do-all-cells-really-contain-the-same-dna-)
+  * [Cell-Extrinsic Regulation of Gene Expression](#cell-extrinsic-regulation-of-gene-expression)
+  * [Cell-Intrinsic Regulation of Gene Expression](#cell-intrinsic-regulation-of-gene-expression)
+- [Cellular Specialization](#cellular-specialization)
+  * [Pluripotent Stem Cells and Gene Expression](#pluripotent-stem-cells-and-gene-expression)
+  * [Internal Environment Cues](#internal-environment-cues)
+  * [External Environment Cues](#external-environment-cues)
+  * [Conclusion](#conclusion)
 
 ## Gene Expression Regulates Cell Differentiation
 - All cells in a multicellualr organism contain the same DNA, but are composed of different types of cells.
