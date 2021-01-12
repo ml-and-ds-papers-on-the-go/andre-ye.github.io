@@ -12,6 +12,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18)
   - [Video Notes: Operons and Gene Regulation in Bacteria, Lac Operon](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/video-notes)
   - [Textbook Notes: Chapter 19, "Control of Gene Expression in Eukaryotes"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-19)
+  - [Video Notes: Cellular Specialization and Pluripotent Stem Cells](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/cellular-specialization)
 ## Lab Background and Notes
 
 ---
