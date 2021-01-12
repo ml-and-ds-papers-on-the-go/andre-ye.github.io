@@ -15,6 +15,8 @@ Andre Ye, 1/12/21
   * [Internal Environment Cues](#internal-environment-cues)
   * [External Environment Cues](#external-environment-cues)
   * [Conclusion](#conclusion)
+ 
+---
 
 ## Gene Expression Regulates Cell Differentiation
 - All cells in a multicellualr organism contain the same DNA, but are composed of different types of cells.
