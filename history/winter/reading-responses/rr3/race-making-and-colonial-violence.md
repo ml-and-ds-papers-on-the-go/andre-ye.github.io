@@ -24,7 +24,7 @@ Andre Ye, 1/13/2021
 
 <br>
 
-#### Introduction
+# Introduction
 - Theodore Roosevelt placed colonial violence at the heart of America: Roosevelt justified the ongoing colonial war in the Philippines by casting it as a race war.
 - The war was often rationalized in racial terms, and soldiers knew Filipinos in racial terms.
 - These racial ideologies were not simply reflexive projections from the US; instead, race helped organize and justify U.S. colonial violence.
@@ -38,7 +38,7 @@ Andre Ye, 1/13/2021
 
 <br>
 
-#### Questions of Recognition
+# Questions of Recognition
 - By 1898, Filipino elites engaged in a struggle against Spanish racism - a key element of Spanish colonialism - for two decades.
 	- Spanish political and racial ideologies advocated for Catholicism, greater education, etc.; Filipinos used these to argue for greater rights.
 - U.S. troops took Manila following the Battle of Manila Bay. This introduced a 6-month period "battle for recognition".
@@ -79,13 +79,14 @@ We're thankful that the City's ours, and floats the Stars and Stripes;
 
 <br>
 
-# Race-Making and Colonial Warfare
+### Race-Making and Colonial Warfare
 - Outbreak of the war occured in early February of 1899.
 - Filipino sokesmen revealed a preoccupation with promoting Filipino civilization.
 	- Anti-Imperialist newspapers argued that the Filipinos has excelled in education, literacy, art, and political & religious leadership.
 	- The struggle was also painted as antiracial.
 
-### Anti-Imperialist Socieites
+
+# Anti-Imperialist Socieites
 - The war had been challenged from the start by anti-imperialist societies and organized into the Anti-Imperialist Leage (nov. 1898).
 - The party leaned towards independents and reformers, bringing together conservative and white-supremacist Democrats and liberal Republicans.
 	- Criticized the U.S. invasion as unjust.
