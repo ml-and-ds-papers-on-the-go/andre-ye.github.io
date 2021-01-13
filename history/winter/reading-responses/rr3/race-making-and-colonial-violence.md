@@ -1,7 +1,7 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 3 > Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer
 
 ## Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer
-### test
+
 Andre Ye, 1/13/2021
 
 <br>
