@@ -3,7 +3,11 @@
 ## TS History: American History to 1877
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
+<br>
+
 ---
+
+<br>
 
 ### Winter Quarter
 
@@ -28,7 +32,11 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 
 ### Course Mechanics
 
+<br>
+
 ---
+
+<br>
 
 ## Fall Quarter
 
