@@ -9,8 +9,8 @@ Andre Ye, 1/13/21
 - [Lewis H. Douglass Opposition to McKinley](#lewis-h-douglass-opposition-to-mckinley)
 - ["The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church](#the-negro-should-not-enter-the-army-missionary-department-of-the-atlanta-georgia-ame-church)
 
-<br>
 ---
+
 <br>
 
 
@@ -24,8 +24,8 @@ Andre Ye, 1/13/21
 	- It is sickening hypocrisy to argue killing Filipinos is for the purpose of good government.
 - The United States can expand when it learns justice should be blind to race and color.
 
-<br>
 ---
+
 <br>
 
 # "The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church
