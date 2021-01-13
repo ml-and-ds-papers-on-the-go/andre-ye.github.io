@@ -1,20 +1,20 @@
 [Home](https://andre-ye.github.io) > History Navigation
 
-# TS History: American History to 1877
+## TS History: American History to 1877
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
 ---
 
-# Winter Quarter
+### Winter Quarter
 
 Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-guides), [Weekly Reading Responses](#weekly-reading-responses), [Course Mechanics & Feedback](#course-mechanics)
 
-## Lecture Notes
+### Lecture Notes
 - [Class Conflict in the Gilded Age](https://andre-ye.github.io/history/winter/lectures/class-conflict-in-the-gilded-age)
 
-## Study Guides
+### Study Guides
 
-## Weekly Reading Responses
+### Weekly Reading Responses
 - Weekly Reading Response 1 (Due 1/7)
   - ["Is History a Science?" by Eugene Goodheart](https://andre-ye.github.io/history/winter/reading-responses/rr1/is-history-a-science)
   - ["On Agency" by Walter Johnson](https://andre-ye.github.io/history/winter/reading-responses/rr1/on-agency)
@@ -26,15 +26,15 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on "On the War in the Philippines" by Albert J. Beveridge](https://andre-ye.github.io/history/winter/reading-responses/rr3/on-the-war-in-the-philippines)
   - [Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer](https://andre-ye.github.io/history/winter/reading-responses/rr3/race-making-and-colonial-violence)
 
-## Course Mechanics
+### Course Mechanics
 
 ---
 
-# Fall Quarter
+## Fall Quarter
 
 Jump Down to a Section: [Lecture Notes](#lecture-notes-1), [Study Guides](#study-guides-1), [Weekly Reading Responses](#weekly-reading-responses-1), [Course Mechanics & Feedback](#course-mechanics-1)
 
-## Lecture Notes
+### Lecture Notes
 - ["Slavery: Race and Unfree Labor"](https://andre-ye.github.io/history/lecture-notes/slavery-race-and-unfree-labor), 10/15/20
 - ["Empire & Revolution: Society and Politics in Colonial America"](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution), 10/20/20 & 10/22/20
 - ["Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor"](https://andre-ye.github.io/history/lecture-notes/gender-and-industrial-capitalism), 10/27/20 & 10/29/20
@@ -44,10 +44,10 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes-1), [Study Guides](#study
 - ["Civil War: Politics and Control of the State"](https://andre-ye.github.io/history/lecture-notes/civil-war), 12/1/20
 - ["Recontruction & Redemption: Contested Meanings of Freedom"](https://andre-ye.github.io/history/lecture-notes/reconstruction-and-redemption), 12/8/20 & 12/10/20
 
-## Study Guides
+### Study Guides
 - [Fall Quarter Midterm Study Guide](https://andre-ye.github.io/history/study-guides/fall-quarter-midterm-study-guide), 10/29/20.
 
-## Weekly Reading Responses
+### Weekly Reading Responses
 - Weekly Reading Response 4 (Due 10/22)
   - [Notes on October 17, 1788 Letter from Madison to Jefferson](https://andre-ye.github.io/history/rr4/letters-of-madison-notes), 10/18/20.
   - [Notes on Sections 1, 2, and 6 of *Forced Founders* by Woody Holton](https://andre-ye.github.io/history/rr4/forced-founders-notes), 10/19/20
@@ -71,7 +71,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes-1), [Study Guides](#study
 - Weekly Reading Response 10 (Due 12/10)
   - [Notes on *Labor of Love, Labor of Sorrow* by Jacqueline Jones](https://andre-ye.github.io/history/rr10/labor-of-love), 12/5/20.
   
-## Course Mechanics
+### Course Mechanics
 Notes on essay feedback, workshops, etc. given in class.
 - [Week 4 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-4). *Feedback on essay 1, grading standards for essays, reading responses & active reading.*
 - [Week 7 Course Mechanics](https://andre-ye.github.io/history/course-mechanics/week-7). *Further walk throughs on essays, argumentation, and reading responses.*
