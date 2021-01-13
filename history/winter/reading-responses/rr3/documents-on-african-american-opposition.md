@@ -3,11 +3,17 @@
 ## Notes on *Documents on African-American Opposition to Empire (1898-1899)*
 Andre Ye, 1/13/21
 
+<br>
+
 ---
+
+<br>
 
 # Navigate
 - [Lewis H. Douglass Opposition to McKinley](#lewis-h-douglass-opposition-to-mckinley)
 - ["The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church](#the-negro-should-not-enter-the-army-missionary-department-of-the-atlanta-georgia-ame-church)
+
+<br>
 
 ---
 
@@ -24,6 +30,8 @@ Andre Ye, 1/13/21
 	- It is sickening hypocrisy to argue killing Filipinos is for the purpose of good government.
 - The United States can expand when it learns justice should be blind to race and color.
 
+<br>
+
 ---
 
 <br>
@@ -38,5 +46,11 @@ Andre Ye, 1/13/21
 - The flag is a symbol of liberty to the white man (and he is justified in being proud of it), but a worthless rag for the black man.
 - A minister that encurages enlistment int he army preaches murder of innocent blood for nothing.
 - Furthermore, most white people do not *want* colored soldiers in the army either.
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
