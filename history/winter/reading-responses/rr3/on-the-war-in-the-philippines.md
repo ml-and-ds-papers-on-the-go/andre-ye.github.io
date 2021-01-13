@@ -15,7 +15,7 @@ Andre Ye, 1/13/2021
 - [Trade Links to China](#trade-links-to-china)
 - [Strategic Military Placement](#strategic-military-placement)
 - [Natural Resources and Wealth of the Land](#natural-resources-and-wealth-of-the-land)
-- [Oposition to War as its Prolongment](#oposition-to-war-as-its-prolongment)
+- [Opposition to War as its Prolongment](#opposition-to-war-as-its-prolongment)
 - [The Barbarism of Filipino People](#the-barbarism-of-filipino-people)
     + [God's Call for Imperialism](#god-s-call-for-imperialism)
     
@@ -25,7 +25,7 @@ Andre Ye, 1/13/2021
 
 <br>
 
-# Context
+### Context
 The year was 1900, and the United States was engaged in a controversial war to
 gain control of the Philippine Islands. Many Americans opposed this first
 attempt by the U.S. government to exercise imperial control over another
@@ -39,7 +39,7 @@ and his fellow senators to embrace imperialism.
 
 <br>
 
-# Introduction
+### Introduction
 - The Philippines are territory Constitutionally belonging to the United States.
 - Beyond the Philippines are China's markets, which would be a shame to throw away.
 	> We will not renounce our part in the
@@ -52,7 +52,7 @@ mission of our race, trustee under God, of the civilization of the world.
 
 <br>
 
-# Trade Links to China
+### Trade Links to China
 - The Philippines are "the last land left in all the oceans", and it would be an irreversible mistake to abandom it.
 - Asia will be the largest trade partner with America; the Pacific belongs to her.
 - Europe will begin to become dependent on American exports; where shall America turn?
@@ -70,7 +70,7 @@ mission of our race, trustee under God, of the civilization of the world.
 
 <br>
 
-# Strategic Military Placement
+### Strategic Military Placement
 - The Philippines are in a convenient place as a "fortress" in the Pacific to defend the Western coast.
 - It is a base for military and naval operations.
 - From this position, the United States can strike any enemy.
@@ -81,7 +81,7 @@ mission of our race, trustee under God, of the civilization of the world.
 
 <br>
 
-# Natural Resources and Wealth of the Land
+### Natural Resources and Wealth of the Land
 - The fertility of the land in the Philippines is unsurpassed.
 	- Various exotic and lush products grow in the tropical zones.
 	- Philippine wood can supply furniture.
@@ -95,7 +95,7 @@ mission of our race, trustee under God, of the civilization of the world.
 
 <br>
 
-# Oposition to War as its Prolongment
+### Opposition to War as its Prolongment
 - American opposition to the war has been the primary factor in prolonging it.
 - The Philippine War is like the -Revolutionary War.
 
@@ -105,7 +105,7 @@ mission of our race, trustee under God, of the civilization of the world.
 
 <br>
 
-# The Barbarism of Filipino People
+### The Barbarism of Filipino People
 - The Filipinos are a "barbarous race" that have been modified through contact with a "decadent race".
 - Filipinos are superstitious, dishonest, disorderly, and corrupt.
 - Few in the Philippines are capable of Anglo-Saxon self-government, or even to comprehend it.
@@ -115,11 +115,13 @@ mission of our race, trustee under God, of the civilization of the world.
 	- It is a *prostitution* to express these rights to Filipinos.
 	- If the Declaration applies to all men, why is it denied to American Indians?
 
-### God's Call for Imperialism
+#### God's Call for Imperialism
 - God has not been preparing Anglo-Saxons to stand idle; he has instead marked the American people to lead the regeneration of the world.
 - He has delegated this as the *divine mission* of America.
 - America serves as the trustee of the world's progress and guardians of righteous peace.
 > The judgment of the Master is upon us: “Ye have been faithful over a few things; I will make you rule over many things.”
+
+# comparison
 
 <br>
 
