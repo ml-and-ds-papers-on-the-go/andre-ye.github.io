@@ -21,6 +21,9 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - Weekly Reading Response 2 (Due 1/14)
   - ["I am an Anarchist" by Lucy Parsons](https://andre-ye.github.io/history/winter/reading-responses/rr2/i-am-an-anarchist)
   - [*Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky](https://andre-ye.github.io/history/winter/reading-responses/rr2/industrialism-and-the-american-worker)
+- Weekly Reading Response 3 (Due 1/21)
+  - [Notes on *Documents on African-American Opposition to Empire (1898-1899)*](https://andre-ye.github.io/history/winter/reading-responses/rr3/documents-on-african-american-opposition)
+  - [Notes on "On the War in the Philippines" by Albert J. Beveridge](https://andre-ye.github.io/history/winter/reading-responses/rr3/on-the-war-in-the-philippines)
 
 ## Course Mechanics
 
