@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 2 > Notes on *Documents on African-American Opposition to Empire (1898-1899)*
+[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 3 > Notes on *Documents on African-American Opposition to Empire (1898-1899)*
 
 ## Notes on *Documents on African-American Opposition to Empire (1898-1899)*
 Andre Ye, 1/13/21
@@ -9,7 +9,10 @@ Andre Ye, 1/13/21
 - [Lewis H. Douglass Opposition to McKinley](#lewis-h-douglass-opposition-to-mckinley)
 - ["The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church](#the-negro-should-not-enter-the-army-missionary-department-of-the-atlanta-georgia-ame-church)
 
+<br>
 ---
+<br>
+
 
 # Lewis H. Douglass Opposition to McKinley
 - President William McKinley promised Flipinos under American sovereignty would not be governed as slaves, because a government of liberty would be ruling over them.
@@ -21,7 +24,9 @@ Andre Ye, 1/13/21
 	- It is sickening hypocrisy to argue killing Filipinos is for the purpose of good government.
 - The United States can expand when it learns justice should be blind to race and color.
 
+<br>
 ---
+<br>
 
 # "The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church
 - The ministers of the A.M.E. church - progressive and enlightened - should tell black young men to stay out of the United States army.
