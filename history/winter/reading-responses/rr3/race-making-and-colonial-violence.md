@@ -1,6 +1,7 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 3 > Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer
 
 ## Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer
+### test
 Andre Ye, 1/13/2021
 
 <br>
@@ -9,7 +10,7 @@ Andre Ye, 1/13/2021
 
 <br>
 
-# Navigate
+### Navigate
 - [Introduction](#introduction)
 - [Questions of Recognition](#questions-of-recognition)
 - [Race-Making and Colonial Warfare](#race-making-and-colonial-warfare)
@@ -24,7 +25,7 @@ Andre Ye, 1/13/2021
 
 <br>
 
-# Introduction
+### Introduction
 - Theodore Roosevelt placed colonial violence at the heart of America: Roosevelt justified the ongoing colonial war in the Philippines by casting it as a race war.
 - The war was often rationalized in racial terms, and soldiers knew Filipinos in racial terms.
 - These racial ideologies were not simply reflexive projections from the US; instead, race helped organize and justify U.S. colonial violence.
@@ -38,7 +39,7 @@ Andre Ye, 1/13/2021
 
 <br>
 
-# Questions of Recognition
+### Questions of Recognition
 - By 1898, Filipino elites engaged in a struggle against Spanish racism - a key element of Spanish colonialism - for two decades.
 	- Spanish political and racial ideologies advocated for Catholicism, greater education, etc.; Filipinos used these to argue for greater rights.
 - U.S. troops took Manila following the Battle of Manila Bay. This introduced a 6-month period "battle for recognition".
@@ -93,7 +94,7 @@ We're thankful that the City's ours, and floats the Stars and Stripes;
 - Many anti-imperialist claims focused on the negative consequences of empire for the United States itself; many of these concerns were explicitly racial; i.e. corruption of the body politic through Filipino citizenship.
 - Other anti-imperialists recognized the Philippine Republic.
 
-### Countering Anti-Imperialists with Racialized Arguments
+# Countering Anti-Imperialists with Racialized Arguments
 - McKinley appointed "Philippine Commissions". Served two purposes:
 	- Served as a crux for the War Department's "policy of attraction" - drawing elites away from the Republic.
 	- Produce an authoritative document of events to justify U.S. aggression.
@@ -120,7 +121,7 @@ We're thankful that the City's ours, and floats the Stars and Stripes;
 
 <br>
 
-# Racializing Guerrilla Warfare
+### Racializing Guerrilla Warfare
 - General Arthur MacArthur reported that there was no *organized* insurgent force to strike at; Filipino tactics had shifted dramatically towards guerrilla warfare.
 - In these new settings, tropical disease, impassable roads, and unfamiliar conditions would weaken American advance; the guerrilla swould have geogrpahic knowledge and village-level support.
 - U.S. Army General Otis similar decentralized his forces to match the Filipino army.
@@ -150,7 +151,7 @@ We're thankful that the City's ours, and floats the Stars and Stripes;
 
 <br>
 
-# Race and Atrocity
+### Race and Atrocity
 - Race was made to defend the means, undermining moral and legal claims against American soldiers accused of "severities".
 - U.S. Army defenders held that abuses were rare, and were swiftly punished.
 - Three variants of racial arguments.
