@@ -9,7 +9,7 @@ Andre Ye, 1/13/21
 
 <br>
 
-# Navigate
+### Navigate
 - [Lewis H. Douglass Opposition to McKinley](#lewis-h-douglass-opposition-to-mckinley)
 - ["The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church](#the-negro-should-not-enter-the-army-missionary-department-of-the-atlanta-georgia-ame-church)
 
@@ -20,7 +20,7 @@ Andre Ye, 1/13/21
 <br>
 
 
-# Lewis H. Douglass Opposition to McKinley
+### Lewis H. Douglass Opposition to McKinley
 - President William McKinley promised Flipinos under American sovereignty would not be governed as slaves, because a government of liberty would be ruling over them.
 - Douglass argues McKinley is blind to racial prejudice in the United States and in soldiers overseas.
 - Black American soldiers are despised by the South, which the McKinley administration has "accept[ed] dictation" and cater to.
@@ -36,7 +36,7 @@ Andre Ye, 1/13/21
 
 <br>
 
-# "The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church
+### "The Negro Should Not Enter the Army", Missionary Department of the Atlanta, Georgia, A.M.E. Church
 - The ministers of the A.M.E. church - progressive and enlightened - should tell black young men to stay out of the United States army.
 	> "If it is a white man's government, and we grant it is, let him take care of it. The Negro has no flag to defend."
 - If black people have no civil, social, political, judicial, or existing rights, they should not further the institution that guarantees the very absence of those rights.
