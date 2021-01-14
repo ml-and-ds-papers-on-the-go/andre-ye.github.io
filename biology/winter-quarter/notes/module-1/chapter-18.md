@@ -38,6 +38,12 @@ Andre Ye, 1/6/21
 - Bacteria cells control the activity, or expression, of their genes.
 - **Gene expression** is the process of converting information from DNA to molecules that function.
 
+<br>
+
+---
+
+<br>
+
 ### 18.1: An Overview of Gene Regulation and Information Flow
 - Bacterial organisms in your intestine compete for space and nutrients.
   - The cell must use resources efficiently.
