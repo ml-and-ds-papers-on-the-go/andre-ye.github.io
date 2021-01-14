@@ -1,9 +1,9 @@
+<script src="https://andre-ye.github.io/scripts/mode-switcher.js"> </script>
 <html>
   <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-  <script src="/scripts/mode-switcher.js"></script>
 </html>
 
-## Hey!lhbku
+## Hey!
 I'm Andre. Currently, I'm a student at the University of Washington Transition School.
 
 <br>
