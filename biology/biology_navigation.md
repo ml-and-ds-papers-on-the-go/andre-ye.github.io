@@ -1,5 +1,5 @@
-[Home](https://andre-ye.github.io) > Biology Navigation
-## TS Biology
+[Home](https://andre-ye.github.io) > Biology Navigation 
+## TS Biology 🧬
 Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
 <br>
