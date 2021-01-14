@@ -47,7 +47,7 @@ Andre Ye, 1/12/21
   - Hormones can act as a signal to trigger a cascade of events and changes gene expression. This acts as a cell-extrinsic factor.
 - Scientists can learn about physiological processes by studying gene expression patters changing over time.
 
-#### Cell-Intrinsic Regulation of Gene Expression
+#### Cell-Intrinsic Regulation of Gene Expression 
 - DNA can be modified in a way that affects gene expression; chromatin can be chemically modified.
 - Chromatin modification can affect gene expression by changing the accessibility of genes to transcription factors.
   - Methylation and acetylation are epigenetic becuase they don't alter the primary sequence but act at a level *just above* it.
