@@ -5,6 +5,9 @@ baseurl: "/"
 description:
 profile_url: "http://andre-ye.github.io"
 
+minima:
+  skin: dark
+
 theme: minima #jekyll-theme-cayman
 markdown: kramdown
 header_pages:
