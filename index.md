@@ -1,5 +1,6 @@
 <html>
   <script src="https://andre-ye.github.io/scripts/mode-switcher.js"></script>
+  
   <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
 </html>
 
