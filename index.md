@@ -1,5 +1,8 @@
-
----
+<html lang="en-US">  
+  <head>
+    <link rel='stylesheet' type='text/css' href='/css/main.css'>
+  </head>
+</html>
 
 # Hey!
 I'm Andre. Currently, I'm a student at the University of Washington Transition School.
