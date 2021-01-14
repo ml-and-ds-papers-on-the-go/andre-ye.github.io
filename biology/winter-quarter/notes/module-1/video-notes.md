@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Video Lecture Notes
 
-## Module 1 Video Lecture Notes
+## Module 1 Video Lecture Notes 
 Andre Ye, 1/6/21
 
 <br>
