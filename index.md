@@ -1,7 +1,7 @@
 <html lang="en-US">  
   <body>
   <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-    <script>alert('hi');</script>
+    <script src="https://andre-ye.github.io/scripts/mode-switcher.js"></script>
   
   </body>
 </html>
