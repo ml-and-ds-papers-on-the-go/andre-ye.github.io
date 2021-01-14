@@ -1,4 +1,7 @@
+
 ## Transcript for Part of *Class Conflict in the Guilded Age* Day 2
+
+---
 
 ```text
 Such that those who are not with us can just get
