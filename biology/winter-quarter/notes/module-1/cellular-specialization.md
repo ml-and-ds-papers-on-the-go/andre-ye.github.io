@@ -1,11 +1,15 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Cellular Specialization and Differentiation Notes
 
-# Cellular Specialization and Differentiation Notes
+## Cellular Specialization and Differentiation Notes
 Andre Ye, 1/12/21
+
+<br>
 
 ---
 
-## Navigate
+<br>
+
+### Navigate
 - [Gene Expression Regulates Cell Differentiation](#gene-expression-regulates-cell-differentiation)
   * [Do All Cells Really Contain the Same DNA?](#do-all-cells-really-contain-the-same-dna-)
   * [Cell-Extrinsic Regulation of Gene Expression](#cell-extrinsic-regulation-of-gene-expression)
@@ -15,21 +19,26 @@ Andre Ye, 1/12/21
   * [Internal Environment Cues](#internal-environment-cues)
   * [External Environment Cues](#external-environment-cues)
   * [Conclusion](#conclusion)
+- [In-Class Lecture](#in-class-lecture)
  
+<br>
+
 ---
 
-## Gene Expression Regulates Cell Differentiation
+<br>
+
+### Gene Expression Regulates Cell Differentiation
 - All cells in a multicellualr organism contain the same DNA, but are composed of different types of cells.
 - Certain genes are expressed or repressed to dictate cellular morphology and function.
 
-### Do All Cells Really Contain the Same DNA?
+#### Do All Cells Really Contain the Same DNA?
 - Substantial evidence supporting that cells within a multicellular organism have the same genome.
 - Fully differentiated cell types are capable of givign rise to an entire new animal.
   - Shown in experiment: nucleus of adult frog skin cell was transplanted in a donor embryo.
   - Genome of differentiated cell used in Dolly the SHeep cloning.
 - In mammals, *genes are not lost during development*, and must be regulated.
 
-### Cell-Extrinsic Regulation of Gene Expression
+#### Cell-Extrinsic Regulation of Gene Expression
 - Gene expression is regulated by many extrinsic and intrinsic factors.
 - Cell-extrinsic factors include environmental cues (e.g. small molecules, proteins, temperature, oxygen).
   - Can originate from *other cells*, or within the organism's environment.
@@ -38,7 +47,7 @@ Andre Ye, 1/12/21
   - Hormones can act as a signal to trigger a cascade of events and changes gene expression. This acts as a cell-extrinsic factor.
 - Scientists can learn about physiological processes by studying gene expression patters changing over time.
 
-### Cell-Intrinsic Regulation of Gene Expression
+#### Cell-Intrinsic Regulation of Gene Expression
 - DNA can be modified in a way that affects gene expression; chromatin can be chemically modified.
 - Chromatin modification can affect gene expression by changing the accessibility of genes to transcription factors.
   - Methylation and acetylation are epigenetic becuase they don't alter the primary sequence but act at a level *just above* it.
@@ -52,8 +61,8 @@ Andre Ye, 1/12/21
 
 ---
 
-## Cellular Specialization
-### Pluripotent Stem Cells and Gene Expression
+### Cellular Specialization
+#### Pluripotent Stem Cells and Gene Expression
 - Every cell in our body - muscle or skin or nerve or blood cell - comes from a common group of stem cells during development.
   - Muscles with its contractile proteins, waterproof skin cells, etc. all are derived from stem cells.
 - Imagine a library: it has all sorts of books, but depending on which books you read, you end up knowing a different subset of books.
@@ -69,19 +78,50 @@ Andre Ye, 1/12/21
 - How does a cell decide what it's going to specialize into?
   - Cells decide this based on *cues* from an internal or external environment.
 
-### Internal Environment Cues
+#### Internal Environment Cues
 - In the development of many organisms, we begin from a *zygote* that has transcription factors (and mRNA precursors).
   - Transcription factors activate certain genes and turn them on.
   - Transcription factors are clustered in one area; as the zygote divides, all the transcription factors end up in half of the cells.
   - Different genes are activated in each of these cells; this mechanism is called *asymmetric segregation of cellular determinants*.
 - Transcription factors are not symmetrically distributed.
 
-### External Environment Cues
+#### External Environment Cues
 - A cell or a group of cells can force another group to differentiate.
 - Diffusion: diffuse signals that bind to receptors and cause cells to differentiate.
 - Direct contact: surface proteins on two cells binding to each other.
 - Gap junctions: little connections, or connexons, between cells that are connected.
 - Induction is key to forming lots of our body parts, like limbs, ears, eyes, and others.
 
-### Conclusion
+#### Conclusion
 The goal is to change gene expression, which causes cells to differentiate into more specialized cells.
+
+<br>
+
+---
+
+<br>
+
+## In-Class Lecture
+Thursday, 1/14
+- Transcription factors are incredibly important; when, where, and how much are genes regulated?
+- All cells carry the smae genome, yet are very different; they express different genes, but this was not known until relatively recently.
+  - Concept that cell identity of what the cells express, and not a difference in the genetic information, is a relatively new discovery.
+- Gurdon's and Wilmut's experiments - cloning experiments in frogs, then Dolly the Sheep.
+- Dolly the Sheep: fundamental evidence that all the cells in our body carry the same information, and cells that differentiate or specialize don't lose any genetic information, just use different parts of it.
+  - Transfered nucleus to another egg cell; putting *everything* that it will become inside it.
+- Cell-extrinsic and cell-intrinsic regulation.
+  - Cell identity of the cell is defined by the *transcription factors* that the cell expresses, thus expressing different genes.
+- A model for differential expression.
+  - Balance between two transcription factors that counter-regulate each other (e.g. A or D); is a stem cell.
+  - Splits, and one transcription factor ends up in each; thus one becomes more expressed in one cell.
+- Waddington landscape; ball at the top of a hill; the ball begins to roll down and as it travels through different decision points, it is *differentiated* and cannot revert back.
+- Hematopoiesis
+- Transdifferentiation, development, reprogramming: controlled by transcription factors.
+
+<br>
+
+---
+
+<br>
+
+[Back to top](#)
