@@ -1,32 +1,40 @@
 [Home](https://andre-ye.github.io) > Biology Navigation
-# TS Biology
+## TS Biology
 Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
+
+<br>
 
 ---
 
-# Winter Quarter
+<br>
 
-## Study Guides
+### Winter Quarter
+
+#### Study Guides
 [Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/winter-quarter/study-guide/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
-## Biology Content
+#### Biology Content
 - Module 1: Gene Expression, Development, Technologies
   - [Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18)
   - [Video Notes: Operons and Gene Regulation in Bacteria, Lac Operon](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/video-notes)
   - [Textbook Notes: Chapter 19, "Control of Gene Expression in Eukaryotes"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-19)
   - [Cellular Specialization and Pluripotent Stem Cells](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/cellular-specialization)
 
-## Lab Background and Notes
+#### Lab Background and Notes
+
+<br>
 
 ---
 
-# Fall Quarter
+<br>
+
+### Fall Quarter
 Jump down to a section: [Study Guides](#study-guides-1), [Biology Content](#biology-content-1), [Lab Background and Notes](#lab-background-and-notes-1)
 
-## Study Guides
+#### Study Guides
 [Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/study-guides/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
-## Biology Content
+#### Biology Content
 - The Scientific Process and Scientific Writing
   - [Scientific Writing and Communication](https://andre-ye.github.io/biology/scientific-writing-and-communication), 10/20/20
 - Chemistry, Nucleic Acids, Origin-of-Life Hypotheses.
@@ -54,6 +62,6 @@ Jump down to a section: [Study Guides](#study-guides-1), [Biology Content](#biol
   - [Textbook Notes (section 13.1, 13.2) - Process of Meiosis and Mitosis, Genetic Variation](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis-textbook-notes), 11/27/20.
   - [Video Notes - Meiosis and Mitosis](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis_video_notes), 11/27/20.
 
-## Lab Background and Notes
+#### Lab Background and Notes
 - [Introduction to Biotechnology Lab Notes](https://andre-ye.github.io/biology/labs/introduction-to-biotechnology-methods), 11/12/20
 - [Cellular Respiration Lab](https://andre-ye.github.io/biology/cellular_respiration/general_notes#cellular-respiration-lab-background), 11/21/20
