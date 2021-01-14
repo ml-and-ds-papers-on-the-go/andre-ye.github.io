@@ -1,7 +1,7 @@
 
 ---
 
-## Hey! j
+# Hey!
 I'm Andre. Currently, I'm a student at the University of Washington Transition School.
 
 <br>
@@ -10,7 +10,7 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 
 <br>
 
-## UW Transition School Notes
+# UW Transition School Notes
 - [TS Biology](https://andre-ye.github.io/biology/biology_navigation) w/ Dr. Valensisi
 - [TS History: American History to 1877](https://andre-ye.github.io/history/history_navigation) w/ Dr. Reagan
 - [TS English](https://andre-ye.github.io/english/english_navigation) w/ Dr. Zink
