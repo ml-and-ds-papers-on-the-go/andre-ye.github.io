@@ -3,10 +3,8 @@
     <link rel='stylesheet' type='text/css' href='/css/main.css'>
   </head>
   <body>
-  <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-    <script>
-      <script src="/scripts/mode-switcher.js"></script>
-    </script>
+    <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+    <script src="/scripts/mode-switcher.js"></script>
   </body>
 </html>
 
