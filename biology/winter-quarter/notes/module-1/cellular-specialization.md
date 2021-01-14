@@ -59,7 +59,11 @@ Andre Ye, 1/12/21
   - Permanent silencing of genes involved in embryogenesis drives the development of cells to more mature cell types.
 - Emerging hypothesis: cell-cell signaling and epigenetic changes converge to guide cell differentiation decisions in development and later.
 
+<br>
+
 ---
+
+<br>
 
 ### Cellular Specialization
 #### Pluripotent Stem Cells and Gene Expression
