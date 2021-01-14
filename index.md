@@ -4,7 +4,7 @@
   </head>
   <body>
     <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-    <script src="/scripts/mode-switcher.js"></script>
+    <script src="https://andre-ye.github.io/scripts/mode-switcher.js"></script>
   </body>
 </html>
 
