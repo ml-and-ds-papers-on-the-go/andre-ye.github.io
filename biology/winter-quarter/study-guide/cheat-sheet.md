@@ -1,19 +1,29 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Study Guides > Biology Cheat Sheet / Reference
 
-# Biology Cheat Sheet / Reference
+## Biology Cheat Sheet / Reference
 
 *This biology cheat sheet will be handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
+<br>
+
 ---
 
-## Navigate
+<br>
+
+### Navigate
 - [Terms and Concepts](#terms-and-concepts)
   * [Control of Gene Expression in Bacteria](#control-of-gene-expression-in-bacteria)
   * [Control of Gene Expression in Eukaryotes](#control-of-gene-expression-in-eukaryotes)
+  
+<br>
 
-## Terms and Concepts
+---
 
-### Control of Gene Expression in Bacteria
+<br>
+
+### Terms and Concepts
+
+#### Control of Gene Expression in Bacteria
 From [Textbook Notes: Chapter 18, “Control of Gene Expression in Bacteria”](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18){:target="_blank"}
 
 | Term | Definition |
@@ -53,7 +63,9 @@ From [Textbook Notes: Chapter 18, “Control of Gene Expression in Bacteria”](
 | translational control | A level of gene expression control in which certain mRNA are not translated into proteins, for instance by degrading mRNA or reducing its lifespan.
 | trp operon | A form of negative control feedback, the trp operon is used to synthesize tryptophan (an aminoa cid). Genes for trptophan synthesis are expressed only when tryptophan is absent, so the trp repressor - which stops transcription - binds to the operator *only* when it is bound by tryptophan, its regulator. |
 
-### Control of Gene Expression in Eukaryotes
+<br>
+
+#### Control of Gene Expression in Eukaryotes
 From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-19){:target="_blank"}
 
 | Term | Definition |
@@ -82,8 +94,22 @@ From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”
 | transcription factors | Regulatory transcription factors are proteins acting as activators and repressors that bind to enhancers and silencers. General transcription factors interact with the core promoter and are not restricted to any particular gene or cell types; these factors do not provide regulation. |
 | transcriptional activator | Activators that bind to enhancers to begin transcription. These must bind to enhancers first in order to recruit chromatin remodeling proteins (which cannot recognize specific DNA sequences). |
 
-## Core Ideas
-### Module 1 Gene Expression and Development
+<br>
+
+---
+
+<br>
+
+### Core Ideas
 #### Table of Elements of Transcriptional Regulation
 ![](https://raw.githubusercontent.com/andre-ye/andre-ye.github.io/master/biology/winter-quarter/study-guide/images/elements-of-transcriptional-regulation.png)
+
+
+<br>
+
+---
+
+<br>
+
+[Back to top](#)
 
