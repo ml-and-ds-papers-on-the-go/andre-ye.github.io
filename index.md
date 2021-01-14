@@ -2,6 +2,7 @@
   <body>
   <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
     <script>
+      alert('hi!');
       let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)"); 
       let theme = sessionStorage.getItem('theme'); 
       if (systemInitiatedDark.matches) {
