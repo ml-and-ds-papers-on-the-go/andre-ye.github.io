@@ -9,7 +9,7 @@
 </html>
 
 ```
-don't mind this I'm doing stupid things ^oi njouihuohjk
+s
 ```
 
 ## Hey!
