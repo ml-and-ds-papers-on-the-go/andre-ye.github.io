@@ -1,28 +1,36 @@
 [Home](https://andre-ye.github.io) > English Navigation
-# TS English
+## TS English
 
 Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 
+<br>
+
 ---
 
-# Winter Quarter
+<br>
+
+### Winter Quarter
 
 [English Cheat-Sheet](https://andre-ye.github.io/english/winter/cheat-sheet) - key points and steps from the textbook.
 
-## Lectures and Class Presentations
+#### Lectures and Class Presentations
 - [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
 
-## Textbook Chapter Notes
+#### Textbook Chapter Notes
 - [Notes on Chapter 1: "Why Join Critical Conversations About Literature"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-1), 1/4/21.
 - [Notes on Chapter 2: "What is a Literary Analysis?"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-2), 1/4/21.
 - [Notes on Chapter 3: "From Surface to Depth"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-3), 1/9/21.
 - [Notes on Chapter 4: "Patterns"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-4), 1/10/21.
 
+<br>
+
 ---
 
-# Fall Quarter
+<br>
 
-## Textbook Chapter Notes
+### Fall Quarter
+
+#### Textbook Chapter Notes
 - [English Cheat-Sheet](https://andre-ye.github.io/english/cheat_sheet) - key points and steps from the textbook.
 - [Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"](https://andre-ye.github.io/english/textbook-notes/chapter_3), 10/17/20.
 - [Chapter 4 Notes: "From Identifying Claims to Analyzing Arguments"](https://andre-ye.github.io/english/textbook-notes/chapter_4), 10/23/20.
@@ -32,7 +40,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 - [Chapter 8 Notes: "From Synthesis to Researched Argument"](https://andre-ye.github.io/english/textbook-notes/chapter_8), 11/27/20.
 - [Chapter 12 Notes: "From Revising to Editing"](https://andre-ye.github.io/english/textbook-notes/chapter_12), 11/2/20.
 
-## Notes on Essays
+### Notes on Essays
 - Technology
   - [*"History Retweets Itself"* by Tom Standage](https://andre-ye.github.io/english/essay-notes/history-retweets-itself), 10/19/20.
   - [*"Why Aren't Social Media Delivering Democracy?"* by Dana Radcliffe](https://andre-ye.github.io/english/essay-notes/why-arents-social-media-delivering-democracy), 10/23/20.
