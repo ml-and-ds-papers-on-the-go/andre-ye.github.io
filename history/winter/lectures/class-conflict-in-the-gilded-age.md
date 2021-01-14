@@ -24,6 +24,8 @@ Andre Ye, 1/11/21
   * [Legacy of Haymarket](#legacy-of-haymarket)
 - [The Second Industrial Revolution](#the-second-industrial-revolution)
 
+Note - a transcript for part of the lecture is [here](https://andre-ye.github.io/history/winter/lectures/transcripts/class-conflict-in-the-gilded-age-2){:target="_blank"} (opens in new tab).
+
 <br>
 
 ---
