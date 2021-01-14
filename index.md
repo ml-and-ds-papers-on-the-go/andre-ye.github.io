@@ -7,8 +7,6 @@
 </html>
 
 ```
-<script src="https://andre-ye.github.io/scripts/mode-switcher.js"></script>
-
 don't mind this I'm doing stupid things ^
 ```
 
