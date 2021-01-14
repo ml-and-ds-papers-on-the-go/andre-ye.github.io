@@ -1,6 +1,8 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Chapter 18 Textbook Notes
 
+# test
 ## Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"
+##### 5
 Andre Ye, 1/6/21
 
 <br>
@@ -9,10 +11,7 @@ Andre Ye, 1/6/21
 
 <br>
 
-# 1
-## 2
 ### Navigation
-#### 4
 - [Introduction](#introduction)
 - [18.1: An Overview of Gene Regulation and Information Flow](#181-an-overview-of-gene-regulation-and-information-flow)
   * [Mechanisms of Regulation](#mechanisms-of-regulation)
@@ -123,7 +122,7 @@ Andre Ye, 1/6/21
   - Genes involved in lactose metabolism are the **lac operon**.
 - `lacA` codes for the enzyme transacetylase; allows certain types of sugars to be exported from the cell when they are too abundant.
 
-# Key Ideas from the Operon Model
+#### Key Ideas from the Operon Model
 1. `lacZ`, `lacY`, and `lacA` genes are adjacent and transcribed as *one* mRNA. This is known as **cotranscription**.
 2. The repressor protein encoded by `lacI` binds to a specific sequence in DNA and prevents transcription of the *lac* operon genes. `lacI` is expressed constitutively. The repressor binds to a DNA sequence in the *lac* operon called the **operator**.
 3. The inducer (lactose) binds to the repressor and changes its shape, causing it to come off the DNA. Control over protein function like this is **allosteric regulation**.
@@ -132,7 +131,7 @@ Andre Ye, 1/6/21
 #### Positive Control of Lactose Utilization Genes
 - Transcription of *lac* operon is reduced when glucose is present.
 
-# Positive Control by CAP Regulation
+#### Positive Control by CAP Regulation
 - **Catabolite activator protein (CAP)** exerts positive control on many operons in *E. coli*.
   - Is transcribed & transcripted constitutively.
 - CAP binds to a regulatory sequence of DNA and *increases* the frequency of initiating transcription.
