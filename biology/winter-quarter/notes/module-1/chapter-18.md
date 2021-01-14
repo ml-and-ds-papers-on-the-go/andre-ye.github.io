@@ -22,15 +22,15 @@ Andre Ye, 1/6/21
   * [Positive Control of Lactose Utilization Genes](#positive-control-of-lactose-utilization-genes)
     + [Positive Control by CAP Regulation](#positive-control-by-cap-regulation)
     + [Control by Inducer Exclusion](#control-by-inducer-exclusion)
-  * [Why Has the *lac* Operon Model Been SO Important Scientifically?](#why-has-the-lac-operon-model-been-so-important-scientifically)
+  * [Why Has the *lac* Operon Model Been So Important Scientifically?](#why-has-the-lac-operon-model-been-so-important-scientifically)
   * [The *trp* Operon: A Twist on Negative Control](#the-trp-operon-a-twist-on-negative-control)
 - [18.3: Global Gene Regulation](#183-global-gene-regulation)
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### Introduction
 - Imagine seeing an orchestra; all the instruments play all at once, uncoordinated. It's not music.
@@ -38,16 +38,22 @@ Andre Ye, 1/6/21
 - Bacteria cells control the activity, or expression, of their genes.
 - **Gene expression** is the process of converting information from DNA to molecules that function.
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### 18.1: An Overview of Gene Regulation and Information Flow
 - Bacterial organisms in your intestine compete for space and nutrients.
   - The cell must use resources efficiently.
 - The cell needs to orchestrate and regulate which proteins they produce in accordance with reactions from the environment.
+
+<br>
+
+---
+
+<br>
 
 #### Mechanisms of Regulation
 - Gene expression can be controlled at any of the steps in the Central Dogma:
@@ -67,6 +73,12 @@ Andre Ye, 1/6/21
   - e.g. enzymes required for glycolysis.
 - Genes are not just 'on' or 'off', instead, the *level* of expression varies.
 
+<br>
+
+---
+
+<br>
+
 #### Metabolizing Lactose - A Model System
 - Jacques Monod and Francois Jacob used *E. coli* to study regulation of lactose metabolism.
 - *E. coli* uses many sugars for ATP production; glucose is its preferred carbon source.
@@ -77,17 +89,23 @@ Andre Ye, 1/6/21
   - Lactose regulates the gene for beta-galactosidase; lactose is an **inducer**, or a small molecule that triggers transcription of a gene.
 - *E. coli* did not produce beta-galactosidase when *both* glucose and lactose were present.
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### 18.2: Negative and Positive Control of Transcription
 - Transcription of any gene can be regulated through:
   - **Negative control**. A **repressor** (a regulatory protein) binds to DNA and stops transcription.
   - **Positive control**. An **activator** (a regulatory protein) binds to DNA and *triggers* transcription.
 - Genes are under both negative and positive control.
+
+<br>
+
+---
+
+<br>
 
 #### A Gene Needed to Regulate Lactose Metabolism
 - Monod and Jacob isolated and analyzed mutants of *E. coli* unable to use lactose.
@@ -98,6 +116,13 @@ Andre Ye, 1/6/21
 - **Constitutive mutants** are cells that produce a product *consistently* at all times instead of regulating its expression.
 - **`lacI` prevents the transcription of `lacZ` and `lacY` when lactose is absent.**
   - `lacI` is supposed to act as a negative regulator; thus, lactose probably is an inducer, interacting with `lacI`.
+
+<br>
+
+---
+
+<br>
+
 
 #### Negative Control of Lactose Utilization Genes
 - Leo Szilard suggested `lacI` codes for a *protein product* that represses transcription of `lacZ` and `lacY`.
@@ -112,6 +137,13 @@ Andre Ye, 1/6/21
   - Beta-galactosidase production stopped.
 - **Lactose acts as an inducer by causing the repressor to release from DNA and ending negative control.**
 
+<br>
+
+---
+
+<br>
+
+
 #### The Operon Model
 - Genes for beta-galactosidase and galactoside permease are controlled *together* and transcribed into a single mRNA.
   - An mRNA that codes for two or more polypeptides is a **polycistronic mRNA**.
@@ -120,14 +152,32 @@ Andre Ye, 1/6/21
   - Genes involved in lactose metabolism are the **lac operon**.
 - `lacA` codes for the enzyme transacetylase; allows certain types of sugars to be exported from the cell when they are too abundant.
 
+<br>
+
+---
+
+<br>
+
 #### Key Ideas from the Operon Model
 1. `lacZ`, `lacY`, and `lacA` genes are adjacent and transcribed as *one* mRNA. This is known as **cotranscription**.
 2. The repressor protein encoded by `lacI` binds to a specific sequence in DNA and prevents transcription of the *lac* operon genes. `lacI` is expressed constitutively. The repressor binds to a DNA sequence in the *lac* operon called the **operator**.
 3. The inducer (lactose) binds to the repressor and changes its shape, causing it to come off the DNA. Control over protein function like this is **allosteric regulation**.
   - Allosteric regulation: a small molecule binds to a protein and changes its shape and activity.
+  
+<br>
+
+---
+
+<br>
 
 #### Positive Control of Lactose Utilization Genes
 - Transcription of *lac* operon is reduced when glucose is present.
+
+<br>
+
+---
+
+<br>
 
 #### Positive Control by CAP Regulation
 - **Catabolite activator protein (CAP)** exerts positive control on many operons in *E. coli*.
@@ -136,17 +186,35 @@ Andre Ye, 1/6/21
   - CAP promotes the association of the RNA polymerase holoenzyme w/ the promoter.
   - CAP can only be bound to cyclic AMP. When glucose level outside the cell is high, cAMP is inhibited.
   - When glucose level outside a cell is low, cAMP synthesis ramps up. This enables CAP to bind and promote transcription.
+ 
+<br>
 
-# Control by Inducer Exclusion
+---
+
+<br>
+
+#### Control by Inducer Exclusion
 - Glucose inhibits the transport of sugars other than glucose into the cell.
   - When glucose is abundant, galactoside permease is inhibited.
 
-#### Why Has the *lac* Operon Model Been SO Important Scientifically?
+<br>
+
+---
+
+<br>
+
+#### Why Has the *lac* Operon Model Been So Important Scientifically?
 - Many bacterial genes and operons are under negative control by repressor proteins.
 - Activator proteins often work by enhancing the binding of RNA polymerase to the promoter.
 - Gene transcription is often regulated by contact between regulatory proteins and regulatory sequences in DNA.
 - Post-translational control allows for a quick response to changing environments.
   - Activity of repressors can be altered allosterically.
+
+<br>
+
+---
+
+<br>
 
 #### The *trp* Operon: A Twist on Negative Control
 - The *lac* operon breaks down lactose into component sugars.
@@ -165,11 +233,11 @@ Andre Ye, 1/6/21
   - The final product of a pathway inhibits the production of the product.
 - The *trp* operon has a **co-repressor** that works *with* the repressor to make it active during allosteric regulation.
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 ### 18.3: Global Gene Regulation
 - Sometimes, one cannot only turn on genes or even operons individually. Bacteria may need to coordinate change.
@@ -182,10 +250,10 @@ Andre Ye, 1/6/21
   - Since *lexA* is *part* of the genes, it is also produced. By the time the DNA is repaired, the SOS regulon is restroed by active LexA.
 - **Interactions between protein regulators and DNA sequences produce finely tuned control over gene expression.**
 
-<br>
+<br><br>
 
 ---
 
-<br>
+<br><br>
 
 [Back to top](#)
