@@ -18,7 +18,7 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 - [TS English](https://andre-ye.github.io/english/english_navigation) w/ Dr. Zink
 - [TS Precalculus](andre-ye.github.io/precalc/precalculus_navigation) w/ Dr. Johnston
 
-<br>
+<br> 
 
 ---
 
