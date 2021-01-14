@@ -1,7 +1,9 @@
-<a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-<script src="/scripts/mode-switcher.js"></script>
+<html>
+  <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+  <script src="/scripts/mode-switcher.js"></script>
+</html>
 
-## Hey!
+## Hey!lhbku
 I'm Andre. Currently, I'm a student at the University of Washington Transition School.
 
 <br>
