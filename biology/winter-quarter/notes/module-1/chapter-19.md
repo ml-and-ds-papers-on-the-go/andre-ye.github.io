@@ -1,9 +1,13 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Chapter 19 Textbook Notes
 
-# Textbook Notes: Chapter 19, "Control of Gene Expression in Eukaryotes"
+## Textbook Notes: Chapter 19, "Control of Gene Expression in Eukaryotes"
 Andre Ye, 1/7/21
 
+<br>
+
 ---
+
+<br>
 
 ## Navigation
 - [Introduction](#introduction)
@@ -26,12 +30,24 @@ Andre Ye, 1/7/21
   * [How Do Transcription Factors Recognize Specific DNA Sequences?](#how-do-transcription-factors-recognize-specific-dna-sequences)
   * [A Model for Transcription Initiation](#a-model-for-transcription-initiation)
 
+<br><br>
+
+---
+
+<br><br>
+
 ## Introduction
 - Bacteria regulate gene expression b/c of changes in their environment.
 - However, for eukaryotes, different types of cells must be maintained using the same set of genes.
   - All cells differ from each other, but have the same genes.
 - Eukaryote cells must react to changes in the external  *and internal* environments.
 - **Differential gene expression** - cells with the same genome can express different sets of genes, because cells at different times and locations are exposed to different signals.
+
+<br><br>
+
+---
+
+<br><br>
 
 ## 19.1: Gene Regulation in Eukaryotes - An Overview
 - Eukaryotes can control gene expression at *transcription, translation,* and *post-translation*.
@@ -51,6 +67,12 @@ Andre Ye, 1/7/21
 4. mRNA stability - make changes to the mRNA that can degrade mRNA life span, if necessary.
 5. Translation - create a polypeptide corresponding to the mRNA sequence.
 6. Post-translational modification - activate or deactivate proteins.
+
+<br><br>
+
+---
+
+<br><br>
 
 ## 19.2: Chromatin Remodeling
 - For a signal to trigger transcription of a gene, chromatid around the target gene must be remodelled.
@@ -125,6 +147,12 @@ Andre Ye, 1/7/21
 - Environmental influences early in life can be recorded into patterns of chromatin condensation.
 - Human mental retardation - Rett syndrome. Occurs when mutation l eads to absence of a protein that binds to methylated DNA to induce chromatin condensation.
 
+<br><br>
+
+---
+
+<br><br>
+
 ## 19.3: Initiating Transcription
 - The promoter in eukaryotes is where DNA and RNA polymerase bind to initiate transcription.
 - **Core promoter** refers to the sequence RNA polymerase binds to.
@@ -188,5 +216,11 @@ Andre Ye, 1/7/21
 - Activators work to stimulate transcription, but *also* to bring chromatin-remodeling proteins to the right place.
 - Chromatin remodeling proteins cannot recognize specific DNA sequences; transcriptional activators bind first to recruit them.
 - DNA sometimes disassociates from histone proteins in nucleosomes, exposing regulatory sequences to activators.
+
+<br><br>
+
+---
+
+<br><br>
 
 [Back to top](#)
