@@ -1,3 +1,5 @@
+## Transcript for Part of *Class Conflict in the Guilded Age* Day 2
+
 ```
 Such that those who are not with us can just get
 00:07
@@ -768,20 +770,6 @@ Unknown Speaker
 Yeah.
 user avatar
 Michael Beyea Reagan
-46:30
-Krishna.
-user avatar
-Krishna P.
-46:31
-Sorry, I was just wondering what a trust means in the context of these
-46:37
-Things on people's images evaluate
-user avatar
-Michael Beyea Reagan
-46:40
-A trust.
-46:41
-Is a legal entity.
-46:44
-It sti
 ```
+
+[Back to top](#)
