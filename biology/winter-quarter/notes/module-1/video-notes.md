@@ -1,16 +1,27 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 1: Gene Expression, Development, Technologies > Video Lecture Notes
 
-# Module 1 Video Lecture Notes
+## Module 1 Video Lecture Notes
 Andre Ye, 1/6/21
+
+<br>
 
 ---
 
-## Navigation
+<br>
+
+### Navigation
 - [Operons and Gene Regulation in Bacteria](#operons-and-gene-regulation-in-bacteria)
 - [Lac Operon](#lac-operon)
 - [Jacob Monod lac operon](#jacob-monod-lac-operon)
 
-## Operons and Gene Regulation in Bacteria
+
+<br>
+
+---
+
+<br>
+
+### Operons and Gene Regulation in Bacteria
 [Access here](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/v/operons-and-gene-regulation-in-bacteria){:target="_blank"}
 - DNA regulation: if you look at an organism's genome, not all the genes are being translated & transcripted at the same time.
   - e.g. immune and muscle cells have the exact same DNA,
@@ -26,7 +37,14 @@ Andre Ye, 1/6/21
 - The repressor may only be able to do its job if other molecules - **corepressors** - are attached to it.
 - An **activator** allows *more* transcription. Small molecules that turn the *activator* on are **inducers**.
 
-## Lac Operon
+
+<br>
+
+---
+
+<br>
+
+### Lac Operon
 [Access here](https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/regulation-of-gene-expression-and-cell-specialization/v/lac-operon){:target="_blank"}
 - *Lac* operon deals with lactose; e.g. `lacZ` codes for an enzyme that cleaves it into simpler sugars.
 - If there's no lactose, there is no need to translate enzymes needed. Lac repressor prevents the RNA polymerase from transcribing.
@@ -39,7 +57,13 @@ Andre Ye, 1/6/21
   - There will be allolactose, so the RNA polymerase will be able to transcribe.
   - However, there is low cAMP, which cannot bind to the CAP, which will not bind to the CAP site and act as an activator.
 
-## Jacob Monod lac operon
+<br>
+
+---
+
+<br>
+
+### Jacob Monod lac operon
 [Access here](https://www.khanacademy.org/test-prep/mcat/biomolecules/dna/v/jacob-monod-lac-operon){:target="_blank"}
 - An eye cell and a skin cell have the exact same DNA, but different genes are expressed.
 - Usually, protein regulation happens at the transcription level; it's the most efficient.
@@ -49,5 +73,12 @@ Andre Ye, 1/6/21
 - The RNA polymerase attaches to the promoter; on the operator site, a repressor sits and blocks the RNA polymerase.
 - When there is lactose in the cell, the lactose attaches to the repressor protein and makes it come off the operator site.
   - RNA polymerase moves and transcribes all the genes.
+
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
