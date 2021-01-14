@@ -5,7 +5,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
 <br>
 
----
+--- 
 
 <br>
 
