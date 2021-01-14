@@ -1,6 +1,5 @@
 [Home](https://andre-ye.github.io) > Biology Navigation
 ## TS Biology
-# Test
 Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
 <br>
