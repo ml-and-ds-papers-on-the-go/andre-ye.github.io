@@ -1,8 +1,4 @@
-<html lang="en-US">  
-  <head>
-    <link rel='stylesheet' type='text/css' href='/css/main.css'>
-  </head>
-</html>
+
 
 # Hey!
 
