@@ -1,16 +1,14 @@
+title: Andre Ye
+name: </>
+author: 
+baseurl: "/"
+description:
+profile_url: "http://andre-ye.github.io"
+
 theme: minima #jekyll-theme-cayman
 markdown: kramdown
 header_pages:
   - home.md
-  
-skin: dark
 
 github_username: andre-ye
 linkedin_username: andre-ye
-
-title: Andre Ye
-name:  
-author:   
-baseurl: "/"
-description:
-profile_url: "http://andre-ye.github.io"
