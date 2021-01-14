@@ -1,7 +1,6 @@
+
 ## Hey!
 I'm Andre. Currently, I'm a student at the University of Washington Transition School.
-
-
 
 <br>
 
