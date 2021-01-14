@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > Precalculus Navigation
 
-# TS Precalculus
+## TS Precalculus
 Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
 
-## Collingwoods
+<br>
+
+---
+
+<br>
+
+### Collingwoods
 *Collingwood textbook is available [here](https://sites.math.washington.edu/~colling/HSMath120/TB201112.pdf){:target="_blank"}.*
 - Chapter 1: "Warming Up". Rates, times, and distances; the modeling process.
   - [Collingwood 1](https://andre-ye.github.io/precalc/collingwoods/Collingwood_1.pdf){:target="_blank"}
