@@ -1,4 +1,7 @@
 <html lang="en-US">  
+  <head>
+    <link rel='stylesheet' type='text/css' href='/css/main.css'>
+  </head>
   <body>
   <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
     <script>
