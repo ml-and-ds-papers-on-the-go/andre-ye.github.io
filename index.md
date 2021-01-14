@@ -1,5 +1,3 @@
----
-
 # Hey!
 
 I'm Andre. Currently, I'm a student at the University of Washington Transition School. Test
@@ -32,7 +30,7 @@ I'm Andre. Currently, I'm a student at the University of Washington Transition S
 
 <br>
 
-```html
+```text
 // I'm experimenting w/ something and too lazy to put it elsewhere, so here you go.
 <html lang="en-US">  
   <head>
