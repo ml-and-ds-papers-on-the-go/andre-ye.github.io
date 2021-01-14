@@ -9,7 +9,10 @@ Andre Ye, 1/6/21
 
 <br>
 
+# 1
+## 2
 ### Navigation
+#### 4
 - [Introduction](#introduction)
 - [18.1: An Overview of Gene Regulation and Information Flow](#181-an-overview-of-gene-regulation-and-information-flow)
   * [Mechanisms of Regulation](#mechanisms-of-regulation)
