@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 2 > Notes on *Industrialism and the American Worker, 1865-1920*
 
-# Notes on *Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky
+## Notes on *Industrialism and the American Worker, 1865-1920* by Melvyn Dubofsky
 Andre Ye, 1/9/2021
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Introduction](#introduction)
 - [The Shock of Change](#the-shock-of-change)
   * [Changing Relationships Between Workers and Employers](#changing-relationships-between-workers-and-employers)
@@ -18,12 +24,24 @@ Andre Ye, 1/9/2021
   * [Conclusions and Discussion](#conclusions-and-discussion)
 - [Labor Confronts the Law](#labor-confronts-the-law)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - Civil War to the end of the 19th century: **turmoil for the American working class.**
   - Workers fought violent industrial conflicts in American history.
 - A variety of political movements transpired.
 
-## The Shock of Change
+<br>
+
+---
+
+<br>
+
+### The Shock of Change
 - Extensive industrialization produced a large shock to the social order.
 - 1865-1897: orthodox values and community structures shattered by economic & social change.
   - Giant business corporations and urban concentrations of people shifted meanings of concepts like liberty and oppurtunity.
@@ -36,7 +54,7 @@ Andre Ye, 1/9/2021
 - **When elites dominated society, this frustrated the masses** of a less technological and bureaucratic nature.
   - A failure of political parties and social structures to offer a sense of security in this chaotic environment.
 
-### Changing Relationships Between Workers and Employers
+#### Changing Relationships Between Workers and Employers
 - Workers did not enter postbellum industrial expansion as powerless; in 1870s and 1880s workers had some level of power on their employers.
   - Iron, steel, and farm machinery: workers united in craft unions were indispensable.
 - Craftsmen that scored successes in wages yielded rewards for semiskilled and unskilled workers as well.
@@ -49,7 +67,13 @@ Andre Ye, 1/9/2021
   1. Corporate merging and concentration. This reduces competition in key industries; peaked between 1897 and 1904. Conflicted with traditional American values of individualism, free competition, and equal oppurtunity.
   2. Employers exerted unilateral authority over employee wages, hours, and working conditions. This disciplinary effort ran against workers and the island communities.
 
-## Industrial Conflict
+<br>
+
+---
+
+<br>
+
+### Industrial Conflict
 - Workers attempted to preserve or expand their power; employers sought additional authority over their employees.
 - Bitter battles of labor and capital.
   - Molly Maguire and coal district notoriety;
@@ -62,7 +86,7 @@ Andre Ye, 1/9/2021
 - Striking had become the wage worker's primary defense against employers by the end of the 19th century.
   - Strikes became more planned and less spontaneous, associated with unions.
 
-### Conflicts Between Anthracite Miners and Mine Owners
+#### Conflicts Between Anthracite Miners and Mine Owners
 - Occurred in northeastern Pennsylvania.
 - Older narrative romanticized the situation: noble operators protected the local community against criminimal anarchists ('Mollies'), or courageous miners defined rederess of grievances.
 - Anthracite district of Penn. experienced rapid economic & population growth immediately postbellum. 
@@ -89,7 +113,7 @@ Andre Ye, 1/9/2021
   - Mollies were linked with unionism and lawlessness.
   - By linking the WBA with the Mollies, killed unionism in the district.
   
-### Other Conflicts and Industrialist Tactics for Strike Repression
+#### Other Conflicts and Industrialist Tactics for Strike Repression
 - Most industrialists lacked Irish-immigrant scapegoats, but neverhteless harnessed violence and defense of the law to turn in their own advantage.
   - 1873-1876; employers that encoutered a powerful workforce would engage in inevitable violence.
   - Strikebreakers were often recruited; tensions were often exacerbated by ethnic and racial characteristics of many strikebreakers. Compounded economic and social fault lines; raised violence to a higher level.
@@ -97,7 +121,7 @@ Andre Ye, 1/9/2021
     - Often relied upon governors or presidents to provide marshals and troops.
 - Workers saw local power usurped by external sources of authority functioning for the industrialists.
 
-### 1877 Railroad Strikes
+#### 1877 Railroad Strikes
 - Financially strained railroads in 1877 cut workers' wages sharply and increased workloads.
   - Stimulated mass anger and a unionization attempt.
 - July; Baltimore & Ohio Railroad announced third 10% cut in wages; a spontaneous walkout erupted.
@@ -115,7 +139,7 @@ Andre Ye, 1/9/2021
 - Technological iinnovation undercut the strength and security of workers; craftsmen found their skills superfluous.
 - Economic power of employers and alliance with government bred frustration among militant workers.
 
-### Haymarket Square Incident
+#### Haymarket Square Incident
 - 1880s militant workers and radical agitators often resorted to rhetoric of violence, especially in Chicago.
   - 1886 Chicago: center of radical and anarchist activities.
 - In May 1886, police and strikers clashed; death of two workers.
@@ -128,7 +152,7 @@ Andre Ye, 1/9/2021
 - Furthermore, strikers and milita clashed in Bay View, Wisconsin.
   - A Polish iron worker used crowd action to close iron foundries; ten were shot fatally to end the strike.
 
-### Andrew Carnegie and Industrialist Desire to Destroy Trade Unions
+#### Andrew Carnegie and Industrialist Desire to Destroy Trade Unions
 - 1870s-1880s: Amalgamated Association fo Iron and Steel Workers was the most powerful craft union of the nation.
   - Members could only watch as steel production grew more important and Andrew Carnegie produced interruptions with union agreement.
 - Carnegie wanted to end the union's influence.
@@ -141,7 +165,7 @@ Andre Ye, 1/9/2021
 - When workers had short-term ability to stalemate employers, the state intervened.
 - If employers sought to drive out unions, workers had no choice but to fight back.
 
-### The Pullman Boycott
+#### The Pullman Boycott
 - The conflict revealed respective strength and political power of workers and employers; industrialists' power grew far past that of employees.
   - Workers were divided by demographic, but employers were united through mergers and trade associations.
   - Railroads suffered from excessive competition; railroad managers made informal and formal alliances to cure this.
@@ -149,7 +173,7 @@ Andre Ye, 1/9/2021
   - Members boycotted all railroads using Pullman cars; most railroad traffic was brought to a halt.
 - Grover Cleveland and the Attorney General threw resources of the federal government against the strikers.
 
-### Conclusions and Discussion
+#### Conclusions and Discussion
 - This discussion of industrial conflict questions assumptions of American social order.
 - Workers are distinguished from employers not by values, behaviors, or goals, but simply by capital owned.
 - Most discussions of American history are very abstracted; people did indeed enjoy simple joys.
@@ -157,7 +181,13 @@ Andre Ye, 1/9/2021
 - Hard work was praised as the creator of human progress and happiness; capital was defined as the product of past labor.
 - Most Americans shared a commitment to republican principles, yet power and interest were issues of deadly conflict.
 
-## Labor Confronts the Law
+<br>
+
+---
+
+<br>
+
+### Labor Confronts the Law
 - The law was a battleground in which shared values and principles favored employers.
 - Late 19th century law generally allowed trade unions to exist legally.
   - Unions and practices were no longer criminal conspiracies, yet they remained parchment rights.
@@ -169,5 +199,11 @@ Andre Ye, 1/9/2021
 - **Confrantation of organized labor with the law was unpleasant;** judges taught trade unionists they could not strike with the support of the state, or ask the state to regulate employers in the interest of labor.
 - Workers continued to worship common principles, and industrialists & allies **rewrote the rules of the game**; transforming the established structure of the community and traditional values.
 - Industrialists suceeded because they were the first to learn the problems of industrial society that escaped individual solutions.
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
