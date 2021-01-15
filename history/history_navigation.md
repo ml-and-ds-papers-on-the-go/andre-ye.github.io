@@ -14,7 +14,7 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-guides), [Weekly Reading Responses](#weekly-reading-responses), [Course Mechanics & Feedback](#course-mechanics)
 
 #### Lecture Notes
-- [Class Conflict in the Gilded Age](https://andre-ye.github.io/history/winter/lectures/class-conflict-in-the-gilded-age)
+- ["Class Conflict in the Gilded Age"](https://andre-ye.github.io/history/winter/lectures/class-conflict-in-the-gilded-age), 1/11-1/15
 
 #### Study Guides
 
