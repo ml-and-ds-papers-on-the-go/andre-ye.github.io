@@ -23,6 +23,17 @@ Andre Ye, 1/11/21
   * [Police Repression of the Anarchists](#police-repression-of-the-anarchists)
   * [Legacy of Haymarket](#legacy-of-haymarket)
 - [The Second Industrial Revolution](#the-second-industrial-revolution)
+  * [Prelude](#prelude)
+  * [Beginnings of the Second Industrial Revolution](#beginnings-of-the-second-industrial-revolution)
+  * [The Steam Engine and Railroads](#the-steam-engine-and-railroads)
+  * [The Role of the State](#the-role-of-the-state)
+- [Industrial Fortunes](#industrial-fortunes)
+- [Conditions of Labor](#conditions-of-labor)
+- [Political Corruption](#political-corruption)
+  * [The Bosses of the Senate](#the-bosses-of-the-senate)
+  * [The Courts and Liberty of Contract](#the-courts-and-liberty-of-contract)
+- [New Ideologies: Social Darwinism](#new-ideologies-social-darwinism)
+- [Strikes and Violent Conflict](#strikes-and-violent-conflict)
 
 Note - a transcript for part of the lecture is [here](https://andre-ye.github.io/history/winter/lectures/transcripts/class-conflict-in-the-gilded-age-2){:target="_blank"} (opens in new tab).
 
@@ -211,7 +222,7 @@ Note - a transcript for part of the lecture is [here](https://andre-ye.github.io
 
 #### Beginnings of the Second Industrial Revolution
 - The first industrial was discussed with Lowell.
-- Power sources are an important; Lowell power sources from water, second industrial revolution used electricity.
+ - Power sources are an important aspect; Lowell power sources from water, second industrial revolution used electricity.
 - A significant change, utilizing fossil fuels.
 - Interchangable parts of rifles - example of mechanized production.
 - Nevertheless, the railroad industry is the most important part of this.
@@ -222,6 +233,7 @@ Note - a transcript for part of the lecture is [here](https://andre-ye.github.io
 - Railroads are the most sophisticated and politically dominant industry in the 1870s, 80s, and 90s.
  - There are stock market frenzies, booms, and busts built on the railroad industry; pouring capital to fund competing industries.
 - You had to spend money from the outset to think about getting returns from the freight that would be shipped; bankruptcies were rife in the railroad industry.
+- Technological advancement gave rise to new forms of transit, exchange, geographic scope, continental expanse, etc.
 
 #### The Role of the State
 - Much of the success of railroads came from support from the state; given massive swathes of land.
@@ -255,6 +267,11 @@ Note - a transcript for part of the lecture is [here](https://andre-ye.github.io
 <br>
 
 ### Conditions of Labor
+- For working people, the state had a more *antagonistic* approach; government was providing protections for corporate growth and expansion (contracts), but no similar protections for working people.
+ - **Little protections for working or living conditions**.
+ - Led to extreme poverty with few protections.
+ - Ruinous competition; firms that would compete with each other and collapse the entire industry. Parallels with competition in *labor markets*.
+  - The shared legal principle is that the government should not interfere with the process.
 - The state was taking action to spur and advance industrial properties, not taking action to mitigate wealth inequality or thinking about redistributive efforts, **workers had no similar protections.**
 - No protection in terms of working conditions.
  - 35,000 people were being killed in industrial accidents in workplaces every year; growth of factories geared towards profit maximization are not considering the human conditions of poeple doing the work.
@@ -262,122 +279,94 @@ Note - a transcript for part of the lecture is [here](https://andre-ye.github.io
   - Furthermore, if you are incapacitated, there are few resources available.
 - No protection in terms of consumers and living standards.
  - No oversight regulation standardization guarantees of living conditions; lack of proper ventilation, for example.
- - The law of competitiont hat applies to industrial development also applies to wages, which were continually low.
+ - The law of competition that applies to industrial development also applies to wages, which were continually low.
  - During periods of increased competition, wages would be pushed down even further.
 - Often whole families would need to work; men had the highest standard of wage, women had lower pay even if doing similar work, and children had even lower pay.
  - The standard consensus was to make children useful, and it would be thus routine to see them working.
  - Children are put to work, and the families need the wages.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+
+---
+
+<br>
+
+### Political Corruption
+
+#### The Bosses of the Senate
+- This disequalibrium raised questions about the viability of democratic practice.
+- **What does it mean to say you have access to democratic rights when there are limitations on your relationship with the government?**
+ - It helps if you can sponsor a politician.
+ - Helping to provide services that favor the popularity of politicians.
+- Enormous and unprecedented monopolists and corporations could sponsor congresspeople and lobby politically.
+ - The "Senator from Standard Oil"
+- Continues into outright corruption; there are a whole series of scandals at the local, state, and federal level.
+- Local level.
+ - *New York City machine Tweed ring*.
+ - The process of providing payments, positions, and patronage to vote for particular politicians.
+- State level.
+ - Pennsylvania; railroads were "the third state house" because of their influence on state politics.
+- Federal level.
+ - Railroad companies served on government boards.
+ - A commission would be formed to oversee infrastructure; companies would get executives on the board to deal with themselves.
+- A **trust** - an attempt to influence market competition by individual firms comign to an agreement on what the prices should be.
+ - The companies are not driving themselves out, agreeing on the minimum price to protect market viability.
+
+#### The Courts and Liberty of Contract
+- A change in the judicial system; how do courts decide on market agglomeration and similar subjects?
+- Railroads - if there is only one railroad line to a particular region, it has a monopoly on that market and can charge whatever they want.
+ - Farmers pissed about this lobbied the state of Illinois to draft a law that regulated the price of railroad commerce.
+ - Law: railroads cannot charge below a certain amount, or *above* a certain amount.
+ - Railroads took it to the Supreme Court; the Supreme Court initially *agreed*. It kept markets viable and facilitated free exchange.
+ - By 1886, after 10 years, the Supreme Court ruled exactly the opposite; market limitations is a violation of a legal principle of **liberty of contract**.
+- **Liberty of contract** - as part of the Constitutional guarantee around property rights, people, firms, companies should not be disrupted by third parties of any type from making free contracts with anyone they should choose.
+ - The timber and railroad company can make an exchange for how much they want to make.
+ - Applies to employment as well.
+- Laissez-faire capitalism; a contradiction between the government playing an active role and also advocating for the liberty of contract.
+- **The Grange movement** - farmers' movement against railroad company control. Eventually lose in the Supreme Court because of Liberty of Contract.
+
+<br>
+
+---
+
+<br>
+
+### New Ideologies: Social Darwinism
+- New ideologies are also emerging; the guiding orthodoxies of social relationships change.
+- Social Darwinism: social thinkers in the 19th century (Herbert Spencer, William Sumner) take the conception of Darwinian evolution and apply it to societies.
+ - What if people develop traits that make them well-developed or not to modern civilization?
+ - Is this is an unchanging law of biology and society, and therefore thinking about competition for survival means that mitigating this is not helpful?
+ - Is it such that those that are unfit should die? Does this further human evolution?
+- Applications: are immigrants well-adapted to society?
+ - Racial and class dynamics.
+- Spencer and Sumner are not just in the elite press, but making it into society more broadly.
+
+> Least of all does the world owe a living to the deadbeats, vagrants, dunkards, thieves, guttersnipes, Communists, and vicious loafers who came to the front and demanded it in recent riots. The world owes these classes rather extermination than a livelihood. -Chicago Tribune, 1877.
+
+> The worst specimens fo feminine depravity; scatter in all the red-headed, cross-eyed, and frowsy servant girls in the three divisions of the city. -Chicago Tribune, 1879. (on the Chicago march for the Paris Commune)
+
+<br>
+
+---
+
+<br>
+
+### Strikes and Violent Conflict
+- This type of thinking, this vision of the state, etc. meant that for the late 1800s, these conflicts continued.
+- Many people begin the era with the 1877 Railroad Strike, but continued.
+- Wabash Strike; Southwest. The federal government is called in to put down strikers and rioters; shooting protesters.
+ - Federal government develops a national armory system. Weapons are held in major cities to deal with social unrest.
+- Pullman Strike. Pullman railcard owned the housing and the factories that workers lived in; cut wages during the depression and raised rent on the housing they charged.
+ - Federal government was brought in to take jobs and put down rioting.
+- Homestead strike in 1892
+- The Coal Wars of the American West; coal workers were involved in shooting matches with employers.
+- 1911 Ludlowe massacre, where workers and their families were burnt out and killed by a firm owned by Rockefeller.
+- **How do we make sense of the violent conflict?**
+
+<br>
+
+---
+
+<br>
+
+[Back to top](#)
