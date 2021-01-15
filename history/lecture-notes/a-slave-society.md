@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Empire & Revolution: Society and Politics in Colonial America*
 
-# A Slave Society: Economics and Culture of American Slavery
+## A Slave Society: Economics and Culture of American Slavery
 Andre Ye, 11/10/20 & 11/19/20
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Introduction](#introduction)
 - [Central Questions](#central-questions)
   * [Comments](#comments)
@@ -34,7 +40,13 @@ Andre Ye, 11/10/20 & 11/19/20
   * [Pro Slavery Arguments](#pro-slavery-arguments)
   * [Abolition in the Americas](#abolition-in-the-americas)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - Ransom, *Conflict and Compromise*. Cambridge UP, 1986.
   - The Economics of Slavery
   - Access image [here](https://canvas.uw.edu/courses/1437128/files?preview=69940818){:target="_blank"} (requires login to Canvas)
@@ -47,8 +59,14 @@ Andre Ye, 11/10/20 & 11/19/20
   - Slavery remains incredibly profitable; violence drives this value.
 - Graphed the efficiency of the slave system.
   - Measured the degree of violence that was used.
-  
-## Central Questions
+
+<br>
+
+---
+
+<br>
+
+### Central Questions
 - Why did slavery persist in American society for so long? Why did it take the character that it did? What factors supported the slave system? What was slavery's relatinoship to the advent of capitalism? Was the nation a slave society?
 - The transition from colonial to modern slavery
   - Markets and commodites of people
@@ -60,6 +78,12 @@ Andre Ye, 11/10/20 & 11/19/20
 - A Slave Society?
   - Racial, gender, and class system modeled off slavery
   - Paternalist ethos and the cultural justifications for slavery were widely used in American society.
+
+<br>
+
+---
+
+<br>
 
 ### Comments
 - This set of lectures will focus on slavery in the 'modern era' (19th century).
@@ -79,7 +103,13 @@ Andre Ye, 11/10/20 & 11/19/20
 - Was slavery antithetical to the rise of capitalism?
 - **Was the United States a slave society?**
 
-## From Colonial to Modern Slavery
+<br>
+
+---
+
+<br>
+
+### From Colonial to Modern Slavery
 - When we last say the institution of slavery, it was just being developed in colonial Virginia.
   - It was becoming *institutionalized* in forms of racial hostility and division.
   - Via law and into the economic structure and law - particularly, the Southern colonies.
@@ -87,8 +117,8 @@ Andre Ye, 11/10/20 & 11/19/20
 - Was being institutionalized in a series of economic changes that *racialized* the practice.
   - A method of slavery just recently developing.
   - Made it particularly violent.
-
-### Capitalist Slavery
+  
+#### Capitalist Slavery
 - The system was worked into the governing framework.
   - Worked into the Constitution obliquely.
   - Recognition of slave-state senators, etc.
@@ -130,8 +160,14 @@ Andre Ye, 11/10/20 & 11/19/20
 - Going inland was not suited for large-scale plantation holdings.
 - Most people thought that slavery would have to die out; it could not traverse the Appalachian mountains.
 
-## Cotton
-### Long and Short Staple Cotton
+<br>
+
+---
+
+<br>
+
+### Cotton
+#### Long and Short Staple Cotton
 - With the advent of long-staple cotton, this changed. Slavery could expand.
 - Cotton was an important component of textile production.
   - Large markets for this.
@@ -144,7 +180,7 @@ Andre Ye, 11/10/20 & 11/19/20
   - Remains so until the Civil War.
 - Long staple cotton can stand frost and does not need to stay in the Chespeake area.
 
-### Soil Erosion
+#### Soil Erosion
 - A few years of very productive cotton harvesting will exhaust the soil.
 - The productive capacity of the society is drastically decreased.
 - Cotton requires lots of water.
@@ -154,14 +190,14 @@ Andre Ye, 11/10/20 & 11/19/20
   > Tens of thousands of acres of once productive lands are now reduced to the maximum of sterility. -Resident of SC farmer.
 - With the advent of the *pairing of cotton production and the slave  system*, could be very profitable.
 
-### The Need for Expansion
+#### The Need for Expansion
 - Needed to expand to new areas for cotton to be grown on new lands.
 - To maximize productivity, soil and landw as needed.
 - Southern states were eager to push West; territories west of the Mississippi awarded in the Louisiana purchase and the Treaty of Paris.
   - Meant that there were very wide areas that the farmers could access.
 - Were people that were living there.
 
-### Indian Removal and Demand for Cotton Lands
+#### Indian Removal and Demand for Cotton Lands
 - Initial settlement along the initial very narrowly settled region.
 - British tried to enforce an arbitrary line.
 - Indigenious lands thrived for centuries (Cherokee, Chickasaw, Creek); had well-established but disrupted adaptive strategies and developed societies in the *interior*.
@@ -195,7 +231,13 @@ Andre Ye, 11/10/20 & 11/19/20
 - Led march from Georgia to Oklahoma where several thousand Cherokee died in the dead of winter.
 - Was repeated with many different people from the Choctaw to the Seminole, etc.
 
-## King Cotton
+<br>
+
+---
+
+<br>
+
+### King Cotton
 - Such removal opens up an enormous swath of territory to expand the slave system.
 - The interior where cotton could grow is pushed far, far westward.
 - Was no longer confined to the coastal systems.
@@ -209,7 +251,7 @@ Andre Ye, 11/10/20 & 11/19/20
 - Emerges as the era of 'King Cotton'.
   - Cotton becomes an important export crop.
   
-### Export and Significance of Cotton
+#### Export and Significance of Cotton
 - Empire of Cotton becomes an important agricultural product for the states.
 - Cotton is the **most important export commodity for international trade.**
   - Supplies 3/4 of the globe's use of cotton.
@@ -220,7 +262,13 @@ Andre Ye, 11/10/20 & 11/19/20
   - e.g. based on oil production and sells its products to other countries in return for others.
 - Becomes an extremely important economic factor.
 
-## The Second Middle Passage
+<br>
+
+---
+
+<br>
+
+### The Second Middle Passage
 - Slavery is drawn much further inland.
 - Populations from Carolinas needed to be marched inland.
 - Charleston to New Orleans slave market.
@@ -231,7 +279,7 @@ Andre Ye, 11/10/20 & 11/19/20
 - Humans could be sold for profitability.
 - Chains of people being marched across the territory into the Deep South.
 
-### Slavery and the Nation
+#### Slavery and the Nation
 - Cotton and slavery were fused and were by far the most profitable industries in the United States.
 - We have currently discussed the export of cotton; however, **slaves were the leading single asset in the U.S. economy** more so than the financial or manufacturing system in the early 19th century.
 - By the 1960s, over 4 million slaves and in aggregate the largest of any real estate property in the U.S.
@@ -244,12 +292,18 @@ Andre Ye, 11/10/20 & 11/19/20
   - U.S. financial industry getting a large boost from the institution fo slavery.
 - Ancillary jobs rise with slavery (auctions, slave-breakers, cotton textile manufacturing, industrial revolution constructed with slavery, banking).
 
-#### Manufacturing
+##### Manufacturing
 - The largest economic engine of the New England system: **textile manufacturing.**
   - Textiles from the South, creating the first industrial corporations in the United States.
 - Manufacturing purchased cotton for extremely cheap prices and converted it into profit to sell.
 
-## The Southern Economy
+<br>
+
+---
+
+<br>
+
+### The Southern Economy
 - Working in the Southern economy meant working around or in association to the slave.
 - Selling agriculture to these hue plantations with hundreds or even thousands of slaves that need food.
 - Making anything - wagons, barrels, baskets, etc. are all used to facilitate the process of cotton harvesting and sale.
@@ -266,7 +320,7 @@ Andre Ye, 11/10/20 & 11/19/20
 - West Virginia breaks off from Virginia as a state; had hostility to the slavery.
 - Slavery works its way into American economic growth.
 
-### The Planter Class
+#### The Planter Class
 - One quarter of planters owned slaves, but most only had a few.
   - Were very few extremely large plantations.
   - Few families (small proportion) owned more than 100 slaves.
@@ -304,7 +358,13 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
 
 \* Values are in dollars. n/a = not available.
 
-## Productivity and Labor Discipline
+<br>
+
+---
+
+<br>
+
+### Productivity and Labor Discipline
 - Economic pressures impacted *what slaves were experiencing.*
 - Attempt to manage day-by-day labor; quota system - slavemasters would purchase a slave, the slave would work for a year, and at the end of the year depending on production output would continue to raise quotas.
 - 2% annual increase in productivity of plantations.
@@ -316,7 +376,7 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
   - Embarrassed to explicitly put slavery in the Constitution.
   - How to deal with this contradiction? How to justify a system like this?
 
-### The Paternalist Ethos and Justifications of Slavery
+#### The Paternalist Ethos and Justifications of Slavery
 - Variety of ways to justify claims.
 - Some were religious: looking for New Testament examples in the Bible to justify slavery.
   - Many justifications did come from the Old Testament as well.
@@ -335,13 +395,13 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
   - It's never happened; Egypt, Greece, Rome, etc. all societies that utilized slavery as the foundation for what makes civilization possible.
   - How to question? Based in wealth, natural hierarchies, and virtually permanent in society.
 
-### Pro Slavery Arguments
+#### Pro Slavery Arguments
 - Not an embarrassment of slavemasters, but instead a point of pride.
 - Proudly forthright and public arguments made to justify the institution of slavery.
   - No shame; argued to be a natural, right, and human system.
 - Counterarguments being made at the same time.
 
-### Abolition in the Americas
+#### Abolition in the Americas
 - Defenses for hte economic and social system are being made.
 - Slave trade is banned in the US in 1808.
   - Still happening through piracy, but it's much more difficult.
@@ -353,6 +413,10 @@ Average Prices in Selected Areas for "Prime Field Hands", 1800-1860
   - Enslaved peoples of the French colony revolt, overthrow their masters, defeat them, and create a new nation of liberated slaves called *Haiti*.
 - Pro-slavery arguments were overwhelmingly defensive.
 
+<br>
+
 ---
 
-**To be continued**
+<br>
+
+[Back to top](#)
