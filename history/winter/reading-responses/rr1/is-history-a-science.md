@@ -1,7 +1,13 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 1 > Notes on *Is History a Science?*
 
-# Notes on *Is History a Science?* by Eugene Goodheart
+## Notes on *Is History a Science?* by Eugene Goodheart
 Andre Ye, 1/4/21
+
+<br>
+
+---
+
+<br>
 
 - Jared Diamond believes history is a science; believes that history has too often been one fact after another.
   - Instead, proposes "scientific history" as a search for *the ultimate explanation*.
@@ -41,13 +47,18 @@ Andre Ye, 1/4/21
 
 <br>
 
+---
+
+<br>
+
 - Bottom line: *there are scientific tools the historian has, but fundamentally the historian's purpose to tell what happened - objectively so - may or may not be generalized or a law.*
   - Historical representation cannot is not always a science.
   - History does not look for one explanation to triump over all other ones.
 
+<br>
+
+---
+
+<br>
+
 [Back to top](#)
-
-
-
-
-
