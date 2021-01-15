@@ -184,7 +184,7 @@ Andre Ye, 1/14/21
 | **Alliteration** is repition of an initial consonant sound. |
 | **Assonance** is the repitition of vowel sounds. |
 | **Consonance** is the reptition of ending consonants. |
-| ** Meter**  is the basic rythmic structure of a poem. |
+| **Meter**  is the basic rythmic structure of a poem. |
 | Are sounds of words suggestive? Are there homophones? |
 | Do patterns of rhyme or repeated sounds link ideas? |
 | Is the meter or rhyme pattern broken? |
