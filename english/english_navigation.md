@@ -27,6 +27,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 - [Notes on Chapter 2: "What is a Literary Analysis?"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-2), 1/4/21.
 - [Notes on Chapter 3: "From Surface to Depth"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-3), 1/9/21.
 - [Notes on Chapter 4: "Patterns"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-4), 1/10/21.
+- [Notes on Chapter 5: "Digging Deeper"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-5), 1/14/21.
 
 <br>
 
