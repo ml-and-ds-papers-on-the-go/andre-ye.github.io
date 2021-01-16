@@ -109,7 +109,7 @@ Andre Ye, 1/16/21
 - Challenge: how to generate the breaks in the first place?
 
 | Zinc Finger Nuclease (ZFN) and TAL Effector Nuclease | Programmable way to generate double-stranded breaks; rely on **protein-based recognition** of DNA sequences. Proteins are modular and can be generated in different combinations to recognize different DNA sequences. **Requires a lot of protein engineering.** |
-| CRISPY/Cas9 | An **RNA-programmed** nuclease; a single protein can be used with a guide RNA. |
+| CRISPR/Cas9 | An **RNA-programmed** nuclease; a single protein can be used with a guide RNA. |
 
 - This is the missing piece of the "Biology IT Toolbox".
   - DNA structure/sequencing
