@@ -15,12 +15,15 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 
 #### Biology Content
 - Module 1: Gene Expression, Development, Technologies
-  - [Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18)
-  - [Video Notes: Operons and Gene Regulation in Bacteria, Lac Operon](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/video-notes)
-  - [Textbook Notes: Chapter 19, "Control of Gene Expression in Eukaryotes"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-19)
-  - [Cellular Specialization and Pluripotent Stem Cells](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/cellular-specialization)
-  - [Stem Cell Revolution Documentary Notes](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/stem-cell-revolution)
-
+  - Gene expression and regulation.
+    - [Textbook Notes: Chapter 18, "Control of Gene Expression in Bacteria"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-18)
+    - [Video Notes: Operons and Gene Regulation in Bacteria, Lac Operon](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/video-notes)
+    - [Textbook Notes: Chapter 19, "Control of Gene Expression in Eukaryotes"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-19)
+  - Stem Cells and iPS
+    - [Cellular Specialization and Pluripotent Stem Cells](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/cellular-specialization)
+    - [Stem Cell Revolution Documentary Notes](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/stem-cell-revolution)
+  - CRISPR and Cas-9
+    - [Notes on Lecture "Genome Engineering with CRISPR-Cas9: Birth of a Breakthrough Technology"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/doudna-lecture)
 #### Lab Background and Notes
 
 <br>
