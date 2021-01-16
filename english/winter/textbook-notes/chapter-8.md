@@ -10,6 +10,15 @@ Andre Ye, 1/16/21
 <br>
 
 ### Navigation
+- [Introduction](#introduction)
+- [Making Arguments About Genre](#making-arguments-about-genre)
+- [Using Genre to Brainstorm](#using-genre-to-brainstorm)
+- [Using Unfamiliar Verse Genres: The Sonnet](#using-unfamiliar-verse-genres--the-sonnet)
+  * [What is a sonnet?](#what-is-a-sonnet-)
+  * [Petrarchan and Shakespearean sonnets](#petrarchan-and-shakespearean-sonnets)
+- [Using Genre to Write Persuasively](#using-genre-to-write-persuasively)
+  * [Common Words and Phrases Associated with Genre](#common-words-and-phrases-associated-with-genre)
+
 
 <br>
 
@@ -65,7 +74,7 @@ Andre Ye, 1/16/21
 | **Subject matter** | What kinds of subject and content matter does one expect to find int he genre? What conflicts does the genre include? Are there common themes or motifs? |
 | **Purpose** | Does the genre have a purpose, like to celebrate or mourn? Does it convey a moral? |
 | **Style and tone** | Is the genre dark or light? Does it use elevated diction or plain speech? |
-| **Characters or speakers ** | Are there "stock" characters typically found in the genre? Are there common personality traits? |
+| **Characters or speakers** | Are there "stock" characters typically found in the genre? Are there common personality traits? |
 | **Settings** | What settings does the genre usually take place in? |
 | **Rhythm, meter, and rhyme** | Is the genre associated with a particular rhyme scheme or meter? Is there an order or pattern the genre is supposed to follow? |
 
