@@ -77,7 +77,7 @@ Andre Ye, 1/16/21
 - The two RNAs would be linked together to create a **single guide RNA**.
 
 #### Programmed Cas9 Cleaves DNA at Specified Sites
-- Simplee xperiment to test whether this was a programmable DNA cleaving enzyme.
+- Simple experiment to test whether this was a programmable DNA cleaving enzyme.
 - Short single-guide RNAs were generated, these recognized sites in a circular DNA molecule.
 - The plasmid DNA was incubated with Sal1 and the RNA-guided Cas9.
 - Results: cleaved molecules of DNA are separated in an agarose gel, and a different sized-molecule is released from a doubly-digested plasmid.
