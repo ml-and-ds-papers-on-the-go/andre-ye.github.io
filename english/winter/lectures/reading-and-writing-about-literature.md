@@ -1,11 +1,15 @@
 [Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Lectures and Class Presentations](https://andre-ye.github.io/english/english_navigation#lectures-and-class-presentations) > Reading and Writing About Literature
 
-# Reading and Writing About Literature
+## Reading and Writing About Literature
 Andre Ye, 1/4/21
+
+<br>
 
 ---
 
-## Navigate
+<br>
+
+### Navigate
 - [Reading Critically](#reading-critically)
 - [Reading Creatively](#reading-creatively)
 - [Uniquely American Literature](#uniquely-american-literature)
@@ -15,7 +19,13 @@ Andre Ye, 1/4/21
 - [Observe, Question, Interpret, Reflect](#observe-question-interpret-reflect)
 - [Question Your Opinions and Responses](#question-your-opinions-and-responses)
 
-## Reading Critically
+<br>
+
+---
+
+<br>
+
+### Reading Critically
 - Look beyond what the text says on a surface level to discover what it means.
   - "look behind the story"
   - Find the meaning; metaphor, symbol, reading between the lines
@@ -30,22 +40,40 @@ Andre Ye, 1/4/21
   - Figurative language
 - **Focusing on the *method* and the *scale* rather than simply story.**
 
-## Reading Creatively
+<br>
+
+---
+
+<br>
+
+### Reading Creatively
 - Attempting to fully occupy the world that the text imagines to better understand abstract ideas nad broader themes.
   - We need to inhabit the world the writer creates to truly experience what's going on.
   - We are suspending our sense of reality and engaging with the reality (or 'unreality') set up by the author of the text.
 - Literary critics move one step beyond imagination (i.e. 'here I am in this story'), looking at *how* the author manipulates the reality (i.e. setting, characterization, tone, the five senses, etc.).
   - **How** is it so that readers suspend their place to engage in the world the writer paints?
   - Techniques, artistic choices, devices, etc.
+ 
+<br>
 
-## Uniquely American Literature
+---
+
+<br>
+
+### Uniquely American Literature
 - This class will focus mostly on American literature.
   - Can apply to literature from other national contexts.
 - Analyzing the world the author sets up but also as a literature that came out of *our world*.
   - Hence, it comes from a specific context; social and other factors influencing authors.
 
-## Writing About Literature
-### Scholarship
+<br>
+
+---
+
+<br>
+
+### Writing About Literature
+#### Scholarship
 - Think about it in terms of professional literary criticism: think of yourself as a beginner literary critic, in which [reading, thinking, writing] are the actions of this world.
 - There are conventions and etiquette that shape this scholarly world.
 - Literary criticism is a conversation about how texts become markers of ideological and societal forces that shape a person's perspective.
@@ -63,21 +91,33 @@ Andre Ye, 1/4/21
     - Are you focusing more on your own reaction than the text?
 - **Entertain different perspectives and opinions**, be open-minded when reading texts.
 
-### Consider What You Know and Think
+#### Consider What You Know and Think
 - What do you know after you read literature?
 - Scholarship pushes past summary to consider what we think.
 - Our initial thoughts and opinions are starting points to develop into a scholarly action.
   - Does the author make choices to elicit those reactions? (e.g. dislike of a character)
   - Hence entering the realm of literary criticsm.
 
-## Observe, Question, Interpret, Reflect
+<br>
+
+---
+
+<br>
+
+### Observe, Question, Interpret, Reflect
 - The Hermeneutical Circle: in every act of learning, we understand, explain, appropriate, and repeat.
   - Pushes one back into a *reconfiguration* after reflection and appropriation.
   - The understanding changes because of reconfiguration of ideas.
 - Rereading something, responding to something: just a first step of literary criticism or learning anything.
   - Push past initial facts and continue to question, interpret, and to reflect.
 
-## Question Your Opinions and Responses
+<br>
+
+---
+
+<br>
+
+### Question Your Opinions and Responses
 1. **Summarize**. Clarify what you know.
   - Ensure that the basics of reading comprehension have taken place.
   - Plot, character.
@@ -95,5 +135,11 @@ Andre Ye, 1/4/21
   - If analyzing breaks the work into parts, synthesizing helps build connections betweent he parts.
     - Making an argument about how a text is situating itself in the literary, generic, real worlds.
   - Create an umbrella argument - a larger argument under which several observations and perspectives can stand.
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
