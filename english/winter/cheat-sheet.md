@@ -3,6 +3,12 @@
 # English Cheat-Sheet
 *\*A handy reference for discussions, reading, and writing.*
 
+<br>
+
+---
+
+<br>
+
 ## Navigation
 - [Guidelines of Literary Analysis](#guidelines-of-literary-analysis)
   * [The Five Standards of Litery Analysis](#the-five-standards-of-litery-analysis)
@@ -10,7 +16,15 @@
 - [Strategies for Close Reading](#strategies-for-close-reading)
   * [Surface Depth Strategy](#surface-depth-strategy)
   * [Patterns Strategy](#patterns-strategy)
+  * [Opposites Strategy](#opposites-strategy)
+- [Strategies for Going Beyond the Text](#strategies-for-going-beyond-the-text)
+  * [Genre and Form](#genre-and-form)
 
+<br>
+
+---
+
+<br>
 
 ## Guidelines of Literary Analysis
 ### The Five Standards of Litery Analysis
@@ -30,7 +44,11 @@
 | Causal | Investigating impacts of factors on the production of the text |
 | Proposal | Argues an action be taken in relation to the text |
 
+<br>
+
 ---
+
+<br>
 
 ## Strategies for Close Reading
 - Surface/Depth strategy
@@ -63,10 +81,13 @@ Phrases used to connect multiple examples in a patterns argument:
 > again, moreover, furthermore, additionally, also, another example, similarly, further, even, finally
 
 ### Opposites Strategy
-One productive strategy for discovering complex interpretations is to look for opposites in a text.
-Interpretations that break down opposites are valued in literary studies because they influence how we see the world.
-Searching for arguments about opposites in a text is usually productive; this search usually leads to other insights to help you find a complex argument about a text.
-
+- One productive strategy for discovering complex interpretations is to look for opposites in a text.
+- Interpretations that break down opposites are valued in literary studies because they influence how we see the world.
+- Searching for arguments about opposites in a text is usually productive; this search usually leads to other insights to help you find a complex argument about a text.
+- When critics use the opposites strategy, their arguments usually have several steps.
+  1. Note oppositions as a tension in the text (usually through surface/depth).
+  2. Provide textual evidence that elaborates on these tensions.
+  3. Explain how the text subverts a normal way of looking at these opposites.
 - Common opposites or tensions:
 
 | life/death | natural/unnatural | male/female |
@@ -79,7 +100,48 @@ Searching for arguments about opposites in a text is usually productive; this se
 | appears | ironically | two facets of the same ___ |
 | opposed | at first it seems | paradoxically |
 
+<br>
+
 ---
+
+<br>
+
+## Strategies for Going Beyond the Text
+### Genre and Form
+- Some genres:
+
+| Broad | poetry, fiction, drama, nonfiction, comedy, tragedy, history |
+| Poetic | elegy, sonnet, ballad, ode, dramatic, monologue |
+| Popular | romance, mystery, horror, western, courtroom, drama |
+
+- Arguments about genre are persuasive when:
+  1. They support a clear surface/depth interpretation;
+  2. Do not contain extraneous information;
+  3. Follow proper citation practices;
+  4. Make an argument about the genre.
+- Questions to ask yourself about a genre:
+
+| **Cultural associations** | Who usually reads and writes this genre? Is it associated with an ethnic or social group? |
+| **Subject matter** | What kinds of subject and content matter does one expect to find int he genre? What conflicts does the genre include? Are there common themes or motifs? |
+| **Purpose** | Does the genre have a purpose, like to celebrate or mourn? Does it convey a moral? |
+| **Style and tone** | Is the genre dark or light? Does it use elevated diction or plain speech? |
+| **Characters or speakers** | Are there "stock" characters typically found in the genre? Are there common personality traits? |
+| **Settings** | What settings does the genre usually take place in? |
+| **Rhythm, meter, and rhyme** | Is the genre associated with a particular rhyme scheme or meter? Is there an order or pattern the genre is supposed to follow? |
+
+- Petrarchan and Shakespearean sonnet comparisons:
+
+| | **Petrarchan** | **Shakespearean** |
+| Named after | Franceso Petrarca | William Shakespeare |
+| Formation | Eight-line octave with ABBA ABBA rhyme scheme and six-line sestet with flexible rhyme - usually CDECDE or CDCDCD. | Three groups of four lines (quatrains) and a pair of lines (couplet). Rhyme scheme is ABAB CDCD EFEF GG. |
+| Structure | Two parts of the sonnet form an argument; octave describes the problem and sestet proposes a resolution. Ninth line creates a turn. | The third quatrain or the couplet contain an unexpected sharp term; summarizing the theme of the poem and introducing a new look at it. |
+| Subject matter | Unattainable love | Love and its torments, time, the immortality of poetry compared to the fleeting beauty of youth. |
+
+- Common words and phrases associated with genre:
+
+| breaks from | contradicts | overturns |
+| plays with | subverts | surprises |
+| unexpected |
 
 [Back to top](#)
 
