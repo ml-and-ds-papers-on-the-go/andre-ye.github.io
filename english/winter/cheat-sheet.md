@@ -62,6 +62,23 @@ Phrases used to introduce a patterns argument:
 Phrases used to connect multiple examples in a patterns argument:
 > again, moreover, furthermore, additionally, also, another example, similarly, further, even, finally
 
+### Opposites Strategy
+One productive strategy for discovering complex interpretations is to look for opposites in a text.
+Interpretations that break down opposites are valued in literary studies because they influence how we see the world.
+Searching for arguments about opposites in a text is usually productive; this search usually leads to other insights to help you find a complex argument about a text.
+
+- Common opposites or tensions:
+
+| life/death | natural/unnatural | male/female |
+| strong/weak | self/other | inside/outside |
+| youth/age | love/hate | truth/deception |
+
+- Common Words and Phrases Associated with Context
+
+| although | contrasting | rooted in the same ___ |
+| appears | ironically | two facets of the same ___ |
+| opposed | at first it seems | paradoxically |
+
 ---
 
 [Back to top](#)
