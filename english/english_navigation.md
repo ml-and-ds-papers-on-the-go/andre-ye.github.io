@@ -5,7 +5,7 @@
 </html>
 
 [Home](https://andre-ye.github.io) > English Navigation
-## TS English
+## TS English ✍️
 
 Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 
