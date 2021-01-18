@@ -32,7 +32,7 @@ Andre Ye, 1/17/21
 
 <br>
 
-### The Biology fo the CRISPR-Cas System
+### The Biology of the CRISPR-Cas System
 - While studying salt-tolerant archaean, investigators found short repeating DNA sequences.
   - These were separated by spacer sequences with no similarity to each other or other sequences.
   - This repeat-separated-by-spacer sequence is widespread in bacteria and archaea.
