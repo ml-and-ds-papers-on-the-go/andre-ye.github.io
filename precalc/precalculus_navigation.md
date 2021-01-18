@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > Precalculus Navigation
 
-## TS Precalculus
+## TS Precalculus 📐
 Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
 
 <br>
@@ -56,3 +56,16 @@ Taught by Dr. Johnston, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Collingwood 36](https://andre-ye.github.io/precalc/collingwoods/Collingwood_36.pdf){:target="_blank"}
   - [Collingwood 37](https://andre-ye.github.io/precalc/collingwoods/Collingwood_37.pdf){:target="_blank"}
   - [Collingwood 38](https://andre-ye.github.io/precalc/collingwoods/Collingwood_38.pdf){:target="_blank"}
+  - [Collingwood 39](https://andre-ye.github.io/precalc/collingwoods/Collingwood_39.pdf){:target="_blank"}
+- Chapter 8: "Composition." Working with composited functions.
+  - [Collingwood 44](https://andre-ye.github.io/precalc/collingwoods/Collingwood_44.pdf){:target="_blank"}
+- Chapter 9: "Inverse functions." Finding inverse functions and inverted domains and ranges.
+  - [Collingwood 45](https://andre-ye.github.io/precalc/collingwoods/Collingwood_45.pdf){:target="_blank"}
+
+<br>
+
+---
+
+<br>
+
+[Back to top](#)
