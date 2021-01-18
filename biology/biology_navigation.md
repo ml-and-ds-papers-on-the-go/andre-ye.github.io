@@ -24,6 +24,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
     - [Stem Cell Revolution Documentary Notes](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/stem-cell-revolution)
   - CRISPR and Cas-9
     - [Notes on Lecture "Genome Engineering with CRISPR-Cas9: Birth of a Breakthrough Technology"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/doudna-lecture)
+    - [Textbook Notes: Chapter 20.5, "Genome Editing"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-20)
 #### Lab Background and Notes
 
 <br>
