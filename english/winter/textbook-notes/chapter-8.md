@@ -100,13 +100,15 @@ Andre Ye, 1/16/21
   - Expresses a single theme or sentiment;
   - Has a shift in sentiment.
 - Example of iambic pentameter from SHakespeare's Sonnet 129:
+
 ```
 ˘   ´    ˘     ´    ˘       ´   ˘   ´    ˘  ´
 Is per jur'd, mur derous, blood y, full of blame
 
 ˘ = unstressed
 ´ = stressed
-````
+```
+
 - Some flexibility is acceptable; e.g. "mur-derous" needs to be pronounced as two syllables for it to work.
 
 #### Petrarchan and Shakespearean sonnets
