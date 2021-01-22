@@ -1,4 +1,3 @@
-Advent of Empire: Race and Conquest in 1900
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Advent of Empire: Race and Conquest in 1900*
 
 ## Advent of Empire: Race and Conquest in 1900
