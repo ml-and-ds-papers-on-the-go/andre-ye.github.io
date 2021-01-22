@@ -1,12 +1,26 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Empire & Revolution: Society and Politics in Colonial America*
 
-# Empire & Revolution: Society and Politics in Colonial America
+## Empire & Revolution: Society and Politics in Colonial America
 Andre Ye, 10/20/20 & 10/22/20
 
-## The Bottom Line
+
+<br>
+
+---
+
+<br>
+
+
+### The Bottom Line
 The American Revolution was political and complicated. It was not a neat story about liberty triumphing tyranny. Various interests that were in conflict and eventually got worked out in ways that were not so clean.
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Central Questions](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#central-questions)
 - Decolonization
   - [Chain of De-Colonization and Destabilization](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#chain-of-de-colonization-and-destabilization)
@@ -37,12 +51,24 @@ The American Revolution was political and complicated. It was not a neat story a
   - [Shay's Rebellion 1786](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#shays-rebellion-1786)
   - [Framing the Constitution](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution#framing-the-constitution)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - 1783: *The Death of Major Peirson* by John Singleton Copley.
 - Battle of Jersey on the island of Jersey on the channel between England and France.
   - A significant battle in the American revolution that involved no Americans.
 
-## Central Questions
+<br>
+
+---
+
+<br>
+
+### Central Questions
 - Central Questions:
   - What caused the American Revolution?
   - What role did ideology, economics, class, empire, and race play in shaping the dynamics of the revolution?
@@ -62,7 +88,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - Seminole in Florida; adopted large numbers of escaped African slaves.
   - Mourning Wars - indigenious peoples would go to war with other nations to incorporate more people.
 
-## Chain of De-Colonization and Destabilization
+<br>
+
+---
+
+<br>
+
+### Chain of De-Colonization and Destabilization
 - Nations were not able to maintain heavy control over empires in the Americas.
   - French Empire collapses 1754-63
   - English Empire follows 1775-83
@@ -77,7 +109,13 @@ The American Revolution was political and complicated. It was not a neat story a
 - The Revolutionary War was not as unique as many theorists and historians would like to think.
 - Spreads worldwide conceptions of rights.
 
-## French and Indian War / Seven Years War - 1754-1763
+<br>
+
+---
+
+<br>
+
+### French and Indian War / Seven Years War - 1754-1763
 - Americans: started war, Washington led a military incursion into indigenious regions allied with France
   - Sieze and speculate it
 - Spiralled into a global war.
@@ -90,14 +128,26 @@ The American Revolution was political and complicated. It was not a neat story a
 - England was 'overstretched' and wanted ot prevent ongoing conflict with indigenious peoples in the interior
 - Launched George Washington's military career.
 
-## Proclamation line of 1763
+<br>
+
+---
+
+<br>
+
+### Proclamation line of 1763
 - Established a line that forbids English settlement beyond that line and guarantees land to indigenious peoples in the interior.
 - Established by the English government unilaterally, part of peace negotiations.
 - George Washington went over this line and launched the Seven Years global conflict; need to limit and restrict settlement.
   - Self-imposed, in a sense.
 - The English are in debt and cannot make the colonies pay for them. Limit costs by restricting settlement.
 
-## Political Outlook on Independence
+<br>
+
+---
+
+<br>
+
+### Political Outlook on Independence
 
 | Date | Colonial Population |
 | --- | --- |
@@ -114,7 +164,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - English governmental officials
   - Women
 
-## Colonial Possibilities - Land and Labor
+<br>
+
+---
+
+<br>
+
+### Colonial Possibilities - Land and Labor
 - For colonial elites, there were a few ways to get rich
   - Plantation system
   - Mercantilism & trade
@@ -122,7 +178,13 @@ The American Revolution was political and complicated. It was not a neat story a
 - Need lots of people and lots of land to run a product.
 - Middle colonies are producing wheats and other agricultural goods, Carolinas are producing rice & dyes, the economy is more diversified, but needed land and labor.
 
-## Colonial Mercantilism
+<br>
+
+---
+
+<br>
+
+### Colonial Mercantilism
 - Merchants not directly tied to the land; people who would provide capital or resources for international trade or had the network to make sales possible.
 - People who were largely **in port cities in the North** (Boston and NY), but also Charleston (South).
 - Relied on access to capital and networks of information.
@@ -132,12 +194,24 @@ The American Revolution was political and complicated. It was not a neat story a
   - Different from the plantation elite, but tied to producing goods that can get into international trade.
   - Also interested in maintaining slavery and access to land.
 
-## Slavery and the Colonial Elite
+<br>
+
+---
+
+<br>
+
+### Slavery and the Colonial Elite
 - Your wealth derived from the slave system.
 - Slave states were **by far the richest states**.
   - Richest people were slsave owners.
 
-## Slave Population & the Stono River Rebellion
+<br>
+
+---
+
+<br>
+
+### Slave Population & the Stono River Rebellion
 - Slaves want to be free - fundamental premise.
 - Slaves in the South and the North.
   - Sojourner Truth, for example, enslaved in the North.
@@ -156,7 +230,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - Idea: *newly enslaved slaves were the most dangerous*.
 - Sometimes, in collective/political unity for 'liberty'.
 
-## Indigenious Peoples, Middle Ground, & Pontiac's Rebellion
+<br>
+
+---
+
+<br>
+
+### Indigenious Peoples, Middle Ground, & Pontiac's Rebellion
 - The French were defeated and lost; the indigenious allies did not give up.
 - Once the French stopped fighting, the indigenious kept on fighting.
 - Did not want to see English settlement continue to encroach on their territory.
@@ -170,7 +250,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - Message: don't trifle with the indigenious peoples.
 - Fighting to protect their own sets of interests.
 
-## Rural Revolt
+<br>
+
+---
+
+<br>
+
+### Rural Revolt
 - Rural peoples; poor whites who were also in revolt.
 - 1760s and 1770s, main problem: debt.
 - Farming relies very heavily on credit.
@@ -197,7 +283,13 @@ The American Revolution was political and complicated. It was not a neat story a
     - A degree, but limited degree, of governance.
   - Colonial courts largely being governed by locals.
 
-## Urban Poverty in the Colonies
+<br>
+
+---
+
+<br>
+
+### Urban Poverty in the Colonies
 - The Urban Crucible - Gary B Nash
   - Northern cities - conflicts between urban poor and symbols of the British government or control.
 - Boston Massacre, 1770.
@@ -211,7 +303,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - A sales tax on things everyone needs - tea, paper, etc.
   - Fairly onerous; urban poor people needed to pay significantly higher for those items.
 
-## Enlightenment Conceptions of Liberty
+<br>
+
+---
+
+<br>
+
+### Enlightenment Conceptions of Liberty
 > The freedom then of man, and liberty of acting according to his own will, is grounded on his having reason, which is able to instruct him in that law he is to govern himself by... -John Locke
 - "Our cause is for liberty, and we are righteous and just."
 - Enlightenment thinking.
@@ -226,11 +324,23 @@ The American Revolution was political and complicated. It was not a neat story a
 - Locke introduces the standard in a restrictive sense, but it's infectious. Slaves revolt under Lockean lines.
   - Embracing while challenging Lockean liberalism.
 
-## Social Tensions in the Colonies
+<br>
+
+---
+
+<br>
+
+### Social Tensions in the Colonies
 > We have been told that our struggle has loosened the bonds of government everywhere; that children and apprentices were disobedient; that schools and colleges were grown turbulent; that Indians slighted their guardians, and negroes grew insolent to the masters. -*John Adams to Abigail Adams, 1776.*
 - How will we put the pieces back together?
 
-## Crisis of Authority
+<br>
+
+---
+
+<br>
+
+### Crisis of Authority
 - There is a crisis of authority in the late colonial period. 1760s and 1770s.
 - People are in revolt.
 - Symbols of revolt are being challenged and graffitied and pushed back on.
@@ -239,7 +349,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - Tarring and feathering - painful, not just humilitating
 - Raiding homes of colonial governors, judges, legislators, and elites
 
-## Boston Tea Party, Lexington & Concord
+<br>
+
+---
+
+<br>
+
+### Boston Tea Party, Lexington & Concord
 - Make a series of missteps, trying to make the colonies pay for themselves.
 - Cost to protect colonies was more than they were generating.
 - Sales taxes that were taxing the poorest populations to further inflame the poorer.
@@ -251,7 +367,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - British shoot back and begin killing rural farmers.
   - Political crisis hasa developed into a shooting war.
 
-## Colonial Rebels & Lord Dunmore's Proclamation
+<br>
+
+---
+
+<br>
+
+### Colonial Rebels & Lord Dunmore's Proclamation
 - No longer a question of "what can we do to change this", outright military conflict.
 - Lexington & Concord - a significant amount of time before the Declaration of Independence is signed & distributed.
   - Colonial governor of Virginia, Lord Dunmore, instantly declares this as a slaveholders' revolt with interests against the British
@@ -260,7 +382,13 @@ The American Revolution was political and complicated. It was not a neat story a
 - George Washingon doubled this proclamation.
 - Enslaved and free black people remained loyal to the British.
 
-## Women in the American Revolution
+<br>
+
+---
+
+<br>
+
+### Women in the American Revolution
 - Women played an important role in the American Revolution
 - Different political alliances, but participated to the extent that they could.
 - A few documented historical instances of women passing as men in order to enlist in armies to fight for one side or the other.
@@ -279,7 +407,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - Writing about the French Revolution and is English, English conservatives are criticizing the French Revolution by saying the Revolutionists are talking about 'rights' (unfamiliar concept). Woolstonecraft critiques the English conservatives and publishes rights.
   - Rebuts herself and changed the title from *Rights of Men* to *A Vindication of the Rights of Woman*.
 
-## Continental Strategy in the Revolution
+<br>
+
+---
+
+<br>
+
+### Continental Strategy in the Revolution
  - Various interests; the elite and the smallholders aligned in their interests against British colonialism.
 - *Who would win the fight*?
 - Strategy: survive and wait for the French.
@@ -291,32 +425,62 @@ The American Revolution was political and complicated. It was not a neat story a
 - French fleet defeats the English fleet in the Battle of Virginia Capes 1781
   - French aid and support helped Washington's army be victorious in Yorktown.
 
-## Treaty of Paris 1783: Britain's Gift of Territory
+<br>
+
+---
+
+<br>
+
+### Treaty of Paris 1783: Britain's Gift of Territory
 - Treaty of Paris, British are thoroughly defeated.
 - Several decades of war; struggling to maintain costs.
 - Wave their hands to the North American colonies.
 - All lands to the West; the British could have held onto the interior but for some reason granted the colonists the entirety of the interior.
 - Result: **major defeat for indigenious peoples**.
 
-## New Crisis for Indigenious People
+<br>
+
+---
+
+<br>
+
+### New Crisis for Indigenious People
 - Main empires protecting their land had become wiped out.
 - New onslaught for peoples in the interior
   - Ohio River Valley and further in the interior.
 - 'Indian country' drastically receding from 1763 to 1810.
 
-## New Crisis for Slaves
+<br>
+
+---
+
+<br>
+
+### New Crisis for Slaves
 - Another crisis for those that allied with the British; need to flee, go to other English colonies (e.g. Bahamas, Jamaica, Nova Scotia).
 - Many attempt to go back to Africa to establish new independent territories, some go to England.
 - Some African Americans fought in the Continental Army.
 
-## Articles of Confederation
+<br>
+
+---
+
+<br>
+
+### Articles of Confederation
 - New political constitution for the United States emerges in the Articles of Confederation.
 - Based on a combination of Greek Democratic practice and Haudenosaunee notions of Confederacy.
 - Each state developed their own constitutions.
   - e.g. greatly indebted to France.
   - smallholders had just been at war for several years, had not been able to produce and had nothing to sell, also indebted.
 
-## Shay's Rebellion 1786
+<br>
+
+---
+
+<br>
+
+### Shay's Rebellion 1786
 - Major moment in post-revolutionary period.
 - Daniel Shay (veteran of the Continental Army) returns to his New England farms to find that the debts are worse, the courts pursue indebtness even further than they did before, and farmers are again being thrown in jail and having their land siezed.
 - Daniel Shay, along with 4000 other rural farmers in New England, revolt; continue the revolutionary struggle afterwards.
@@ -331,7 +495,13 @@ The American Revolution was political and complicated. It was not a neat story a
   - Using evidence of Shay's rebellion as a point-in-case of this.
   - If they were 'rational', they would know they needed to pay their debts.
 
-## Framing the Constitution
+<br>
+
+---
+
+<br>
+
+### Framing the Constitution
 - Political traditions emerging around the framing of the Constitution
 - Spring of 1786, began in secret and framed as a way to address the failings of the Articles of Confederation
 - Produced an entirely new political document.
@@ -343,6 +513,10 @@ The American Revolution was political and complicated. It was not a neat story a
     - Implications in the Civil War
   - The federal court system (unelected, permanent judges that rule on the Constitutionality of legislation).
 
+<br>
+
 ---
 
-[Back to Top](https://andre-ye.github.io/history/lecture-notes/empire-and-revolution)
+<br>
+
+[Back to Top](#)
