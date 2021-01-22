@@ -9,6 +9,33 @@ Andre Ye, 1/22/2021
 
 <br>
 
+## Navigate
+- [Introduction](#introduction)
+- [Stem Cells](#stem-cells)
+  * [Stem Cell Potency](#stem-cell-potency)
+  * [From Zygote to Newborn](#from-zygote-to-newborn)
+  * [Human Embryo Development](#human-embryo-development)
+- [Why study/use pluripotent stem cells?](#why-study-use-pluripotent-stem-cells-)
+  * [Regenerative Medicine](#regenerative-medicine)
+- [Embyronic Development](#embyronic-development)
+  * [Embyronic Diapause in Mice](#embyronic-diapause-in-mice)
+- [Ellison Stem Cell Core](#ellison-stem-cell-core)
+  * [Research](#research)
+- [Genome Editing](#genome-editing)
+  * [CRISPR Technology](#crispr-technology)
+  * [CRISPR gRNA/enzyme complex](#crispr-grna-enzyme-complex)
+- [Example of a Project: Study of a Mutation Causing Cardiac Disease](#example-of-a-project--study-of-a-mutation-causing-cardiac-disease)
+- [Regulatory and Ethical Questions](#regulatory-and-ethical-questions)
+  * [Use of Embyronic Stem Cells](#use-of-embyronic-stem-cells)
+  * [UW GIM36](#uw-gim36)
+  * [Gene Editing of Human Embryos](#gene-editing-of-human-embryos)
+
+<br>
+
+---
+
+<br>
+
 ### Introduction
 - Juie Mathieu, PhD; Assistant Professor, UW
 - PhD in Paris at Saint Louis Hospital; worked on apoptosis.
