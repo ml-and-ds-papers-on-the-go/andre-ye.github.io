@@ -15,6 +15,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 
 #### Lecture Notes
 - ["Class Conflict in the Gilded Age"](https://andre-ye.github.io/history/winter/lectures/class-conflict-in-the-gilded-age), 1/11-1/15
+- ["Advent of Empire: Race and Conquest in 1900"](https://andre-ye.github.io/history/winter/lectures/advent-of-empire), 1/19-1/22
 
 #### Study Guides
 
