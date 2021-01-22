@@ -1,7 +1,13 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Slavery: Race and Unfree Labor*
 
-# Notes on *Slavery: Race and Unfree Labor*
+## Notes on *Slavery: Race and Unfree Labor*
 Andre Ye, 10/15/2020
+
+<br>
+
+---
+
+<br>
 
 - Slavery as a system of labor; the relationship between race and labor 
 - Why slavery? 
@@ -16,7 +22,11 @@ Andre Ye, 10/15/2020
 
 <br>
 
-## Questions
+---
+
+<br>
+
+### Questions
 - Why did racialized chattel slavery happen? 
 - Chattel – living things that are owned as property, animals. 
 - Slavery – an economic labor system and as a system of race 
@@ -31,7 +41,13 @@ Andre Ye, 10/15/2020
   - Petitioned British government for tax relief that week, took the claim to an all-white court, recognized Johnson’s hardship and granted him reprieve 
   - *This is not what you would expect the black experience in colonial America to look like.*
 
-## Jamestown
+<br>
+
+---
+
+<br>
+
+### Jamestown
   - Started as a commercial enterprise to develop a resource strain that could benefit the crown and enrich the throne.
   - Based endeavors on the Spanish enterprise – find people who are already rich and take their wealth to ship back 
   - Not the case with North America, arrived in 1607, no riches to plunder; many of the people had no experience as agriculturalists, new environment 
@@ -39,7 +55,13 @@ Andre Ye, 10/15/2020
   - Raided indigenous food crops and villages 
   - 1622 massacre 
 
-## Tobacco
+<br>
+
+---
+
+<br>
+
+### Tobacco
 - Native to North America and unknown to Europeans 
 - Grows like a weed in the Chesapeake climate 
 - People looking for profitability: very profitable. Pleasant to smoke and chew, highly addictive, all over the place. 
@@ -49,7 +71,13 @@ Andre Ye, 10/15/2020
 - A system of labor is necessary, form the perspective of a landowner and an entrepreneur, try to take as much as possible for yourself. 
   - Tobacco needs to be harvested and processed (a very wet plant, can rot, need to be processed before they can be shipped). 
 
-## Labor 
+<br>
+
+---
+
+<br>
+
+### Labor 
 - Enslave indigenous peoples? 
 - Call on allies? Have connections outside the plantation, know the area and understand it 
 - Indentured servitude and slavery, English practices before colonization 
@@ -77,7 +105,13 @@ Immigration statistics: Colonial Immigration from 1607 to 1776
   - Majority of English people coming to the colonies were unfree, when their term ends, they want land and a payout. Colonial elites were just not paying. 
   - After a while, proposes problems for colonial elites 
 
-## Bacon’s Rebellion 
+<br>
+
+---
+
+<br>
+
+### Bacon’s Rebellion 
 - Very angry resources, nothing to lose, enslaved peoples and indentured servants; explosive combinations. 
 - 1676 Rebellion – white indentured servants, black slaves, former black slaves, former white indentured servants revolt and wanted to open up land access into indigenous territories. Wanted to sieze more land.
 - Colonial government didn’t want to (Jamestown Massacre)
@@ -85,7 +119,7 @@ Immigration statistics: Colonial Immigration from 1607 to 1776
 - British unit came down and put the rebellion down later 
 - Nathaniel Bacon; mixed-race rebels attempting to seek access to more land. 
 
-## Why slavery? 
+#### Why slavery? 
 - Why turn to slavery as the exclusive system? 
 - Why not increase indenture or modify the system? 
 - Why not enslave whites? Enslave indentures? 
@@ -104,7 +138,13 @@ Immigration statistics: Colonial Immigration from 1607 to 1776
 - Egypt, Rome, etc. were founded on slavery, goods allowed the empires to thrive.
 - Conquest of Americas does become racialized 
 
-## Exploring legislative beginnings 
+<br>
+
+---
+
+<br>
+
+### Exploring legislative beginnings 
 - Color is used as a system of social control, intentionally. 
 - Delineates the changes in law that happen around the 1670s and continue that create a harsh distinction between legal practices allowed for slaves and indentures vs black people and white people. 
 - Slaves are identified as Negroes – black people are automatically slavery, synonymous status 
@@ -129,7 +169,13 @@ Immigration statistics: Colonial Immigration from 1607 to 1776
   - Sexual violence, dehumanization that comes with slavery does not have to be racialized; don’t deserve autonomy. People fight back and resist. 
     - Harsh forms of violence to maintain order. 
 
-## Transformation of Slavery from Ancient Practice to Modern Industry 
+<br>
+
+---
+
+<br>
+
+### Transformation of Slavery from Ancient Practice to Modern Industry 
 - The racialization of slavery in the new context. 
 - Profitability drove racialization 
 - Not just goods that can be produced from profitability 
@@ -162,6 +208,13 @@ Immigration statistics: Colonial Immigration from 1607 to 1776
     - “Life, liberty, and the pursuit of happiness” -Declaration of Independence 
     - “Life, liberty, property” in Locke's words
 
+
+<br>
+
 ---
 
+<br>
+
 [^1] Not entirely accurate.
+
+[Back to top](#)
