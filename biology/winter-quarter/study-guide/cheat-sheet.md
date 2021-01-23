@@ -104,6 +104,8 @@ From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”
 #### Table of Elements of Transcriptional Regulation
 ![](https://raw.githubusercontent.com/andre-ye/andre-ye.github.io/master/biology/winter-quarter/study-guide/images/elements-of-transcriptional-regulation.png)
 
+#### Terms Used in Mendelian Genetics
+![](https://raw.githubusercontent.com/andre-ye/andre-ye.github.io/master/biology/winter-quarter/notes/module-2/images/mendelian_genetics_terms.png)
 
 <br>
 
