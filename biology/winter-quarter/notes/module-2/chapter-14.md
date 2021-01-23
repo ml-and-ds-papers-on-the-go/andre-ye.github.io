@@ -48,7 +48,7 @@ Andre Ye, 1/22/21
   - Mendel could control which parents were involved in mating.
   - A **polymorphic trait** is one that appears commonly in 2+ forms.
     - e.g. purple or white flowers.
-- **How did Mendel control matings?*
+- **How did Mendel control matings?**
   - Garden pea flowers have male and female reproductive structures.
     - Usually undergo **self-fertilization** - flower's pollen falls into female reproductive organ of the same flower.
   - Mendel prevented self-fertilization by removing male reproductive organs before pollen formed, then transfered pollen from another pea plant.
@@ -74,13 +74,34 @@ Andre Ye, 1/22/21
     - Latin *filius* and *filia* mean "son" and "daughter".
   - Continues as *F2* generation, *F3*, so on.
 
-#### The Monohybrid Cross
+#### The Monohybrid Cross: Dominant and Recessive Traits, A Reciprocal Cross, Do Mendel's Results Hold for Other Traits?
 - Mendel took pollen from plants in the round-seed land and placed it on female reproductive organs for plants from the wrinkle-seed line.
   - All seeds produced from this cross were *round*.
 - Result:
   - Traits did not blend together to form an intermediate phenotype, but only the round-seed trait appeared.
     - This contradicts the blending-inheritance hypotheiss.
   - The wrinkle-seed trait disappeared.
+
+<br>
+
+**Dominant and Recessive Traits**
+- Mendel planted the F1 seeds and allowed the pea plants to self-fertilize when they matured.
+  - Each of the F1 plants inherited a genetic determinant for round and wrinkled seeds each.
+  - **Monohybrid cross**: parents that each carry two different genetic determinants for the same trait.
+  - Produces a hybrid for a single trait.
+- When F2 seeds were analyzed, results were:
+  - 5474 round
+  - 1850 wrinkled
+- Wrinkle-seed shape disappeared in the F1 generation but reappeared in the F2 generation.
+- Results:
+  - Wrinkled shape is **recessive** because this phenotype recedes, or seems to be hidden.
+  - Round shape is **domiannt** because it dominates over the wrinkle-seed determinant when both are present.
+- Genetics: "dominant" and "recessive" refer to which phenotype is observed and which is masked when individuals carry two different genetic determinants for a trait.
+- Ratio is 3:1.
+
+<br>
+
+**A Reciprocal Cross**
 
 ##### Dominant and Recessive Traits
 
