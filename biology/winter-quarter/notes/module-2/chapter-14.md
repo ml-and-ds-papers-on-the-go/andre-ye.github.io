@@ -82,9 +82,7 @@ Andre Ye, 1/22/21
     - This contradicts the blending-inheritance hypotheiss.
   - The wrinkle-seed trait disappeared.
 
-<br>
-
-**Dominant and Recessive Traits**
+Dominant and Recessive Traits
 - Mendel planted the F1 seeds and allowed the pea plants to self-fertilize when they matured.
   - Each of the F1 plants inherited a genetic determinant for round and wrinkled seeds each.
   - **Monohybrid cross**: parents that each carry two different genetic determinants for the same trait.
@@ -99,12 +97,27 @@ Andre Ye, 1/22/21
 - Genetics: "dominant" and "recessive" refer to which phenotype is observed and which is masked when individuals carry two different genetic determinants for a trait.
 - Ratio is 3:1.
 
-<br>
+A Reciprocal Cross
+- Does the male or female parent have a particular genetic determinant?
+- Performed a second set of crosses between two pure-line populations.
+  - "In reverse" - used pollen from pure line of wrinkle-seed peas on the round peas.
+  - This is a **reciprocal cross**; set of matings where the mother's phenotype is the initial cross and the father's is second, and vice versa.
+- Results are **identical**; all F1 progeny had round seeds.
+- Sometimes, reciprocal crosses do produce different results.
 
-**A Reciprocal Cross**
+Do Mendel's Results Hold for Other Traits?
+- Mendel established results of crosses with 6 other traits.
+- Important patterns:
+  - F1 progeny only showed the dominant trait.
+  - Reciprocal crosses produced the same results.
+  - Ratio of dominant to recessive phenotypes in the F2-generation was 3:1.
 
-##### Dominant and Recessive Traits
+### Particulate Inheritance: Genes, Alleles, and Genotypes
+- Mendel proposed a hypothesis: **particulate inheritance**.
+  - Hereditary determinants for traits to not blend together or become modified through use.
+  - Hereditary determinants maintain their integrity, and act as discrete, unchanging particles.
 
+Genes, Alleles, and Genotypes
 
 
 
