@@ -1,0 +1,107 @@
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Module 2: Genetics > Chapter 14 Textbook Notes
+
+## Textbook Notes: Chapter 14 Textbook Notes, "Mendel and the Gene"
+Andre Ye, 1/22/21
+
+<br>
+
+---
+
+<br>
+
+### Navigation
+
+<br>
+
+---
+
+<br>
+
+### Introduction
+- **Gregor Mendel** - an Austrian monk that laid the groundwork for the chromosome theory of inheritance.
+- Walter Sutton and Theodor Boveri linked the discovery of meiosis with Mendel's discovery to form the **chromosome theory of inheritance**.
+  - States genes are located on chromosomes, and transmission of chromosomes to daughter cells accounts for patterns of inheritance.
+- Launched the theroy of **genetics**, which concerns the inheritance of traits.
+
+<br>
+
+---
+
+<br>
+
+### 14.1: Medle's Experimental System
+- Questions about **heredity** (inheritance) were a primary concern.
+- **Trait** - any observable characteristic about an individual.
+
+#### What Questions Was Mendel Trying to Answer?
+- What are patterns of the transmsion of traits from parents to offspring?
+- Two hypotheses at the time:
+
+| Hypothesis | Description | Prediction |
+| --- | --- | --- |
+| Blending inheritance hypothesis | Traits of a mother and father blend together to form traits in offspring. | Black sheep and white sheep produce gray baby sheep. |
+| Inheritance of acquired characters hypothesis | Traits are modified through use, then passed on from parents to offspring in modified form. | A giraffe that strains their necks by reaching leaves will also have babies with longer necks. |
+
+#### The Garden Pea Served as the First Model Organism in Genetics
+- Mendel chose the garden pea (*Pisum sativum*) to investigate.
+  - **Model organism** - species used for research b/c it is easy to work with, and conclusions drawn from it may apply to other species.
+  - Mendel could control which parents were involved in mating.
+  - A **polymorphic trait** is one that appears commonly in 2+ forms.
+    - e.g. purple or white flowers.
+- **How did Mendel control matings?*
+  - Garden pea flowers have male and female reproductive structures.
+    - Usually undergo **self-fertilization** - flower's pollen falls into female reproductive organ of the same flower.
+  - Mendel prevented self-fertilization by removing male reproductive organs before pollen formed, then transfered pollen from another pea plant.
+    - This is **cross-fertilization**, or just a **cross**.
+- **What traits did Mendel study?**
+  - **Phenotype** - observable traits of an individual.
+  - Mendel used peas that differed in seven phenotypes.
+  - **Pure line** - individuals that produce offspring identical to the parents when they are crossed to another member of the same population, or are self-fertilized.
+    - Predictable pure lines can be used such that a new phenotype is the result of a cross, rather than some random event.
+  - Offspring with matings between true-breeding parents that differ in one or more traits: **hybrids**.
+
+<br>
+
+---
+
+<br>
+
+### 14.2: Mendel's Experiments with a Single Trait
+- In his first set of experiments, Mendel crossed pure liens of garden peas that differed in only one trait.
+- Crossed round-seed individuals and wrinkle-seed individuals (from pure lins).
+  - Individuals used in initial cross: **parental generation**.
+  - Progeny (offspring) are **F1 generation**, "first filial".
+    - Latin *filius* and *filia* mean "son" and "daughter".
+  - Continues as *F2* generation, *F3*, so on.
+
+#### The Monohybrid Cross
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
