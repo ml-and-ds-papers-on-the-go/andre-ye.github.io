@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 6 Notes
+[Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 8 Notes
 
 ## Notes on Chapter 8: "Genre and Form"
 Andre Ye, 1/16/21
