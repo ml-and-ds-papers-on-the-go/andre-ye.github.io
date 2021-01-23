@@ -75,7 +75,14 @@ Andre Ye, 1/22/21
   - Continues as *F2* generation, *F3*, so on.
 
 #### The Monohybrid Cross
-- 
+- Mendel took pollen from plants in the round-seed land and placed it on female reproductive organs for plants from the wrinkle-seed line.
+  - All seeds produced from this cross were *round*.
+- Result:
+  - Traits did not blend together to form an intermediate phenotype, but only the round-seed trait appeared.
+    - This contradicts the blending-inheritance hypotheiss.
+  - The wrinkle-seed trait disappeared.
+
+##### Dominant and Recessive Traits
 
 
 
