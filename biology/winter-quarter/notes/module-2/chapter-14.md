@@ -112,7 +112,7 @@ Andre Ye, 1/22/21
   - Reciprocal crosses produced the same results.
   - Ratio of dominant to recessive phenotypes in the F2-generation was 3:1.
 
-### Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross
+#### Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross
 - Mendel proposed a hypothesis: **particulate inheritance**.
   - Hereditary determinants for traits to not blend together or become modified through use.
   - Hereditary determinants maintain their integrity, and act as discrete, unchanging particles.
