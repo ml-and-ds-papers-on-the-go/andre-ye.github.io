@@ -9,6 +9,19 @@ Andre Ye, 1/23/2021
 
 <br>
 
+### Navigate
+- [Introduction](#introduction)
+- [Using Social Relevance to Brainstorm](#using-social-relevance-to-brainstorm)
+- [Using Social Relevance to Write Persuasively](#using-social-relevance-to-write-persuasively)
+- [How Social Relevance Works with other Strategies of Literary Analysis](#how-social-relevance-works-with-other-strategies-of-literary-analysis)
+- [Criticism CHanges Over Time](#criticism-changes-over-time)
+
+<br>
+
+---
+
+<br>
+
 ### Introduction
 - All literary and cultural analyses work to draw out multiple levels of meaning to show its complexity.
 - However, there is a secondary value of literary analysis: **social relevance**.
