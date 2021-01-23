@@ -9,14 +9,6 @@ Andre Ye, 1/23/21
 
 <br>
 
-### Navigate
-
-<br>
-
----
-
-<br>
-
 ### Context
 > Hull House, Chicago’s famed “settlement house,” was designed to uplift urban populations. Here, Addams explains why she believes reformers must “add the social function to democracy.” As Addams explained, Hull House “was opened on the theory that the dependence of classes on each other is reciprocal.”
 
