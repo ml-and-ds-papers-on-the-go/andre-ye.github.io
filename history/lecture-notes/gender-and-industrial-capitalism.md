@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor*
 
-# Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor
+## Gender & Industrial Capitalism: Wages, Domesticity, and Forms of Labor
 Andre Ye, 10/27/20 & 10/29/20
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Introduction](#introduction)
 - [Key Questions and Points](#key-questions-and-points)
 - [Household Economy and Social Parity](#household-economy-and-social-parity)
@@ -38,7 +44,13 @@ Andre Ye, 10/27/20 & 10/29/20
     + [Fredrick Douglass on Wages](#fredrick-douglass-on-wages)
 - [Industrial Women](#industrial-women)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - First industrialized workforce in the US was all women.
 - Textile manufacturing was done exclusively by women.
   - Universally true **to this day**.
@@ -48,7 +60,13 @@ Andre Ye, 10/27/20 & 10/29/20
   - These professions were **not safe** and 'womanly', as portrayed.
       - e.g. Toy Painters. fumes from paint.
  
- ## Key Questions and Points
+<br>
+
+---
+
+<br>
+
+ ### Key Questions and Points
  - **Central Questions:** Why were the first industral workers primarily women? What ways to systems of gender and the economy, patriarchy and capitalism, relate to one another?
  - Industrial capitalism
   - Combination of market capitalism with new source of productive power.
@@ -59,7 +77,13 @@ Andre Ye, 10/27/20 & 10/29/20
   - The "Cult of Domesticity" - Working Women too?
     - Women's cheapness?
 
-## Household Economy and Social Parity
+<br>
+
+---
+
+<br>
+
+### Household Economy and Social Parity
 - In order to understand changes of industrial revolution, (epoch-defining moment) look at *what came before.*
 - Pre-industrial revolution: **the household was the economic unit.**
   - Not just a place of rest.
@@ -74,7 +98,7 @@ Andre Ye, 10/27/20 & 10/29/20
   - The household became a unit of **economic power**.
     - Women performed tasks like: repair tools, make satchels for harvesting, make food, 'reproductive work'
 
-### Artisanal Labor
+#### Artisanal Labor
 - Household as the individual unit - tied to home production.
 - Artisanal production: *complete manufacture of some thing.*
   - From end to end, artisans can completely craft something.
@@ -88,12 +112,18 @@ Andre Ye, 10/27/20 & 10/29/20
   - Control speed.
 - Sell *what they made.*
 
-### Agrarian Power
+#### Agrarian Power
 - Source of power is human (or animal) muscle power.
   - Body power *empowers the process.*
 - The extent to which production is possible is the extent to which human bodies can produce something.
 
-## Market Revolution and Social Transformation
+<br>
+
+---
+
+<br>
+
+### Market Revolution and Social Transformation
 - Transformations happening *slowly*.
   - Pre-industrial; advent of the 'market revolution' and capitalism.
 - **Market Revolution of the 18th century.**
@@ -105,7 +135,7 @@ Andre Ye, 10/27/20 & 10/29/20
     - Specialize in a particular skill of expertise.
     - You can sell yourself and get access to a money market economy.
 
-### The Transportation Revolution
+#### The Transportation Revolution
 - Constructing canals. Waterways main network of exchange (pre-industrial railroad).
 - Water way access becomes key trading area.
 - Advent of Eerie Canal in early 19th century.
@@ -116,7 +146,13 @@ Andre Ye, 10/27/20 & 10/29/20
     - Still relied on physical labor.
 - Regardless, the network allowed people to buy and seel goods that they had never before.
 
-## Division of Labor
+<br>
+
+---
+
+<br>
+
+### Division of Labor
 - The type of work women were doing in the household could be much more lucrative.
 - They could sell their labor to other markets
 - Women who were doing weaving or textile making could spend more time doing that (assembling goods) and get money to **buy other things they might need.**
@@ -125,12 +161,18 @@ Andre Ye, 10/27/20 & 10/29/20
 - Over time, **collectivize and aggregate isolated points of labor.**
   - Develop a process in which economies of scale could be produced.
   
-### Putting Out System
+#### Putting Out System
 - Even if not being aggregated in the same place, it can be *socially aggregated.*
 - Women could do work in their home, *put out* their work.
   - Collected, paid women, and assembled to sell.
 
-## Industrial Revolution
+<br>
+
+---
+
+<br>
+
+### Industrial Revolution
 - **Epoch-defining transformation in human history.**
 - Combination of capitalist production relationships and industrial power sources.
 - **Externalizing source of productive power from limitations of the human body.**
@@ -139,8 +181,14 @@ Andre Ye, 10/27/20 & 10/29/20
 - Driving industrial capitalism:
   - Shift in the energy regime and social organization underlying society.
 
-## Industrial Power
-### Water
+<br>
+
+---
+
+<br>
+
+### Industrial Power
+#### Water
 - Driving the industrial production and expansion: water.
   - Anything that can burn (wood, forests, coal, oil). Before this: water.
 - Being located near water helped.
@@ -150,7 +198,7 @@ Andre Ye, 10/27/20 & 10/29/20
   - In order to make the mill work, channel water underneath the factory to drive a turbine connected to machinery.
   - Dammed the river to control the flow.
 
-### Textile Production
+#### Textile Production
 - **Cotton textiles were the number one manufactured product.**
 - Water can be linked to drive the 'power loom'.
 - Transforming hand loom; externalizing driving forces of loom to water.
@@ -162,7 +210,13 @@ Andre Ye, 10/27/20 & 10/29/20
   - Third floor - died and packages, etc.
 - Driven by **central power source.**
 
-## Dramatic Environmental Impacts
+<br>
+
+---
+
+<br>
+
+### Dramatic Environmental Impacts
 - Need to be located at sites where *there is potential for power.*
 - Lowell, 1845
   - Within a few decade, transformed into an industrial city.
@@ -173,12 +227,12 @@ Andre Ye, 10/27/20 & 10/29/20
   - Water could serve as acess to markets.
 - Controlling the flow of the water was a major problem for early industrialists.
 
-### Pollution on the Concord River
+#### Pollution on the Concord River
 - 1921. Dyes could be put in the river.
 - Industrial pollutants.
 - One of the first signs that industrial production and technology would have significant environmental impacts.
 
-### The Merrimack River Watershed
+#### The Merrimack River Watershed
 - **Transforms the law.**
   - The path of rivers changed
   - Property rights altered to support industrialism.
@@ -196,19 +250,25 @@ Andre Ye, 10/27/20 & 10/29/20
       - The most industrious and efficient use of space.
       - Lockean principles of property.
   
-### Waltham Bostom Manufacturing Company Mill
+#### Waltham Bostom Manufacturing Company Mill
 - Very large manufactures being constructed very quickly.
 - Primary interest in generating as much profit as possible.
 - Builders are cutting corners - leads to the first series of industrial accidents.
 
-### Industrial Accidents
+#### Industrial Accidents
 - Largest accident in US history up to then - 1860 collapse of Hemberton Mill
   - Lawrence, Massachusetts
 - Factory collapsed, 145 deaths of factory workers.
   - 100-something injured.
 - Within a few decades, it has been completed translated.
 
-## Social Impacts on Industrialization: Labor
+<br>
+
+---
+
+<br>
+
+### Social Impacts on Industrialization: Labor
 - People's relationship **to their labor.**
   - How is labor used?
   - Social relationships.
@@ -216,7 +276,7 @@ Andre Ye, 10/27/20 & 10/29/20
   - Metaphorical as well - changing the relationship of power to which people have with their own bodies.
   - You are no longer working and your own pace and control.
 
-### Cheap Labor and Women
+#### Cheap Labor and Women
 - Industrial labor - you are working to the pace of the machine.
   - Adapt your physical standards to that of industrial production.
 - Widespread **labor discipline**.
@@ -238,27 +298,39 @@ Andre Ye, 10/27/20 & 10/29/20
   - Not the main moneymakers of the family.
 - *What does it mean to say that women's labor is cheaper?*
 
-## Cult of Domesticity
+<br>
+
+---
+
+<br>
+
+### Cult of Domesticity
 - Cultural standards going into evaluating what labor is worth.
 - A man or a woman is doing the same amount of labor.
   - can we say that it's about production? No.
 - A series of factors go into influencing what women's labor was worth.
 
-### Standards on Social Participation
+#### Standards on Social Participation
 - Development of cult of domesticity.
 - Separate sphere standard, 'cult of true womanhood'
 - Idea that *women's only or natural social role is tied to family, home,a dn domestic considerations.*
   - Anything with public involvement (work), politics, intellectual pursuits, etc. seen as outside of her 'natural sphere'.
 - Severe restrictions and limitations on what women's acceptable social role was.
 
-## Women and Labor Markets
+<br>
+
+---
+
+<br>
+
+### Women and Labor Markets
 - Women's access to labor markets in the early 19th century was highly restricted.
   - Domestic servant (maid, cleaner, cook), as a nurse (medical aid), or a teacher.
   - Limited options.
   - Professional: property, business, politics, law: closed to women. 
   - Women did not have full and equal access to the full scope of labor markets.
 
-### Industrial Labor
+#### Industrial Labor
 - Impacted access to labor market.
 - Overabundance and supply in availability for this type of work.
   - There weren't very many options.
@@ -268,7 +340,7 @@ Andre Ye, 10/27/20 & 10/29/20
   - Labor being sold in sets of markets.
   - People's cultural ideas are influencing this.
 
-### Social Impacts of Industrialization: Wages
+#### Social Impacts of Industrialization: Wages
 - What does it mean, then, to be a factory girl?
 - Example: Time Table.
   - 1868 Time Table of the Lowell Mills
@@ -281,7 +353,7 @@ Andre Ye, 10/27/20 & 10/29/20
   - People are selling their labor for a certain amount of time.
   - Not selling a barrel or some artisanship craft, you are selling yourself and your time.
 
-### Beauties of Our Factory System - Otherwise, Lowell Slavery
+#### Beauties of Our Factory System - Otherwise, Lowell Slavery
 
 ```
 Let oppression shrug her shoulders,
@@ -307,16 +379,22 @@ That I cannot be a slave.
   - *Probably not.*
   - Not subjected to violence, not really owned.
   - Begs further explanation.
-  
-## Productivity and Labor Discipline
+ 
+<br>
+
+---
+
+<br>
+ 
+### Productivity and Labor Discipline
 - It's not outside of the realm of reasonableness to make the comparison.
 
-### The Lords of the Loom and the Lords of the Lash
+#### The Lords of the Loom and the Lords of the Lash
 - Being sold and gathered in labor regimes
 - Comparisons between slaveholders and overseers.
 - Foremen looking over your work, you were not independent in how you were doing your work.
 
-### The Liberator and Abolitionist Debate
+#### The Liberator and Abolitionist Debate
 
 ```Our wealthy citizens, as a body, are hostile to the interests fo the laboring classes? Is it not found int heir commercial enterprise, which whiten the ocean with canvas, and give employment to a useful and numerous class of men; it is not found in their manufacturing which multiply labor and cheapen necessities... It is a miserable characteristic of human nature to look with an envious eye upon those whoa re more fortunate in their pursuits, or more exalted in their station."
 ```
@@ -353,10 +431,22 @@ You are striving to excite the attention of your countrymen to the injustice of 
 - Should be included in the abolitionist movement, but not *exactly* the same.
 - We should question the value of 'little'.
 
-## Industrial Women
+<br>
+
+---
+
+<br>
+
+### Industrial Women
 - Reworking of the social fabric of American society.
 - Requires transformations of economic and social spheres.
 - Transforms the social role of women.
 - Repeating question: *Why were women the first industrial workforce?*
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
