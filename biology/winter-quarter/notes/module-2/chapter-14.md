@@ -74,7 +74,7 @@ Andre Ye, 1/22/21
     - Latin *filius* and *filia* mean "son" and "daughter".
   - Continues as *F2* generation, *F3*, so on.
 
-#### The Monohybrid Cross: Dominant and Recessive Traits, A Reciprocal Cross, Do Mendel's Results Hold for Other Traits?
+#### The Monohybrid Cross: Dominant and Recessive Traits; A Reciprocal Cross; Do Mendel's Results Hold for Other Traits?
 - Mendel took pollen from plants in the round-seed land and placed it on female reproductive organs for plants from the wrinkle-seed line.
   - All seeds produced from this cross were *round*.
 - Result:
@@ -82,7 +82,7 @@ Andre Ye, 1/22/21
     - This contradicts the blending-inheritance hypotheiss.
   - The wrinkle-seed trait disappeared.
 
-Dominant and Recessive Traits
+*Dominant and Recessive Traits*
 - Mendel planted the F1 seeds and allowed the pea plants to self-fertilize when they matured.
   - Each of the F1 plants inherited a genetic determinant for round and wrinkled seeds each.
   - **Monohybrid cross**: parents that each carry two different genetic determinants for the same trait.
@@ -97,7 +97,7 @@ Dominant and Recessive Traits
 - Genetics: "dominant" and "recessive" refer to which phenotype is observed and which is masked when individuals carry two different genetic determinants for a trait.
 - Ratio is 3:1.
 
-A Reciprocal Cross
+*A Reciprocal Cross*
 - Does the male or female parent have a particular genetic determinant?
 - Performed a second set of crosses between two pure-line populations.
   - "In reverse" - used pollen from pure line of wrinkle-seed peas on the round peas.
@@ -105,23 +105,55 @@ A Reciprocal Cross
 - Results are **identical**; all F1 progeny had round seeds.
 - Sometimes, reciprocal crosses do produce different results.
 
-Do Mendel's Results Hold for Other Traits?
+*Do Mendel's Results Hold for Other Traits?*
 - Mendel established results of crosses with 6 other traits.
 - Important patterns:
   - F1 progeny only showed the dominant trait.
   - Reciprocal crosses produced the same results.
   - Ratio of dominant to recessive phenotypes in the F2-generation was 3:1.
 
-### Particulate Inheritance: Genes, Alleles, and Genotypes
+### Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross
 - Mendel proposed a hypothesis: **particulate inheritance**.
   - Hereditary determinants for traits to not blend together or become modified through use.
   - Hereditary determinants maintain their integrity, and act as discrete, unchanging particles.
 
-Genes, Alleles, and Genotypes
+*Genes, Alleles, and Genotypes*
+- **Gene**: hereditary determinant of a trait.
+  - Mendel proposed each individual can have two versions of any gene: **alleles**.
+  - Combination of alleles in an individual: **genotype**.
+- Hypothesis that pea plants have two copies of each gene comes from the need to explain why a trait can disappear in one generation and pop up in another.
+  - If each individual carries 2 alleles and one is dominant over another, in a hybrid, the recessive trait will be hidden.
+  - When F1 hybrids are crossed, some F2 offspring may inherit two copies of the recessive allele.
 
+*The Principle of Segregation*
+- Two members of each gene pair must segregate (separate) into different gamete cells during the formation of eggs and sperm.
+  - Each gamete has one allele of each gene: **principle of segregation**.
+- Modelling the segregation of alleles:
+  - *R* = dominant allele, *r* = recessive allele.
+  - *RR* and *rr* are **homozygous** - always produce offspring with the same phenotype because they are homozygous.
+  - *Rr* and *rR* are **heterozygous** - having different alleles.
+- Punnett square modelling (assuming heterozygous mother and father):
 
+| | *Mother 1/2 chance **R*** | *Mother 1/2 chance **r*** |
+| *Father 1/2 chance **R*** | *1/4 chance **RR*** | *1/4 chance **Rr*** |
+| *Father 1/2 chance **r*** | *1/4 chance **Rr*** | *1/4 chance **rr*** |
 
+- This yields a 3:1 ratio in the F2 generation.
 
+*Mendel's Claims to Explain the Monohybrid Cross*
+1. Peas have two copies of each gene, and thus may have two different alleles of the gene.
+2. Genes are particles of inheritance that do not blend together.
+3. Each gamete contains one copy of each gene (allele).
+4. Males and females contribute equally to the genotype of offspring.
+5. Some alelles are more dominant than others.
+
+<br>
+
+---
+
+<br>
+
+Work in progress
 
 
 
