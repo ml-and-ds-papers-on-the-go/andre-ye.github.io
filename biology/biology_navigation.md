@@ -27,7 +27,10 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
     - [Textbook Notes: Chapter 20.5, "Genome Editing"](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/chapter-20)
     - [Neville Sanjana: Genetic Screens for Improving Cancer Therapy](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/neville_sanjana_videos)
     - [Amy Wagers: CRISPR-Cas9 to Address Duchenne Muscular Dystrophy](https://andre-ye.github.io/biology/winter-quarter/notes/module-1/amy-wagers-video)
-    
+- Module 2: Genetics
+  - [Textbook Notes: Chapter 14, "Mendel and the Gene"](https://andre-ye.github.io/biology/winter-quarter/notes/module-2/chapter-14)
+
+
 #### Lab Background and Notes
 
 <br>
