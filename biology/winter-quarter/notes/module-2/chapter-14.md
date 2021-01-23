@@ -16,7 +16,7 @@ Andre Ye, 1/22/21
   * [The Garden Pea Served as the First Model Organism in Genetics](#the-garden-pea-served-as-the-first-model-organism-in-genetics)
 - [14.2: Mendel's Experiments with a Single Trait](#142-mendels-experiments-with-a-single-trait)
   * [The Monohybrid Cross: Dominant and Recessive Traits; A Reciprocal Cross; Do Mendel's Results Hold for Other Traits?](#the-monohybrid-cross-dominant-and-recessive-traits-a-reciprocal-cross-do-mendels-results-hold-for-other-traits)
-  * [Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross](#particulate-inheritance--genes--alleles-and-genotypes-the-principle-of-segregation-mendels-claims-to-explain-the-monohybrid-cross)
+  * [Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross](#particulate-inheritance-genes-alleles-and-genotypes-the-principle-of-segregation-mendels-claims-to-explain-the-monohybrid-cross)
 - [14.3: Mendel's Experiments with Two Traits](#143-mendels-experiments-with-two-traits)
   * [The Dihybrid Cross](#the-dbhybrid-cross)
   * [Using a Testcross to Confirm Predictions](#using-a-testcross-to-confirm-predictions)
