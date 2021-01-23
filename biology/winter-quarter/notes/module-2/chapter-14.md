@@ -29,7 +29,7 @@ Andre Ye, 1/22/21
 
 <br>
 
-### 14.1: Medle's Experimental System
+### 14.1: Medel's Experimental System
 - Questions about **heredity** (inheritance) were a primary concern.
 - **Trait** - any observable characteristic about an individual.
 
