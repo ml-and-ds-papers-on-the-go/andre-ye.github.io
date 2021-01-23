@@ -34,7 +34,7 @@ Andre Ye, 1/22/21
 - **Gregor Mendel** - an Austrian monk that laid the groundwork for the chromosome theory of inheritance.
 - Walter Sutton and Theodor Boveri linked the discovery of meiosis with Mendel's discovery to form the **chromosome theory of inheritance**.
   - States genes are located on chromosomes, and transmission of chromosomes to daughter cells accounts for patterns of inheritance.
-- Launched the theroy of **genetics**, which concerns the inheritance of traits.
+- Launched the theory of **genetics**, which concerns the inheritance of traits.
 
 <br>
 
@@ -47,7 +47,7 @@ Andre Ye, 1/22/21
 - **Trait** - any observable characteristic about an individual.
 
 #### What Questions Was Mendel Trying to Answer?
-- What are patterns of the transmsion of traits from parents to offspring?
+- What are patterns of the transmission of traits from parents to offspring?
 - Two hypotheses at the time:
 
 | Hypothesis | Description | Prediction |
@@ -63,13 +63,13 @@ Andre Ye, 1/22/21
     - e.g. purple or white flowers.
 - **How did Mendel control matings?**
   - Garden pea flowers have male and female reproductive structures.
-    - Usually undergo **self-fertilization** - flower's pollen falls into female reproductive organ of the same flower.
-  - Mendel prevented self-fertilization by removing male reproductive organs before pollen formed, then transfered pollen from another pea plant.
+    - Usually undergo **self-fertilization** - flower's pollen falls into the female reproductive organ of the same flower.
+  - Mendel prevented self-fertilization by removing male reproductive organs before pollen formed, then transferred pollen from another pea plant.
     - This is **cross-fertilization**, or just a **cross**.
 - **What traits did Mendel study?**
   - **Phenotype** - observable traits of an individual.
   - Mendel used peas that differed in seven phenotypes.
-  - **Pure line** - individuals that produce offspring identical to the parents when they are crossed to another member of the same population, or are self-fertilized.
+  - **Pure line** - individuals that produce offspring identical to the parents when they are crossed to another member of the same population or are self-fertilized.
     - Predictable pure lines can be used such that a new phenotype is the result of a cross, rather than some random event.
   - Offspring with matings between true-breeding parents that differ in one or more traits: **hybrids**.
 
@@ -81,10 +81,10 @@ Andre Ye, 1/22/21
 
 ### 14.2: Mendel's Experiments with a Single Trait
 - In his first set of experiments, Mendel crossed pure liens of garden peas that differed in only one trait.
-- Crossed round-seed individuals and wrinkle-seed individuals (from pure lins).
-  - Individuals used in initial cross: **parental generation**.
+- Crossed round-seed individuals and wrinkle-seed individuals (from pure lines).
+  - Individuals used in the initial cross: **parental generation**.
   - Progeny (offspring) are **F1 generation**, "first filial".
-    - Latin *filius* and *filia* mean "son" and "daughter".
+    - Latin *Filius* and *filia* mean "son" and "daughter".
   - Continues as *F2* generation, *F3*, so on.
 
 #### The Monohybrid Cross: Dominant and Recessive Traits; A Reciprocal Cross; Do Mendel's Results Hold for Other Traits?
@@ -92,7 +92,7 @@ Andre Ye, 1/22/21
   - All seeds produced from this cross were *round*.
 - Result:
   - Traits did not blend together to form an intermediate phenotype, but only the round-seed trait appeared.
-    - This contradicts the blending-inheritance hypotheiss.
+    - This contradicts the blending-inheritance hypothesis.
   - The wrinkle-seed trait disappeared.
 
 *Dominant and Recessive Traits*
@@ -106,14 +106,14 @@ Andre Ye, 1/22/21
 - Wrinkle-seed shape disappeared in the F1 generation but reappeared in the F2 generation.
 - Results:
   - Wrinkled shape is **recessive** because this phenotype recedes, or seems to be hidden.
-  - Round shape is **domiannt** because it dominates over the wrinkle-seed determinant when both are present.
+  - Round shape is **dominant** because it dominates over the wrinkle-seed determinant when both are present.
 - Genetics: "dominant" and "recessive" refer to which phenotype is observed and which is masked when individuals carry two different genetic determinants for a trait.
 - Ratio is 3:1.
 
 *A Reciprocal Cross*
 - Does the male or female parent have a particular genetic determinant?
 - Performed a second set of crosses between two pure-line populations.
-  - "In reverse" - used pollen from pure line of wrinkle-seed peas on the round peas.
+  - "In reverse" - used pollen from the pure line of wrinkle-seed peas on the round peas.
   - This is a **reciprocal cross**; set of matings where the mother's phenotype is the initial cross and the father's is second, and vice versa.
 - Results are **identical**; all F1 progeny had round seeds.
 - Sometimes, reciprocal crosses do produce different results.
@@ -128,10 +128,10 @@ Andre Ye, 1/22/21
 #### Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross
 - Mendel proposed a hypothesis: **particulate inheritance**.
   - Hereditary determinants for traits to not blend together or become modified through use.
-  - Hereditary determinants maintain their integrity, and act as discrete, unchanging particles.
+  - Hereditary determinants maintain their integrity and act like discrete, unchanging particles.
 
 *Genes, Alleles, and Genotypes*
-- **Gene**: hereditary determinant of a trait.
+- **Gene**: a hereditary determinant of a trait.
   - Mendel proposed each individual can have two versions of any gene: **alleles**.
   - Combination of alleles in an individual: **genotype**.
 - Hypothesis that pea plants have two copies of each gene comes from the need to explain why a trait can disappear in one generation and pop up in another.
@@ -145,7 +145,7 @@ Andre Ye, 1/22/21
   - *R* = dominant allele, *r* = recessive allele.
   - *RR* and *rr* are **homozygous** - always produce offspring with the same phenotype because they are homozygous.
   - *Rr* and *rR* are **heterozygous** - having different alleles.
-- Punnett square modelling (assuming heterozygous mother and father):
+- Punnett square modeling (assuming heterozygous mother and father):
 
 | | *Mother 1/2 chance **R*** | *Mother 1/2 chance **r*** |
 | *Father 1/2 chance **R*** | *1/4 chance **RR*** | *1/4 chance **Rr*** |
@@ -158,7 +158,7 @@ Andre Ye, 1/22/21
 2. Genes are particles of inheritance that do not blend together.
 3. Each gamete contains one copy of each gene (allele).
 4. Males and females contribute equally to the genotype of offspring.
-5. Some alelles are more dominant than others.
+5. Some alleles are more dominant than others.
 
 <br>
 
@@ -172,13 +172,13 @@ Andre Ye, 1/22/21
 
 #### The Dihybrid Cross
 - Mendel crossed a pure-line parent that produced round yellow seeds with a pure-line parent that produced wrinkled green seeds.
-  - The F1 oppspring should be heterozygous for both genes.
+  - The F1 offspring should be heterozygous for both genes.
     - These offspring are called **dihybrids**.
   - Mating between dihybrids is a **dihybrid cross**.
-- Mendel had established the allele for yellow seeds (*Y*) was dominant to the alelle for green seeds (*y*).
+- Mendel had established the allele for yellow seeds (*Y*) was dominant to the allele for green seeds (*y*).
 - Two possibilities for transmission of genes to offspring:
   1. Alleles for seed shape and color are transmitted independently.
-    - Independent assortment hypothesis; the two alelles of each gene are sorted into gametes independently of each other.
+    - Independent assortment hypothesis; the two alleles of each gene are sorted into gametes independently of each other.
   2. Alleles for seed shape and color are transmitted into gametes together.
     - Dependent assortment hypothesis; one particular allele's transmission is dependent on the transmission of another.
 - Predictions of hypotheses:
@@ -192,11 +192,11 @@ Andre Ye, 1/22/21
 - Seeing what gametes can be produced by segregation and independent assortment is tricky as the number of traits increases.
 
 #### Using a Testcross to Confirm Predictions
-- Mendel did experiments w/ combinations of traits other than seed shape and color, and obtained similar results.
+- Mendel did experiments w/ combinations of traits other than seed shape and color and obtained similar results.
   - Each dihybrid cross produced a 9:3:3:1 ratio.
   - Mendel, however, looked for an alternative test to provide more evidence for its correctness.
 - An *RrYy* plant should produce four different types of gametes in equal proportions.
-- **Testcross** - a parent with a dominant phenotype but unknown phenotype is crossed with a parent that contributes only recessive alleles.
+- **Testcross** - a parent with a dominant phenotype but an unknown phenotype is crossed with a parent that contributes only recessive alleles.
   - The unknown parental genotype can be determined by analyzing the phenotype of offspring.
 - Researchers can infer if the other parent is homozygous or heterozygous for the dominant allele.
 - If the principle of independent assortment is valid, the testcross should produce four types of offspring if the parent is *RrYy* and only one type if the tested parent is *RRYY*.
@@ -212,7 +212,7 @@ Andre Ye, 1/22/21
 - Sutton and Boveri realized meiosis accounted for Mendel's rules.
 
 #### Meiosis Explains Mendel's Principles
-- Alleles of a gene for seed shpae are shown in a particular position (**locus** or **loci** - plural) along a certain chromosome.
+- Alleles of a gene for seed shape are shown in a particular position (**locus** or **loci** - plural) along a certain chromosome.
 - Paternal and maternal chromosomes possess alleles at the seed-shape gene locus.
   - If alleles for different genes are located on different chromosomes, they will assort independently of one another in meiosis I.
   - There are two equally likely ways for homologous pairs to line up.
@@ -235,11 +235,11 @@ Andre Ye, 1/22/21
 
 | Experiment | Result |
 | --- | --- |
-| Red-eyed male fly was mated with mutant white-eyed male fly. | All F1 progeny had red eyes. |
+| Red-eyed male fly was mated with a mutant white-eyed male fly. | All F1 progeny had red eyes. |
 | Continued crossing. | white-eyed female flies were obtained. |
 | Reciprocal cross between white-eyed female and red-eyed male. | All F1 females had red eyes, all F1 males had white eyes. |
 
-- There is a relationship between the sex of the parent and inheritance of eye color.
+- There is a relationship between the sex of the parent and the inheritance of eye color.
 
 *The Discovery of Sex Chromosomes*
 - Nettie Stevens studied the chromosomes of insects.
@@ -248,7 +248,7 @@ Andre Ye, 1/22/21
   - Female flies have XX;  male flies have XY.
 
 *Sex-Linkage and the Chromosome Theory of Inheritance*
-- The transmission pattern of the X chromsoome can explain the results of reciprocal crosses.
+- The transmission pattern of the X chromosome can explain the results of reciprocal crosses.
 - Half the gametes produced by males have an X chromosome and half a Y chromosome.
   - Proposal: the gene for eye color is located on the X chromosome, and the Y chromosome does not carry this gene.
 - Terminology:
@@ -256,8 +256,8 @@ Andre Ye, 1/22/21
   - **X-linked gene** - a gene on the X chromosome.
   - **Y-linked gene** - a gene on the Y chromosome.
   - **Sex-linked inheritance** - patterns of inheritance on genes that give different results for reciprocal crosses.
-  - **X-linked inheritance** - when genes for patterns of inheritance that give different results for recirprocal crosses are located on the X chromosome.
-  - **Y-linked inheritance** - when genes for patterns of inheritance that give different results for recirprocal crosses are located on the Y chromosome.
+  - **X-linked inheritance** - when genes for patterns of inheritance that give different results for reciprocal crosses are located on the X chromosome.
+  - **Y-linked inheritance** - when genes for patterns of inheritance that give different results for reciprocal crosses are located on the Y chromosome.
   - **Autosomal inheritance** - genes on non-sex inheritance.
 - These experiments provide strong support for the chromosome theory of inheritance.
 
