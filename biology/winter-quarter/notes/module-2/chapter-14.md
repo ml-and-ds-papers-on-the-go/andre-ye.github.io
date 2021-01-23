@@ -10,6 +10,19 @@ Andre Ye, 1/22/21
 <br>
 
 ### Navigation
+- [Introduction](#introduction)
+- [14.1: Medel's Experimental System](#141-medels-experimental-system)
+  * [What Questions Was Mendel Trying to Answer?](#what-questions-was-mendel-trying-to-answer)
+  * [The Garden Pea Served as the First Model Organism in Genetics](#the-garden-pea-served-as-the-first-model-organism-in-genetics)
+- [14.2: Mendel's Experiments with a Single Trait](#142-mendels-experiments-with-a-single-trait)
+  * [The Monohybrid Cross: Dominant and Recessive Traits; A Reciprocal Cross; Do Mendel's Results Hold for Other Traits?](#the-monohybrid-cross-dominant-and-recessive-traits-a-reciprocal-cross-do-mendels-results-hold-for-other-traits)
+  * [Particulate Inheritance: Genes, Alleles, and Genotypes; The Principle of Segregation; Mendel's Claims to Explain the Monohybrid Cross](#particulate-inheritance--genes--alleles-and-genotypes-the-principle-of-segregation-mendels-claims-to-explain-the-monohybrid-cross)
+- [14.3: Mendel's Experiments with Two Traits](#143-mendels-experiments-with-two-traits)
+  * [The Dihybrid Cross](#the-dbhybrid-cross)
+  * [Using a Testcross to Confirm Predictions](#using-a-testcross-to-confirm-predictions)
+- [14.4: The Chromosome Theory of Inheritance](#144-the-chromosome-theory-of-inheritance)
+  * [Meiosis Explains Mendel's Principles](#meiosis-explains-mendel-s-principles)
+  * [Testing the Chromosome Theory of Inheritance: The White-Eyed Mutant; The Discovery of Sex Chromosomes; Sex-Linkage](#testing-the-chromosome-theory-of-inheritance-the-white-eyed-mutant-the-discovery-of-sex-chromosomes-sex-linkage)
 
 <br>
 
@@ -153,28 +166,105 @@ Andre Ye, 1/22/21
 
 <br>
 
-Work in progress
+### 14.3: Mendel's Experiments with Two Traits
+- Working with one trait allowed Mendel to infer each pea plant had two copies, and the principle of segregation.
+- Do alleles of *different* genes segregate together or independently?
 
+#### The Dihybrid Cross
+- Mendel crossed a pure-line parent that produced round yellow seeds with a pure-line parent that produced wrinkled green seeds.
+  - The F1 oppspring should be heterozygous for both genes.
+    - These offspring are called **dihybrids**.
+  - Mating between dihybrids is a **dihybrid cross**.
+- Mendel had established the allele for yellow seeds (*Y*) was dominant to the alelle for green seeds (*y*).
+- Two possibilities for transmission of genes to offspring:
+  1. Alleles for seed shape and color are transmitted independently.
+    - Independent assortment hypothesis; the two alelles of each gene are sorted into gametes independently of each other.
+  2. Alleles for seed shape and color are transmitted into gametes together.
+    - Dependent assortment hypothesis; one particular allele's transmission is dependent on the transmission of another.
+- Predictions of hypotheses:
 
+| Generation | Independent Assortment | Dependent Assortment |
+| --- | --- | ---- |
+| F1 | *RrYy* | *RrYy* |
+| F2 | 9 (*R_Y_*) : 3 (*R_yy*) : 3 (*rrY_*) : 1 (*rryy*) | 3 (*RRYY*/*RrYy*) : 1 (*rryy*) | 
 
+- Data yielded 9:3:3:1; Mendel hence accepted the **principle of independent assortment**.
+- Seeing what gametes can be produced by segregation and independent assortment is tricky as the number of traits increases.
 
+#### Using a Testcross to Confirm Predictions
+- Mendel did experiments w/ combinations of traits other than seed shape and color, and obtained similar results.
+  - Each dihybrid cross produced a 9:3:3:1 ratio.
+  - Mendel, however, looked for an alternative test to provide more evidence for its correctness.
+- An *RrYy* plant should produce four different types of gametes in equal proportions.
+- **Testcross** - a parent with a dominant phenotype but unknown phenotype is crossed with a parent that contributes only recessive alleles.
+  - The unknown parental genotype can be determined by analyzing the phenotype of offspring.
+- Researchers can infer if the other parent is homozygous or heterozygous for the dominant allele.
+- If the principle of independent assortment is valid, the testcross should produce four types of offspring if the parent is *RrYy* and only one type if the tested parent is *RRYY*.
+- Results of Mendel's testcross confirmed the principle of independent assortment.
 
+<br>
 
+---
 
+<br>
 
+### 14.4: The Chromosome Theory of Inheritance
+- Sutton and Boveri realized meiosis accounted for Mendel's rules.
 
+#### Meiosis Explains Mendel's Principles
+- Alleles of a gene for seed shpae are shown in a particular position (**locus** or **loci** - plural) along a certain chromosome.
+- Paternal and maternal chromosomes possess alleles at the seed-shape gene locus.
+  - If alleles for different genes are located on different chromosomes, they will assort independently of one another in meiosis I.
+  - There are two equally likely ways for homologous pairs to line up.
+  - Four types of gametes will be produced in equal proportions.
+- Mendel's rules can be explained by postulating genes are located on chromosomes that line up independently before being separated.
+- The idea genes were located on chromosomes was based on an observed observation; experiments were needed to confirm that chromosomes carried genes.
 
+#### Testing the Chromosome Theory of Inheritance: The White-Eyed Mutant; The Discovery of Sex Chromosomes; Sex-Linkage
+- The fruit fly *Drosophila melanogaster* has been the center of genetic studies.
+  - Small size
+  - Ease of rearing in lab
+  - Short generation time (~10 days)
+  - Abundant offspring (several hundred per mating)
 
+*The White-Eyed Mutant*
+- A male fly was discovered with white eyes rather than wild-type red eyes.
+  - This was likely a **mutation** - a heritable change in a gene.
+  - An individual with a mutation is a **mutant**.
+- Thomas Hunt Morgan's experiments:
 
+| Experiment | Result |
+| --- | --- |
+| Red-eyed male fly was mated with mutant white-eyed male fly. | All F1 progeny had red eyes. |
+| Continued crossing. | white-eyed female flies were obtained. |
+| Reciprocal cross between white-eyed female and red-eyed male. | All F1 females had red eyes, all F1 males had white eyes. |
 
+- There is a relationship between the sex of the parent and inheritance of eye color.
 
+*The Discovery of Sex Chromosomes*
+- Nettie Stevens studied the chromosomes of insects.
+- There was a striking difference in chromosome complements of males and females.
+- Stevens discovered sex chromosomes (X and Y) and autosomes.
+  - Female flies have XX;  male flies have XY.
 
+*Sex-Linkage and the Chromosome Theory of Inheritance*
+- The transmission pattern of the X chromsoome can explain the results of reciprocal crosses.
+- Half the gametes produced by males have an X chromosome and half a Y chromosome.
+  - Proposal: the gene for eye color is located on the X chromosome, and the Y chromosome does not carry this gene.
+- Terminology:
+  - **Sex-linked gene** - genes located on either sex chromosome.
+  - **X-linked gene** - a gene on the X chromosome.
+  - **Y-linked gene** - a gene on the Y chromosome.
+  - **Sex-linked inheritance** - patterns of inheritance on genes that give different results for reciprocal crosses.
+  - **X-linked inheritance** - when genes for patterns of inheritance that give different results for recirprocal crosses are located on the X chromosome.
+  - **Y-linked inheritance** - when genes for patterns of inheritance that give different results for recirprocal crosses are located on the Y chromosome.
+  - **Autosomal inheritance** - genes on non-sex inheritance.
+- These experiments provide strong support for the chromosome theory of inheritance.
 
+<br>
 
+---
 
+<br>
 
-
-
-
-
-
+[Back to top](#)
