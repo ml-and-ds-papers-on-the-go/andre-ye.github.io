@@ -30,6 +30,9 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Documents on African-American Opposition to Empire (1898-1899)*](https://andre-ye.github.io/history/winter/reading-responses/rr3/documents-on-african-american-opposition)
   - [Notes on "On the War in the Philippines" by Albert J. Beveridge](https://andre-ye.github.io/history/winter/reading-responses/rr3/on-the-war-in-the-philippines)
   - [Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer](https://andre-ye.github.io/history/winter/reading-responses/rr3/race-making-and-colonial-violence)
+- Weekly Reading Response 4 (Due 1/28)
+  - [Notes on “The Subjective Necessity for Social Settlements” by Jane Addams](https://andre-ye.github.io/history/winter/reading-responses/rr4/subjective-necessity)
+
 
 #### Course Mechanics
 
