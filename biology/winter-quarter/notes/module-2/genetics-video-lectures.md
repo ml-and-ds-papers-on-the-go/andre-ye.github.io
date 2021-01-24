@@ -3,14 +3,6 @@
 ## Notes on Genetics Video Lectures
 Andre Ye, 1/24/21
 
-<br>
-
----
-
-<br>
-
-### Navigation
-
 
 <br>
 
