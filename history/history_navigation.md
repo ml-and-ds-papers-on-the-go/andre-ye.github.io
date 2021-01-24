@@ -32,7 +32,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Race-Making and Colonial Violence in the U.S. Empire: The Philippine-American War as a Race War* by Paul A. Kramer](https://andre-ye.github.io/history/winter/reading-responses/rr3/race-making-and-colonial-violence)
 - Weekly Reading Response 4 (Due 1/28)
   - [Notes on “The Subjective Necessity for Social Settlements” by Jane Addams](https://andre-ye.github.io/history/winter/reading-responses/rr4/subjective-necessity)
-
+  - [Notes on "Now We Can Begin" by Crystal Eastman](https://andre-ye.github.io/history/winter/reading-responses/rr4/now-we-can-begin)
 
 #### Course Mechanics
 
