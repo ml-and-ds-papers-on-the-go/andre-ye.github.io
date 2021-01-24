@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 4 > Notes on "Now We Can Begin"
 
-## Notes on "Now We Can Begin" by Crystal Eastman, "Now We Can Begin" (1920)
+## Notes on "Now We Can Begin" (1920) by Crystal Eastman
 Andre Ye, 1/23/21
 
 <br>
@@ -34,7 +34,7 @@ Andre Ye, 1/23/21
   - Birth control is as important as equal pay.
 - *Motherhood endowment* should be given to keep mothers free; if raising children is a service to society, they should be entitled to adequate economic reward.
 
-> It will be time enough then to consider whether she has a soul.
+> "It will be time enough then to consider whether she has a soul."
 
 <br>
 
