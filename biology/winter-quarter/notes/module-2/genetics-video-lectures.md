@@ -48,33 +48,19 @@ Access [here](https://kcts9.pbslearningmedia.org/resource/0780890c-f38e-4956-aa8
 
 ### Introduction to Heredity
 Access [here](https://www.khanacademy.org/science/ap-biology/heredity/mendelian-genetics-ap/v/introduction-to-heredity){:target="_blank"}
+- We had the general sense that children's traits resembled their parents' traits.
+- Gregor Mendel - father of heredity and genetics.
+- When we study *classical genetics*, we might be able to find what future generations look like.
+- An allele: a version of a gene.
+  - Heterozygous genotype: the two alleles are different.
+  - Homozygous recessive genotype: the two alleles are both recessive.
+  - Homozygous dominant genotype: the two alleles are both dominant.
+- Genotype: versions of genes, Phenotypes: what is expressed.
 
+<br>
 
+----
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to top](#)
