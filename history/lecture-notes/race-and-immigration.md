@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Race, Immigration and Whiteness: Labor Markets and Cultural Constructions*
 
-# Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions
+## Race, Immigration, and Whiteness: Labor Markets and Cultural Constructions
 Andre Ye, 11/3/20 & 11/5/20.
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Introduction](#introduction)
 - [Legal Cornerstones of American Immigration and Constructions of Whiteness](#legal-cornerstones-of-american-immigration-and-constructions-of-whiteness)
   * [Ante-Bellum Immigration](#ante-bellum-immigration)
@@ -27,7 +33,13 @@ Andre Ye, 11/3/20 & 11/5/20.
   * [Is Race a System of Nature?](#is-race-a-system-of-nature)
 - [Whiteness](#whiteness)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - *Ironworkers Noontime*, Thomas Anschutz, 1880.
 - Racially exclusive labor.
 - *Are all of the workers white?*
@@ -35,8 +47,6 @@ Andre Ye, 11/3/20 & 11/5/20.
 - What is the purpose of the painting?
   - Comradarie and rivalry - complexities.
   - Constructions of gender (all male).
-  
-<br>
 
 - **Central questions:** What is whiteness? What are factors that contribute to the construction of race? How have specific definitions of race changed over time? How do structures of immigration, law, and economics make race?
   - Constructions of Whiteness tied to Immigration and Citizenship
@@ -53,7 +63,13 @@ Andre Ye, 11/3/20 & 11/5/20.
     - Pays dividends to its holders
 
 
-## Legal Cornerstones of American Immigration and Constructions of Whiteness
+<br>
+
+---
+
+<br>
+
+### Legal Cornerstones of American Immigration and Constructions of Whiteness
 - The Constitution does not explicitly condone racism.
   - It uses 'euphamisms'.
 - Legal foundations: Naturalization Act (1790)
@@ -67,7 +83,7 @@ Andre Ye, 11/3/20 & 11/5/20.
   - Frames race by nationality.
   - Reinforces ideas of Anglo-Saxon self-governing superiority.
 
-### Ante-Bellum Immigration
+#### Ante-Bellum Immigration
 - 4 million immigrants between 1840 and 1860.
 - Phase 2: 1820-1890
   - 15 million immigrants.
@@ -81,7 +97,13 @@ Andre Ye, 11/3/20 & 11/5/20.
   - Latin: before war (Ante-Bellum), referencing the civil war.
 - Being defined by industrialism.
 
-## Early Industrialization
+<br>
+
+---
+
+<br>
+
+### Early Industrialization
 - Why do historians break it up in this way?
   - Pre 1820, there wasn't much of an industrial process.
 - What happened in Lowell?
@@ -92,8 +114,14 @@ Andre Ye, 11/3/20 & 11/5/20.
 - Labor is being sold on markets.
   - Come to do work and would sell that object.
 
-## Unions
-### Unions and Economism 
+<br>
+
+---
+
+<br>
+
+### Unions
+#### Unions and Economism 
 - Herbert Gutman: writes about the immigrant experience in relation to labor.
 - Labor markets: immigrants are coming to search for jobs.
   - Explodes the numbers.
@@ -107,12 +135,18 @@ Andre Ye, 11/3/20 & 11/5/20.
   - Elevates and raises wages for people who are working by restricting market competititon.
 - Unions emerged as one of the early mechanisms to deal with this.
 
-### Unions and Racial Exclusivity
+#### Unions and Racial Exclusivity
 - Unions used racial exclusivity; union members needed to be white (or not a woman or not black or not Irish, etc.)
 - Excluded populations that would otherwise be competing in the labor market for the same sets of jobs.
 - Unions can form as a market constriction while embracing exclusivities.
 
-## Constructions of Working Class Masculinity
+<br>
+
+---
+
+<br>
+
+### Constructions of Working Class Masculinity
 - Competitiveness is contributing to constructing concepts of masculinity in terms of how people navigate the new environment.
 - Constructions center around toughness, conflict, and aggression.
 - Work itself was extremely dangerous.
@@ -124,21 +158,33 @@ Andre Ye, 11/3/20 & 11/5/20.
 - Constructions of masculinity in the early 19th century along factors of aggression, competition, and toughness.
   - Proving grit in the face of adversity.
 
-## Whiteness Structural Components
-### Citizenship
+<br>
+
+---
+
+<br>
+
+### Whiteness Structural Components
+#### Citizenship
 - Access to enfranchisement and legal representation through voting.
 - Favored naturalization legislation.
 
-### Jobs
+#### Jobs
 - Within labor markets, whiteness is defined through exclusion.
 - Privledged access to jobs, better working conditions, etc.
 - There is real meaning and benefit in being defined as white.
 - Recommending reading: *The Wages of Whiteness* by David R. Roediger
 - Whiteness becomes meaningful by exclusion from job markets.
 
-## Famine Migration and the Legacy of Globalism and Colonialism
+<br>
 
-### The Irish Famine
+---
+
+<br>
+
+### Famine Migration and the Legacy of Globalism and Colonialism
+
+#### The Irish Famine
 - Population of Ireland, 1791-2001:
 
 | Year | Population in Millions |
@@ -161,7 +207,7 @@ Andre Ye, 11/3/20 & 11/5/20.
 - Famine and poverty, hunger, death.
 - Massive exodus; people left Ireland in droves.
 
-### Irish Immigration to the United States
+#### Irish Immigration to the United States
 - Coming to the United States.
 
 | Decade | Immigration to the US |
@@ -177,7 +223,13 @@ Andre Ye, 11/3/20 & 11/5/20.
 - Irish immigrants stood out.
   - Practiced a different religion, spoke a different language (Gaelic), looked different, had different family relationships (larger families), dressed different, behaved differently.
 
-## Catholicism, Nativism, and the First Anti Immigrant Campaigns
+<br>
+
+---
+
+<br>
+
+### Catholicism, Nativism, and the First Anti Immigrant Campaigns
 - **Nativism:** the idea that white-born Protestant peoples were the native interest. Antagonized immigrants as potential threats to priorities.
 - 1852 flyers for the Boston Patriot, affiliated with the American Patriot Party (recalled as the Know-Nothing Party).
 - Stances (all wording is original):
@@ -196,7 +248,7 @@ Andre Ye, 11/3/20 & 11/5/20.
 - Different aspects are being racialized.
   - Not simply social or cultural difference; people thought aboout discrepnacies as racial (biological, inherent to a lineage).
 
-### 1844 Bible Riots
+#### 1844 Bible Riots
 - Inn Philadelphia, 1844 Bible Riots
 - Two stages of riots; spring and summer.
 - Untrue rumor that the Catholics would impose teaching the Catholic bible in the school system in Philadelphia.
@@ -207,7 +259,7 @@ Andre Ye, 11/3/20 & 11/5/20.
 - Dozens of people killed in the riots.
 - Led to direct conflict in the 1844 Bible riots
 
-### The Age of Political Cartooning
+#### The Age of Political Cartooning
 - "Mutual: Both are glad there are bars between them." *Judge* 1891.
   - Depicts Cathollics as monkeys dressed in suits.
   - The monkey is glad that it is behind bars.
@@ -232,12 +284,18 @@ Andre Ye, 11/3/20 & 11/5/20.
   - Thomas Nast - the most famous political cartoonist in the 19th century.
   - Displayed as ignorant and serves as a threat to democracy.
 
-## Labor Markets, Making Race, and Immigration
+<br>
+
+---
+
+<br>
+
+### Labor Markets, Making Race, and Immigration
 - Enacted in street violence of immigrant peoples.
 - Discussion of building walls around dangerous Chinese peoples who were believed not to be able to assimilate to American standards.
 - Cultural and literal tropes around social differences.
 
-### Fragmented Whiteness 1840s-1920s
+#### Fragmented Whiteness 1840s-1920s
 - Many races:
   - Anglo Saxon/Nordic Race
   - Celtic/Irish race
@@ -268,7 +326,7 @@ Andre Ye, 11/3/20 & 11/5/20.
   - Has little to do with real human social development and advancement.
 - Racial typology began to take hold.
 
-### Is Race a System of Nature?
+#### Is Race a System of Nature?
 - Old science understood races as genetically distinct populations with innate characteristics including different kinds of intelligent.
 - Modern science finds few genetic differences between populations and can't reliably identify boundaries between races.
 - Social difference is found within social markers.
@@ -284,7 +342,13 @@ Andre Ye, 11/3/20 & 11/5/20.
 - **Race:** A human population distinguished as a more or less distinct group by genetically transmitted physical characteristics.
 - **Ethnic group:** A population that is distinguished by culture and identity.
 
-## Whiteness
+<br>
+
+---
+
+<br>
+
+### Whiteness
 - Throughout most of American history, whiteness has been a precondition for social and political citizenship.
 - Only whites could readily access full political rights.
 - Only whites could feel unmarked, not different, 'normal' in American society.
@@ -295,3 +359,13 @@ Andre Ye, 11/3/20 & 11/5/20.
   - Job protections
   - Worth fighting and killing for.
 - Immigrants that challenge whiteness were met with fighting and killing.
+
+
+<br>
+
+---
+
+<br>
+
+
+[Back to top](#)
