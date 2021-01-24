@@ -12,11 +12,11 @@ Andre Ye, 1/23/21
 ### Navigate
 - [Introduction](#introduction)
 - [Repeating the Conversation vs. Contributing Something New to the Conversation](#repeating-the-conversation-vs-contributing-something-new-to-the-conversation)
-- [Moving Beyond "Because the Experts Say So"](#moving-beyond--because-the-experts-say-so-)
+- [Moving Beyond "Because the Experts Say So"](#moving-beyond-because-the-experts-say-so)
 - [Entering the Discourse Community of Published Criticism](#entering-the-discourse-community-of-published-criticism)
 - [Using the Critical Conversation to Brainstorm](#using-the-critical-conversation-to-brainstorm)
 - [Finding Published Criticism](#finding-published-criticism)
-- [What If There is Little or No Conversation About a Text?](#what-if-there-is-little-or-no-conversation-about-a-text-)
+- [What If There is Little or No Conversation About a Text?](#what-if-there-is-little-or-no-conversation-about-a-text)
 - [Using the Critical Conversation to Write Persuasively](#using-the-critical-conversation-to-write-persuasively)
   * [Remind readers what has been said in the conversation you are joining](#remind-readers-what-has-been-said-in-the-conversation-you-are-joining)
   * [Distinguish your views from those of the critics you cite](#distinguish-your-views-from-those-of-the-critics-you-cite)
