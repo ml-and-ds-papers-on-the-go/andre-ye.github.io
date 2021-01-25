@@ -33,6 +33,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - Weekly Reading Response 4 (Due 1/28)
   - [Notes on “The Subjective Necessity for Social Settlements” by Jane Addams](https://andre-ye.github.io/history/winter/reading-responses/rr4/subjective-necessity)
   - [Notes on "Now We Can Begin" by Crystal Eastman](https://andre-ye.github.io/history/winter/reading-responses/rr4/now-we-can-begin)
+  - [Notes on *Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist](https://andre-ye.github.io/history/winter/reading-responses/rr4/reinventing-the-people)
 
 #### Course Mechanics
 
