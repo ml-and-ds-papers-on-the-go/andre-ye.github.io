@@ -1,6 +1,6 @@
-[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 4 > Notes on *Reinventing the People*
+[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 4 > Notes on *Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism*
 
-## Notes on *Reinventing the People* by Shelton Stromquist
+## Notes on *Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist
 Andre Ye, 1/23/21
 
 <br>
