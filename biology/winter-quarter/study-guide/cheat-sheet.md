@@ -96,6 +96,46 @@ From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”
 
 <br>
 
+### Mendelian Genetics
+
+| Term | Definition |
+| --- | --- |
+| alleles | A "version" or "copy" of a gene. |
+| autosomes | Chromosome pairs that are not sex chromosomes. |
+| blending inheritance | The hypothesis that the traits of a mother and father blend together to form traits in offspring. |
+| carrier | An individual who carries and is capable of passing on some genetic trait. |
+| crossing over | A step in meiosis in which nonsister chromatids of homologous chromosomes can randomly swap, or "cross over" part of their allele. |
+| dihybrid cross | A cross between two organisms (dihybrids) that differ in two traits. |
+| diploid | A cell is diploid when it has two alleles for each gene. |
+| dominance (dominant) | A dominant allele type is phenotypically expressed over a recessive allele type. |
+| F1 generation | Offspring (or progeny) of the parental generation - the first cross. |
+| F2 generation | Offspring of the F1 generation - the second cross. |
+| gene | A stretch of DNA on a chromosome that determines a trait. |
+| genotype | The genetic information of an individual. |
+| heredity | Inheritance of traits. |
+| heterozygous | An organism that has different alleles for a trait. |
+| homozygous | An organism that has the same alleles for a trait. |
+| hybrids | Offspring with matings between true-breeding parents that differ in one or more traits. |
+| monohybrid cross | A cross between two organisms that differ in a single given trait. |
+| mutant | An individual with a heritable change in a gene. |
+| parental generation (P1) | The initial organisms that are crossed to form the F1 generation. |
+| phenotype | The expressed traits from the genotype. |
+| principle of independent assortment | Alleles for genes separate completely randomly into gamets, irrespective of alleles for other genes. |
+| Punnett square | A tool for understanding outcomes of genetic crosses. |
+| pure lines | Individuals that produce offspring identical to the parents when they are crossed to another member of the same population or are self-fertilized. |
+| recessiveness (recessive) | An allele that is only expressed when there is no dominant allele for that gene present. |
+| reciprocal cross | When the male and female gametes are swapped and crossed. This is used to ensure that traits are not sex-linked and independently assorted. |
+| recombination (recombinants) | The rearrangement of DNA sequences by the breakage and rejoining of chromosomes or chromosome segments. |
+| sex chromosomes | Chromosomes associated with the offspring's sex; chromosome 23 in humans. |
+| sex-linked inheritance | A trait associated with sex because it is located on sex chromosomes. |
+| testcross | A cross between a phenotypically dominant (but unknown genotype) organism with a genotypically recessive organism to determine the former's genotype. |
+| trait | An observable characteristic about an individual. |
+| wild type | The naturally occuring non-mutant allele of a gene. |
+| X chromosome | The chromosome females have two of, and males have only one of. |
+| y chromosome | The chromosome females have none of, and males have one of. |
+
+<br>
+
 ---
 
 <br>
