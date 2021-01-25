@@ -18,6 +18,11 @@ Andre Ye, 1/23/21
   - Looked unflinchingly at social inequity around them, and hoped to overcome barriers to individual oppurtunity.
 - The reform movement was not to be working towards one kind or class of people, but instead for the common good.
 
+- The Progressive movement has been elusive for historians; there are many theories.
+  -   gressives were viewed as members of a displaced middle class, driven to reform by anxiety over their status.
+- Others
+
+
 
 
 
