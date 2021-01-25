@@ -9,6 +9,26 @@ Andre Ye, 1/23/21
 
 <br>
 
+### Navigate
+- [Introduction: "Progressives and the Problem of Class"](#introduction-progressives-and-the-problem-of-class-)
+  * [Historical Debate Around the Progressive Movement](#historical-debate-around-the-progressive-movement)
+  * [Rhetoric of the Progressive Movement](#rhetoric-of-the-progressive-movement)
+  * [The Progressive Movement in the Face of Postbellum Industrialism](#the-progressive-movement-in-the-face-of-postbellum-industrialism)
+  * [Progressive Unwillingness to Accept Class and the Ideal of Social Harmony](#progressive-unwillingness-to-accept-class-and-the-ideal-of-social-harmony)
+  * [Dynamics and Influences on Progressive Reform](#dynamics-and-influences-on-progressive-reform)
+  * [Cultural Limitations to a Universal Promise](#cultural-limitations-to-a-universal-promise)
+  * [Modern Progressivism Amidst War and the Great Depression](#modern-progressivism-amidst-war-and-the-great-depression)
+- [Conclusion: War and the Ragged Edges of Reform](#conclusion-war-and-the-ragged-edges-of-reform)
+  * [Progressive Positions Amid War](#progressive-positions-amid-war)
+  * [Campaigning for Industrial Democracy](#campaigning-for-industrial-democracy)
+  * [The Legacies of Progressive Reform](#the-legacies-of-progressive-reform)
+  
+<br>
+
+---
+
+<br>
+
 ### Introduction: "Progressives and the Problem of Class"
 - Jane Addams amid the Pullman car shopworkers' strike of 1894: torn between sympathy for strikers and a desire to bridge class divisions.
   - Addams met with striking employees and listened to their grievances, as well as the managers.
