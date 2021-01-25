@@ -14,7 +14,7 @@ Andre Ye, 1/23/2021
 - [Using Social Relevance to Brainstorm](#using-social-relevance-to-brainstorm)
 - [Using Social Relevance to Write Persuasively](#using-social-relevance-to-write-persuasively)
 - [How Social Relevance Works with other Strategies of Literary Analysis](#how-social-relevance-works-with-other-strategies-of-literary-analysis)
-- [Criticism CHanges Over Time](#criticism-changes-over-time)
+- [Criticism Changes Over Time](#criticism-changes-over-time)
 
 <br>
 
@@ -83,7 +83,7 @@ Andre Ye, 1/23/2021
 
 <br>
 
-### Criticism CHanges Over Time
+### Criticism Changes Over Time
 - Prior to the 20th century, literary criticism was focused on biography or linguistics.
 - Early 20th century, **New Criticism** advocated for interpretations that focused on only the text and its meaning.
 - New membership into English studies began to diversify; new works and methods of interpretations were considered and aopted.
