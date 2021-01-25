@@ -14,6 +14,10 @@
 - [Terms and Concepts](#terms-and-concepts)
   * [Control of Gene Expression in Bacteria](#control-of-gene-expression-in-bacteria)
   * [Control of Gene Expression in Eukaryotes](#control-of-gene-expression-in-eukaryotes)
+  - [Mendelian Genetics](#mendelian-genetics)
+- [Core Ideas](#core-ideas)
+  * [Table of Elements of Transcriptional Regulation](#table-of-elements-of-transcriptional-regulation)
+  * [Terms Used in Mendelian Genetics](#terms-used-in-mendelian-genetics)
   
 <br>
 
@@ -96,7 +100,7 @@ From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”
 
 <br>
 
-### Mendelian Genetics
+#### Mendelian Genetics
 
 | Term | Definition |
 | --- | --- |
