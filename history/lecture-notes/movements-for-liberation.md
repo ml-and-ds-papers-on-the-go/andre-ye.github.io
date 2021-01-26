@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Movements for Liberation: Abolition and Expansions of Freedom*
 
-# Movements for Liberation: Abolition and Expansions of Freedom
+## Movements for Liberation: Abolition and Expansions of Freedom
 Andre Ye, 11/24/20
 
-## Navigation
+<br>
+
+---
+
+<br>
+
+### Navigation
 - [Introduction](#introduction)
 - [Central Claims](#central-claims)
 - [America as a Slave Society](#america-as-a-slave-society)
@@ -44,7 +50,13 @@ Andre Ye, 11/24/20
   * [What is Liberation?](#what-is-liberation-1)
     + [Forms of Resistance](#forms-of-resistance-1)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - Framework for thinking about what those in a political position to struggle against slavery were up against.
   - Who had the interest to undo the slave system?
   - Most people adopted some form of the argument - "It's natural", "been with society", "doesn't impact me", etc.
@@ -58,7 +70,13 @@ Andre Ye, 11/24/20
   - A claim of equality; does not say human but says man.
   - Appeal and claim to masculinity.
 
-## Central Claims
+<br>
+
+---
+
+<br>
+
+### Central Claims
 Movements for Liberation: Slaves, Women, and Workers
 - Central Questions:
   - What did liberation mean to different segments of American society?
@@ -82,11 +100,17 @@ Movements for Liberation: Slaves, Women, and Workers
   - Looking at the workers' and women's movement.
   - Thinking about how these different pushes begin to form a political crisis that ultimately resolves in the Civil War.
 
-## America as a Slave Society
+<br>
+
+---
+
+<br>
+
+### America as a Slave Society
 - Slavery is not just a part but a definitional foundation touching practically everything in American society.
 - Difficult to get over the relationship of slavery with the economy; culture, status, politics, etc. tied to the institution of slavery.
 
-### Life Under Slavery
+#### Life Under Slavery
 - Depictions coming from slavemasters were inaccurate; looking at the economics we see that violence is rooted inside the system.
   - The "Happy Slave" is difficult to rectify and justify with other pictures.
   - This level of violence is not even given the capricious nature of white supremacy and racism.
@@ -96,7 +120,7 @@ Movements for Liberation: Slaves, Women, and Workers
   - A whole hierarchy of violence worked into the system.
   - Slave system is being undone; Northenors are becoming from involved into what slavery looks like.
 
-### Maintaining Order and Slave Culture
+#### Maintaining Order and Slave Culture
 - Based on the capricious system.
 - Movements for liberation and some autonomy.
 - Degrees of independence and power; also power coming from enslaved peoples.
@@ -123,13 +147,13 @@ Movements for Liberation: Slaves, Women, and Workers
   - Culture of resistance, survival, intelligence.
     - Values intellect and cunning, not letting emotions get the better of you.
 
-### Threat of Sale
+#### Threat of Sale
 - Degree of power and agency.
 - Sale is unidirectional; the agency and intellect.
   - Feigned illness, etc. to get themselves *returned*; a degree of slave agency.
 - A violent and totalizing system, but there was a degree of influence in those circumstances.
 
-### Slave Religion
+#### Slave Religion
 - Enslaved persons cultural practice; slave religion.
 - Like slavemasters that emphasized the Curse of Ham, were told the story of Exodus.
   - Moses leads to the enslaved Jews to the promised lands.
@@ -144,7 +168,13 @@ Movements for Liberation: Slaves, Women, and Workers
 - A resonant idea in Christianity; part of the reason why it spread to quickly in the Roman underclass and the slave tradition.
   - Perhaps as support, but resistance present.
 
-## Slave Resistance
+<br>
+
+---
+
+<br>
+
+### Slave Resistance
 - Embedded in the culture; in actual actions. Not only beliefs and talkings.
 - People resisted the slave system, sometimes a day-to-day resistance that could be acts of sabatoge.
   - e.g. acts of hoeing a field; given the tools to do that, wouldn't you break the hoes.
@@ -155,7 +185,7 @@ Movements for Liberation: Slaves, Women, and Workers
   - A major part of resistance mainly done by men.
   - Few women ran away. (Why was this?)
 
-### Smaller Scale Resistance
+#### Smaller Scale Resistance
 - Individual acts of resistance.
 + Overt forms of resistance; day-to-day and individualized practices of slave resistance.
 + Shirking work; not being told what to do.
@@ -182,7 +212,7 @@ Movements for Liberation: Slaves, Women, and Workers
 	+ Either in the life afterwards or a new religious figure bringing redemption on Earth.
 	+ Thinking about this as resistance.
 
-### Collective Resistance
+#### Collective Resistance
 - Collective acts of resistance.
 - Form a work group and refuse to do work.
 - Form rebellions; use the tools and turn them as weapons in an attempt to liberate oneself.
@@ -208,6 +238,12 @@ Movements for Liberation: Slaves, Women, and Workers
 	+ Vesey was a preacher and used his preaching to make connections in the slave quarters, developed revolt.
 
  
+<br>
+
+---
+
+<br>
+
 ### Large Scale Slave Rebellions 
 #### Nat Turner’s Rebellion 
 + 1830; was one of the more successful uprising. 
@@ -255,7 +291,13 @@ Movements for Liberation: Slaves, Women, and Workers
 - Frees hundreds of people; once, freed 700 people at a time in South Carolina on a plantation by the river.
 - Extremely militant and dedicated to large slave rebellion.
 
-## Movement for Abolition
+<br>
+
+---
+
+<br>
+
+### Movement for Abolition
 - Emerging movement for abilition founded in slave self-activity (slaves running away and telling their stories, leading more poeple, having more of an impact on the Christian beliefs in Slavery)
 - White people became activists and movement politics around ending the institution of slavery.
 - Some of the earliest are two sisters, Sarah Grtimke and Angelina Grimke.
@@ -264,7 +306,7 @@ Movements for Liberation: Slaves, Women, and Workers
 	- Some of the frist people to decry it publically; went on speeches and made the argument against slavery.
 - A growing trend of white activism.
 
-### Quakers and the Christian Abolition
+#### Quakers and the Christian Abolition
 - Grimke sisters came into Quaker abolitionist circles.
 - Quakers are known as a society of friends; emphasis on horizontal relationships betwene people and with God.
 	- Do not need a preacher, pastor, etc. to have a direct relationships with God and other people.
@@ -289,7 +331,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 - Solution: get rid of the source of the prejudice out of their respectability.
 - An example of justifications for slavery with the paternalist ethos.
 
-### Gradualist Abolition Before 1830
+#### Gradualist Abolition Before 1830
 - Theodore Weld and Arthur Tappan
 - Steeped in these ideas. 
 - Certainly oppposed to slavery on the moral grounds and wanted to see it end.
@@ -298,7 +340,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 - Participated in a series of activities of the 1820s or so with abolitionists along these lines.
 	- Still, faced backlash: public ridicule and outrage.
 
-### Slavery and Moral Suasion
+#### Slavery and Moral Suasion
 - Moral suasion; you need to eventually convince enough people that this system is wrong, that we need to do something else.
 	- We should slowly end the system and can have a slow process of abolition
 	- Potential gradualist solutions: anyone born after this date will be free, some payout system, etc.
@@ -336,7 +378,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 - Slave accounts were often published by press as part of political propaganda to indicate the evils of slavery.
 - Methods are being developed during this time to further push the envelope.
 
-### Abolition, Citizenship, and Freedom
+#### Abolition, Citizenship, and Freedom
 - A new kind of ideological conception of freedom, claims to rights, synthesis of ideas that we have seen, etc.
 - Perhaps there are moral claims outside of legal standards for what is righteous and good.
 - Maybe if we are not thinking strictly religiously, we can think of it being inherent to mankind.
@@ -351,7 +393,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
     - *All men* have rights; a synthetic tradition being chrystallized to create new antiracist traditions.
 - Walker is rediscovering tradition of putting new interpretation and synthesis of these ideas around universalistic claims of rights, drawing on the past.
 
-### Abolition and Race
+#### Abolition and Race
 - Needed to be around questions of race; pro-slavery arguments like moral, Christian, civilizational, based on rights, etc. boils down to *enslaved peoples are inferior.*
 - Abolitionists fought against the root-level idea that enslaved peoples were inferior.
 - Pro-colonization claims (are inferior but perhaps slavery should end) begin to be undone in the 1830s to 1840s.
@@ -359,14 +401,14 @@ It was desirable, therefore, as it respected them, and the residue of the popula
   - Attempting to articulate this set of ideas.
   - Producing new claims about race; coming to argue against racial inferiority and to challenge pseudoscience notions of phrenology, etc.
 
-### Militant Abolitionism
+#### Militant Abolitionism
 - David Walker: wrote an appeal, political tract that re-introduced the Declaration of Independence and a more universalistic tradition of rights beyond specifying rights.
 - After publication, was mysteriously killed/died for reasons historians are not entirely sure about.
   - Perhaps in retaliation for his political work.
 - What emerges: type of militant abolitionism that is uncompromising, highly moral and self-conscientious, and for **full claims** of equality.
   - Not half-baked and gradualist like early intellecutal contributions.
   
-### Direct Action and the Underground Railroad
+#### Direct Action and the Underground Railroad
 - Led to direct action and work; Tubmanw as a leading figure in the underground railroad.
 - John Brown participated in Underground Railroad operations.
 - In Canada, he tried to stage an army to go back into the US to liberate more salves that led to the Harpers Ferry raid.
@@ -379,7 +421,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
   - Small, but were not waiting around for gradualist change.
   - Had been involved in decades' worth of political work and not seeing much movement.
 
-### Retaliation to Abolitionism
+#### Retaliation to Abolitionism
 - Physical violence, threats.
 - Boston: William Llyod Garrison is almost lynched.
   - Marched into the commons with a noose around his neck becuase he was so unpopular *in the North*.
@@ -390,7 +432,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 - Printing presses attacked. 
 - Abolitionists faced tremendous hostility and outright violence.
 
-### Conflict in the Northern States and National Legislative Bodies
+#### Conflict in the Northern States and National Legislative Bodies
 - Abolitionists/Northernors are not necessarily the same.
 - Did not want to do much about it; many thought slavery was in fact right.
 
@@ -407,7 +449,13 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 - 1840s; Congress refused to do so, banned the introduction of any abolitionist petitions, readings, and ideas from being read on the floor.
 - Clear Constitutional violations. 
 
-## Abolitionist Women
+<br>
+
+---
+
+<br>
+
+### Abolitionist Women
 - What does this allow you to do? 
 	- Cannot vote, cannot run for office, cannot petition the government, cannot write about it
 	- Are met with angry mobs disrupting your ability to speech, burning down buildings, attacking the press, etc.
@@ -427,7 +475,7 @@ It was desirable, therefore, as it respected them, and the residue of the popula
   - Began to challenge these notions as well.
   - Changing mentality, consciousness of what conditions of slavery mean.
 
-### London 1840 Anti Slavery Convention
+#### London 1840 Anti Slavery Convention
 - Worldwide antislavery convention held in London.
 - England banned slavery in 1833.
   - Undid the colonial slave system; remaining large practioner of slavery is the United States.
@@ -437,13 +485,13 @@ It was desirable, therefore, as it respected them, and the residue of the popula
   - Women that spent weeks on a boat to have the experience were not allowed to participate.
   - Foundational moment; basis for the emergence of the womnen's question.
 
-### Seneca Falls
+#### Seneca Falls
 - Founded by activists; Elizabeth Cady Stanton in 1840 comes back to the US; in 1848, has organized a women's rights convention in New York.
 - Looking at slavery; looking at women's role in society.
 - Drafted: requesting property ownership, divorce, and the right to vote.
   - A contested thing.f women's rights in tandem.
 
-### What is Liberation?
+#### What is Liberation?
 - How do we define terms of what liberation is and what it means to be free?
 - A number of different segments of American society from enslaved peoples themselves.
 - Women - middle-class, abolitionist reformers, enslaved women, Northern manufacturing workers - all generating claims around liberation.
@@ -464,22 +512,13 @@ It was desirable, therefore, as it respected them, and the residue of the popula
 - Many women took their name *off* the initial Declaration.
 - Nontheless became a foundation for a parallel movement of women's rights in tandem.
 
-### What is Liberation?
-- How do we define terms of what liberation is and what it means to be free?
-- A number of different segments of American society from enslaved peoples themselves.
-- Women - middle-class, abolitionist reformers, enslaved women, Northern manufacturing workers - all generating claims around liberation.
-- Forms of liberation that looked different for each segment of American society yet were nontheless collectively pushing political and intellectual boundaries.
 
-#### Forms of Resistance
-- In the face of this power and oppression; what is justified?
-  - Ignoring effectiveness. What is reasonable?
-  - What role does violence play in this?
-  - Is it righteous? Is it effective?
-  - Questions women of the women's rights movement and formerly enslaved peoples were facing.
-- Brown: it is time to rise up and revolt. Douglass: I'm not sure; maybe it's right, but will it work?
-- Who has the social power to address these wrongs?
-  - Who can make this happen, and by what means?
-  - Challenging questions that abolitionists and free peoples struggled with during these decades. 
+<br>
+
+---
+
+<br>
+
 
 
 [Back to top](#)
