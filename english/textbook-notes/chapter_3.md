@@ -1,11 +1,15 @@
 [Home](https://andre-ye.github.io) > [English Navigation](https://andre-ye.github.io/english/english_navigation) > [Textbook Chapter Notes](https://andre-ye.github.io/english/english_navigation#textbook-chapter-notes) > Chapter 3 Notes
 
-# Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"
+## Chapter 3 Notes: "From Writing Summaries and Paraphrases to Writing Yourself Into Academic Conversations"
 Andre Ye, 10/17/2020
+
+<br>
 
 ---
 
-## Summaries, Paraphrases, and Quotations
+<br>
+
+### Summaries, Paraphrases, and Quotations
 
 There is a distinction between paraphrasing and summarizing.
 - `Paraphrasing` is rewriting a chunk of text in different language. *Usually the length doesn't change that much.*
@@ -19,7 +23,13 @@ When you read,
 - *summarize* when only the important ideas of a text are needed.
 - *quote* when an excerpt of text is so memorable, important, and authentic that the only way express its true value is to present it in its original language.
 
-## Writing a Paraphrase
+<br>
+
+---
+
+<br>
+
+### Writing a Paraphrase
 A `paraphrase` is a restatement of information in your unique language.
 - Keep in mind key words. What are other ways to state them?
 - Swap around word order and sentence structure.
@@ -44,7 +54,13 @@ To write a paraphrase,
 3. Draft the paraphrase by expressing the same ideas in your unique language style.
 4. Attach the source to protect yourself from plagiarism.
 
-## Writing a Summary
+<br>
+
+---
+
+<br>
+
+### Writing a Summary
 `Summaries` condense a large quantity of information.
 By reading like a writer, one can summarize better.
 To write a good summary requires the main points to be accurately identified.
@@ -55,7 +71,7 @@ There are four important aspcts of writing good summaries:
 3. Communicate the essence of the author's argument given this information.
 4. Put the summary in proper context to elevate it beyond a shortened paraphrase.
 
-### Example: The Process of Writing a Summary
+#### Example: The Process of Writing a Summary
 A (personally written) process of constructing a summary of Clive Thompson's *On the New Literacy*. [^2]
 
  Task | Content 
@@ -65,10 +81,15 @@ Identify supporting evidence. | - Andrea Lunsford of Stanford University perform
 Communicate the essence of the author's argument. | Technology is not an inhibitor of literacy and language but instead a catalyst; today's young people are given more oppurtunities to express themselves and have developed a skill of great writing - assessing the audience - that goes beyond what we may consider to be, at a surface level, 'literacy'.
 Put in context. | See footnote [^2] for information on the author and which fields & journals he writes in. 
 
-### Example on "*History Retweets Itself*" by Tom Standage
+#### Example on "*History Retweets Itself*" by Tom Standage
 View an example worththrough of the essay "*History Retweets Itself*" by Tom Standage [here](https://andre-ye.github.io/english/essay-notes/history-retweets-itself).
 
+<br>
+
 ---
+
+<br>
+
 [^1]: *Gunn’s essay appears in Mapping the World of Harry Potter: An Unauthorized Exploration of the Bestselling Fantasy Series of All Time, edited by Mercedes Lackey (Dallas: BenBella, 2006).
 
 [^2]: Clive Thompson is a contributing writer for the *New York Times Magazine* and a regular columnist for *Wired* and *Smithsonian*. The piece on literacy appeared in *Wired* magazine in 2009.
