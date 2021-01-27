@@ -1,9 +1,15 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Civil War: Politics and Control of the State*
 
-# Notes on *Civil War: Politics and Control of the State*
+## Notes on *Civil War: Politics and Control of the State*
 Andre Ye, 12/1/20.
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Introduction](#introduction)
   * [Central Question](#central-question)
   * [Slave Resistance](#slave-resistance)
@@ -26,7 +32,13 @@ Andre Ye, 12/1/20.
   * [The Technology of War](#the-technology-of-war)
 - [The War that Slaves Made](#the-war-that-slaves-made)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - Considering the far-reaching impacts of the slave system that had tentacles into many aspects of American society.
 - Who has the power and desire to *end* the slave sytem?
   - What do you do?
@@ -34,7 +46,7 @@ Andre Ye, 12/1/20.
 - Map: Reynold's Political Map of the United States, Republican Party, 1856.
   - Making the claim that Republicans would prevent the expansion of slavery.
 
-### Central Question
+#### Central Question
 - Central question: what caused the Civil War? What brought about the abolition of slavery? Was the Civil War fought for the cause of protecting the institution of racialized slavery, or to end it?
 - A dividing society
   - Differing expectations over the extent of slavery in the U.S.
@@ -47,13 +59,19 @@ Andre Ye, 12/1/20.
   - Who had the interest to end slavery?
   - The Emancipation Proclamation and a wartime necessity
 
-### Slave Resistance
+#### Slave Resistance
 - Consider: Nat Turner and John Brown.
 - Really? - did it take violence to end slavery?
   - How did they envision such an revolt against a massive system?
   - What will it take to undo a sytem like this?
 
-## Free Soil Argument
+<br>
+
+---
+
+<br>
+
+### Free Soil Argument
 - To understand what became the Civil War, one must consider what was happening in the Northern and Southern states.
   - Important piece: the emerging political claim of Free Soil Movement, Ideology, etc.
 - Basis coming from Northern farmers.
@@ -74,13 +92,13 @@ Andre Ye, 12/1/20.
 - Missouri Compromise - limits expansion of slavery northwards.
 - Told slavery to stay in the South, perfectly happy to keep slavery.
 
-### Economic Growth and the Cultural Transformation
+#### Economic Growth and the Cultural Transformation
 - Northern wheat farmers would sell to the South, etc.; the economics were linked to some inextricable degree.
 - However, the system of producing this was quite different.
 - The emphasis on yoeman husbandry in the North was more significant.
 - Was a key political claim, and likely true.
 
-## 1846 War with Mexico
+#### 1846 War with Mexico
 - 1840: what is the Southwest of the US was the Northwest of Mexico.
 - In the 1820s and 30s, question of expansion wasn't too much of a concern.
 - South is running out of space, but hit another country; the rate of expansion for the North was much more vast.
@@ -99,7 +117,7 @@ Andre Ye, 12/1/20.
 - Main thing Polk wants is California, but meanwhile there is a conflict in Texas; is used to achieve California.
 - **This war disrupts the assumptions of limited expansion, leading to the Civil War.**
 
-### Breakout of the War
+#### Breakout of the War
 - White settlers are settling in Texas and bringing slaves; by 1830 outnumber Mexican-born peoples by 2:1 or even 3:1.
 - Civil War happens in Mexico, fighting over who will be politically dominant.
   - Texan slaveholders build off that momentum to build their own republic to practice slavery.
@@ -108,12 +126,18 @@ Andre Ye, 12/1/20.
   - Polk sends in federal troops to Texas; the Mexican government sends troops into Texas as well.
 - Polk begins a declaration of war.
 
-### Results and Conclusions
+#### Results and Conclusions
 - Decisively win, invade the Mexican capital, conquer the government.
 - Force a harsh peace treaty in which they claim a third of the Mexican nation, all the way to California.
   - Connecting Texas to California.
 
-## Problems of the Empire
+<br>
+
+---
+
+<br>
+
+### Problems of the Empire
 - Our initial map: opened up the Southern territory, meant that the Southern US had to answer a question of who and what would settle.
 - Plantation owners know they cannot do plantations in the desert; end the Missouri Compromise, allow for settlement into Northern and Southern territories.
   - Viewed as the determining provocation in the war.
@@ -130,7 +154,7 @@ Andre Ye, 12/1/20.
   - Slavery could not expand upon it, but Southerners are pushing against it.
   - Southern plantations had, for instance, siezed Texas.
 
-### Wilmot Proviso and Compromise of 1850
+#### Wilmot Proviso and Compromise of 1850
 - Stated that any new territories from the war could not have slavery.
 - Completely voted ground; Southern votes controlled the house and the Senate.
 - Created a new compromise: Compromise of 1850. 
@@ -138,14 +162,20 @@ Andre Ye, 12/1/20.
   - Led to further reversals.
 - Wilmot Proviso fails and is changed by the Compromise of 1850
 
-### Kansas Nebraska Act
+#### Kansas Nebraska Act
 - Another reversal/redefinition: Congress allowed territories to decide by popular vote if they would be free or slave states.
 - Allowed Nebraska and Kansas to have a rush of settlement from slave and free-staters to establish them as free/slave states.
 - Led to violence as each side tried to drive out the other.
 - Plantation owners would settle and drive out small farmers, retaliated with massacres.
   - Late 1850s (including John Brown) who were shooting it out in the open territory of Kansas.
 
-## Fugitive Slave Law and Abolition
+<br>
+
+---
+
+<br>
+
+### Fugitive Slave Law and Abolition
 - Congress passes 1850 Fugitive Slave Act.
   - Requires Northern states to return fugitive slaves.
   - Slaves escaping at the rate of thousands a year.
@@ -161,7 +191,13 @@ Andre Ye, 12/1/20.
   - Seem to be an encroachment on their agency.
 - Fugitive slave act is passed.
 
-## Slave Power
+<br>
+
+---
+
+<br>
+
+### Slave Power
 - Essentially, Southernors controlled the federal government; slavemasters in particular.
 - The South has a much smaller population than the North (maybe 9 million people, vs 20 million people).
 - Number of slave states and free states was paired for Senatorial representation, equal.
@@ -171,7 +207,7 @@ Andre Ye, 12/1/20.
   - South controls the House and the Senate.
 - Have virtually every American preident in the period before the Civil War.
 
-### Control of the Government
+#### Control of the Government
 - Control of the presidency of slaveowners meant that they controlled the Supreme Court, appointing pro-slavery justices throughout the 19th century.
 - Northerners begin to call this the "slave power" or the "slaveocracy".
 - Fairly undemocratic control of government by Southern plantation owners that they couldn't break; kept on losing.
@@ -182,7 +218,7 @@ Andre Ye, 12/1/20.
   - However, the Courts are controlled by slaveowners.
   - 1857; Supreme Court passes a decision known as the *Dred Scott Case*.
 
-### Dred Scott
+#### Dred Scott
 - Enslaved in Missouri, one of the Northern slave states.
 - Taken out into an obstensibly free territory with no laws enforcing slavery.
 - Dred Scott declares himelf free; emancipates himself.
@@ -193,7 +229,13 @@ Andre Ye, 12/1/20.
 - Southern "fire-eaters" politicians - would not even tolerate a question or debate on slavery; to question the morality of slavery would be to shake their entire world view and principles.
   - Many were elected officials; would produce the gag rule, fugitive slave law, etc. to squash any debate or compromise on slavery.
 
-## The Republican Party and Free Labor
+<br>
+
+---
+
+<br>
+
+### The Republican Party and Free Labor
 - Many Northernors began to become frustrated.
   - The South could not be imposing their values of slavery against the free states.
   - The North decides not to practice slavery, needs to be negotiated with on the expansion of slavery.
@@ -203,7 +245,7 @@ Andre Ye, 12/1/20.
 - Northern industry wanted high tariffs on their industries; conflicts over the economic issues and foreign policy issues on the question of expansion.
 - Northern political interests had become frustrated enought to advocate for the limiting of slavery and spreading of free labor.
 
-### The Election of Lincoln
+#### The Election of Lincoln
 - In 1860, they run a senator from Illinois; Abraham Lincoln who *wins*.
 - Wins without a single Southern electoral vote. Wins with no Southern votes at all.
 - The South declare that they are leaving the Union and declaring themselves their onw nation.
@@ -216,7 +258,13 @@ Andre Ye, 12/1/20.
   - Many states seceded *before* the inauguration.
   - Lincoln's policy: keeping the Union together, regardless of slavery being practiced or not.
 
-## The Secession Crisis
+<br>
+
+---
+
+<br>
+
+### The Secession Crisis
 - South Carolina goes out first, state militias in Southern states are siezing federal property.
 - When a resupply ship goes to a federal base in the South, it is attacked by these militas and prevented from refueling.
 - Federal troops and southern militias are shooting against each other, in a Civil Conflict.
@@ -227,7 +275,7 @@ Andre Ye, 12/1/20.
 - Important, because the capital of the nation is sandwiched between Virginia and Maryland.
   - Keeping the Maryland and other border slaves in the Union were very important.
 
-### The First Modern War
+#### The First Modern War
 - In previous eras, kings, emporers, governments could assemble an army and have them go fight somewhere.
 - This was a war that had met the industrial process and met industrialization.
 - First war to happen on the other side of industrialism.
@@ -238,7 +286,7 @@ Andre Ye, 12/1/20.
   - Tranportation to mobilize the entire army.
 - Society needs to be mobilized to make the new war effort possible.
 
-### The Technology of War
+#### The Technology of War
 - The mobilization efforts to win the war underwent a technological revolution.
   - The longer the war, the more it favors the North.
 - However, the South has slave labor, which the North does not have.
@@ -249,10 +297,22 @@ Andre Ye, 12/1/20.
   - Only recently have those numbers reached parity.
 - Older war tactics are meeting new war technologies and leading to a horrendous outcomes.
 
-## The War that Slaves Made
+<br>
+
+---
+
+<br>
+
+### The War that Slaves Made
 - The notion of Contraband Camps: what first happens in 1s and 2s become dozens and thousands of slaves.
 - Definitive towards forcing emancipation; this becomes a crucial war aim.
 - The Southern society needs slaves as its one advantage and forces the North to recognize emancipation.
 - Pay close attention to what is happening in the Emancipation Proclamation.
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
