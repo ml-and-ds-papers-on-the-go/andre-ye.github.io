@@ -1,6 +1,6 @@
-[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Seminars](https://andre-ye.github.io/biology/biology_navigation#seminars) > Hope St. John: Odegaard Writing & Research Center
+[Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Seminars](https://andre-ye.github.io/biology/biology_navigation#seminars) > Hope St. John: Odegaard Writing & Research Center, Peer Review
 
-## Seminar - Hope St. John: Odegaard Writing & Research Center
+## Seminar - Hope St. John: Odegaard Writing & Research Center, Peer Review
 Andre Ye, 1/28/2021
 
 <br>
