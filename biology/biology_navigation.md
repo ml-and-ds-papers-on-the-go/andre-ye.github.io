@@ -13,6 +13,10 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
 #### Study Guides
 [Course Cheat Sheet / Reference](https://andre-ye.github.io/biology/winter-quarter/study-guide/cheat-sheet). *A handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
+#### Seminars
+- [Julie Mathieu: Pluripotent Stem Cells, Regenerative Medicine, and Genome Editing](https://andre-ye.github.io/biology/winter-quarter/seminar/mathieu-crispr-and-stem-cells)
+- [Hope St. John: Odegaard Writing & Research Center, Peer Review](https://andre-ye.github.io/biology/winter-quarter/seminar/hope-st-john)
+
 #### Biology Content
 - Module 1: Gene Expression, Development, Technologies
   - Gene expression and regulation.
