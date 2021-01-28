@@ -1,7 +1,13 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Lecture Notes](https://andre-ye.github.io/history/history_navigation#lecture-notes) > Notes on *Recontruction & Redemption: Contested Meanings of Freedom*
 
-# Notes on *Recontruction & Redemption: Contested Meanings of Freedom*
+## Notes on *Recontruction & Redemption: Contested Meanings of Freedom*
 Andre Ye, 12/8/20.
+
+<br>
+
+---
+
+<br>
 
 ## Navigation
 - [Introduction](#introduction)
@@ -30,7 +36,13 @@ Andre Ye, 12/8/20.
 - [1877 and the End of Reconstruction](#1877-and-the-end-of-reconstruction)
   * [1877 Great Railroad Strike](#1877-great-railroad-strike)
 
-## Introduction
+<br>
+
+---
+
+<br>
+
+### Introduction
 - Political Map of the United States, Republican Party, 1856: message that Republicans will be surrounded if slavery is not expanded.
 - Care about breaking the *slave power*; did not want new federal guidelines on the question of slavery.
 - The *expansion* of slavery, not slavery itself, started the Civil War.
@@ -58,6 +70,12 @@ Andre Ye, 12/8/20.
   - **Formal or substantive rights?** What does it mean to be free? Is it a hair above slavery or a radical change?
 - *Why did Reconstruction go so poorly?*
 
+<br>
+
+---
+
+<br>
+
 ## The End of the War
 - How did the war end?
 - The Civil War began as a totalizing, the first 'Modern War'.
@@ -72,7 +90,13 @@ Andre Ye, 12/8/20.
   - From Atlanta to Savannah, with troops fanned out in a one-mile line, destroying everything they came across.
   - Partly because of the nature of modern warfare and because of the 'arrogance' or 'stupidity' of the Southern leadership to refuse to recognize when they had lost.
 
-## Postbellum Questions
+<br>
+
+---
+
+<br>
+
+### Postbellum Questions
 - Post war questions; the infastructure and necessities of modern living are gone. 
 - What would become of the social order of the South?
 - Questions that emerged at the end of the war as the scope of what had happened in the Civil War became more clear: *how do we deal with this?*
@@ -83,7 +107,13 @@ Andre Ye, 12/8/20.
   - Immigrants, wage workers? Should cotton be reestablished? Will it be as close to the plantation system as before?
   - Significant questions the nation attempts to grapple with.
 
-## Wartime Reconstruction
+<br>
+
+---
+
+<br>
+
+### Wartime Reconstruction
 - Differing ideas about what and how Reconstruction would look like.
 - The Sea Island Experiments; islands off the Carolinas in which entire plantations were liberated.
   - Northern generals didn't want to "deal" with the population, so told slaves to cultivate the land and organize themselves.
@@ -91,7 +121,13 @@ Andre Ye, 12/8/20.
   - Not compensation, but instead the ability to make a new living. 
   - Is the "Wartime Reconstruction"; generals making these types of decisions.
 
-## Federal Reconstruction
+<br>
+
+---
+
+<br>
+
+### Federal Reconstruction
 - Wartime Reconstruction until Lincoln is assassinated in 1865 and the new president, Andrew Johnson, begins to take back those promises.
   - A tension in the South about what it means to rebuild; different sets of interests.
   - i.e. Northernors mediating between white Southernors and freedmen.
@@ -108,8 +144,14 @@ Andre Ye, 12/8/20.
 - A program of land redistribution as part of the federal policy of winning the war that was taken back and wasn't given to fruition.
 - Was not that it didn't spread; those parcels of land were returned to former slavemasters.
 
-## Agenda of the Freedmen
-### Family
+<br>
+
+---
+
+<br>
+
+### Agenda of the Freedmen
+#### Family
 - Freed people wanted, most importantly, was reconstituting the black family.
   - Family relationships had been destroyed and separated throughout the process of selling.
   - Very notably after the war ended: thousands of people began walking to locate their family members.
@@ -118,7 +160,7 @@ Andre Ye, 12/8/20.
   - A significant piece of what slavery meant.
 - Was only one piece.
 
-### Independent Churches
+#### Independent Churches
 - Particularly, churches became *black institutions*.
 - An extremely important aim of black freedom for former slaves.
 - Nat Turner's Rebellion: saw himself as a prophet; his role was a preacher. Talked to different enslaved communities, but meanwhile was using this to organize rebellion.
@@ -128,7 +170,7 @@ Andre Ye, 12/8/20.
 - Constructing autonomous black purposes was extremely important, and the origination of many Christian sects that become largely black in this period.
 - Family emerged as an extremely important piece as well as religion.
 
-### Schooling and Literacy
+#### Schooling and Literacy
 - Education was also tied to religion and especially important, given slave suppression on knowledge.
 - Developing processes of literacy were essential.
 - People were attempting to read; visitors to the South observed that a mechanic could not be observed without a tutorial in their backpocket.
@@ -143,7 +185,7 @@ Andre Ye, 12/8/20.
   - Freedmen's schools are also being publicly funded.
 - Most of the time, children were used to ensure the economic viability of a farm.
 
-### Civic Participation
+#### Civic Participation
 - One of the weightiest was the ability to vote. Wasn't just family, church, education; how meaningful is freedom if you can't determine who is sitting in your government?
 - Was clear very early on that freed black peoples wanted the right to vote without question.
 - For a short period, were able to obtain that. Led to a transformation of Southern politics.
@@ -164,15 +206,21 @@ Andre Ye, 12/8/20.
   - Return on their labor for whatever they say fit.
   - Sea Island Circular; this was being played with.
 
-### Agenda of Southern Plantation Owners
+#### Agenda of Southern Plantation Owners
 - Masters lost the war, but did not understand or realize what losing meant.
 - Were obstinate in their pursuit of maintaining claims for their "real property".
   - Argument made: we just lost, by value, the greatest assets that we had. You can't also additionally take away our property; this is a gross violation of everything the United States was founded on.
 - Masters, in effect, were attempting to implement a system as close to slavery as they could possibly make it.
   - Former slavemasters came to the bureau, attempting to make slaves work.
   
-## Agenda of the Northernors
-### Northern Carpet-baggers
+<br>
+
+---
+
+<br>
+
+### Agenda of the Northernors
+#### Northern Carpet-baggers
 - The North recognized they could not continue with slavery; meant that some sort of compromise needed to be brokered.
 - Some middle ground between these interests needed to be made.
 - Northernors that occupied the federal troops, Freedmen's Bureau, Northern business agents that saw oppurtunity in the South, etc.
@@ -183,7 +231,7 @@ Andre Ye, 12/8/20.
   - The North agreed.
 - With wages, you have a boss, you are not seeing the fruits of your labor.
 
-## Sharecropping as a Compromise
+### Sharecropping as a Compromise
 - An economic system is worked out; a compromise.
 - Around *tenancy*; instead of redistributing land, former slaves can occupy independent homesteads they rent from their masters.
   - Pay them a yearly rent with whatever product they're able to produce.
@@ -198,12 +246,18 @@ Andre Ye, 12/8/20.
 - Systems of negotiating with freed peoples and attempts by slavemasters to keep them as close to slavery as possible.
   - Impacts poor whites that also face crushing debt.
   
-## Federal Reconstruction
+<br>
+
+---
+
+<br>
+
+### Federal Reconstruction
 - Different sets of interests; compromises of *doing*.
 - People acted to assert their interests in the most precise way.
 - So long as the North was willing to remain in the South and retain those promises, they were developing that reconstruction apace.
 
-### Radical Republicans
+#### Radical Republicans
 - Reconstruction becomes completely undone, and the next stage of the process politically.
 - The economic question never gets addressed fully.
 - What was the North's aim? Why did they continue to keep troops in the South throughout Reconstruction?
@@ -217,7 +271,7 @@ Andre Ye, 12/8/20.
   - Impeached by a series of "radical Republicans" because of their commitment to black rights.
 - Thaddeus Stevens, a major figure of the Senate, able to coordinate activities of the Senate against the President to pass a series of legislative actions that sided politically with black interests in the South.
 
-### Civil Rights Act of 1866
+#### Civil Rights Act of 1866
 - Part of an understanding that Southern oligarchs could not be allmowed to reconstitute themselves.
 - Reconstruction Act of 1867 is what sends troops into the South to ensure this unfolds, includes passing a Civil Rights Act of 1865 that ensures those born in the US have a series of legislatively protected rights.
 - Enshrined in Constitutional amendments 13th, 14th, and 15th.
@@ -227,7 +281,7 @@ Andre Ye, 12/8/20.
 - 15th ensured voting for freed persons; made it a Constitutional right to vote if you were born in the United States and a man.
   - The first time sex is incorporated into a legal standard.
 
-### Feminist and Abolitionist Response
+#### Feminist and Abolitionist Response
 - Abolitionists and women's movement: not happy about this.
 - Politically, the abolitionist movement needed to negotiate with this: determine it as "halfway there" or oppose it?
 - Led to a significant splintering of the abolitionist and women's rights fighting.
@@ -236,11 +290,17 @@ Andre Ye, 12/8/20.
 - Susan B. Anthony and Elizabeth Cady Stanton disagree. How can black men can be enfranchised without white women being able to vote?
   - Turned to rather racist claims. Other abolitionists support black suffrage of the fifteenth amendment.
 
-### The First Vote and Civic Participation
+#### The First Vote and Civic Participation
 - Black *men* have the right to vote, and leads to the transformation of half a million black men voting and beginning to have some sort of control.
 - Have a majority in some places; pass a series of reform acts, pay for public schools, set up mental health hospitals, are a leading edge of 19th century reforms around schooling and others.
 
-## Countervailing Forces
+<br>
+
+---
+
+<br>
+
+### Countervailing Forces
 - As blacks are becoming more enfranchised, it's not like white supremacy disappeared, or that they understood they lost the war.
 - Continued to fight in secretive paramilitary organizations that served as a military wing of the Democratic Party.
 - Would attack and kill, intimidate or threaten black figures in the South; especially those that would win office.
@@ -251,7 +311,7 @@ Andre Ye, 12/8/20.
 - Escalated not only from individual lynchings and killings to whole-sale massacres.
   - Meridian massacre; 30 blacks and 1 white Republican is killed.
 
-### Colfax Massacre and Reign of Terror
+#### Colfax Massacre and Reign of Terror
 - In Colfax County, Louisiana; two different sets of black and white officials are elected.
 - Attacked by a white mob, which have Civil War cannons and munition that are used to chase the community into the courthouse.
 - The mob sets fire to the courthouse, drives out the people taking shelter, kills them, attacks the black community, and begins to kill black people in the rest of the county.
@@ -259,7 +319,7 @@ Andre Ye, 12/8/20.
 - Rural Lousiana; no federal troops. Violence is able to stand; white electors take those positions and begin to undo things like paying for public education, or begin certifying elections in state office.
   - Have power to say that Southern Democrats will take certain seats.
 
-### Black Codes
+#### Black Codes
 - A broader movement called *Redemption*.
 - Attempted to 'redeem' Southern legislation from black representation.
 - Able to impose more white legislatures and began to rewrite the laws, attempted to gain control of the legislature and veto/undo political reforms being implemented for black autonomy and education.
@@ -274,7 +334,13 @@ Andre Ye, 12/8/20.
 - Because this is still a period of Reconstrution, the federal government uses troops to recognize black votes at the state level.
   - Being eroded in other states, though.
 
-## 1877 and the End of Reconstruction
+<br>
+
+---
+
+<br>
+
+### 1877 and the End of Reconstruction
 - The North is blocking some attempts but getting exhausted.
 - The governor of Maine is trying to maintain presence, but Grant and the North is "tired of Southern problems".
 - A decade after the Civil War has been fought; did not want to fight these issues in perpetuity.
@@ -284,9 +350,15 @@ Andre Ye, 12/8/20.
   - Democrats say that - through fraud, violence, electoral tinkering - we'll let Hayes take the Presidency if federal troops are removed from the South.
   - The Republicans said yes; Hayes takes office and removes troops from the South.
 
-### 1877 Great Railroad Strike
+#### 1877 Great Railroad Strike
 - Part of the reason why he wanted to do that is because of increasing industrial violence in the North.
   - Unprecedented national strikes and riots in 1877 that paralyze the economy, cause millions of damage to railroad lines, factories, etc.
 - Stationing troops in major cities of the North and attempting to stop these sorts of insurrections.
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
