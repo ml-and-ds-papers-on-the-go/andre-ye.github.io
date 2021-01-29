@@ -9,6 +9,35 @@ Andre Ye, 1/25/21
 
 <br>
 
+### Navigate
+- [Introduction](#introduction)
+- [Jane Addams and the Hull House](#jane-addams-and-the-hull-house)
+  * [Philanthropic Amelioration](#philanthropic-amelioration)
+- [Gender and Progressive Activism](#gender-and-progressive-activism)
+  * [Muller v. Oregon Brandeis Brief](#muller-v-oregon-brandeis-brief)
+- [tHE wOMEN'S mOVEMENT](#the-womens-movement)
+  * [Votes for WOmen](#votes-for-women)
+  * [Birth Control](#birth-control)
+- [How Progressive? Margaret Sanger and Eugenics](#how-progressive-margaret-sanger-and-eugenics)
+- [Economic Ruin in the South](#economic-ruin-in-the-south)
+- [Triumph of Redemption](#triumph-of-redemption)
+  * [Roll Back of Black Political Rights](#roll-back-of-black-political-rights)
+  * [The Rise of Segregation](#the-rise-of-segregation)
+  * [The Supreme Court](#the-supreme-court)
+- [The Rise of Lynching](#the-rise-of-lynching)
+  * [Sam Hose](#sam-hose)
+- [Ida B. Wells and the Black Intellectual Tradition](#ida-b-wells-and-the-black-intellectual-tradition)
+- [NAACP and Movements for Reform](#naacp-and-movements-for-reform)
+- [Migrations](#migrations)
+  * [The North: 1919 Chicago Race Riot](#the-north-1919-chicago-race-riot)
+  * [American Racial Fabric](#american-racial-fabric)
+  
+<br>
+
+---
+
+<br>
+
 ### Introduction
 - Introductory art: George Bellows, *New York*, 1911.
   - An emphasis on the light; buildings are illuminated across the plaza.
@@ -215,7 +244,7 @@ Andre Ye, 1/25/21
 - They are arrested, broken out of the jail by a mob, taken sometimes by small groups or in large groups in the middle of the night secretively.
 - Tortures and executes them.
 
-#### Sam HOse
+#### Sam Hose
 - 5,000 lynchings (and others unrecorded) have been recorded by magazines.
 - It is known from the newspapers; the Sam Hose case around the 1900s.
 - Sam Hose was a laborer who was working for someone who refused to give him time-off requests.
