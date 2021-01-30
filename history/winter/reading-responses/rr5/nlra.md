@@ -1,4 +1,4 @@
-[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 4 > Notes on "Preamble to the National Labor Relations Act"
+[Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 5 > Notes on "Preamble to the National Labor Relations Act"
 
 ## Notes on "Preamble to the National Labor Relations Act"
 Andre Ye, 1/30/21
