@@ -15,8 +15,8 @@ Andre Ye, 1/25/21
   * [Philanthropic Amelioration](#philanthropic-amelioration)
 - [Gender and Progressive Activism](#gender-and-progressive-activism)
   * [Muller v. Oregon Brandeis Brief](#muller-v-oregon-brandeis-brief)
-- [tHE wOMEN'S mOVEMENT](#the-womens-movement)
-  * [Votes for WOmen](#votes-for-women)
+- [The Women's Movement](#the-womens-movement)
+  * [Votes for Women](#votes-for-women)
   * [Birth Control](#birth-control)
 - [How Progressive? Margaret Sanger and Eugenics](#how-progressive-margaret-sanger-and-eugenics)
 - [Economic Ruin in the South](#economic-ruin-in-the-south)
@@ -137,8 +137,8 @@ Andre Ye, 1/25/21
 
 <br>
 
-### tHE wOMEN'S mOVEMENT
-- an EMERGINg women's movement is coming to the fore and is becoming increasingly radicalized.
+### The Women's Movement
+- An emerging women's movement is coming to the fore and is becoming increasingly radicalized.
 - Early efforts of reform were around ameliorating social conditions, and for the vote - an extremely important part of the women's movement.
 - Radical in the sense of questioning not only the social model of women as inherently more moral sex, and the whole framework - if this is the basis for which transformations to women's conditions are being made, it doesn't sound like equality.
 - Crystal Eastman talking at the moment of the Women's Movement's greatest triumph - it is only a place to begin for much further activism.
@@ -146,7 +146,7 @@ Andre Ye, 1/25/21
 - Began to challenge social orthodoxy in a host of social markers - like a dress and gender presentations (what is ascribed to gender)?
 - A small group of American women were calling themselves feminist; this carried out throughout the 20th century.
 
-#### Votes for WOmen
+#### Votes for Women
 - Eventually able to win the vote, do it throughout the war.
 - There are interesting and important stories there.
 
