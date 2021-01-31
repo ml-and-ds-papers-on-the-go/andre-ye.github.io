@@ -1,7 +1,19 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 5 > Notes on *Labor's Untold Story - Chapter 10, "Victory"*
 
 ## Notes on *Labor's Untold Story - Chapter 10, "Victory"*
-Andre Ye, 1/30/21
+Andre Ye, 1/31/21
+
+<br>
+
+---
+
+<br>
+
+### Navigate
+- [The Committee for Industrial Organization](#the-committee-for-industrial-organization)
+- [Sit-down at Flint](#sit-down-at-flint)
+- [Triumph](#triumph)
+- [The Know-How of Victory](#the-know-how-of-victory)
 
 <br>
 
@@ -127,23 +139,42 @@ Andre Ye, 1/30/21
 - By 1938, monopolies began to recover and fight against labor.
   - Setting up the House un-American Committee and government blanklists of union men.
 - The CIO was charged with fomenting red violence, and that the auto industry was becoming sovietized.
+- In the face of these allegations, the CIO emained unmoved.
+  - 80% of American workers were still unorganized.
+- President Roosevelt said many corporations pretending to be independent were instead part of secret trustified combinations.
+  - Nevertheless, the CIO was fighting - and defeating - these giant agglomerations.
+  - Labor was taking $5b each year in increased wages.
+- 1937 - representatives from a strong aggregation of capital were preapred to do whatever was necessary to destroy the CIO.
+  - Many of the siezures of power were Hitlarian and fascist.
+- After Hitler, there were no trade unions in Germany; this made a powerful impression on many American industrialists.
+  - Where monopoly controlled the state, all democratic opposition had been eliminated.
+- The Soviet Union was trying to organize collective security and contain fascist powers.
+  - Many allegations that *Roosevelt* was communist convinced many the CIO was no more communist than the President.
+- Working men and anti-fascists were uniting by the millions in France, China, and Spain.
+- Some industrialists talked about fascist seizure of power, but many attempted to artificially induce a depression.
+  - A little unemployment could force workers in line.
+  - These resulted in strikes, most of which were won.
+- The CIO and the common people refused to be confused or divided, and may have averted a serious attempt at American fascism.
+  - Roosevelt was elected in 1940 for a third term.
+- There was not often real danger that monopoly could succeed to divide the CIO through the Big Lie.
+  - The unity of the CIO was threatened when international situations shifted.
+- Heart of policy that thwarted monopoly plots against the CIO was that organization was basic, and everything else was secondary.
+  - Loyalty was to be judged by successfula ction, and not by political beliefs of a CIO member or gossip.
+  - Foundation of policy was **unity**.
+- The CIO refused to divide itself and decrease its numbers and strength by its own action.
+- This know-how of victory - unity in organizing the unorganized - was characteristic of the CIO since its inception.
+- This unity was not easy to come by; the attack on this unity was continuous and constant.
+  - Always under the guise of a fight against communism.
+  - Employers would often fill the newspaper and flood the country with pamphlets declaring the CIO was an arm of Moscow's goal to build a Soviet America.
+- Nevertheless, the CIO stood firm and won for workers.
+- Four year unity of the CIO against the Big Lie also played a vital role in advancing the larger coalition that was the New Deal.
+- This left-center coaltion faltered in 1940-41 before American entry into WWII.
+  - Alliance continued to lead the CIO until 1945.
 
+<br>
 
+---
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Back to top](#)
