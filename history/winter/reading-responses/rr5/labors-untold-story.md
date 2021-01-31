@@ -99,9 +99,34 @@ Andre Ye, 1/30/21
 - **Labor was not just a program of economic improvement, but a way of life and a passionate belief.**
 - Drive began as the biggest task "ever undertaken by organized labor within the memory of man."
 - Many were impressed by the triumph over GM, including Myron C. Taylor - chairman of the Board of Directors of US Steel.
+  - Taylor had been discussing with Lewis; by a mere show of strength, steel workers won a 10% wage increase, a 40 hour week, and union recognition.
+  - Tom Girdler of Republic Steel said the industry had been *betrayed* by Taylor.
+- Alliance with Youngston Sheet and other corporations; Republic Steel violated the Wagner Labor Act.
+  - "Little Steel" - independently owned steel, accounting for a quarter of steel in the US.
+  - In May, during the Memorial Day Massacre, ten were killed and many more wounded as they tried to picket before a Republic plant.
+  - Amid these scenes, the CIO was built; out of these deaths came the organization of Republic and Little Steel.
+- Scores of black workers were organized on a basis of equality in trade unions - finally.
+  - CIO union constitutions barred no one from membership because of "sex, race, creed or national origin".
+  - Thousands of working women were admitted into mass industrial unions as well.
+- The CIO grew from 1m to nearly 4m; in 1938 it became a more permanent organization.
+- It even spurred the AFL into vigorous action.
+  - The AFL's membership increased by more than 1m as well.
+  - Labor now had ~10m members - tripling its growth.
+- Parts of the open-shop South were organized by CIO men and women; while they were attacked, they nevertheless continued organizing.
+- CIO's 1940 story is a story of victory and changed lives.
 
+<br>
 
+---
 
+<br>
+
+### The Know-How of Victory
+- The CIO was swiftly built, but not easily built.
+  - It was hit hard by Communist conspiracy charges, negative press, and monopolized capital.
+- By 1938, monopolies began to recover and fight against labor.
+  - Setting up the House un-American Committee and government blanklists of union men.
+- The CIO was charged with fomenting red violence, and that the auto industry was becoming sovietized.
 
 
 
