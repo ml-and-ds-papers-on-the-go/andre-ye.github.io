@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 5 > Notes on *Labor's Untold Story - Chapter 10, "Victory"*
 
-## Notes on *Labor's Untold Story - Chapter 10, "Victory"*
+## Notes on *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais
 Andre Ye, 1/31/21
 
 <br>
