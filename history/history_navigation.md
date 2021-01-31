@@ -18,9 +18,6 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - ["Advent of Empire: Race and Conquest in 1900"](https://andre-ye.github.io/history/winter/lectures/advent-of-empire), 1/19-1/22
 - ["The Progressive Era: Race, Class, and Gender in the 20th Century"](https://andre-ye.github.io/history/winter/lectures/the-progressive-era), 1/25-1/29
 
-
-#### Study Guides
-
 #### Weekly Reading Responses
 - Weekly Reading Response 1 (Due 1/7)
   - ["Is History a Science?" by Eugene Goodheart](https://andre-ye.github.io/history/winter/reading-responses/rr1/is-history-a-science)
@@ -38,6 +35,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Reinventing the People: The Progressive Movement, the Class Problem, and the Origins of Modern Liberalism* by Shelton Stromquist](https://andre-ye.github.io/history/winter/reading-responses/rr4/reinventing-the-people)
 - Weekly Reading Response 5 (Due 2/4)
   - [Notes on "Preamble to the Nationale Labors Relations Act, 1935](https://andre-ye.github.io/history/winter/reading-responses/rr5/nlra)
+  - [Notes on *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](https://andre-ye.github.io/history/winter/reading-responses/rr5/labors-untold-story)
 
 #### Course Mechanics
 
