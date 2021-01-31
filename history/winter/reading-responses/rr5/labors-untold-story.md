@@ -55,13 +55,42 @@ Andre Ye, 1/30/21
 <br>
 
 ### Sit-down at Flint
+- Strategists of the CIO intended to organize the union-breaking steel industry first.
+  - Spontaneous surge of organization and the success of the sit-down tactic made them change.
+- The automobile industry was particularly brutal towards workers.
+- Workers who attempted union organization were fired.
+  - A belief that arbitrary discharge would keep men docile.
+- This terror and repression succeeding in filling auto workers with bitterness.
+- 1930: Auto Workers Union struck the GM (General Motors) Fisher Body Plant Number One at Flint.
+  - 1933: Skilled Tool and Die Makers walked out.
+  - The strikes was defeated and the strikers were blacklisted.
+- Auto workers flooded tot he new AFL federal union; however, AFL officials objected to recognizing the unions.
+- The Auto Workers Union withdrew from the AFL in 1936 and joined the CIO.
+- Massive corporations like GM essentially owned plants, courts, police, and cities.
+- By Jan. 4, sit-downers were in possession of GM plants at 6 locations, especially Flint, Michigan.
+  - Flint was gripped by imminent civil war.
+  - This united force, though, sent Roosevelt into action, sent John L. Lewis to negotiate, and imperiled the political career of Frank Murphy - governor of Michiagan.
+- The firmness of these workers built the CIO; invisible impulses connected the sit-downers in Flint with every member of the working class in the United States.
+- Many legislators believed the sit-downers should be forceably removed, and that the attempt was a communist ploy.
+  - John L. Lewis instead argued that this incident had come from GM refusing to obey the Wagner Labor Act.
+  > "The CIO stands squarely behind these sit-downs."
+- Governor Murphy brought GM officials and Lewis together.
+  - Murphy feared bloodshed, Knudsen feared damage to the plant.
+  - Attempt to turn off the heat in Flint plants; was retaliated against.
+  - Attempt to starve the Flint sit-downers; women bringing food to their husbands were shot at.
+- On the 35th day, Flint authorities began arming hundreds of vigilantes. Tensions were rising and Governor Murphy had to make a decision.
+  - He continued to push for negotiation, but it could not be done.
+  - Murphy ordered troops of the National Gaurd to clear the plants; hesitated after meeting Lewis.
+- Eventually GM surrendered; they announced they would recognize the union and negotioate nationally.
+- Within a year wages in the auto industry had increased by $300,000, and the UAW has grown from 30k members to 50k.
 
+<br>
 
+---
 
+<br>
 
-
-
-
+### Triumph
 
 
 
