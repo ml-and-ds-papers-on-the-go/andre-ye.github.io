@@ -91,8 +91,14 @@ Andre Ye, 1/30/21
 <br>
 
 ### Triumph
-
-
+- In the aftermath of Flint, sit-downs moved from Flint to Detroit, Chicago, and other cities.
+- To the elite, sit-downs seemed like a horirlbe disease.
+- New sets of standards emerged; many workers who had never heard of unions sat down and raiiusd rages.
+- Great upheaval required a new kind of union leader - young, militant, and capable...
+- Steel workers everywhere jumped into the labor movement with an almost religious zeal.
+- **Labor was not just a program of economic improvement, but a way of life and a passionate belief.**
+- Drive began as the biggest task "ever undertaken by organized labor within the memory of man."
+- Many were impressed by the triumph over GM, including Myron C. Taylor - chairman of the Board of Directors of US Steel.
 
 
 
