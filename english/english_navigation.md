@@ -23,17 +23,22 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
 - [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
 
 #### Textbook Chapter Notes
-- [Notes on Chapter 1: "Why Join Critical Conversations About Literature"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-1), 1/4/21.
-- [Notes on Chapter 2: "What is a Literary Analysis?"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-2), 1/4/21.
-- [Notes on Chapter 3: "From Surface to Depth"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-3), 1/9/21.
-- [Notes on Chapter 4: "Patterns"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-4), 1/10/21.
-- [Notes on Chapter 5: "Digging Deeper"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-5), 1/14/21.
-- [Notes on Chapter 6: "Opposites"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-6), 1/15/21.
-- [Notes on Chapter 7: "Context"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-7), 1/22/21.
-- [Notes on Chapter 8: "Genre and Form"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-8), 1/16/21.
-- [Notes on Chapter 9: "Social Relevance"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-9), 1/23/21.
-- [Notes on Chapter 11: "Joining the Critical Conversation"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-11), 1/23/21.
-- [Notes on Chapter 13: "Developing a Thesis and Organizing Your Essay"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-13), 1/31/21.
+- Part 1: "Introducing Literary Analysis"
+  - [Notes on Chapter 1: "Why Join Critical Conversations About Literature"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-1), 1/4/21.
+  - [Notes on Chapter 2: "What is a Literary Analysis?"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-2), 1/4/21.
+- Part 2: "Strategies for Close Reading"
+  - [Notes on Chapter 3: "From Surface to Depth"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-3), 1/9/21.
+  - [Notes on Chapter 4: "Patterns"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-4), 1/10/21.
+  - [Notes on Chapter 5: "Digging Deeper"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-5), 1/14/21.
+  - [Notes on Chapter 6: "Opposites"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-6), 1/15/21.
+- Part 3: "Strategies for Going Beyond the Text"
+  - [Notes on Chapter 7: "Context"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-7), 1/22/21.
+  - [Notes on Chapter 8: "Genre and Form"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-8), 1/16/21.
+  - [Notes on Chapter 9: "Social Relevance"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-9), 1/23/21.
+  - [Notes on Chapter 11: "Joining the Critical Conversation"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-11), 1/23/21.
+- Part 4: "Crafting Your Essay"
+  - [Notes on Chapter 13: "Developing a Thesis and Organizing Your Essay"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-13), 1/31/21.
+  - [Notes on Chapter 14: "Presenting Textual Evidence Effectively"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-14), 1/31/21.
 
 <br>
 
