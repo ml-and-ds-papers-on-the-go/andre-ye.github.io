@@ -17,7 +17,7 @@ Some of my favorite papers:
 - [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/pdf/1812.11118.pdf){:target="_blank"}.
 - [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530){:target="_blank"}.
 
-I write articles about machine learning, data science, and occasionally mathematics [here](https://andre-ye.medium.com/){:target="_blank"}. Some of my favorite articles:
+📈 I write articles about machine learning, data science, and occasionally mathematics [here](https://andre-ye.medium.com/){:target="_blank"}. Some of my favorite articles:
 - [The Beauty of Bayesian Optimization, Explained in Simple Terms: The intuition behind an ingenious algorithm](https://towardsdatascience.com/the-beauty-of-bayesian-optimization-explained-in-simple-terms-81f3ee13b10f){:target="_blank"}
 - [Obtaining Top Neural Network Performance Without Any Training: We know less about NNs than we thought](https://medium.com/analytics-vidhya/obtaining-top-neural-network-performance-without-any-training-5af0af464c59){:target="_blank"}
 - [If You're Hyped About GPT-3 Writing Code, You Haven’t Heard of NAS: Automating AI discovery & research](https://towardsdatascience.com/if-youre-hyped-about-gpt-3-writing-code-you-haven-t-heard-of-nas-19c8c30fcc8a){:target="_blank"}
@@ -25,5 +25,8 @@ I write articles about machine learning, data science, and occasionally mathemat
 - [Long Short-Term Memory Networks Are Dying: What’s Replacing It?: The rise and fall of the LSTM](https://towardsdatascience.com/long-short-term-memory-networks-are-dying-whats-replacing-it-5ff3a99399fe){:target="_blank"}
 - [Finally, an intuitive explanation of why ReLU works: How a piecewise linear function adds nonlinearity](https://towardsdatascience.com/if-rectified-linear-units-are-linear-how-do-they-add-nonlinearity-40247d3e4792){:target="_blank"}
 - [The Fascinating No-Gradient Approach to Neural Net Optimization: Forget Adam, Adagrad, SGD](https://towardsdatascience.com/the-fascinating-no-gradient-approach-to-neural-net-optimization-abb287f88c97){:target="_blank"}
+
+⌨️ Check out [Critiq ⌨️](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
+
 
 [This page is a work in progress.]
