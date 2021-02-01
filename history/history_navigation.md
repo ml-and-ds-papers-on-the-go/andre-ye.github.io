@@ -38,6 +38,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](https://andre-ye.github.io/history/winter/reading-responses/rr5/labors-untold-story)
 
 #### Course Mechanics
+- [Week 5 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-5) - Essay 1 Feedback, Rubric for Advanced Papers, Historical Hierarchy
 
 <br>
 
