@@ -1,12 +1,14 @@
 [Back](https://andre-ye.github.io/)
 
+## About
+
 <br>
 
 ---
 
 <br>
 
-Hey - I'm Andre. I'm passionate about machine learning and better understanding the "black box" that is neural networks. By better understanding implicit biases and the thinking processes of deep learning models, we will better be able to use it in our society.
+**Hey - I'm Andre.** I'm passionate about machine learning and better understanding the "black box" that is neural networks. By better understanding implicit biases and the thinking processes of deep learning models, we will better be able to use it in our society.
 
 My resume is [here](https://andre-ye.github.io/scripts/andre-ye-resume.pdf){:target="_blank"}.
 
@@ -27,6 +29,5 @@ Some of my favorite papers:
 - [The Fascinating No-Gradient Approach to Neural Net Optimization: Forget Adam, Adagrad, SGD](https://towardsdatascience.com/the-fascinating-no-gradient-approach-to-neural-net-optimization-abb287f88c97){:target="_blank"}
 
 ⌨️ Check out [Critiq ⌨️](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
-
 
 [This page is a work in progress.]
