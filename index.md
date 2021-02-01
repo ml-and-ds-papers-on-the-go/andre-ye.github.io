@@ -5,7 +5,7 @@
 <br>
 
 # Hey!👋
-**I'm Andre.** Currently, I'm a student at the University of Washington Transition School.
+**I'm Andre.** Currently, I'm a student at the University of Washington Transition School. Check out more about me [here](andre-ye.github.io/about).
 
 <br>
 
@@ -19,31 +19,8 @@
 - [TS English ✍️](https://andre-ye.github.io/english/english_navigation) w/ Dr. Zink
 - [TS Precalculus 📐](andre-ye.github.io/precalc/precalculus_navigation) w/ Dr. Johnston
 
-<br> 
+<br>
 
 ---
 
 <br>
-
-## Check out my stuff
-- [Medium Blog 📈](https://andre-ye.medium.com){:target="_blank"}. I write about machine learning, data science, and (occasionally) mathematics.
-- [Critiq ⌨️](https://critiq.tech){:target="_blank"}. A site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
-
-<br> 
-
----
-
-<br>
-
-```text
-// I'm experimenting w/ something and too lazy to put it elsewhere, so here you go.
-<html lang="en-US">  
-  <head>
-    <link rel='stylesheet' type='text/css' href='/css/main.css'>
-  </head>
-  <body>
-    <a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
-    <script src="https://andre-ye.github.io/scripts/mode-switcher.js"></script>
-  </body>
-</html>
-```
