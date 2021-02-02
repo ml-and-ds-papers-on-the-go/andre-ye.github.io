@@ -95,6 +95,16 @@ Andre Ye, 2/1/21
   - Rhetorical and philosophical stakes are good, but not the focus of the class.
 - In addition to picking the topic, we need to ask particular types of questions about it to make it historical.
 - Passage in reading response or topic for culminating project: need to frame the questions historically.
+- **Important steps** to create a higher order of questions:
+  - Think through the process that gets us to a particular question.
+- Select and choose from hierarchy of questions.
+  - How is an argument being developed **rhetorically? philosophical? moral assumptions? conditions and content that makes the claim meaningful?**
+- **Important questions**:
+  - Are explanatory
+  - Are social (tie back to social relationships and forms)
+  - Immediately explorable/answerable, tie back to the text or other texts
+  - Explain conditions
+  - Explore change over time
 
 
 <br>
