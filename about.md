@@ -6,6 +6,8 @@
 
 📑 My resume is [here](https://andre-ye.github.io/scripts/andre-ye-resume.pdf){:target="_blank"}.
 
+🔗 Connect with me on LinkedIn [here](https://linkedin.com/in/andre-ye){:target="_blank"}.
+
 🖨️ Some of my favorite papers:
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635v1){:target="_blank"}.
 - [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf){:target="_blank"}.
@@ -35,11 +37,11 @@ I've also guest-written on other platforms, including [KDnuggets](https://www.kd
 
 
 <a href="https://www.kdnuggets.com/2020/12/top-stories-2020-nov.html"><img src="https://www.kdnuggets.com/images/tkb-2011-s.png" width=96 alt="Silver Blog" align="right"></a><a href="https://www.kdnuggets.com/2021/02/top-news-week-0125-0131.html"><img src="https://www.kdnuggets.com/images/tkb-2101-g.png" width=96 alt="Gold Blog" align="right"></a>
-Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of Data Science" with 700+ visitors, recieved silver and gold badges for being top-viewed and top-shared on the platform.
+Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of Data Science" - the SIGKDD award - with 700+ visitors, recieved silver and gold badges for being top-viewed and top-shared on the platform.
 
 *Fun fact:* One of my articles was cited as a reference for a [Wikipedia page](https://en.wikipedia.org/wiki/LightGBM){:target="_blank"} on the LGM gradient boosting framework.
 
-*Fun fact:* A few of my articles have been translated into other languages, like [this one](https://www.infoq.cn/article/qUhqVdHxC0uxPFyDbt7h){:target="_blank"} on adversarial attacks on perbutations to convolutionary neural networks.
+*Fun fact:* A few of my articles have been translated into other languages, like [this one](https://www.infoq.cn/article/qUhqVdHxC0uxPFyDbt7h){:target="_blank"} on adversarial attacks using input perbutations to convolutional neural networks.
 
 *Fun fact:* The University of Delaware Masters in Data Science Program [listed](https://www.msds.udel.edu/resources/data-resources/){:target="_blank"} an article I wrote on built-in datasets in APIs as a data resource.
 
@@ -52,6 +54,8 @@ Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of
 ### Projects
 
 ⌨️ Check out [Critiq](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
+
+
 
 <br>
 
