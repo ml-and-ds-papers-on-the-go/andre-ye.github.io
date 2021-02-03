@@ -13,9 +13,10 @@
 - [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/pdf/1812.11118.pdf){:target="_blank"}.
 - [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530){:target="_blank"}.
 
+In the mean-time, I like to swim 🏊‍, read 📚, and play piano 🎹.
 
-### Articles
-📈 I write articles about machine learning, data science, and occasionally mathematics [here](https://andre-ye.medium.com/){:target="_blank"}. Some of my favorite articles:
+### Data Science Articles & Writing 📰 📈
+I write articles about machine learning, data science, and occasionally mathematics [here](https://andre-ye.medium.com/){:target="_blank"}. Some of my favorite articles:
 - [The Beauty of Bayesian Optimization, Explained in Simple Terms](https://towardsdatascience.com/the-beauty-of-bayesian-optimization-explained-in-simple-terms-81f3ee13b10f){:target="_blank"}
 - [Obtaining Top Neural Network Performance Without Any Training](https://medium.com/analytics-vidhya/obtaining-top-neural-network-performance-without-any-training-5af0af464c59){:target="_blank"}
 - [If You're Hyped About GPT-3 Writing Code, You Haven’t Heard of NAS](https://towardsdatascience.com/if-youre-hyped-about-gpt-3-writing-code-you-haven-t-heard-of-nas-19c8c30fcc8a){:target="_blank"}
@@ -34,6 +35,8 @@ Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of
 *Fun fact:* A few of my articles have been translated into other languages, like [this one](https://www.infoq.cn/article/qUhqVdHxC0uxPFyDbt7h){:target="_blank"} on adversarial attacks on perbutations to convolutionary neural networks.
 
 *Fun fact:* The University of Delaware Masters in Data Science Program [listed](https://www.msds.udel.edu/resources/data-resources/){:target="_blank"} an article I wrote on built-in datasets in APIs as a data resource.
+
+### Projects
 
 ⌨️ Check out [Critiq](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
 
