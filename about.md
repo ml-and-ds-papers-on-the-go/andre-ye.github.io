@@ -6,6 +6,8 @@
 
 📑 My resume is [here](https://andre-ye.github.io/scripts/andre-ye-resume.pdf){:target="_blank"}.
 
+---
+
 🖨️ Some of my favorite papers:
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635v1){:target="_blank"}.
 - [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf){:target="_blank"}.
@@ -23,5 +25,8 @@
 - [The Fascinating No-Gradient Approach to Neural Net Optimization](https://towardsdatascience.com/the-fascinating-no-gradient-approach-to-neural-net-optimization-abb287f88c97){:target="_blank"}
 
 ⌨️ Check out [Critiq](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
+
+<a href="https://www.kdnuggets.com/2021/02/top-news-week-0125-0131.html">
+<img src="https://www.kdnuggets.com/images/tkb-2101-g.png" width=96 alt="Gold Blog" align="right"></a>
 
 [This page is a work in progress.]
