@@ -32,9 +32,9 @@ I write articles about machine learning, data science, and occasionally mathemat
 - [The Fascinating No-Gradient Approach to Neural Net Optimization](https://towardsdatascience.com/the-fascinating-no-gradient-approach-to-neural-net-optimization-abb287f88c97){:target="_blank"}
 I've also guest-written on other platforms, including [KDnuggets](https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html){:target="_blank"}, [Netpune.ai](https://neptune.ai/blog/author/andre-ye){:target="_blank"}, and [Experfy](https://www.experfy.com/blog/author/andre-ye/){:target="_blank"}, among other platforms.
 
-Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of Data Science" with 700+ visitors, recieved silver and gold badges for being top-viewed and top-shared on the platform.
-<a href="https://www.kdnuggets.com/2020/12/top-stories-2020-nov.html"><img src="https://www.kdnuggets.com/images/tkb-2011-s.png" width=96 alt="Silver Blog" align="right"></a><a href="https://www.kdnuggets.com/2021/02/top-news-week-0125-0131.html"><img src="https://www.kdnuggets.com/images/tkb-2101-g.png" width=96 alt="Gold Blog" align="right"></a>
 
+<a href="https://www.kdnuggets.com/2020/12/top-stories-2020-nov.html"><img src="https://www.kdnuggets.com/images/tkb-2011-s.png" width=96 alt="Silver Blog" align="right"></a><a href="https://www.kdnuggets.com/2021/02/top-news-week-0125-0131.html"><img src="https://www.kdnuggets.com/images/tkb-2101-g.png" width=96 alt="Gold Blog" align="right"></a>
+Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of Data Science" with 700+ visitors, recieved silver and gold badges for being top-viewed and top-shared on the platform.
 
 *Fun fact:* One of my articles was cited as a reference for a [Wikipedia page](https://en.wikipedia.org/wiki/LightGBM){:target="_blank"} on the LGM gradient boosting framework.
 
