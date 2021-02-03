@@ -1,12 +1,18 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 4 > Notes on *James Madison Letter to Thomas Jefferson*
 
-# Notes on *James Madison Letter to Thomas Jefferson: October 17, 1788*
+## Notes on *James Madison Letter to Thomas Jefferson: October 17, 1788*
 Andre Ye, 10/17/2020
 
 Access the letter [here](https://www.revolutionary-war-and-beyond.com/james-madison-letter-to-thomas-jefferson-october-17-1788.html#:~:text=James%20Madison%20letterto%20Thomas%20Jefferson%20-October%2017%2C%201788.,inside%20of%20brackets%20%5B%5D%20were%20written%20in%20cipher).
 Weekly Reading #4.
 
-## Context/Background
+<br>
+
+---
+
+<br>
+
+### Context/Background
 - Written by James Madison, addressed to Thomas Jefferson
 - Addressed as "Dear Sir New York Ocr. 17. 1788", Written from New York City.
 - Comparison of the function performed by a bill of rights in republican and monarchical systems of government and if it is necessary.
@@ -16,7 +22,13 @@ Weekly Reading #4.
 - See footnote [^1] for citations of the excerpt used in class.
 
 
-## Notes
+<br>
+
+---
+
+<br>
+
+### Notes
 
 
 - Key Points
@@ -105,7 +117,13 @@ Weekly Reading #4.
     - When power is in the hands of the many, danger is much lesser.
   > "It is much more to be dreaded that the few will be unnecessarily sacrificed to the many."[^9]
 
+
+<br>
+
 ---
+
+<br>
+
 
 [^1]: Richard Fallon, *Completing and Implementing the Constitution* (Harvard University Press, 2001), 369.
 [^2]: Fallon, *Completing and Implementing the Constitution*, 369.
