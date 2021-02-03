@@ -30,6 +30,7 @@ I write articles about machine learning, data science, and occasionally mathemat
 - [Long Short-Term Memory Networks Are Dying: What’s Replacing It?](https://towardsdatascience.com/long-short-term-memory-networks-are-dying-whats-replacing-it-5ff3a99399fe){:target="_blank"}
 - [Finally, an intuitive explanation of why ReLU works](https://towardsdatascience.com/if-rectified-linear-units-are-linear-how-do-they-add-nonlinearity-40247d3e4792){:target="_blank"}
 - [The Fascinating No-Gradient Approach to Neural Net Optimization](https://towardsdatascience.com/the-fascinating-no-gradient-approach-to-neural-net-optimization-abb287f88c97){:target="_blank"}
+
 I've also guest-written on other platforms, including [KDnuggets](https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html){:target="_blank"}, [Netpune.ai](https://neptune.ai/blog/author/andre-ye){:target="_blank"}, and [Experfy](https://www.experfy.com/blog/author/andre-ye/){:target="_blank"}, among other platforms.
 
 
