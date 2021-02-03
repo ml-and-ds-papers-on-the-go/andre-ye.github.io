@@ -15,6 +15,12 @@
 
 In the mean-time, I like to swim 🏊‍, read 📚, and play piano 🎹.
 
+<br>
+
+---
+
+<br>
+
 ### Data Science Articles & Writing 📰 📈
 I write articles about machine learning, data science, and occasionally mathematics [here](https://andre-ye.medium.com/){:target="_blank"}. Some of my favorite articles:
 - [The Beauty of Bayesian Optimization, Explained in Simple Terms](https://towardsdatascience.com/the-beauty-of-bayesian-optimization-explained-in-simple-terms-81f3ee13b10f){:target="_blank"}
@@ -36,9 +42,20 @@ Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of
 
 *Fun fact:* The University of Delaware Masters in Data Science Program [listed](https://www.msds.udel.edu/resources/data-resources/){:target="_blank"} an article I wrote on built-in datasets in APIs as a data resource.
 
+<br>
+
+---
+
+<br>
+
 ### Projects
 
 ⌨️ Check out [Critiq](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
 
+<br>
+
+---
+
+<br>
 
 [This page is a work in progress.]
