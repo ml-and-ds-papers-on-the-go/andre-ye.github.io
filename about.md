@@ -21,8 +21,12 @@
 - [Long Short-Term Memory Networks Are Dying: What’s Replacing It?](https://towardsdatascience.com/long-short-term-memory-networks-are-dying-whats-replacing-it-5ff3a99399fe){:target="_blank"}
 - [Finally, an intuitive explanation of why ReLU works](https://towardsdatascience.com/if-rectified-linear-units-are-linear-how-do-they-add-nonlinearity-40247d3e4792){:target="_blank"}
 - [The Fascinating No-Gradient Approach to Neural Net Optimization](https://towardsdatascience.com/the-fascinating-no-gradient-approach-to-neural-net-optimization-abb287f88c97){:target="_blank"}
-I've also guest-written on other platforms, including [Knuggets, Netpune.ai, [Experfy](https://www.experfy.com/blog/author/andre-ye/)
+I've also guest-written on other platforms, including [KDnuggets](https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html){:target="_blank"}, [Netpune.ai](https://neptune.ai/blog/author/andre-ye){:target="_blank"}, and [Experfy](https://www.experfy.com/blog/author/andre-ye/){:target="_blank"}, among other platforms.
+
+Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of Data Science" with 700+ visitors, recieved silver and gold badges for being top-viewed and top-shared on the platform.
 <a href="https://www.kdnuggets.com/2020/12/top-stories-2020-nov.html"><img src="https://www.kdnuggets.com/images/tkb-2011-s.png" width=96 alt="Silver Blog" align="right"></a><a href="https://www.kdnuggets.com/2021/02/top-news-week-0125-0131.html"><img src="https://www.kdnuggets.com/images/tkb-2101-g.png" width=96 alt="Gold Blog" align="right"></a>
+
+Fun fact: one of my articles was cited as a reference for a [Wikipedia page](https://en.wikipedia.org/wiki/LightGBM){:target="_blank"} on the LGM gradient boosting framework.
 
 ⌨️ Check out [Critiq](https://critiq.tech){:target="_blank"}, a site [Carter Chan-Nui](https://www.linkedin.com/in/carterchannui/){:target="_blank"}, [Om Shah](https://www.linkedin.com/in/om-shah-5a0b571ab/){:target="_blank"}, and I coded to reimagine what peer revision for essays can be and do.
 
