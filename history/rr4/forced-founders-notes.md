@@ -1,17 +1,29 @@
 [Home](https://andre-ye.github.io) > [History Navigation](https://andre-ye.github.io/history/history_navigation) > [Reading Response Notes](https://andre-ye.github.io/history/history_navigation#weekly-reading-responses) > Reading Response 4 > Notes on *Forced Founders*
 
-# Notes on Sections 1, 2, and 6 of *Forced Founders* by Woody Holton 
+## Notes on Sections 1, 2, and 6 of *Forced Founders* by Woody Holton 
 Andre Ye, 10/18/2020
 
 Page numbers referenced are for the PDF given in class.
 Weekly Reading #4.
 
-## Context/Background
+<br>
+
+---
+
+<br>
+
+### Context/Background
 - Full Title: *Forced Founders: Indians, Debtors, Slaves, and the Revolution in Virginia*. 
 - Published by the University of North Carolina Press on Sep. 1st, 1999.
 - Access online version [here](https://www.jstor.org/stable/10.5149/9780807899861_holton).
 
-## Navigate
+<br>
+
+---
+
+<br>
+
+### Navigate
 - [Notes on Section 1: Introduction](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-1-introduction)
   - [Main Ideas](https://andre-ye.github.io/history/rr4/forced-founders-notes#main-ideas)
   - [Opening Ideas](https://andre-ye.github.io/history/rr4/forced-founders-notes#opening-ideas)
@@ -35,24 +47,30 @@ Weekly Reading #4.
 - [Notes on Section 6: Gentlemen Versus Farmers](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-6-gentlemen-vs-farmers-pg-25)
   - [Main Ideas](https://andre-ye.github.io/history/rr4/forced-founders-notes#notes-on-section-6-gentlemen-vs-farmers-pg-25)
 
+
+<br>
+
 ---
 
-## Notes on Section 1: Introduction
+<br>
 
-### Main Ideas
+
+### Notes on Section 1: Introduction
+
+#### Main Ideas
 - Nonelites powerfully influenced Revolutionary politics.
   - Virginian gentlemen's struggle to extend freedom were aided by other freedom struggles.
   - The gentry that made the declaration of independence were very interested in the actions of natives, slaves, and smallholders.
 - The image of confident colonial elite pushing for freedom is lacking and excludes other groups.
 
-### Opening Ideas
+#### Opening Ideas
 - Americans like to imagine the colonial elite - Thomas Jefferson & George Washington, to name two - as proud and optimistic leaders; instead, their desperation drove them to the American Revolution.
 - Consider **Jacob Hite**, who in April 1774 took desperate measures like: (p2)
   - Crashing down the gates of prisons
   - Placing weapons in the hands of slaves
   - Was one of the wealthiest men in Berkely County, Virginia
 
-### Example: Jacob Hite
+#### Example: Jacob Hite
 
 - Hite was the son of a successful land speculator.
 - 1760s scheme to gain land from Cherokee Indians
@@ -73,7 +91,7 @@ Weekly Reading #4.
   - Virginia courts refused to try suits brought by creditors [^4] against debtors [^5]
     - Temporarily closed to protest Parliament's assault on "American liberty" and to prevent creditors from taking property and freedom from debtors.
 
-### Hite's story as proof against a faulty historical record
+#### Hite's story as proof against a faulty historical record
 - Surely Hite's story of desperation must not apply to other American figures; Patrick Henry, George Washington, Thomas Jefferson.
 - Opposition historical viewpoint:
   - Washington and Jefferson were confident and successful, continuing westward expansion was inevitable given:
@@ -85,7 +103,7 @@ Weekly Reading #4.
     - Historians question the assertion of gentry [^6] confidence
 - It was not that the gentry [^6] 'pulled the strings' of other groups [^7]; each group had leverage but, in complex and perhaps unintentional ways, helped push the gentry towards rebellion. (pg. 4)
 
-### Definitions
+#### Definitions
 What defines the 'gentry'?
 - Owned money, slaves, and land.
 - Sat on the House of Burgesses, Executive Council, benches of county courts.
@@ -104,7 +122,7 @@ What defines the 'gentry'?
 *traders*
 : independent Virginia entrepreneurs.
 
-### Ways gentry-group interactions shapes independence
+#### Ways gentry-group interactions shapes independence
 - British-gentry-slave relationships
   - Enslaved population grew from 9% to 40% by 1775 [^8]; good news for slaveowners and allowed House of Burgesses to stop importation of slaves [^9].
   - British merchants persuaded Britain's executive body to veto Virginian taxes on every imported African slave.
@@ -115,18 +133,24 @@ What defines the 'gentry'?
 
 [Back to top](https://andre-ye.github.io/history/rr4/forced-founders-notes)
 
+
+<br>
+
 ---
 
-## Notes on Section 2: Tobacco Growers Versus Merchants and Parliament (pg. 7)
+<br>
 
-### Main Ideas
+
+### Notes on Section 2: Tobacco Growers Versus Merchants and Parliament (pg. 7)
+
+#### Main Ideas
 - Many conflicts between tobacco growers and merchants & Parliament spurred the want for independence.
 - The Navigation Acts and limitations on trade drastically cut tobacco grower's profits; the price of tobacco fell at least 75%.
 - Tobacco Growers and other poorer Virginians increasingly had conflicts with British creditors who came to collect debt, often by taking a large portion of the debtor's property.
 - By forcing the Atlantic Slave Trade, Britain economically hurt and destabilized Virginia.
 - Taxation without representation was characterized as slavery. Britain has already monopolized Virginia's trade, so they had no right to tax them as well. Even slaves (actual slaves) had the right to own their own money during Sundays and evenings.
 
-### Opening Ideas
+#### Opening Ideas
 - Robert Routledge, Tuesday, June 3rd, 1766.
   - Lived in Virginia and sold freign merchandise to tobacco farmers.
   - Celebrating Parliament's repeal of the Stamp Act (Virginia courts closed and refused to hear cases)
@@ -138,7 +162,7 @@ What defines the 'gentry'?
   - Chiswell killed Routledge by sword, then later committed suicide.
 - Conflict between creditors and debtors (growsers and merchants).
   
-### On Debt
+#### On Debt
 - Many conflict revolved around debt.
   - Routledge and Chiswell (see above).
   - Jacob Hite's debt drove him to attack the county jail and arm his slaves agains tthe Sherriff.
@@ -146,26 +170,26 @@ What defines the 'gentry'?
 - Debt destroyed lives and families, *but also personal independence*.
   - People that loathed debt feel deeper in it.
 
-### Explanations of Debt
+#### Explanations of Debt
 - Wealthy debtors and gentlemen attributed financial difficulties to the cutting out of middlemen dues.
   - Money problems blamed on personal extravagance.
 - Convinced British merchants persuaded Parliament to adopt policies that favored their interest and the expense of Virginians.
 
-### Mercantilism as Slavery (pg. 11)
+#### Mercantilism as Slavery (pg. 11)
 - In 1760s and 1770s, American pamphleteers often compared British taxations with consent as enslavement.
   - Becoming "the slaves of Britain"
 - Virginia slaveholders could not take away slaves' rights to earn money for themselves on evenings and Sundays.
   - The British Parliament, while taking away much, still allowed "us the little we have been permitted to earn for ourselves"[^10].
 - Argument: *Britain, which has monopolized Virginia's trade, has no right to tax them as well.*
 
-### The Argument Against Taxation (pg. 11)
+#### The Argument Against Taxation (pg. 11)
 - Taxation as slavery may have been one of the reasons why colonists objected so much to parliamentary taxes that would seem less than in England, Wales, and Scotland.
 - Justifications:
   - *Constitutional*. Parliament has no right to taxation because colonists were not represented in it.
   - *Practical*. A master that has already control of his slaves' labor cannot do the same with evening hours.
     - e.g. colonists have already submitted to Navigation Acts. They have shared their wealth to Britain enough.
     
-### The Navigation Act & Limitations on Trade (pg. 12)
+#### The Navigation Act & Limitations on Trade (pg. 12)
 - Navigation act: dictates that goods could only be exported from the colonies to England on British forces.
 - Exluded Dutch merchantmen from the Chesapeake trade; price of tobacco fell 75%.
 - Additional Navigation Act - prohibited shipment of foreign goods to American colonies except through British ports.
@@ -199,7 +223,7 @@ What defines the 'gentry'?
       - 1/3 of Britain's overseas trade was with the American colonies.
       - Navigation Acts as the great guardian of British Commerce (Lord George Townshend)
       
-### Soft Virginian Rhetoric Towards Mercantilism (pg. 15)
+#### Soft Virginian Rhetoric Towards Mercantilism (pg. 15)
  
 - Rhetoric against the Navigation Acts in Virginia was strong
 - Did not advocate *completely* against a mercantilist system dismantling for reasons mentioned above; economically the British relied on mercantilism to survive.
@@ -208,12 +232,12 @@ What defines the 'gentry'?
   - Turn away powerful British merchants, from which many of the Virginian elite relied upon
 - By the end of 1774, most Virginians chose not to demand Parliament to lift restrictions on trade and manufacturing.
 
-### The Attack on Manufacturing (pg. 16)
+#### The Attack on Manufacturing (pg. 16)
 - Britain wished to maintain a monopoly on manufacturing.
 - Prohibited Americans from making iron and selling hats or woolen cloth outside of their home, shipping utensils in cotton and linen manufactures, among other manufacturing taxations.
 - George Washington [^12] resisted the Townshend duties on manufactured goods to avoid dangerous precedent.
 
-### Increasing Virginian Anti Navigation Acts Rhetoric (pg. 17)
+#### Increasing Virginian Anti Navigation Acts Rhetoric (pg. 17)
 - In summer of 1774, Parliament insisted colonists follow Navigation Acts and new taxes; free Virginians refused to for either.
 - Thomas Jefferson: *a natural right to a free trade with all parts of the world*.
   - British merchants ripped the Americans off via free trade and the limited trade of the American colonies.
@@ -227,7 +251,7 @@ What defines the 'gentry'?
 - Free trade became one of the most important centerpieces in advocating for independence.
 - By pitting Virginia tobacco growers against the British merchants, a class conflict in favor of independence emerged.
 
-### Creditor-Debtor Conflicts (pg. 18)
+#### Creditor-Debtor Conflicts (pg. 18)
 - Both Virginia tobacco growers and British merchants clashed in creditor-debtor legislation.
 - Desperate debtors could become violent, and debt collectors often carried defensive weapons. Imprisoned debtors would burn down jails and attempt to recapture their property.
   - This alarmed the gentry, who believed they could only keep black slaves in check if the white population was completely unified.
@@ -242,7 +266,7 @@ What defines the 'gentry'?
 - A money shortage meant that debtors often had to pay with property and not money.
   - Debtors often paid double what they owed.
   
-### Forced Immigration of Africans and West Indians into Virginia (pg. 21)
+#### Forced Immigration of Africans and West Indians into Virginia (pg. 21)
 - Another grower-merchant conflict was the forced immigration of Africans and West Indians into Virginia.
 - Thomas Jefferson *opposed African immigration*.
   - Jefferson denounced the slave trade in his draft of the Declaration of Independence because it hurt him personally.
@@ -282,11 +306,17 @@ What defines the 'gentry'?
 
 [Back to top](https://andre-ye.github.io/history/rr4/forced-founders-notes)
 
+
+<br>
+
 ---
 
-## Notes on Section 6: Gentlemen vs. Farmers (pg. 25)
+<br>
 
-### Main Ideas
+
+### Notes on Section 6: Gentlemen vs. Farmers (pg. 25)
+
+#### Main Ideas
 - The American Revolution is remembered as a confident step - it was actually an act of desperation.
 - Independent companies [^15] were favored by the poor farmers for their democratic structure; efforts at militia reform and the creation of a minuteman battalion failed and were met with opposition.
   - The reformation, intended to provide structure to militias and quell unrest, provoked more of it.
@@ -308,7 +338,14 @@ What defines the 'gentry'?
 
 
 [Back to top](https://andre-ye.github.io/history/rr4/forced-founders-notes)
+
+
+<br>
+
 ---
+
+<br>
+
 
 [^1]: Begins at page 2.
 [^2]: Their families would be permanently divided - they had an interest in helping Hite.
