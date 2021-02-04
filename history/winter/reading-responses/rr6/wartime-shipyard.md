@@ -30,8 +30,10 @@ Andre Ye, 2/4/21
   - Employment of women was becoming an established policy.
   - Would "unprincipled girls" "steal" married men? - some argued so.
 - Management issued strict governing rules around the dress of women.
-  - 
-
+  - Even the women formed an undeputized agency for enforcement of rules about dress.
+- It was not unusual for working-class women to respond to pressure of economic necessity but supplementing the family income through "casual and ill-paid labor".
+- The greater the shipyard worker's economic security, the more determined he became to be *the* pillar of his family's financial support.
+  - A woman working at home was to be evidence of her husband's earning capacity.
 
 
 
