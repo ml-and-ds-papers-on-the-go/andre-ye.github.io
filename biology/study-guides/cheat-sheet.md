@@ -1,13 +1,17 @@
 [Home](https://andre-ye.github.io) > [Biology Navigation](https://andre-ye.github.io/biology/biology_navigation) > [Biology Content](https://andre-ye.github.io/biology/biology_navigation#biology-content) > Study Guides > Biology Cheat Sheet / Reference
 
-# Biology Cheat Sheet / Reference
+## Biology Cheat Sheet / Reference
 Andre Ye, 11/7/2020
 
 *This biology cheat sheet will be handy reference for assignments, discussions, and test prep. It will be continually updated as the course progresses.*
 
+<br>
+
 ---
 
-## Navigate
+<br>
+
+### Navigate
 - [Terms and Concepts](#terms-and-concepts)
   * [DNA Replication](#dna-replication)
   * [Transcription and Translation](#transcription-and-translation)
@@ -52,10 +56,16 @@ Andre Ye, 11/7/2020
   * [Srb-Horowitz Experiment](#srb-horowitz-experiment)
   * [Zamecnik et al Experiment](#zamecnik-et-al-experiment)
     
+
+<br>
+
 ---
 
-## Terms and Concepts
-### DNA Replication
+<br>
+
+
+### Terms and Concepts
+#### DNA Replication
 
 | Term | Definition |
 | --- | --- |
@@ -76,7 +86,7 @@ Andre Ye, 11/7/2020
 | RNA polymerase | A polymerase that can start synthesis from scratch. Primase is a RNA polymerase (enzymes that catalyze polymerization of ribonucleotides into RNA). |
 | RNA primers | Because DNA polymerase cannot synthesize new nucleotides on its onw, but RNA polymerase (for example, primase) can. This is used to initiate building, and is later removed by DNA polymerase I. |
 
-### Transcription and Translation
+#### Transcription and Translation
 
 Term | Definition
 --- | ---
@@ -126,7 +136,7 @@ transfer RNA (tRNA) | tRNA is the 'intermediate' step between mRNA and amino aci
 upstream | DNA is upstream of the point of reference. The RNA polymerase moves in the opposite direction of this when moving along the DNA.
 wobble hypothesis | Most amino acids are specified by more than one codon. Codons for the same amino acid often have the same nucleotides for the first and second positions but different nucleotides in the third position. Certain bases bind to bases that do not match Watson-Crick base pairing, producing flexibility ('wobble') in base pairing. This allows tRNA to read more than one codon. Wobble pairing does not account fo redundancy.
 
-### Cellular Respiration
+#### Cellular Respiration
 
 | Term | Definition |
 | --- | --- |
@@ -142,7 +152,7 @@ wobble hypothesis | Most amino acids are specified by more than one codon. Codon
 | `FAD`/`FADH2` | An electron carrier; oxidized form is `FAD` (is not carrying electrons) and reduced form is `FADH2` (is carrying electrons). Will transition between these two states throughout cellular respiration. |
 | Respirometer | A respirometer is composed of a vial and a volume of air. It measures the rate of consumption of oxyugen of a living organism. |
 
-### Meiosis
+#### Meiosis
 
 | Term | Definition |
 | --- | --- |
@@ -171,11 +181,17 @@ wobble hypothesis | Most amino acids are specified by more than one codon. Codon
 | gamete | A haploid sex cell. |
 | sexual reproduction | Reproduction that requires the union of two gametes. |
 
+
+<br>
+
 ---
 
-## Core Ideas
+<br>
 
-### Chemistry, Origin of Life, Nucleic Acids
+
+### Core Ideas
+
+#### Chemistry, Origin of Life, Nucleic Acids
 
 #### Chemical Foundation of Life Terms and Concepts
 
@@ -218,7 +234,7 @@ Conservative replication | If bases of strands turned out from the helix, they c
 Dispersive replication | Parental double helix was fragmented into small pieces before replication, and each piece was replicated either with conservative or semiconservative mechanisms. Fragments would be joined into two molecules that contained a mixture of parental and daughter strands.
 
 
-### Proteins
+#### Proteins
 
 #### Protein Levels of Structure
 
@@ -259,7 +275,7 @@ Defensive Proteins | Defensive proteins help organisms fight infection, heal dam
 | Lagging-strand synthesis | DNA Polymerase I | Removes the RNA primer and replaces it with DNA. |
 | Lagging-strand synthesis | DNA ligase | Catalyzes the jooining of Okazaki fragments into a continuous strand. |
 
-### Translation, Transcription, and the Genetic Code
+#### Translation, Transcription, and the Genetic Code
 #### Complete Genetic Code Table
 ![Complete Genetic Code](https://andre-ye.github.io/biology/genes-and-dna/codon%20base%20table.PNG)
 
@@ -341,7 +357,7 @@ RNA processing | | Rare | Extensive, several steps occur before RNA is exported 
 Translation | Initiation and termination | Less complex | More complex
 Translation | Elongation | Similar to eukaryotes | Similar to bacteria
 
-### Cellular Respiration
+#### Cellular Respiration
 
 #### Process Input Output Table and Chemical Equation
 
@@ -365,11 +381,17 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 #### Meiosis vs Mitosis Diagram
 ![](https://andre-ye.github.io/biology/meiosis-and-mitosis/meiosis-vs-mitosis-diagram.PNG)
 
+
+<br>
+
 ---
 
-## Important Experiments
+<br>
 
-### Miller-Urey Experiment
+
+### Important Experiments
+
+#### Miller-Urey Experiment
 
 | Aspect | Description |
 | --- | -------------------- |
@@ -382,7 +404,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | Chemical evolution occurs readily if simple molecules with high free energy are exposed to a source of kinetic energy. |
 | Significance | Paved the idea for foundation for ideas of chemical evolution and sparked further experiments. |
 
-### Griffith Experiment
+#### Griffith Experiment
 
 | Aspect | Description |
 | --- | --- |
@@ -396,7 +418,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | There is a 'transformation principle' that is allowing the smooth strain, even if it has been killed, to transfer its genetic information to the rough strain to make it become a smooth strain, thus killing the mouse. |
 | Significance | Provided basis for the Avery-MacLeod-McCarty experiment. |
 
-### Avery-MacLeod-McCarty Experiment
+#### Avery-MacLeod-McCarty Experiment
 
 | Aspect | Description |
 | --- | --- |
@@ -410,7 +432,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | DNA is responsible for the transfer of genetic information. |
 | Significance | Was part of a growing field of research that proposed DNA, not proteins, held genetic information. |
 
-### Herschey-Chase Experiment
+#### Herschey-Chase Experiment
 
 | Aspect | Description |
 | --- | --- |
@@ -424,7 +446,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | T2 virus genes consist of DNA. |
 | Significance | Proved that heritable information takes the form of DNA, not proteins. |
 
-### Meselson-Stahl Experiment
+#### Meselson-Stahl Experiment
 
 | Aspect | Description |
 | --- | --- |
@@ -440,7 +462,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Conclusion | Replication is semiconservative. |
 | Significance | Proved that, in accordance with Watson and Crick's suspicions, that DNA replicated by splitting down the middle and using each half as a template. Thus, each DNA is half-old and half-new. |
 
-### Srb-Horowitz Experiment
+#### Srb-Horowitz Experiment
 
 | Aspect | Description |
 | --- | --- |
@@ -454,7 +476,7 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Results | Three types of mutants *arg1*, *arg2*, *arg3*. They are able to grow in the metabolic pathway *from* orthinine, citrulline, and arginine, respectively. *arg1* cells lack enzyme 1 from precursor to orthinine, *arg2* cells lack enzyme 2 from orthinine to citrulline, etc. |
 | Conclusion | The one-gene, one-enzyme hypothesis is supported. |
 
-### Zamecnik et al Experiment
+#### Zamecnik et al Experiment
 
 | Aspect | Description |
 | --- | --- |
@@ -466,5 +488,11 @@ C6 H12 O6 + 6O2 ➡️ 6CO2 + 6H2O + Energy (36-38 ATP)
 | Prediction of Null Hypothesis | Radioactive amino acids will not be found in the polypeptides. |
 | Results | Radioactive signal of tRNA and polypeptides are inversely proportional to each other. When there is low radioactive signal in tRNA, there is high radioactive signal in the polypeptides, and vice versa. |
 | Conclusion | Aminoacyl tRNAs transfer amino acids to growing polypeptides. |
+
+<br>
+
+---
+
+<br>
 
 [Back to top](#)
