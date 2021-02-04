@@ -34,9 +34,29 @@ Andre Ye, 2/4/21
 - It was not unusual for working-class women to respond to pressure of economic necessity but supplementing the family income through "casual and ill-paid labor".
 - The greater the shipyard worker's economic security, the more determined he became to be *the* pillar of his family's financial support.
   - A woman working at home was to be evidence of her husband's earning capacity.
+- Tradition and masculine egotism took part in the resistance.
+  - Fear of women as competitors in a monopoly of men.
+- Craft unions attempted to protect their exclusiveness; restrictions were eventually broken through.
+  - There was a heavy demand for welders; the first women hired to work at Moore Dry Dock were welders.
+  - Reluctance of unions to permit full participation by women - an attempt to protect an interest from being shared.
+- Common explanation - the work was unsuitable for women.
+  - Men seldom credited women with the capacity of desire to put in an honest day of work.
+- Women nontheless recieved a man's full pay for doing "less than" a man's work.
+- Women's right to good working conditions was also attacked as unjust.
+  - Women were to have played no role in the organized effort.
+  - A woman wold prove to be a source of weakness.
+- Women faced discriminatory difficulties in advancing their status.
+  - Women at the Dry Dock did not pass beyond being a journeyman.
+- Further difficulties awaited women given authority over shipyard men.
+- In winter of 1943, feamel electricians had a pay reduction; disproportionate quitting and layoffs of women were clear from shipyard statistics.
+  - By February 1945: women constituted less than 10%.
+- Some women in the shipyards justified masculine rumor and insult.
+- The work attitudes of many women did not meet the standards of the craftsman.
+  - Women had little impulse to delve into the secrets of their craft or to work harder than necessary.
+  - A byproduct of looking upon the work as temporary.
+  - Few women disupted the masculine claim of their inferiority.
 
-
-
+p. 34
 
 
 
