@@ -253,7 +253,6 @@ Andre Ye, 2/2/21-2/5/21
   - In October of 1929 is the stock market collapse; he thought it would be self-corrupting.
 - Hoover would come out every few months and assure that the bottom was met. Waited for his entire term for a market solution - for which there wasn't one.
 
-
 <br>
 
 ---
@@ -265,6 +264,7 @@ Andre Ye, 2/2/21-2/5/21
 - FDR, a progressive Democrat, is elected into office; runs on a campaign promise of hope and change.
   - Does not give much policy prescription, but promises a system of national and economic relief.
 - On this promise, he is elected.
+- Looking at the conditions: families that were being malnourished over the course of the crisis.
 
 #### The First Hundred Days
 - Begins a series of economic transformations.
@@ -274,9 +274,76 @@ Andre Ye, 2/2/21-2/5/21
 - Pass the WPA, Worker's Progress Administration - a series of federal infrastructure programs.
   - Created road construction, engineerig projects, high schools, parks, etc.
 - Civilian Corps - putting many people to work
+- These reforms are the New Deal - hodgepodge of different emergency mechanisms.
+- NIRA - National Industrial Recovery Agency
 
 #### Keynesian Economics
 - Concern of economic debt underwent a transformation around Keynesianism.
+- "Social democracy" - unexpected development of the 1930s.
+- Until 1936, John Maynor Keynes published his general theory.
+  - Economic orthodoxy was that budget shortfalls had to be addressed by cutting the budget.
+  - Restirct expenditures - limit social spending such that things equalize when the markets recover.
+- Keynes threw this out of the window: he pointed out that markets have flaws, many times they do not recover and market soltuionsa re not possible.
+  - Often rooted in pyschology; in cases of makret decline, if buyers are afraid or fearful that the market hasn't reached the bottom, even if thye have money, they won't buy in.
+  - A prudent or fearful buyer will not buy anything.
+  - Pyscvhological factor was crucial for Keynes to explain why certain institutitons could not be private, and needed to address market failures.
+  - Government did not need to live by indebtedness; they don't need to play by the rules.
+- **Debt was to operate differently for the ogovernmnet.**
+  - Public debt (debt from government) is debt we owe ourselves.
+  - If a home owns a bank, it is external debt.
+  - If it is national debt, it is internal debt.
+- Keynes' solution: governments can spend their way out of economic crisis and the economic ledgers don't matter if there is growth.
+  - You could pay people to dig money, and throw money into the holes: at least it is putting money in the pockets of workers.
+- Why was the economy suffering and struggling int he first place?
+  - The model or exponential growth at hte top is not a fundmaentally sound economic structure.
+  - Money at the button is a sound economic strucutre, but money in the hands of egaulr people and consuemrs such that thye can spend and buy the abundance that capitlaism is producing.
+  - Need some redistirbutive mechanism in place; money siophoned to the very topc of society, pseculated gthrought he financial system,m redistributed to consumers that can spend it on industrial goods and cdommerical rpoducts.
+- Firms become sound financial industry again; a positive cycle.
+- Economic thinking was something of a revolution, attempting to address the situation that the U.S. found themselves in.
+
+<br>
+
+---
+
+<br>
+
+### Section 7a and the Unions
+- How can money be distributed? How should Keynesianism be implemented?
+  - One can just tax - a directly redistributive mechanism in the government.
+    - Tax the rich over a certain benchmark of walth and spend it on public services or give tax credits, no interest loans, etc. to working people.
+  - Howeever, like a good Lockean system, such directly redistributive mechanism will not be implemented.
+- One could empower unions to do structural work in the economy.
+  - Unions can play this role; the government is not involved, but they can legislate and legally protect working-class organizations tasked with raising the standard of living with working-class people.
+- THe FDR passes the NIRA - National Industrial Recovery Agency - whose law, Section 7a, legislated in favor of legally recognizing unions for the first time.
+  - If workers had a free, inunfluenced election tvote to have a union, employers needed to negotiate with them.
+  - This is ruled unconstitutiohnal, and there is a court-packing figh.
+- The Wagner Act is later passed.
+  - The identical court members that ruled the NRA unconstitutional later pass the Wagner Act.
+  - Roosevelt threatened to pack the court.
+
+<br>
+
+---
+
+<br>
+
+## Labor's Great Upheaval
+- 3 general strikes in 1934 around wages getting cut off, conflict, striking, the police are colled in, violence ensued.
+- Continues to be violent class conflict in Minneapolis, Toledo, all across the country.
+
+#### San Francisco General Strike
+- Dock workers that unloaded goods off of ships (before contanerization - not lifting with cranes - people neneed to go into a cargo hold and pick it up, then carry it off, very labor intensive.
+- No regular employment. The gig economy is a long-standing feature of industrial capitalism and dock workers were hired by the day.
+  - Highly contingent labor, low condtions, and low pay.
+- Workers are looking for union recognition and a hiring hall to address these issues.
+  - Employers do not recognize it and there is a strike in SF.
+  - Police kill 2 of the workers; there is a massive memoriual march for the slain workers.
+  - AThe march turns into a general strike; all workers refused work unlesss one union was recognized in the city.
+- Spreads to a coast wide long shore strike - even to Seattle, Portland, Los Angeles.
+  - Employers cakked un he federal government to put down the srikes.
+- erkins - Secretary of Labor - 
+
+
 
 run through grammaly and publish
 
