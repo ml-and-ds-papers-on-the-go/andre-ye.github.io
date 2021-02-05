@@ -9,6 +9,38 @@ Andre Ye, 2/2/21-2/5/21
 
 <br>
 
+### Navigate
+* [Introduction](#introduction)
+* [Class Violence and Class Warfare](#class-violence-and-class-warfare)
+* [Towards Progressivism](#towards-progressivism)
+* [Political Uses of WWI](#political-uses-of-wwi)
+  + [War Production](#war-production)
+  + [Espionage and Sedition Acts](#espionage-and-sedition-acts)
+  + [End of the War](#end-of-the-war)
+* [Strike Wave: 1919](#strike-wave-1919)
+  + [Steel Strike](#steel-strike)
+* [Rise of Authoritarian Communism](#rise-of-authoritarian-communism)
+  + [The Palmer Raids and the Red Scare](#the-palmer-raids-and-the-red-scare)
+* [Business Agenda in the 1920s](#business-agenda-in-the-1920s)
+* [Workers in the 1920s: Farm Foreclosures and Over-Saturated Consumer Markets](#workers-in-the-1920s-farm-foreclosures-and-over-saturated-consumer-markets)
+* [The Crash of 1929](#the-crash-of-1929)
+* [The People in the Great Depression](#the-people-in-the-great-depression)
+  + [Hoovervilles](#hoovervilles)
+* [1932 Election of Roosevelt](#1932-election-of-roosevelt)
+  + [The First Hundred Days](#the-first-hundred-days)
+  + [Keynesian Economics](#keynesian-economics)
+* [Section 7a and the Unions](#section-7a-and-the-unions)
+- [Labor's Great Upheaval](#labors-great-upheaval)
+  + [San Francisco General Strike](#san-francisco-general-strike)
+  + [Congress of Industrial Organizations](#congress-of-industrial-organizations)
+* [With Babies and Banners: Story of the Women's Emergency Brigade Documentary](#with-babies-and-banners-story-of-the-women-s-emergency-brigade-documentary)
+
+<br>
+
+---
+
+<br>
+
 ### Introduction
 - Diego Rivera, *Man at the Crossroads*, 1933
   - Thinking only two ways forward: capitalistic system and communistic system.
