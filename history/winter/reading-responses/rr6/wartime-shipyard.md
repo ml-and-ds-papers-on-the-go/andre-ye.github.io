@@ -68,8 +68,56 @@ Andre Ye, 2/4/21
 - Citizenship of women continued to be conditional and their status to fall short of complete equality with men.
 - The conventional alignment of the tow sexes was shaken in the shipyard situation, but it is not evidecne that the principles of unity established in this period were enough to withstand traditional distinctions.
 
+<br>
 
-stopped on pg 14
+---
+
+<br>
+
+### Okies
+- Immigration from foreign shores was the largest source of growth in the 19th and early 20th centuries.
+- Most of California's immigrants were non-Californian.
+- Industrial and agricultural interests welcomed waves of migration, but the stranger was nonetheless disdained.
+- Barriers of distrust and discimination were likewise raised against Americans and whites whose origins were in a less favored area.
+- The Depression: a migratory movement to California occurred; drought had dealt the final blow to many people alreadyw eakened by financial chaos.
+- These migrants were losely called "Okies".
+- Okies came to California at a time when protective impulses of the economy were at their high.
+- California's traditional exclusiveness became an active antagonism.
+- This group of migrants existed throughout the first few difficult years and remained in California.
+  - Over time, Okies became more integrated in the agricultural centers they settled in.
+- As war approached, there were too few willing hands to keep California's industry alive.
+- Labor-seeking immigrants were now welcomed and sought-after.
+  - Agencies throughout the country recruited workmen for shipyards and aircraft factories, etc.
+  - Nearly 1.5m people were drawn to California betwee 1940 and 1943 for its war industries.
+- At least 20% of the workers in the Bay Area shipyards were Okies.
+- The Okie had peculariarities that set him apart - his dialect, dress, and customs were undeniably different.
+  - Various charges were made: Okies were too extravagant, or their impoverished background was ridiculed.
+- Antagonism to shipyard Okies dwelt within the structure of the jealous guarding a vested interest.
+  - Like women, Okies were assumed to know little or nothing of the techniques of industry.
+- **Racilization of Okies** - pg. 46. "a different kind of face... more dumb-looking, somehow."
+- Others complained that Okies were reaping the excellenet wages and working conditions for which they did not fight for.
+  - Newcomers - especially Okies - were said to be the source of eventual union collapse.
+  - Okies were often the main targets of resentment.
+- Okies were less schooled as a group; remarkable examples of lack of oppurtunity.
+- Many Okies were not illiterate; they had worked in Southwestern towns, oil fields, and industrialized cities.
+  - Discrimination against Okies was seldom practiced if their knowledge warranted it.
+- Vagueness of boundaries of Okie habitats made "Okie" a very general epithet.
+- Okies adjusted easily and became much less readily identifiable.
+  - Implicitly, Okies were determined to remain permanently on the Pacific Coast.
+  - Conciously chose to stay and accept limitations of income nad oppurtunity that may confront them postwar.
+- Okies were aware of the attacks against them, but developed counterattacks, or were quick to show that the popular concept of an Okie did not apply.
+- The Okies were a latest addition to the population of a state that had grown since repeated waves of immmigration.
+- Antagonism to Okies was one that eventually ceased to be of public conern.
+
+<br>
+
+---
+
+<br>
+
+### Negroes
+
+stopped on pg 25
 run through grammarlya fterwards
 
 
