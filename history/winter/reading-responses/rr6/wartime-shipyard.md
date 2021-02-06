@@ -55,9 +55,22 @@ Andre Ye, 2/4/21
   - Women had little impulse to delve into the secrets of their craft or to work harder than necessary.
   - A byproduct of looking upon the work as temporary.
   - Few women disupted the masculine claim of their inferiority.
+- Many women were antagonistic to ideas that implied equality of economic oppurtunity.
+  - This attitude more readily accepted because shipyard labor was not very attractive in terms of personal development or expression.
+- However, despite their reluctance and the derision that surrounded them, thousands of women came to work.
+- Some men had come to believe that women had a permanent place in certain phases of heavy industry, like being electricians.
+- The labor of shipyard women was sorely needed.
+  - Counselors were even added to encourage women to enter the shipyards and to remain effective workers.
+  - A short-lived women's council was even formed; an orientation program was also set up.
+- Cultural media also played a role: Rosie the Riveter was established as a heroine, for instance.
+  - Some more liberal unions encouraged active participation by women in union affairs.
+- As the shipyard community declined the size and approached normality, women remained a minority group.
+- Citizenship of women continued to be conditional and their status to fall short of complete equality with men.
+- The conventional alignment of the tow sexes was shaken in the shipyard situation, but it is not evidecne that the principles of unity established in this period were enough to withstand traditional distinctions.
 
-p. 34
 
+stopped on pg 14
+run through grammarlya fterwards
 
 
 
