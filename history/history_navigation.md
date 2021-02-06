@@ -37,6 +37,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - Weekly Reading Response 5 (Due 2/4)
   - [Notes on "Preamble to the Nationale Labors Relations Act, 1935](https://andre-ye.github.io/history/winter/reading-responses/rr5/nlra)
   - [Notes on *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](https://andre-ye.github.io/history/winter/reading-responses/rr5/labors-untold-story)
+- Weekly Reading Response 6 (Due 2/11)
+  - [Notes on *Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald](https://andre-ye.github.io/history/winter/reading-responses/rr6/wartime-shipyard)
 
 #### Course Mechanics
 - [Week 5 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-5) - Essay 1 Feedback, Rubric for Advanced Papers, Historical Hierarchy
