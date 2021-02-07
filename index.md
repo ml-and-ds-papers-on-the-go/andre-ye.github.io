@@ -15,7 +15,7 @@
 
 ## UW Transition School Notes 📚
 - [TS Biology 🧬](https://andre-ye.github.io/biology/biology_navigation) w/ Dr. Valensisi
-- [TS History: American History to 1877 🌎](https://andre-ye.github.io/history/history_navigation) w/ Dr. Reagan
+- [TS History 🌎](https://andre-ye.github.io/history/history_navigation) w/ Dr. Reagan
 - [TS English ✍️](https://andre-ye.github.io/english/english_navigation) w/ Dr. Zink
 - [TS Precalculus 📐](andre-ye.github.io/precalc/precalculus_navigation) w/ Dr. Johnston
 
