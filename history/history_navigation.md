@@ -9,7 +9,7 @@ Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
 <br>
 
-### Winter Quarter
+### Winter Quarter: "American History Since 1877: History's Questions on Agency and Structure"
 
 Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-guides), [Weekly Reading Responses](#weekly-reading-responses), [Course Mechanics & Feedback](#course-mechanics)
 
