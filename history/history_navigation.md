@@ -1,6 +1,6 @@
 [Home](https://andre-ye.github.io) > History Navigation
 
-## TS History: American History to 1877 🌎
+## TS History 🌎
 Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
 
 <br>
@@ -49,9 +49,11 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 
 <br>
 
-### Fall Quarter
+### Fall Quarter: "American History to 1877"
 
 Jump Down to a Section: [Lecture Notes](#lecture-notes-1), [Study Guides](#study-guides-1), [Weekly Reading Responses](#weekly-reading-responses-1), [Course Mechanics & Feedback](#course-mechanics-1)
+
+Formatting may be off for some Fall Quarter notes due to a site-wide shift in formatting beginning Winter Quarter.
 
 #### Lecture Notes
 - ["Slavery: Race and Unfree Labor"](https://andre-ye.github.io/history/lecture-notes/slavery-race-and-unfree-labor), 10/15/20
