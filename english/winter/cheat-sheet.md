@@ -10,6 +10,7 @@
 <br>
 
 ### Navigation
+- [All Strategies](#all-strategies)
 - [Guidelines of Literary Analysis](#guidelines-of-literary-analysis)
   * [The Five Standards of Litery Analysis](#the-five-standards-of-litery-analysis)
   * [The Five Stases](#the-five-stases)
@@ -28,13 +29,15 @@
 
 ### All Strategies
 
-Note: remember to link later. add "going deeper" to surface-to-depth section.
 | Strategy | Category | Brainstorming | Writing Persuasively |
 | --- | --- | --- | --- |
-| Surface to Depth | Close Reading, Ch.3 | Get a sense of the text's literal meaning, then consider several layers of meaning to help you better imagine counterarguments to the analysis you settle on. Consider many possibly conflicting ideas about deeper meanings to a text. | The *surface-depth linking strategy* links a surface reading to a concept or idea not stated explicitly in the text. The *surface-depth contrasting strategy* contrasts a simplistic reading of the text with a more complex reading. |
-| Patterns | Close Reading, Ch.4 | Patterns can be used before and after developing a surface/depth claim. Note reptitions and recurrences throughout the text, or use the patterns strategy to discover evidence to support your argument. | A persuasive use of patterns must connect multiple patterns of a pattern with a clear surface/depth interpretation. |
-| Opposites | Close Reading, Ch.6 | Look for concepts, ideas, patterns, characters, or settings that appear to be in tension. | Arguments using the opposites strategy note oppositions, provide textual evidence, and explains how the text subverts traditional understandings of these opposites. |
-| Context | Beyond the Text, Ch.7 | The context strategy involves making connections to knowledge from many swathes; wonder about the significance of items, terms, and other aspects of the literature, then research about them. | Context is used most effectively when it supports a surface/depth argument, contains only as much information is necessary, and illustrates the complexity of the text. |
+| [Surface to Depth](https://andre-ye.github.io/english/winter/textbook-notes/chapter-3){:target="_blank"} | Close Reading, Ch.3 | Get a sense of the text's literal meaning, then consider several layers of meaning to help you better imagine counterarguments to the analysis you settle on. Consider many possibly conflicting ideas about deeper meanings to a text. | The *surface-depth linking strategy* links a surface reading to a concept or idea not stated explicitly in the text. The *surface-depth contrasting strategy* contrasts a simplistic reading of the text with a more complex reading. See [Ch.5 "Digging Deeper"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-5){:target="_blank"} for concrete examples on where to look for surface-depth claims. |
+| [Patterns](https://andre-ye.github.io/english/winter/textbook-notes/chapter-4){:target="_blank"} | Close Reading, Ch.4 | Patterns can be used before and after developing a surface/depth claim. Note reptitions and recurrences throughout the text, or use the patterns strategy to discover evidence to support your argument. | A persuasive use of patterns must connect multiple patterns of a pattern with a clear surface/depth interpretation. |
+| [Opposites](https://andre-ye.github.io/english/winter/textbook-notes/chapter-6){:target="_blank"} | Close Reading, Ch.6 | Look for concepts, ideas, patterns, characters, or settings that appear to be in tension. | Arguments using the opposites strategy note oppositions, provide textual evidence, and explains how the text subverts traditional understandings of these opposites. |
+| [Context](https://andre-ye.github.io/english/winter/textbook-notes/chapter-7){:target="_blank"} | Beyond the Text, Ch.7 | The context strategy involves making connections to knowledge from many swathes; wonder about the significance of items, terms, and other aspects of the literature, then research about them. | Context is used most effectively when it supports a surface/depth argument, contains only as much information is necessary, and illustrates the complexity of the text. |
+| [Genre and Form](https://andre-ye.github.io/english/winter/textbook-notes/chapter-8){:target="_blank"} | Beyond the Text, Ch.8 | Begin by identifying the genre or genres of text you are analyzing; find when the author breaks or disrupts its conventions. | Genre is used effectively when it supports a surface/pdeth argument, contains as much information about the genre as is needed to support the argument, and illustrates the complexity of the text. |
+| [Social Relevance](https://andre-ye.github.io/english/winter/textbook-notes/chapter-9){:target="_blank"} | Beyond the Text, Ch.9 | Think about connections between the text being analyzed and one or more prominent topics and concerns in literary scholarship. | Critics are explicit about contemporary social relevance in their concluding paragraphs. |
+| [Theoretical Lens](https://andre-ye.github.io/english/winter/textbook-notes/chapter-10){:target="_blank"} | Beyond the Text, Ch.10 | Choose a theoretical lens from a theoretical text, and read the primary text using surface/depth through the theoretical lens. | Show how deeper meanings in the primary text can be explained by concepts from the theoretical text, reveal something complex and unexpected about the primary text, and challenge or extend the theoretical text for more sophisticated analyses. |
 
 ### Guidelines of Literary Analysis
 #### The Five Standards of Litery Analysis
