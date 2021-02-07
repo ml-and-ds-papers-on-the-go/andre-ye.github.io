@@ -35,6 +35,7 @@ Taught by Dr. Zink, 2020-2021 Fall, Winter, and Spring Quarters.
   - [Notes on Chapter 7: "Context"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-7), 1/22/21.
   - [Notes on Chapter 8: "Genre and Form"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-8), 1/16/21.
   - [Notes on Chapter 9: "Social Relevance"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-9), 1/23/21.
+  - [Notes on Chapter 10: "Theoretical Lens"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-10), 2/6/21.
   - [Notes on Chapter 11: "Joining the Critical Conversation"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-11), 1/23/21.
 - Part 4: "Crafting Your Essay"
   - [Notes on Chapter 13: "Developing a Thesis and Organizing Your Essay"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-13), 1/31/21.
