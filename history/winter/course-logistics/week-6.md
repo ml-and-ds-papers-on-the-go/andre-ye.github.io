@@ -9,14 +9,6 @@ Andre Ye, 2/8/21
 
 <br>
 
-### Navigate
-
-<br>
-
----
-
-<br>
-
 ### Asking Historial Questions, Finding Historical Answers
 - Moral, literary, etc. questions are not the focus of historical study.
 - How do we take our intellectual curiosity and turn it into something historically fruitful?
