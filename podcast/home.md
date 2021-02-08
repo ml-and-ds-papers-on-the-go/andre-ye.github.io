@@ -3,7 +3,7 @@
 ## *ML & DS Papers On The Go* Podcast 🎧
 Machine learning and data science are rapidly evolving fields. Keep on top of the latest and most fascinating advancements with this podcast.
 
-Subscribe and access content on Anchor(https://anchor.fm/andre-ye){:target="_blank"}, [Spotify](https://open.spotify.com/show/0wUzfk9C6nnH9G0tKXudUe){:target="_blank"}, and [PocketCasts](https://pca.st/lm5pi7f7){:target="_blank"}.
+Subscribe and access content on [Anchor](https://anchor.fm/andre-ye){:target="_blank"}, [Spotify](https://open.spotify.com/show/0wUzfk9C6nnH9G0tKXudUe){:target="_blank"}, and [PocketCasts](https://pca.st/lm5pi7f7){:target="_blank"}.
 
 A work in progress passion project of mine! Stay tuned for updates.
 
