@@ -23,3 +23,6 @@
 ---
 
 <br>
+
+## *ML & DS Papers On The Go* Podcast
+A passion project of mine, attempting to bring the most recent and fascinating machine learning and data science advancements to your ears. More information [here](https://andre-ye.github.io/podcast/home).
