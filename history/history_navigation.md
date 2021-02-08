@@ -42,6 +42,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 
 #### Course Mechanics
 - [Week 5 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-5) - Essay 1 Feedback, Rubric for Advanced Papers, Historical Hierarchy
+- [Week 6 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-6) - Historical Stakes and Basic Research
 
 <br>
 
