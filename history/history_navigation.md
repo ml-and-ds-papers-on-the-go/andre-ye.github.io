@@ -17,7 +17,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - ["Class Conflict in the Gilded Age"](https://andre-ye.github.io/history/winter/lectures/class-conflict-in-the-gilded-age), 1/11-1/15
 - ["Advent of Empire: Race and Conquest in 1900"](https://andre-ye.github.io/history/winter/lectures/advent-of-empire), 1/19-1/22
 - ["The Progressive Era: Race, Class, and Gender in the 20th Century"](https://andre-ye.github.io/history/winter/lectures/the-progressive-era), 1/25-1/29
-- ["New Deals: Ideas and Governance"](/winter/lectures/new-deals), 2/2/21-2/5/21
+- ["New Deals: Ideas and Governance"](/history/winter/lectures/new-deals), 2/2/21-2/5/21
+- ["World War II: Meanings of Freedom and Popular Ideas"](/history/winter/lectures/world-war-ii)
 
 #### Weekly Reading Responses
 - Weekly Reading Response 1 (Due 1/7)
