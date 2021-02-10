@@ -35,7 +35,7 @@ Taught by Dr. Valensisi, 2020-2021 Fall and Winter Quarters.
   - [Textbook Notes: Chapter 14, "Mendel and the Gene"](https://andre-ye.github.io/biology/winter-quarter/notes/module-2/chapter-14)
   - [Notes on Genetics Video Lectures](https://andre-ye.github.io/biology/winter-quarter/notes/module-2/genetics-video-lectures)
 - Module 3: Evolution
-  - [ntroduction to Evolution Textbook Notes: Chapter 1.4-1.5, BioSkills 13 (Phylogenetic Trees)](https://andre-ye.github.io/biology/winter-quarter/notes/module-3/introduction-to-evolution-textbook-notes)
+  - [Introduction to Evolution Textbook Notes: Chapter 1.4-1.5, BioSkills 13 (Phylogenetic Trees)](https://andre-ye.github.io/biology/winter-quarter/notes/module-3/introduction-to-evolution-textbook-notes)
 
 
 #### Lab Background and Notes
