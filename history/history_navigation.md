@@ -1,7 +1,7 @@
 [Home](https://andre-ye.github.io) > History Navigation
 
 ## TS History 🌎
-Taught by Dr. Reagan, 2020-2021 Fall, Winter, and Spring Quarters.
+Taught by Dr. Reagan, Fall and Winter Quarters.
 
 <br>
 
