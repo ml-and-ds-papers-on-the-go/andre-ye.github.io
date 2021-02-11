@@ -44,4 +44,6 @@ I write articles about machine learning, data science, and occasionally mathemat
 
 ---
 
-Please, feel free to reach out to me via email and/or socials below!
+<br>
+
+Feel free to reach out to me via email and/or socials below!
