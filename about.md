@@ -63,4 +63,4 @@ Two of my articles on KDnuggets, an organization that awards the "Nobel Prize of
 
 <br>
 
-[This page is a work in progress.]
+[This page is still a work in progress.]
