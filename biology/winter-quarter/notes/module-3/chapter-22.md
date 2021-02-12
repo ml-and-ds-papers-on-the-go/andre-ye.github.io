@@ -102,7 +102,72 @@ Andre Ye, 2/9/21.
 <br>
 
 ### Chapter 22.3: The Process of Evolution: How Does Natural Selection Work?
-- p. 504 in pdf
+- Darwin did not just recognize evolution; but to recognize natural selection in explaining the pattern of descent with modification.
+
+#### Darwin's Inspiration
+- Darwin spent decades exploring and documenting the diversity of plants and animals.
+- Gave Darwin a strong foundation fo patterns of evolution.
+- Darwin turned to pigeon breeding.
+  - Darwin crossbred pigeons and observed how characteristics were passed on to offspring.
+  - Certain individuals with desirable traits were selected to reproduce, manipulation a population by **artificial selection**.
+
+#### Darwin's Four Postulates
+- Darwin distilled evolution by natural selection into four postulates:
+  1. Variation exists among organisms that make up a population.
+  2. Some of the trait differences are heritable.
+  3. Survival and reproductive success are highly variable. More offspring are produced than can survive.
+  4. Individuals that survive best and produce the offspring are not random.
+- Natural selection occurs when individuals with certain heritable traits produce more surviving offspring than individuals without those traits.
+- Evolution by natural selection occurs when a heritable variation leads to differential reproductive success.
+
+#### Biological Definitions of Fitness, Adaptation, and Selection
+- **Fitness** - the ability of an individual to produce surviving, fertile offspring relative to that ability in other individuals.
+- **Adaptation** - a heritable trait that increases the fitness of an individual in a particular environment.
+- **Selection** - the passive process of differential reproduction as a result of heritable variation.
+
+<br>
+
+---
+
+<br>
+
+### Chapter 22.4: Measuring Natural Selection in Populations Today
+- The theory of evolution is testable.
+
+#### Case Study 1: How Did Mycobacterium tuberculosis Become Resistant to Antibiotics?
+- *Mycobacterium tuberculosis* is the bacterium that causes tuberculosis (TB).
+- TB was fought off in two respects:
+  1. Advances in nutrition made fighting off *M. tuberculosis* easier.
+  2. Antibiotics allowed physicians to stop infections.
+- In late 1980s, strains of *M. tuberculosis* became resistant to antibiotics.
+- Found a point mutation in the *rpoB* gene for drug-resistant strain.
+  - *rpoB* gene codes for a component of RNA polymerase, essential for the survival and reproduction of bacterial cells.
+  - Missense mutation caused a change in amino acid sequence and a change in its shape.
+  - Rifampin - antibiotic used to treat tuberculosis - works by binding to the RNA pol of *M. tuberculosis* and interfering with transcription.
+  - Mutated bacterial cells continue to produce offspring because the drug cannot bind effectively to the mutant RNA pol.
+- Resistance to a variety of insecticides, fungicides, antiviral drugs, herbicides, etc. have evolved in hundreds of species.
+
+#### Case Study 2: Why Do Beak Sizes and Shapes Vary in Galapagos Finches?
+- Daphne Major of the Galapagos; finches crack seeds with their beaks.
+- Beak size and shape, as well as body size, are traits with heritable variation.
+- Daphne Major underwent a droubt; 84% of the medium ground finch population disappeared.
+  - This was a **natural experiment** - allow researchers to compare treatment groups.
+- Finches with large and deap beaks were more likely to crack fruits efficiently enough to survive.
+  - Natural selection led to an increase in average beak depth in the population.
+- Two transcription factor genes that are important:
+  - *ALX1* gene for beak shape.
+  - *HMGA2* gene for beak *size*.
+- Signaling molecules like *BMP4*, *CAM*, and *beta-catenin* may play a role in expression patterns of finches.
+
+<br>
+
+---
+
+<br>
+
+### Chapter 22.5: Debunking Common Misconceptions about Natural Selection and Evolution
+
+- p. 510 in pdf
 
 <br>
 
