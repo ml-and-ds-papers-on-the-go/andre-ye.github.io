@@ -10,6 +10,27 @@ Andre Ye, 2/9/21.
 <br>
 
 ### Navigate
+- [Chapter 22.1: The Rise of Evolutionary Thought](#chapter-221-the-rise-of-evolutionary-thought)
+  * [Plato and Typological Thinking](#plato-and-typological-thinking)
+  * [Aristotle and the Scale of Nature](#aristotle-and-the-scale-of-nature)
+  * [Lamarck and the Idea of Evolution as Change through Time](#lamarck-and-the-idea-of-evolution-as-change-through-time)
+  * [Darwin and Wallace and Evolution by Natural Seelction](#darwin-and-wallace-and-evolution-by-natural-seelction)
+- [Chapter 22.2: The Pattern of Evolution - Have Species Changed, and Are They Related?](#chapter-222-the-pattern-of-evolution-have-species-changed--and-are-they-related)
+  * [Evidence for Change Through Time](#evidence-for-change-through-time)
+  * [Evidence of Descent from a Common Ancestor](#evidence-of-descent-from-a-common-ancestor)
+  * [Levels of Homology](#levels-of-homology)
+  * [Evolution's Internal Consistency - The Importance of Independent Datasets](#evolution-s-internal-consistency-the-importance-of-independent-datasets)
+- [Chapter 22.3: The Process of Evolution: How Does Natural Selection Work?](#chapter-223-the-process-of-evolution-how-does-natural-selection-work)
+  * [Darwin's Inspiration](#darwins-inspiration)
+  * [Darwin's Four Postulates](#darwins-four-postulates)
+  * [Biological Definitions of Fitness, Adaptation, and Selection](#biological-definitions-of-fitness--adaptation--and-selection)
+- [Chapter 22.4: Measuring Natural Selection in Populations Today](#chapter-224-measuring-natural-selection-in-populations-today)
+  * [Case Study 1: How Did Mycobacterium tuberculosis Become Resistant to Antibiotics?](#case-study-1-how-did-mycobacterium-tuberculosis-become-resistant-to-antibiotics)
+  * [Case Study 2: Why Do Beak Sizes and Shapes Vary in Galapagos Finches?](#case-study-2-why-do-beak-sizes-and-shapes-vary-in-galapagos-finches)
+- [Chapter 22.5: Debunking Common Misconceptions about Natural Selection and Evolution](#chapter-225-debunking-common-misconceptions-about-natural-selection-and-evolution)
+  * [Natural Selection Does Not Change Individuals](#natural-selection-does-not-change-individuals)
+  * [Natural Selection Is Not Goal Directed](#natural-selection-is-not-goal-directed)
+  * [Natural Selection Does Not Lead to Perfection](#natural-selection-does-not-lead-to-perfection)
 
 <br>
 
@@ -17,7 +38,7 @@ Andre Ye, 2/9/21.
 
 <br>
 
-### Chapter 22.1: The Rise of Evolutionary Thouhgt
+### Chapter 22.1: The Rise of Evolutionary Thought
 - People describe the theory of evolution by natural selection as revolutionary.
   - Overturning an existing idea about how nature works; replace it with a radically different idea.
 - Advance of theory of evolution represents a profound scientific revolution.
@@ -202,6 +223,7 @@ Andre Ye, 2/9/21.
 - Traits are environmentally constrained.
   - Natural selection occurs in the context of a changing environment.
 - Natural selection is not the only process of evolution.
+
 <br>
 
 ---
