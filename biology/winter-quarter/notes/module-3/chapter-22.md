@@ -166,9 +166,42 @@ Andre Ye, 2/9/21.
 <br>
 
 ### Chapter 22.5: Debunking Common Misconceptions about Natural Selection and Evolution
+#### Natural Selection Does Not Change Individuals
+- Individuals do not change - the population does.
+- Natural selection is not Lamarckian Inheritance.
+  - Evolution is not driven by inheritance of acquired characters.
+  - Individuals do not change when they are selected; they simply produce more or fewer offspring.
+- Individuals do not adapt.
+  - Some individuals do change in response to changes in the environment.
+  - **Acclimatization** - change in an individual's phenotype in response to a change in natural environmental conditions.
+  - These changes are not passed onto offspring because the alleles themselves have not changed, and do not cause evolution.
 
-- p. 510 in pdf
+#### Natural Selection Is Not Goal Directed
+- Mutations occur by chance, not "on purpose".
+  - Mutations create mutant alleles randomly due toe rrors in DNA synthesis and happened to be advantageous.
+- Evolution is not progressive.
+  - There is nothing predetermined or absolute about a trait becoming *more `x`*.
+  - Complex traits are routinely lost or simplified because of natural selection.
+- There is no such thing as a higher or lower organism.
+  - Lamarck's idea of evolution involved a higher or lower organism.
+  - Species cannot be higher or lower than the other, though.
 
+#### Natural Selection Does Not Lead to Perfection
+- Traits are not always adaptive.
+  - Vestigial traits do not increase the fitness of individuals.
+  - These structures are not adaptive, but exist because they are present in the ancestral population.
+- Fitness trade-offs exist.
+  - A fitness trade-off is a compromise between two traits that cannot be optimized simultaneously.
+- Traits are genetically constrained.
+  - A number of genetic constraints on genetic selection are placed.
+  - For instance, **genetic correlation** - selection on one trait causes change in another trait - like pleiotropy.
+  - Lack of genetic variation is also important.
+- Traits are historically constrained
+  - For instance, the bones found in your middle ear evolved from bones from the jaw of mammalian ancestors.
+  - These bones are not the "perfect" solution, but they are historically constrained.
+- Traits are environmentally constrained.
+  - Natural selection occurs in the context of a changing environment.
+- Natural selection is not the only process of evolution.
 <br>
 
 ---
