@@ -29,7 +29,7 @@ Andre Ye, 2/14/21
 
 ### Introduction
 - Events culminating in an onward thrust of 1898 and a dramatic emergence on the world stage.
-- *Greatness was not sough, it happened*. American policy was a response to external factors.
+- Prevailing idea: *Greatness was not sought, it happened*. American policy was a response to external factors.
   - 1898, Americans chose war only when depredations of Spain in Cuba were intolerable.
   - 1914, U.S. remained neutral, intervening only when Germany violated U.S. neutrality rights.
   - 1939, Americans stayed on the sidelines until provoked by Japan's Pearl Harbor attack.
