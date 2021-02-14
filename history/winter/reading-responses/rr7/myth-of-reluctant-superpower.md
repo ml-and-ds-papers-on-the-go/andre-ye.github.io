@@ -53,7 +53,7 @@ Andre Ye, 2/14/21
 
 <br>
 
-### Charles A. Beard [add more]
+### The Rise and Fall of Charles A. Beard
 - Charles A. Beard was the most influential historian in America; he was original in interpretation, politically progressive, and prolific.
 - However, Beard's reputation stood as a ruin in the landscape of Americna historiography; Beard found himself denounced as a fascist apologist.
 - Beard closed his career by denouncing the orthodox account of U.S. entry into WWII.
@@ -65,6 +65,8 @@ Andre Ye, 2/14/21
 - This promise for third term was not kept; even as FDR was promising to keep the country out of war, he was conniving to maneuver the U.S. into it.
   - Some instances of Roosevelt's dishonesty - notably in misrepresenting U.S. naval involvement in GB's battle against U-boat threats.
 - Such an attack by Beard was impermissible; he consigned himself to the status of a miscreant.
+
+#### Beginnings of Economic-Root Ideas
 - Beard was stirred by social ills of his era - by-products of laissez faire attitudes of American industrialism.
 - How had such a society come into existence?
   - Beard's first book scandalized patriotic defenders of historical orthodoxy.
@@ -94,7 +96,49 @@ Andre Ye, 2/14/21
   - U.S. foreign policy as an either/or proposition: a question of commercial expansion or stagnation and decay.
   - Exporting economic surpluses ("industrialist way of escape") constituted the national interest.
 - Not only a matter of making money, but preserving long-standing arrangements of power and priviledge.
-- Only by opening the world to American trade and investment could the U.S. flourish and ensure the permanence of existing domestic order.
+- Only by opening the world to American trade and investment could the U.S. flourish and ensure the permanence of existing domestic order, so the argument went.
+- Beard viewed moral and humanitarian arguments on behalf of internationalism as camoflauge.
+  - American boundaries contained enough human tragedy and misfortune.
+- Beard proposed the U.S. emphasize self-reliance and economic self-sufficiency - maximizing American freedom of action.
+- At the end of FDR's term, Beard realized the New Deal was a salvage operation; FDR was intent on preserving democratic capitalism.
+
+#### Five Faults of Economic Expansion
+1. Dreams of endless economic expansion are illusory.
+2. The more insistently the U.S. pressed to open the world, the greater the opposition it would encounter.
+3. In provoking resistance, the door to militarism at home would be opened and the U.S. would find itself increasingly resorting to force.
+4. American political culture and the composition of American society are ill-suited to an expansionist strategy.
+  - Divided ethnically and religiously, celebrating individual liberty and self-gratification.
+  - Lack deference to authority.
+5. Preoccupation with opening doors misconstrued the U.S.'s true interests.
+  - A commitment to providing all Americans with a decent standard of living.
+  - To pursue the nation's material well-being by venturing beyond the frame of national security was to court collapse and exhaustion.
+  - America's own internal market was underveloped and vast.
+
+#### Complex Characterization and Disgrace in World War II
+- Looming crises in Europe and Asia were portrayed primarily in moral terms leading up to WWII.
+- No victim was completely without fault and no great power was innocent.
+
+> “...greed, lust and ambition in Europe and Asia do not seem to be confined to Italy, Germany and Japan, nor does good seem to be monopolized by Great Britain, France and Russia."
+> - Beard
+
+- Ambiguity shrouded motivations and actions of states, including those of the Untied States.
+- Beard warned Americans of seeing international politics as the handiwork of nefarious individuals. Americans possessed the power to prevent the nation from sliding into collapse.
+- Beard sensed that FDR was becoming "intoxicated by moral exuberance"; denied that foreign quarrels had a moral basis.
+- Beard placed himself at the forefront of a grassroots movement opposing U.S. internvention in the war.
+  - Even as German military successes edged closer to American involvement, Beard insisted that flaws within the American system of political economy determined U.S. policy.
+- After Pearl Harbor, brooding and embittered, Beard constructed his "devil theory" to explain American intervention - FDR as Satan.
+  - Beard charged FDR with dishonesty, deception, and hijacking the Constitution.
+  - Critics lambasted Beard's books on U.S. entry to WWII as tendentious and mean-spirited.
+- On Hitler, Roosevelt had been right - Beard's 1940 prescription for U.S. policy would have resulted in disaster.
+- While Beard missed one truth, he hit upon others.
+
+<br>
+
+---
+
+<br>
+
+### William Appleman Williams
 
 
 Make sure to insert sub-categories afterwards.
