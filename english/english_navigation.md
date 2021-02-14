@@ -19,8 +19,7 @@ Taught by Dr. Zink, Fall, Winter, and Spring Quarters.
 
 [English Cheat-Sheet](https://andre-ye.github.io/english/winter/cheat-sheet) - key points and steps from the textbook.
 
-#### Lectures and Class Presentations
-- [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
+#### Essay Notes
 
 #### Textbook Chapter Notes
 - Part 1: "Introducing Literary Analysis"
@@ -40,6 +39,9 @@ Taught by Dr. Zink, Fall, Winter, and Spring Quarters.
 - Part 4: "Crafting Your Essay"
   - [Notes on Chapter 13: "Developing a Thesis and Organizing Your Essay"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-13), 1/31/21.
   - [Notes on Chapter 14: "Presenting Textual Evidence Effectively"](https://andre-ye.github.io/english/winter/textbook-notes/chapter-14), 1/31/21.
+
+#### Lectures and Class Presentations
+- [Reading and Writing About Literature](https://andre-ye.github.io/english/winter/lectures/reading-and-writing-about-literature), 1/4/21.
 
 <br>
 
