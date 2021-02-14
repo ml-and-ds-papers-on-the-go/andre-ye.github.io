@@ -74,6 +74,22 @@ Andre Ye, 2/14/21.
 <br>
 
 ### 23.2: Nonrandom Mating
+- In the Hardy-Weinberg model, gametes are picked from the gene pool at random and paired to create offspring genotypes.
+- Matings between individuals in nature may not be random, though.
+- **Inbreeding** - mating between relatives.
+
+#### How Does Inbreeding Affect Allele Frequencies and Genotype Frequencies?
+- Focus on alleles *A* and *a* with equal frequencies of 0.5.
+- Individuals self-fertilize - the most extreme form of inbreeding.
+- Homozygous parents produce homozygous offspring; heterozygous parents produce a 1:2:1 ratio of homozygous and heterozygous offspring.
+- Consider several rounds of self-fertilization across a population.
+  - The homozygous proportion of the population increases with each generation, while the heterozygous population is halved.
+
+| Generation | *AA* Homozygote | *Aa* Heterozygote | *aa* Homozygote |
+| --- | --- | --- | --- |
+| 1 | 25% | 50% | 25% |
+| 2 | 37.5% | 25% | 37.5% |
+| 3 | 43.75% | 12.5% | 43.75% |
 
 p. 521
 
