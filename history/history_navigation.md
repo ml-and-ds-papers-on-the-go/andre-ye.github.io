@@ -21,6 +21,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - ["World War II: Meanings of Freedom and Popular Ideas"](https://andre-ye.github.io/history/winter/lectures/world-war-ii), 2/9/21-2/13/21
  
 #### Weekly Reading Responses
+*Reading response notes do not include narratives or shorter texts.*
 - Weekly Reading Response 1 (Due 1/7)
   - ["Is History a Science?" by Eugene Goodheart](https://andre-ye.github.io/history/winter/reading-responses/rr1/is-history-a-science)
   - ["On Agency" by Walter Johnson](https://andre-ye.github.io/history/winter/reading-responses/rr1/on-agency)
@@ -40,6 +41,8 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
   - [Notes on *Labor's Untold Story - Chapter 10, "Victory"* by Richard O. Boyer and Herbert M. Morais](https://andre-ye.github.io/history/winter/reading-responses/rr5/labors-untold-story)
 - Weekly Reading Response 6 (Due 2/11)
   - [Notes on *Wartime Shipyard: A Study in Social Disunity* by Katherine Archibald](https://andre-ye.github.io/history/winter/reading-responses/rr6/wartime-shipyard)
+- Weekly Reading Response 7 (Due 2/18)
+  - [Notes on *Notes on American Empire: The Realities and Consequences of U.S. Diplomacy; Chapter 1: “The Myth of the Reluctant Superpower”* by Andrew Bacevich](https://andre-ye.github.io/history/winter/reading-responses/rr7/myth-of-reluctant-superpower)
 
 #### Course Mechanics
 - [Week 5 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-5) - Essay 1 Feedback, Rubric for Advanced Papers, Historical Hierarchy
