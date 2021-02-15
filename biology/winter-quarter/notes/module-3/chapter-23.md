@@ -11,14 +11,14 @@ Andre Ye, 2/14/21.
 
 ### Navigate
 - [Introduction](#introduction)
-- [23.1: Null Hypothesis - The Hardy-Weinberg Principle](#231-null-hypothesis-the-hardy-weinberg-principle)
+- [Chapter 23.1: Null Hypothesis - The Hardy-Weinberg Principle](#chapter-231-null-hypothesis-the-hardy-weinberg-principle)
   * [The Gene Pool Concept](#the-gene-pool-concept)
   * [The Hardy-Weinberg Principle Makes Important Assumptions](#the-hardy-weinberg-principle-makes-important-assumptions)
-- [23.2: Nonrandom Mating](#232-nonrandom-mating)
+- [Chapter 23.2: Nonrandom Mating](#chapter-232-nonrandom-mating)
   * [How Does Inbreeding Affect Allele Frequencies and Genotype Frequencies?](#how-does-inbreeding-affect-allele-frequencies-and-genotype-frequencies)
   * [How Does Inbreeding Influence Evolution?](#how-does-inbreeding-influence-evolution)
   * [Nonrandom Mating via Sexual Selection](#nonrandom-mating-via-sexual-selection)
-- [23.3: Natural Selection](#233-natural-selection)
+- [Chapter 23.3: Natural Selection](#chapter-233-natural-selection)
   * [How Does Selection Affect Genetic Variation?](#how-does-selection-affect-genetic-variation)
   * [Sexual Selection](#sexual-selection)
   * [Conclusion and Main Points](#conclusion-and-main-points)
@@ -60,7 +60,7 @@ Andre Ye, 2/14/21.
 
 <br>
 
-### 23.1: Null Hypothesis - The Hardy-Weinberg Principle
+### Chapter 23.1: Null Hypothesis - The Hardy-Weinberg Principle
 - 1908; G. H. Hardy and Wilhelm Weinberg published major results.
   - Common believed that changes in allele frequency were simply the result of sexual reproduction (meiosis and random fusion of gametes).
   - Do dominant alleles increase in frequency when gametes combine at random?
@@ -98,7 +98,7 @@ Andre Ye, 2/14/21.
 
 <br>
 
-### 23.2: Nonrandom Mating
+### Chapter 23.2: Nonrandom Mating
 - In the Hardy-Weinberg model, gametes are picked from the gene pool at random and paired to create offspring genotypes.
 - Matings between individuals in nature may not be random, though.
 - **Inbreeding** - mating between relatives.
@@ -140,7 +140,7 @@ Andre Ye, 2/14/21.
 
 <br>
 
-### 23.3: Natural Selection
+### Chapter 23.3: Natural Selection
 - Evolution by natural selection occurs when heritable variation leads to differential success in survival and reproduction.
 - Natural selection violates the assumptions of the Hardy-Weinberg principle.
 - Sexual selection is a subset of natural selection - both adapt, increasing fitness.
