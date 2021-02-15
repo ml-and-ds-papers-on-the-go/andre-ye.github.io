@@ -20,6 +20,7 @@ Taught by Dr. Zink, Fall, Winter, and Spring Quarters.
 [English Cheat-Sheet](https://andre-ye.github.io/english/winter/cheat-sheet) - key points and steps from the textbook.
 
 #### Essay Notes
+- [Notes on "The Narrative Creation of Self" by Jerome Bruner](https://andre-ye.github.io/english/winter/essay-notes/the-narrative-creation-of-self), 2/15/21.
 
 #### Textbook Chapter Notes
 - Part 1: "Introducing Literary Analysis"
