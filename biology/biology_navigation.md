@@ -37,6 +37,8 @@ Taught by Dr. Valensisi, Fall and Winter Quarters.
 - Module 3: Evolution
   - [Introduction to Evolution Textbook Notes: Chapter 1.4-1.5, BioSkills 13 (Phylogenetic Trees)](https://andre-ye.github.io/biology/winter-quarter/notes/module-3/introduction-to-evolution-textbook-notes)
   - [Textbook Notes: Chapter 22, "Evolution by Natural Selection"](https://andre-ye.github.io/biology/winter-quarter/notes/module-3/chapter-22)
+  - [Textbook Notes: Chapter 23, "Evolutionary Processes"](https://andre-ye.github.io/biology/winter-quarter/notes/module-3/chapter-23)
+
 
 #### Lab Background and Notes
 
