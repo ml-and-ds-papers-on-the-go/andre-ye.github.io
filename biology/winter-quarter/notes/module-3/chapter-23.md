@@ -10,6 +10,7 @@ Andre Ye, 2/14/21.
 <br>
 
 ### Navigate
+Navigation will be completed when all sections are completed.
 
 <br>
 
@@ -91,8 +92,97 @@ Andre Ye, 2/14/21.
 | 2 | 37.5% | 25% | 37.5% |
 | 3 | 43.75% | 12.5% | 43.75% |
 
-p. 521
+- Two fundamental pointsd about inbreeding are demonstrated:
+  - Inbreeding increases homozygosity.
+  - Inbreeding does not itself cause evolution since allele frequencies do not change in the population.
+  
+#### How Does Inbreeding Influence Evolution?
+- Even though it may not influence evolution directly, inbreeding can speed up the rate of evolutionary change.
+  - Increases the rate natural selection eliminates recessive deleterious alleles (alelles that lower fitness) from a population.
+- Many recessive deleterious alleles are rare and exist in heterozygote individuals.
+  - In heterozygote individuals, a deleterious effect has little effect, since a normal allele can usually produce enough functional protein to support a normal phenotype.
+  - Inbreeding increases the frequency of homozygous recessive individuals, exposing the rare allele to selection.
+- **Inbreeding depression** - the decline in average fitness when homozygosity increases and heterzygosity decreases.
+  - Inbreeding depression is a common problem in small populations.
 
+#### Nonrandom Mating via Sexual Selection
+- Sometimes nonrandom mating occurs not due to inbreeding but because of **sexual selection** - an organism chooses a mate based on physical/behavioral traits.
+- Fundamentally different from inbreeding because it does lead to changes in allele frequencies and increases fitness - thus it is a form of natural selection.
+
+
+<br>
+
+---
+
+<br>
+
+### 23.3: Natural Selection
+- Evolution by natural selection occurs when heritable variation leads to differential success in survival and reproduction.
+- Natural selection violates the assumptions of the Hardy-Weinberg principle.
+- Sexual selection is a subset of natural selection - both produce adaptation, increasing fitness.
+  - Sexual and ecological selection may favor different traits.
+  
+#### How Does Selection Affect Genetic Variation?
+- Biologists focus on **genetic variation** - the number and relative frequency of alleles in a particular population.
+  - Lack of genetic variation is usually a bad thing.
+- **Natural selection occurs in four main modes.**
+  - *Directional selection* changes the average value of a trait.
+  - *Stabilizing selection* reduces variation in a trait.
+  - *Disruptive selection* increases variation in a trait.
+  - *Balancing selection* maintains variation in a trait.
+- **Direction selection.** The average phenotype of a population changes in one direction.
+  - Tends to reduce the genetic diversity of populations.
+  - When deleterious alleles decline in frequency, **purifying selection** occurs.
+- **Stabilizing selection.** Reduces both extremes in a population.
+  - Has two important conseqeunces:
+    - Genetic variation in the population is reduced;
+    - There is no change in the average value of the trait over time.
+  - For example, babies that are too large or too small are more likely to die.
+- **Disruptive selection.** Instead of favoring phenotypes near the average value, disruptive selection favors extreme phenotypes.
+  - Overall amount of genetic variation in the population increases.
+  - Disruptive selection plays a role in *speciation* - the formation of new species.
+- **Balancing selection.** Occurs when no phenotype has a distinct advantage.
+  - There is a balance among several phenotypes in terms of their fitness and frequency.
+  - The following are most common:
+    - *Heterozygote advantage* occurs when heterozygote individuals have a higher fitness than homozygous individuals.
+    - *Frequency-dependent selection* occurs when alleles are favored when they are rare but not when they are common.
+
+#### Sexual Selection
+- Darwom was perplexed by seemingly nonadaptive traits like trains of peacocks.
+- **intersexual selection** - selection of one individual of one sex by an individual of another sex.
+  - Organisms may select traits that are honest signals of health and genetic quality.
+- **intrasexual selection** - selection within a sex in which individuals of the smae sex compete with one another to obtain mates.
+  - **territory** - actively defended area where the owner has exclusive or semi-exclusive use.
+  - Males monopolize matings with females by winning territorial battles.
+- **Bateman-Trivers hypothesis** - the *fundamental asymmetry of sex*.
+  - Females invest a lot in few eggs - they protect this investment by being choosy about their mates.
+    - Males that invest little in each sperm should be more willing to mate with almost any female.
+  - If there are an equal number of males and females in a population, males will compete for mates.
+  - If male fitness is limited by access to mates, any allele that increases a male's attractiveness should increase in a population.
+    - Sexual selection acts more strongly on males than on females.
+  - Sometimes, males invest more in parental care for offspring, and there male be more females than males in a population.
+    - Sexual selection varies in the context of different mating strategies (some females benefit from being promiscuous while others benefit from being monogamous).
+    - Sexual selection can vary in different environmental contexts.
+  - *Fundamental asymmetry of sex* is not valid across all species all the time.
+- **Sexual dimorphism** - "two forms", can be explained by intersexual and intrasexual selection.
+  - Traits can differ between the sexes of the same species.
+
+#### Conclusion and Main Points
+- Multiple forms of sexual and/or ecological selection can occur at the same time in a population.
+- Alleles responsible for adaptive morphological, physiological, and/or behavioral phenotypes increase in frequency over time. This violates assumptions of the Hardy-Weinberg principle.
+- Selection can change over time and space because it occurs in the complex of ecology, which is highly complex and dynamic.
+
+<br>
+
+---
+
+<br>
+
+### Chapter 23.4: Genetic Drift
+
+
+p. 529
+pass through grammarly
 
 
 
