@@ -89,27 +89,52 @@ Andre Ye, 2/14/21.
 - Selfhood is a verbalized event - a metavent that provides coherence and continuity in "the scramble of experience".
 - Not just language but narrative that shapes its use.
 
-left off at page 342, "most people never get around to composing a full-scale autobiography"
+### The Incompleteness of Self-telling
+- Most people never get around to composing a complete autobiography.
+- Self-telling is provoked by episodes related to a longer-term concern.
+- No autobiography is completed, only ended; what we actually write is only one version of self-telling.
+- We are **forever balancing what was with what might have been**.
+- Autobiography teachers us about what we leave implicit and what their notion of self is.
 
-grammarly
+### The Evolution of Life-writers and Perspectives on Self-Telling
+- **St. Augustine** saw autobiography as a search for true life, self, memory, and reality.
+  - Life is given God and Providence; true memory mirrors the real world.
+  - Narrative rrealism and the Self that emerges is a gift of Revelation.
+- **Giambattista Vico** saw life as crafted byt eh mental acts of those who live by it, not an act of God.
+- **Jean-Jacques Rosseau** raised new doubts about Augustine's stable narrative realism.
+  - Life stories were social games rather than quests for a higher truth.
+- **Samuel Beckett** - rejected narrative as reflecting order of life, or that there is inherent order.
+  - Life is problematic, not to be shackled in conventional genres.
+  - Let one be not lulled by the illusion of narrative.
+- The issue of selfhood has not diminished over a millenium.
+- Virginia Woolf's "room of one's own" - feminist appeal for change in women's conceptions of selfhood.
+- No image of selfhood ever gains a monopoly.
+
+### Self-making Narrative as a Balancing Act
+- It must create a conviction of autonomy - a will, a freedom - but also relate one to a world of others.
+  - Implicit commitment to others that limits our autonomy.
+- Characters and events in folk stories serve as functions in narrative plots - they do not exist on their own.
+- Is the topic of balancing natural?
+- Commitment to conditions is a narrative - dominated by obligations in one's life.
+  - One's self narrative is acking in imagined possible worlds.
+
+> "The balancing act between commitment and autonomy no longer satisfies as the range of possibilities narrow."
+
+- One rarely encounters autobiographies without turning points.
+  - Are they integral to growing up?
+- **Self-narrating is from the outside in as well as from the inside out.**
+  - Self-making through self-narrating is endless and restless.
+
+### The Necessity of Self-Narrative
+- We are rather like a "cast of characters"; literary exaggeration and inner voices coming to terms with each other.
+  - Torn between the familiar and the possible.
+- Why do we need narrative for self-definition?
+  - Narrative gift is distinctively human - our natural way of using language.
+
+> "Self is a product of our telling and not some essence to be delved for in the recesses of subjectivity."
+
+- The construction of selfhood cannot proceed without a capacity to narrate.
+- We can produce a selfhood that joins us with others when we narrate.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+grammarly, put dividers between sections, TOC, post in disc
