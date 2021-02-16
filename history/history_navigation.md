@@ -19,6 +19,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 - ["The Progressive Era: Race, Class, and Gender in the 20th Century"](https://andre-ye.github.io/history/winter/lectures/the-progressive-era), 1/25-1/29
 - ["New Deals: Ideas and Governance"](https://andre-ye.github.io/history/winter/lectures/new-deals), 2/2/21-2/5/21
 - ["World War II: Meanings of Freedom and Popular Ideas"](https://andre-ye.github.io/history/winter/lectures/world-war-ii), 2/9/21-2/13/21
+- ["World War II and the Cold War: Warfare and Statecraft"](https://andre-ye.github.io/history/winter/lectures/the-cold-war), 2/16/21-2/20/21
  
 #### Weekly Reading Responses
 *Reading response notes do not include narratives or shorter texts.*
@@ -47,6 +48,7 @@ Jump Down to a Section: [Lecture Notes](#lecture-notes), [Study Guides](#study-g
 #### Course Mechanics
 - [Week 5 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-5) - Essay 1 Feedback, Rubric for Advanced Papers, Historical Hierarchy
 - [Week 6 Course Logistics](https://andre-ye.github.io/history/winter/course-logistics/week-6) - Historical Stakes and Basic Research
+- [History Research Resources](https://andre-ye.github.io/history/winter/course-logistics/research-material)
 
 <br>
 
