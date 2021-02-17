@@ -144,6 +144,44 @@ From [Textbook Notes: Chapter 19, “Control of Gene Expression in Eukaryotes”
 
 <br>
 
+#### Evolution
+
+| Term | Definition |
+| --- | --- |
+| adaptation | A heritable trait that increases the fitness of an individual in a particular environment. |
+| allele frequencies | THe proportions of alleles in a population. |
+| biological fitness | The ability of an individual to produce surviving, fertile offspring relative to that ability in other individuals. |
+| descent with modification | Species change through time, and species are related by common ancestry. |
+| evolution |
+| founder effect | When a group of individuals immigrates to a new geographic area and establishes a new population, causing a change in allele frequencies. |
+| gene flow | Movement of alleles across populations. |
+| gene pool | A scenario in which all alleles from gametes produced in each generation go into a gene pool and gametes inside the gene pool are combined. |
+| genetic bottleneck | A sudden reduction in the diversity of alleles in a population, like a typhoon. |
+| genetic drift | A change in allele frequencies in a population due to chance. |
+| genetic marker | A DNA sequence with a known physical location on a chromosome. Genetic markers can help link an inherited disease with the responsible gene, |
+| genetic variation | The number and relative frequency of alleles in a particular population. |
+| genotype frequency | The proportions of genotypes in a population. |
+| Hardy-Weinberg principle |If frequencies of alleles *A* and *a* are given by *p* and *q*, then the frequencies of genotypes *AA*, *Aa*, and *aa* are given by `p^2`, `2pq`, and `q^2`. When alleles are merely transmitted via meiosis and random combinations of gametes, their frequencies do not change over time. 
+| homology | The study of likeness, a similarity that exists in species due to common ancestry (e.g. human hair and dog fur). Theory of evolution predicts homology would occur. |
+| inbreeding | When an individual mates with a relative close to them or with themself. |
+| mutation | Errors that produce new alleles, which can occur from point mutations, chromosome-level mutations, or lateral gene transfers. |
+| natural selection | Evolution by natural selection occurs when heritable variation leads to differential success in survival and reproduction. Natural selection occurs when natural forces 'select' individuals by their phenotype; it can occur through directional, stabilizing, disruptive, or blanacing selection. |
+| nonrandom mating | Mating that is not random. Nonrandom mating violates an assumption of the Hardy-Weinstein model. |
+| null hypothesis | A type of conjecture used in statistics that proposes that there is no difference between certain characteristics of a population. |
+| phylogenetic tree | A branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. |
+| phylogeny | A branch of biology that deals with the evolutionary development of groups of organisms. |
+| population | A group of individuals that interbreed. |
+| population bottleneck | See *genetic bottleneck*. |
+| speciation | The process of new species emerging in the course of evolution. |
+| vestigial traits | Morphological structures that do not serve any function, but do not decrease fitness. Vestigial traits are evidence of evolution. |
+
+<br>
+
+---
+
+<br>
+
+
 ### Core Ideas
 
 <br>
